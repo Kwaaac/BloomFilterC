@@ -2,9 +2,14 @@
 #define BLOOMFILTERC_FILTER_H
 
 #include "bitarray.h"
+#include "hashtable.h"
 
 typedef struct _filter {
-
+    bitarray array;
+    hashtable table;
+    /* Arbre binaire */
+    int k;
+    unsigned int *weigth;
 } filter;
 
 
