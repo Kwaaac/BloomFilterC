@@ -76,6 +76,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/mnt/c/Users/maxro/Documents/ESIPE/algo/Projet/BloomFilterC/bitarray.c">
+			<Option target="MAIN"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/maxro/Documents/ESIPE/algo/Projet/BloomFilterC/bitarray.h">
+			<Option target="MAIN"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/maxro/Documents/ESIPE/algo/Projet/BloomFilterC/filter.c">
+			<Option target="MAIN"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/maxro/Documents/ESIPE/algo/Projet/BloomFilterC/filter.h">
+			<Option target="MAIN"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/maxro/Documents/ESIPE/algo/Projet/BloomFilterC/main.c">
 			<Option target="MAIN"/>
 		</Unit>
