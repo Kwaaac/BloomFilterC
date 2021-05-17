@@ -16,10 +16,10 @@ void hash(filter *f, char *str, unsigned int hashes[]) {
     for (i = 0; i < f->k; i++) {
         unsigned int h;
         h = 0;
-        for (j = 0; j < size_str; j++) { /* ... j = 1; j <= size_str ... */
-            h += str[j] * pow(f->weigth[i], (size_str - j - 1)); /* ... size_str - j ... */
+        for (j = 0; j < size_str; j++) {
+            h += str[j] * pow(f->weigth[i], (size_str - (j + 1)));
         }
         f->weigth[i] = h;
     }
-    /*str[0] ∗ (poids[i]^t) + str[1] ∗ (poids[i])^t−1 + ... + str[t − 2] ∗ (poids[i])^1 + str[t − 1]*/
+    /*str[0] ∗ (poids[i]^t-1) + str[1] ∗ (poids[i])^t−2 + ... + str[t − 2] ∗ (poids[i])^1 + str[t − 1]*/
 }
