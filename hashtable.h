@@ -33,4 +33,4 @@ void display_list(link *lst);
 
 link *add_occurrence(link *lnk, int pos);
 
-#endif //BLOOMFILTERC_HASHTABLE_H
+#endif /* BLOOMFILTERC_HASHTABLE_H */

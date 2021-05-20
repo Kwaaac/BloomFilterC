@@ -5,13 +5,12 @@
 #include "hashtable.h"
 
 typedef struct _filter {
-    bitarray array;
-    hashtable table;
+    bitarray *array;
+    /*hashtable table;*/
     /* Arbre binaire */
     int k;
     unsigned int *weigth;
 } filter;
-
 
 /* Return a pointer to an empty filter with parameters m and k */
 filter *create_filter(int m, int k);

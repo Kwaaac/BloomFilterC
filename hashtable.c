@@ -1,6 +1,4 @@
-
 #include "hashtable.h"
-
 
 unsigned hash_hashtable(const char *elt, int M) {
     int i;
@@ -103,5 +101,3 @@ link *add_occurrence(link *lnk, int pos) {
     lnk->count++;
     return lnk;
 }
-
-

@@ -1,15 +1,13 @@
-
 #include "bitarray.h"
 
 bitarray *create_bitarray(int m) {
-    bitarray *new_bitarray = (bitarray *) malloc(sizeof(bitarray));
-
+    bitarray *new_bitarray = (bitarray *)malloc(sizeof(bitarray));
     assert(new_bitarray != NULL);
 
     new_bitarray->size = m;
-    new_bitarray->array = (unsigned char *) calloc(m, sizeof(unsigned char));
+    new_bitarray->array = (unsigned char *)calloc(m, sizeof(unsigned char));
     assert(new_bitarray->array != NULL);
-    
+
     return new_bitarray;
 }
 
@@ -36,8 +34,8 @@ int get_bitarray(bitarray *a, int pos) {
 /* Set all positions in the bitarray to 0 */
 void clear_bitarray(bitarray *a) {
     int i;
-    for (i = 0; i < a->size; i++) {
+    for (i = 0; i < a->size; i++)
+    {
         a->array[i] = 0;
     }
 }
-

@@ -28,5 +28,4 @@ int get_bitarray(bitarray *a, int pos);
 /* Set all positions in the bitarray to 0 */
 void clear_bitarray(bitarray *a);
 
-
 #endif /* BLOOMFILTERC_BITARRAY_H */
