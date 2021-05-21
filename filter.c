@@ -1,34 +1,25 @@
-
-#include <stdlib.h>
-/*#include <math.h>*/
+#include <math.h>
+#include "filter.h"
 #include <time.h>
 
-#include "filter.h"
-
-/* Fonction pour faire une élévation à la puissance */
-long pow(int weigth, int exp) {
-    int i;
-    long result = weigth;
-    for(i = 0; i < exp; i++) {
-        result = result * weigth;
-    }
-    return result;
-}
-/* Fin fonction élévation à la puissance */
+#define SECONDARY_STRUCT 0
 
 filter *create_filter(int m, int k) {
     int i;
 
-    filter *new_filter = (filter *)malloc(sizeof(filter));
+    filter *new_filter = (filter *) malloc(sizeof(filter));
     assert(new_filter != NULL);
 
     new_filter->array = create_bitarray(m);
     new_filter->k = k;
-    new_filter->weigth = (unsigned int *)calloc(k, sizeof(unsigned int)); /* Vérifier si c'est bien k fois */
+    new_filter->weigth = (unsigned int *) calloc(k, sizeof(unsigned int));
+    if (SECONDARY_STRUCT == 1) {
+        new_filter->table = create_table(m);
+    }
     assert(new_filter->weigth != NULL);
 
     /* Tirer au hasard k poids différents entre 2 et 255 et placer ces poids dans un tableau */
-    srand(time(NULL));
+    srand(time(NULL)); /*TODO: à déplacer un jour dans le main par peur de perdre l'aléatoire*/
     for (i = 0; i < k; i++) {
         new_filter->weigth[i] = (rand() % 254) + 2;
     }
@@ -37,12 +28,8 @@ filter *create_filter(int m, int k) {
     return new_filter;
 }
 
-void free_filter(filter *f) {
-    free_bitarray(f->array);
-    free(f->weigth);
-    free_filter(f);
-}
-
+/* Compute k hash values for the string str and place them in the
+array hashes. */
 void hash(filter *f, char *str, unsigned int hashes[]) {
     int i, j, size_str;
     size_str = 0;
@@ -56,14 +43,52 @@ void hash(filter *f, char *str, unsigned int hashes[]) {
         for (j = 0; j < size_str; j++) {
             h += str[j] * pow(f->weigth[i], (size_str - (j + 1)));
         }
-        f->weigth[i] = h;
+        hashes[i] = h % f->array->size;
     }
 }
 
+void free_filter(filter *f) {
+    free_bitarray(f->array);
+    free(f->weigth);
+    if (SECONDARY_STRUCT == 1) {
+        free_hash_table(f->table);
+    }
+    free(f);
+}
+
 void add_filter(filter *f, char *str) {
-    /* A FINIR */
+    int i, size = f->k;
+    unsigned int *hashes = (unsigned int *) calloc(size, sizeof(unsigned int));
+    hash(f, str, hashes);
+
+    for (i = 0; i < size; i++) {
+        set_bitarray(f->array, hashes[i]);
+    }
+
+    /* Secondary structure */
+    if (SECONDARY_STRUCT == 1) {
+        add_occ_table(f->table, str);
+    }
+
+    free(hashes);
 }
 
 int is_member_filter(filter *f, char *str) {
-    return 0;   /* A FINIR */
+    int i, size = f->k;
+    unsigned int *hashes = (unsigned int *) calloc(size, sizeof(unsigned int));
+    hash(f, str, hashes);
+
+    for (i = 0; i < size; i++) {
+        if (get_bitarray(f->array, hashes[i]) == 0) {
+            return 0;
+        }
+    }
+
+    /* TODO: Vérifier si c'est un faut positif */
+    if (SECONDARY_STRUCT == 1) {
+        return find_table(f->table, str);
+    }
+
+    free(hashes);
+    return 1;
 }

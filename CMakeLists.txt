@@ -3,7 +3,7 @@ project(BloomFilterC C)
 
 set(CMAKE_C_STANDARD 90)
 
-set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -ansi -pedantic-errors")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -ansi -pedantic")
 
 set(PROJECT_HEADERS
         bitarray.h
@@ -16,4 +16,19 @@ set(PROJECT_SOURCES
         filter.c
         hashtable.c)
 
+set(PROJECT_HEADERS_TEST
+        bitarray.h
+        filter.h)
+
+set(PROJECT_SOURCES_TEST
+        test.c
+        bitarray.c
+        filter.c)
+
 add_executable(MAIN ${PROJECT_SOURCES} ${PROJECT_HEADERS})
+
+add_executable(TEST ${PROJECT_SOURCES_TEST} ${PROJECT_HEADERS_TEST})
+
+target_link_libraries(MAIN m)
+target_link_libraries(TEST m)
+

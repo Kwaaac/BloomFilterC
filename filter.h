@@ -6,7 +6,7 @@
 
 typedef struct _filter {
     bitarray *array;
-    /*hashtable table;*/
+    hashtable *table;
     /* Arbre binaire */
     int k;
     unsigned int *weigth;
@@ -20,7 +20,7 @@ void free_filter(filter *f);
 
 /* Compute k hash values for the string str and place them in the
 array hashes. */
-void hash(filter *f, char *str, unsigned hashes[]);
+void hash(filter *f, char *str, unsigned int hashes[]);
 
 /* Add the key str to the filter */
 void add_filter(filter *f, char *str);

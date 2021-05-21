@@ -14,7 +14,7 @@ unsigned hash_hashtable(const char *elt, int M) {
  * Create a link representing 1 occurence of the string 'word'.
  * The string is copied and must be freed when the link is freed.
  */
-link *create_link(char word[], int pos) {
+link *create_link(char word[]) {
     link *lnk = malloc(sizeof(link));
     lnk->word = malloc(strlen(word) + 1);
     assert(word != NULL);
@@ -39,15 +39,27 @@ void free_hash_table(hashtable *hash_table) {
     free(hash_table);
 }
 
-void add_occ_table(hashtable *tab, char word[], int pos) {
+void add_occ_table(hashtable *tab, char word[]) {
     link *lst;
     unsigned hash_index = hash_hashtable(word, tab->M);
     lst = find_list(tab->bucket[hash_index], word);
     if (lst == NULL)
-        tab->bucket[hash_index] = insert_first_list(tab->bucket[hash_index], word, pos);
+        tab->bucket[hash_index] = insert_first_list(tab->bucket[hash_index], word);
     else
-        add_occurrence(lst, pos);
+        add_occurrence(lst);
     tab->size++;
+}
+
+/**
+ * Find the word in the hashtable
+ *
+ * @param tab the hastable
+ * @param word the word
+ * @return 1 if the word is in the hashtable, 0 otherwise
+ */
+int find_table(hashtable *tab, char word[]) {
+    unsigned hash_index = hash_hashtable(word, tab->M);
+    return find_list(tab->bucket[hash_index], word) != NULL;
 }
 
 void free_list(link *lst) {
@@ -67,8 +79,9 @@ link *find_list(link *lst, char word[]) {
     return ptr;
 }
 
-link *insert_first_list(link *lst, char word[], int pos) {
-    link *tmp = create_link(word, pos);
+
+link *insert_first_list(link *lst, char word[]) {
+    link *tmp = create_link(word);
     tmp->next = lst;
     return tmp;
 }
@@ -97,7 +110,7 @@ hashtable *create_table(int M) {
     return hash_table;
 }
 
-link *add_occurrence(link *lnk, int pos) {
+link *add_occurrence(link *lnk) {
     lnk->count++;
     return lnk;
 }
