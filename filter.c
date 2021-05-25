@@ -80,12 +80,14 @@ int is_member_filter(filter *f, char *str) {
 
     for (i = 0; i < size; i++) {
         if (get_bitarray(f->array, hashes[i]) == 0) {
+            free(hashes);
             return 0;
         }
     }
 
     /* TODO: Vérifier si c'est un faut positif */
     if (SECONDARY_STRUCT == 1) {
+        free(hashes);
         return find_table(f->table, str);
     }
 

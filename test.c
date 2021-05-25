@@ -187,9 +187,8 @@ int _is_empty_filter(filter *f) {
     for (a[0] = 1; a[0] < 127; a[0]++)
         for (a[1] = 1; a[1] < 127; a[1]++)
             for (a[2] = 1; a[2] < 127; a[2]++)
-                if (is_member_filter(f, a) == 1) {
+                if (is_member_filter(f, a) == 1)
                     return 0;
-                }
     return 1;
 }
 
