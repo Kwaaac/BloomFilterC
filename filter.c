@@ -43,6 +43,7 @@ void hash(filter *f, char *str, unsigned int hashes[]) {
         for (j = 0; j < size_str; j++) {
             h += str[j] * pow(f->weigth[i], (size_str - (j + 1)));
         }
+
         hashes[i] = h % f->array->size;
     }
 }

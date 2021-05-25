@@ -13,7 +13,6 @@ int main(int argc, char *argv[]) {
     char str[MAX_READ];
 
     for (i = 1; i < argc; i += 2) {
-
         if (strcmp(argv[i], "-f") == 0) {
             filename = argv[i + 1];
         } else if (strcmp(argv[i], "-k") == 0) {
@@ -34,8 +33,6 @@ int main(int argc, char *argv[]) {
     unsigned int hashes[bloom->k];
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        hash(bloom, str, hashes);
-
         for (i = 0; i < bloom->k; i++) {
             add_filter(bloom, str);
         }
@@ -44,7 +41,6 @@ int main(int argc, char *argv[]) {
     /* test.txt sur les 1000 passwords */
 
     fclose(f);
-
 
     f = fopen("passwords/1000password.txt", "r");
     if (f == NULL) {
