@@ -1967,7 +1967,7 @@ word
 work
 : 	 non
 worker
-: 	 peut-être
+: 	 non
 world
 : 	 non
 worry
@@ -1996,8 +1996,9 @@ young
 : 	 peut-être
 your
 : 	 peut-être
-yourself: 	 peut-être
-There is 222 maybe and 778 noa
+yourself
+: 	 peut-être
+There is 221 maybe and 779 noa
 : 	 peut-être
 ability
 : 	 peut-être
@@ -2716,7 +2717,7 @@ growth
 guess
 : 	 non
 gun
-: 	 peut-être
+: 	 non
 guy
 : 	 non
 hair
@@ -3434,7 +3435,7 @@ resource
 respond
 : 	 non
 response
-: 	 non
+: 	 peut-être
 responsibility
 : 	 non
 rest
@@ -3995,5 +3996,6 @@ young
 : 	 peut-être
 your
 : 	 peut-être
-yourself: 	 peut-être
+yourself
+: 	 peut-être
 There is 222 maybe and 778 no

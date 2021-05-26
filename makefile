@@ -13,7 +13,6 @@ main: main.o $(OBJ)
 test: test.o $(OBJ)
 	gcc -o $@ $^ $(LDFLAGS)
 
-
 .PHONY: clean
 clean:
 	rm -f $(OBJ) test main test.o main.o
