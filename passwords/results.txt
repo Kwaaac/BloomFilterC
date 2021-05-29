@@ -25,7 +25,7 @@ activity
 actually
 : 	 non
 add
-: 	 non
+: 	 peut-être
 address
 : 	 non
 administration
@@ -35,15 +35,15 @@ admit
 adult
 : 	 non
 affect
-: 	 non
+: 	 peut-être
 after
-: 	 non
+: 	 peut-être
 again
 : 	 non
 against
 : 	 non
 age
-: 	 non
+: 	 peut-être
 agency
 : 	 non
 agent
@@ -65,7 +65,7 @@ allow
 almost
 : 	 non
 alone
-: 	 non
+: 	 peut-être
 along
 : 	 non
 already
@@ -155,15 +155,15 @@ bad
 bag
 : 	 non
 ball
-: 	 non
+: 	 peut-être
 bank
 : 	 non
 bar
-: 	 non
+: 	 peut-être
 base
-: 	 non
+: 	 peut-être
 be
-: 	 non
+: 	 peut-être
 beat
 : 	 non
 beautiful
@@ -197,25 +197,25 @@ beyond
 big
 : 	 non
 bill
-: 	 non
+: 	 peut-être
 billion
 : 	 non
 bit
-: 	 non
+: 	 peut-être
 black
 : 	 non
 blood
-: 	 non
+: 	 peut-être
 blue
 : 	 non
 board
 : 	 non
 body
-: 	 non
+: 	 peut-être
 book
 : 	 non
 born
-: 	 non
+: 	 peut-être
 both
 : 	 non
 box
@@ -231,7 +231,7 @@ brother
 budget
 : 	 non
 build
-: 	 non
+: 	 peut-être
 building
 : 	 non
 business
@@ -367,7 +367,7 @@ control
 cost
 : 	 non
 could
-: 	 non
+: 	 peut-être
 country
 : 	 non
 couple
@@ -401,9 +401,9 @@ data
 daughter
 : 	 non
 day
-: 	 non
+: 	 peut-être
 dead
-: 	 non
+: 	 peut-être
 deal
 : 	 non
 death
@@ -417,7 +417,7 @@ decide
 decision
 : 	 non
 deep
-: 	 non
+: 	 peut-être
 defense
 : 	 non
 degree
@@ -433,7 +433,7 @@ design
 despite
 : 	 non
 detail
-: 	 non
+: 	 peut-être
 determine
 : 	 non
 develop
@@ -447,7 +447,7 @@ difference
 different
 : 	 non
 difficult
-: 	 non
+: 	 peut-être
 dinner
 : 	 non
 direction
@@ -517,7 +517,7 @@ else
 employee
 : 	 non
 end
-: 	 non
+: 	 peut-être
 energy
 : 	 non
 enjoy
@@ -575,7 +575,7 @@ eye
 face
 : 	 non
 fact
-: 	 non
+: 	 peut-être
 factor
 : 	 non
 fail
@@ -643,13 +643,13 @@ focus
 follow
 : 	 non
 food
-: 	 non
+: 	 peut-être
 foot
 : 	 non
 for
 : 	 non
 force
-: 	 non
+: 	 peut-être
 foreign
 : 	 non
 forget
@@ -661,7 +661,7 @@ former
 forward
 : 	 non
 four
-: 	 non
+: 	 peut-être
 free
 : 	 non
 friend
@@ -673,7 +673,7 @@ front
 full
 : 	 non
 fund
-: 	 non
+: 	 peut-être
 future
 : 	 non
 game
@@ -687,19 +687,19 @@ general
 generation
 : 	 non
 get
-: 	 non
+: 	 peut-être
 girl
-: 	 non
+: 	 peut-être
 give
 : 	 non
 glass
-: 	 non
+: 	 peut-être
 go
-: 	 non
+: 	 peut-être
 goal
 : 	 non
 good
-: 	 non
+: 	 peut-être
 government
 : 	 non
 great
@@ -707,7 +707,7 @@ great
 green
 : 	 non
 ground
-: 	 non
+: 	 peut-être
 group
 : 	 non
 grow
@@ -719,13 +719,13 @@ guess
 gun
 : 	 non
 guy
-: 	 non
+: 	 peut-être
 hair
 : 	 non
 half
 : 	 non
 hand
-: 	 non
+: 	 peut-être
 hang
 : 	 non
 happen
@@ -733,17 +733,17 @@ happen
 happy
 : 	 non
 hard
-: 	 non
+: 	 peut-être
 have
 : 	 non
 he
-: 	 non
+: 	 peut-être
 head
-: 	 non
+: 	 peut-être
 health
 : 	 non
 hear
-: 	 non
+: 	 peut-être
 heart
 : 	 non
 heat
@@ -751,7 +751,7 @@ heat
 heavy
 : 	 non
 help
-: 	 non
+: 	 peut-être
 her
 : 	 non
 here
@@ -769,21 +769,21 @@ his
 history
 : 	 non
 hit
-: 	 non
+: 	 peut-être
 hold
-: 	 non
+: 	 peut-être
 home
-: 	 non
+: 	 peut-être
 hope
 : 	 non
 hospital
 : 	 non
 hot
-: 	 non
+: 	 peut-être
 hotel
 : 	 non
 hour
-: 	 non
+: 	 peut-être
 house
 : 	 non
 how
@@ -791,7 +791,7 @@ how
 however
 : 	 non
 huge
-: 	 non
+: 	 peut-être
 human
 : 	 non
 hundred
@@ -799,7 +799,7 @@ hundred
 husband
 : 	 non
 I
-: 	 non
+: 	 peut-être
 idea
 : 	 non
 identify
@@ -857,11 +857,11 @@ involve
 issue
 : 	 non
 it
-: 	 non
+: 	 peut-être
 item
 : 	 non
 its
-: 	 non
+: 	 peut-être
 itself
 : 	 non
 job
@@ -871,15 +871,15 @@ join
 just
 : 	 non
 keep
-: 	 non
+: 	 peut-être
 key
 : 	 non
 kid
 : 	 non
 kill
-: 	 non
+: 	 peut-être
 kind
-: 	 non
+: 	 peut-être
 kitchen
 : 	 non
 know
@@ -887,13 +887,13 @@ know
 knowledge
 : 	 non
 land
-: 	 non
+: 	 peut-être
 language
 : 	 non
 large
 : 	 non
 last
-: 	 non
+: 	 peut-être
 late
 : 	 non
 later
@@ -905,9 +905,9 @@ law
 lawyer
 : 	 non
 lay
-: 	 non
+: 	 peut-être
 lead
-: 	 non
+: 	 peut-être
 leader
 : 	 non
 learn
@@ -925,7 +925,7 @@ legal
 less
 : 	 non
 let
-: 	 non
+: 	 peut-être
 letter
 : 	 non
 level
@@ -935,7 +935,7 @@ lie
 life
 : 	 non
 light
-: 	 non
+: 	 peut-être
 like
 : 	 non
 likely
@@ -961,7 +961,7 @@ lose
 loss
 : 	 non
 lot
-: 	 non
+: 	 peut-être
 love
 : 	 non
 low
@@ -1029,13 +1029,13 @@ method
 middle
 : 	 non
 might
-: 	 non
+: 	 peut-être
 military
 : 	 non
 million
 : 	 non
 mind
-: 	 non
+: 	 peut-être
 minute
 : 	 non
 miss
@@ -1061,7 +1061,7 @@ most
 mother
 : 	 non
 mouth
-: 	 non
+: 	 peut-être
 move
 : 	 non
 movement
@@ -1073,13 +1073,13 @@ Mr
 Mrs
 : 	 non
 much
-: 	 non
+: 	 peut-être
 music
 : 	 non
 must
 : 	 non
 my
-: 	 non
+: 	 peut-être
 myself
 : 	 non
 name
@@ -1093,19 +1093,19 @@ natural
 nature
 : 	 non
 near
-: 	 non
+: 	 peut-être
 nearly
 : 	 non
 necessary
 : 	 non
 need
-: 	 non
+: 	 peut-être
 network
 : 	 non
 never
-: 	 non
+: 	 peut-être
 new
-: 	 non
+: 	 peut-être
 news
 : 	 non
 newspaper
@@ -1115,9 +1115,9 @@ next
 nice
 : 	 non
 night
-: 	 non
+: 	 peut-être
 no
-: 	 non
+: 	 peut-être
 none
 : 	 non
 nor
@@ -1125,7 +1125,7 @@ nor
 north
 : 	 non
 not
-: 	 non
+: 	 peut-être
 note
 : 	 non
 nothing
@@ -1155,13 +1155,13 @@ official
 often
 : 	 non
 oh
-: 	 non
+: 	 peut-être
 oil
 : 	 non
 ok
 : 	 non
 old
-: 	 non
+: 	 peut-être
 on
 : 	 non
 once
@@ -1191,7 +1191,7 @@ other
 others
 : 	 non
 our
-: 	 non
+: 	 peut-être
 out
 : 	 non
 outside
@@ -1227,13 +1227,13 @@ party
 pass
 : 	 non
 past
-: 	 non
+: 	 peut-être
 patient
 : 	 non
 pattern
 : 	 non
 pay
-: 	 non
+: 	 peut-être
 peace
 : 	 non
 people
@@ -1285,7 +1285,7 @@ political
 politics
 : 	 non
 poor
-: 	 non
+: 	 peut-être
 popular
 : 	 non
 population
@@ -1373,11 +1373,11 @@ range
 rate
 : 	 non
 rather
-: 	 non
+: 	 peut-être
 reach
 : 	 non
 read
-: 	 non
+: 	 peut-être
 ready
 : 	 non
 real
@@ -1441,21 +1441,21 @@ responsibility
 rest
 : 	 non
 result
-: 	 non
+: 	 peut-être
 return
 : 	 non
 reveal
 : 	 non
 rich
-: 	 non
+: 	 peut-être
 right
-: 	 non
+: 	 peut-être
 rise
 : 	 non
 risk
 : 	 non
 road
-: 	 non
+: 	 peut-être
 rock
 : 	 non
 role
@@ -1473,7 +1473,7 @@ same
 save
 : 	 non
 say
-: 	 non
+: 	 peut-être
 scene
 : 	 non
 school
@@ -1503,9 +1503,9 @@ seek
 seem
 : 	 non
 sell
-: 	 non
+: 	 peut-être
 send
-: 	 non
+: 	 peut-être
 senior
 : 	 non
 sense
@@ -1519,7 +1519,7 @@ serve
 service
 : 	 non
 set
-: 	 non
+: 	 peut-être
 seven
 : 	 non
 several
@@ -1535,13 +1535,13 @@ share
 she
 : 	 non
 shoot
-: 	 non
+: 	 peut-être
 short
 : 	 non
 shot
 : 	 non
 should
-: 	 non
+: 	 peut-être
 shoulder
 : 	 non
 show
@@ -1567,7 +1567,7 @@ single
 sister
 : 	 non
 sit
-: 	 non
+: 	 peut-être
 site
 : 	 non
 situation
@@ -1585,7 +1585,7 @@ small
 smile
 : 	 non
 so
-: 	 non
+: 	 peut-être
 social
 : 	 non
 society
@@ -1593,7 +1593,7 @@ society
 soldier
 : 	 non
 some
-: 	 non
+: 	 peut-être
 somebody
 : 	 non
 someone
@@ -1609,7 +1609,7 @@ song
 soon
 : 	 non
 sort
-: 	 non
+: 	 peut-être
 sound
 : 	 non
 source
@@ -1687,9 +1687,9 @@ subject
 success
 : 	 non
 successful
-: 	 non
+: 	 peut-être
 such
-: 	 non
+: 	 peut-être
 suddenly
 : 	 non
 suffer
@@ -1709,7 +1709,7 @@ system
 table
 : 	 non
 take
-: 	 non
+: 	 peut-être
 talk
 : 	 non
 task
@@ -1727,11 +1727,11 @@ technology
 television
 : 	 non
 tell
-: 	 non
+: 	 peut-être
 ten
 : 	 non
 tend
-: 	 non
+: 	 peut-être
 term
 : 	 non
 test
@@ -1809,7 +1809,7 @@ tough
 toward
 : 	 peut-être
 town
-: 	 non
+: 	 peut-être
 trade
 : 	 non
 traditional
@@ -1857,7 +1857,7 @@ up
 upon
 : 	 non
 us
-: 	 non
+: 	 peut-être
 use
 : 	 non
 usually
@@ -1885,29 +1885,29 @@ wait
 walk
 : 	 non
 wall
-: 	 non
+: 	 peut-être
 want
 : 	 non
 war
-: 	 non
+: 	 peut-être
 watch
-: 	 non
+: 	 peut-être
 water
 : 	 non
 way
-: 	 non
+: 	 peut-être
 we
-: 	 non
+: 	 peut-être
 weapon
 : 	 non
 wear
-: 	 non
+: 	 peut-être
 week
 : 	 non
 weight
 : 	 non
 well
-: 	 non
+: 	 peut-être
 west
 : 	 non
 western
@@ -1935,7 +1935,7 @@ whole
 whom
 : 	 peut-être
 whose
-: 	 non
+: 	 peut-être
 why
 : 	 non
 wide
@@ -1943,11 +1943,11 @@ wide
 wife
 : 	 non
 will
-: 	 non
+: 	 peut-être
 win
 : 	 non
 wind
-: 	 non
+: 	 peut-être
 window
 : 	 non
 wish
@@ -1963,17 +1963,17 @@ woman
 wonder
 : 	 non
 word
-: 	 non
+: 	 peut-être
 work
 : 	 non
 worker
 : 	 non
 world
-: 	 non
+: 	 peut-être
 worry
 : 	 non
 would
-: 	 non
+: 	 peut-être
 write
 : 	 non
 writer
@@ -1998,7 +1998,7 @@ your
 : 	 peut-être
 yourself
 : 	 peut-être
-There is 221 maybe and 779 noa
+There is 334 maybe and 666 noa
 : 	 peut-être
 ability
 : 	 peut-être
@@ -3435,7 +3435,7 @@ resource
 respond
 : 	 non
 response
-: 	 peut-être
+: 	 non
 responsibility
 : 	 non
 rest
@@ -3998,4 +3998,4 @@ your
 : 	 peut-être
 yourself
 : 	 peut-être
-There is 222 maybe and 778 no
+There is 221 maybe and 779 no

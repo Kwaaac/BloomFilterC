@@ -10,6 +10,9 @@ typedef struct _filter {
     /* Arbre binaire */
     int k;
     unsigned int *weigth;
+
+    /* Tableau de hashes (conseil du professeur)  */
+    unsigned int *hashes;
 } filter;
 
 /* Return a pointer to an empty filter with parameters m and k */
