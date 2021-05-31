@@ -145,11 +145,6 @@ void add_filter(filter *f, char *str) {
     if (SECONDARY_STRUCT == 1) {
         add_occ_table(f->table, str);
     }
-
-    /* Reset the hashes array with zeros */
-    for (i = 0; i < size; i++) {
-        f->hashes[i] = 0;
-    }
 }
 
 int is_member_filter(filter *f, char *str) {
@@ -172,9 +167,5 @@ int is_member_filter(filter *f, char *str) {
         return find_table(f->table, str);
     }
 
-    /* Reset the hashes array with zeros */
-    for (i = 0; i < size; i++) {
-        f->hashes[i] = 0;
-    }
     return 1;
 }
