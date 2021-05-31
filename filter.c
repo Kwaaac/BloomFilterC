@@ -41,13 +41,13 @@ filter *create_filter(int m, int k) {
     }
 
     /* Shuffling the values array */
-    /*srand(time(NULL));
+    srand(time(NULL));
     for (i = 0; i < array_size; i++) {
         j = (rand() % 254);
         t = array[j];
         array[j] = array[i];
         array[i] = t;
-    }*/
+    }
 
     /* Filling the weigth array with the k firsts int from the values array */
     for (i = 0; i < k; i++) {
