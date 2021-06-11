@@ -371,7 +371,7 @@ could
 country
 : 	 non
 couple
-: 	 non
+: 	 peut-être
 course
 : 	 non
 court
@@ -1081,7 +1081,7 @@ must
 my
 : 	 non
 myself
-: 	 non
+: 	 peut-être
 name
 : 	 peut-être
 nation
@@ -1657,7 +1657,7 @@ stay
 step
 : 	 peut-être
 still
-: 	 non
+: 	 peut-être
 stock
 : 	 non
 stop
@@ -1957,7 +1957,7 @@ with
 within
 : 	 non
 without
-: 	 non
+: 	 peut-être
 woman
 : 	 non
 wonder
@@ -1998,4 +1998,4 @@ your
 : 	 peut-être
 yourself
 : 	 non
-There is 340 maybe and 660 no
+There is 344 maybe and 656 no

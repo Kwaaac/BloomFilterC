@@ -5925,7 +5925,7 @@ emerald
 emergency
 : 	 non
 emerging
-: 	 non
+: 	 peut-être
 emily
 : 	 non
 eminem
@@ -6411,7 +6411,7 @@ execute
 executed
 : 	 non
 execution
-: 	 peut-être
+: 	 non
 executive
 : 	 non
 executives
@@ -11595,7 +11595,7 @@ moss
 most
 : 	 peut-être
 mostly
-: 	 non
+: 	 peut-être
 motel
 : 	 non
 motels
@@ -19997,4 +19997,4 @@ zu
 zum
 : 	 peut-être
 zus: 	 non
-There is 1805 maybe and 8195 no
+There is 1806 maybe and 8194 no

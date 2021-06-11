@@ -26,8 +26,6 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    bloom = create_filter(m, k);
-
     f = fopen(file_in, "r");
     if (f == NULL) {
         fprintf(stderr, "Erreur d'ouverture du fichier %s\n", file_in);
@@ -65,7 +63,7 @@ int main(int argc, char *argv[]) {
 
     fclose(f);
 
-    free_filter(bloom);
+    free_hash_table(hash_table);
 
     return 0;
 }
