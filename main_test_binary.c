@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
     char *file_in, *file_out;
     size_t word_length;
     FILE *f;
-    node *node;
+    node *node = NULL;
     char str[MAX_READ];
 
     for (i = 1; i < argc; i += 2) {
@@ -27,8 +27,6 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    node = create_node(m, k);
-
     f = fopen(file_in, "r");
     if (f == NULL) {
         fprintf(stderr, "Erreur d'ouverture du fichier %s\n", file_in);
@@ -38,7 +36,7 @@ int main(int argc, char *argv[]) {
     while (fgets(str, MAX_READ, f) != NULL) {
         word_length = strlen(str);
         if (word_length == 4 || word_length == 5) {
-            add_occ_table(hash_table, str);
+            node = insert_bst(node, str);
         }
     }
 
@@ -53,7 +51,7 @@ int main(int argc, char *argv[]) {
     freopen(file_out, "w+", stdout);
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        if (is_member_filter(bloom, str)) {
+        if (find_bst(node, str)) {
             printf("%s: \t yes\n", str);
             maybe++;
         } else {
@@ -65,8 +63,8 @@ int main(int argc, char *argv[]) {
     printf("There is %d yes and %d no", maybe, no);
 
     fclose(f);
-
-    free_filter(bloom);
+    
+    free_tree(node);
 
     return 0;
 }

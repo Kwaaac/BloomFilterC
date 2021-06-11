@@ -52,7 +52,7 @@ int main(int argc, char *argv[]) {
     freopen(file_out, "w+", stdout);
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        if (find_table(bloom, str)) {
+        if (find_table(hash_table, str)) {
             printf("%s: \t yes\n", str);
             maybe++;
         } else {
