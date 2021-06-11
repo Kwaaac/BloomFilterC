@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "filter.h"
 #include <string.h>
+#include "hashtable.h"
 
 #define MAX_READ 100
 
 int main(int argc, char *argv[]) {
-    int k, m, i, maybe = 0, no = 0;
+    int m, i, maybe = 0, no = 0;
     char *file_in, *file_out;
     size_t word_length;
     FILE *f;
@@ -19,8 +19,6 @@ int main(int argc, char *argv[]) {
             file_in = argv[i + 1];
         } else if (strcmp(argv[i], "-fout") == 0) {
             file_out = argv[i + 1];
-        } else if (strcmp(argv[i], "-k") == 0) {
-            k = atoi(argv[i + 1]);
         } else if (strcmp(argv[i], "-m") == 0) {
             m = atoi(argv[i + 1]);
         }
@@ -36,11 +34,11 @@ int main(int argc, char *argv[]) {
 
     while (fgets(str, MAX_READ, f) != NULL) {
         word_length = strlen(str);
-        if (word_length == 4 || word_length == 5) {
+        if (word_length == 6 || word_length == 5) {
             add_occ_table(hash_table, str);
         }
     }
-
+    
     fclose(f);
 
     f = fopen(file_in, "r");
@@ -65,7 +63,7 @@ int main(int argc, char *argv[]) {
 
     fclose(f);
 
-    free_hash_table(bloom);
+    free_hash_table(hash_table);
 
     return 0;
 }

@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#include "read.h"
 
 int equal(char *s1, char *s2) {
     return strcmp(s1, s2) == 0;
