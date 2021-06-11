@@ -7,67 +7,67 @@ able
 about
 : 	 oui
 above
-: 	 non
+: 	 oui
 accept
-: 	 non
+: 	 oui
 according
-: 	 non
+: 	 oui
 account
-: 	 non
+: 	 oui
 across
-: 	 non
+: 	 oui
 act
-: 	 non
+: 	 oui
 action
-: 	 non
+: 	 oui
 activity
-: 	 non
+: 	 oui
 actually
-: 	 non
+: 	 oui
 add
-: 	 non
+: 	 oui
 address
-: 	 non
+: 	 oui
 administration
-: 	 non
+: 	 oui
 admit
-: 	 non
+: 	 oui
 adult
-: 	 non
+: 	 oui
 affect
-: 	 non
+: 	 oui
 after
-: 	 non
+: 	 oui
 again
-: 	 non
+: 	 oui
 against
-: 	 non
+: 	 oui
 age
-: 	 non
+: 	 oui
 agency
-: 	 non
+: 	 oui
 agent
-: 	 non
+: 	 oui
 ago
-: 	 non
+: 	 oui
 agree
-: 	 non
+: 	 oui
 agreement
-: 	 non
+: 	 oui
 ahead
-: 	 non
+: 	 oui
 air
-: 	 non
+: 	 oui
 all
-: 	 non
+: 	 oui
 allow
-: 	 non
+: 	 oui
 almost
-: 	 non
+: 	 oui
 alone
-: 	 non
+: 	 oui
 along
-: 	 non
+: 	 oui
 already
 : 	 oui
 also
@@ -77,7 +77,7 @@ although
 always
 : 	 oui
 American
-: 	 oui
+: 	 Faux positif
 among
 : 	 oui
 amount
@@ -135,109 +135,109 @@ attention
 attorney
 : 	 oui
 audience
-: 	 non
+: 	 oui
 author
-: 	 non
+: 	 oui
 authority
-: 	 non
+: 	 oui
 available
-: 	 non
+: 	 oui
 avoid
-: 	 non
+: 	 oui
 away
-: 	 non
+: 	 oui
 baby
-: 	 non
+: 	 oui
 back
-: 	 non
+: 	 oui
 bad
-: 	 non
+: 	 oui
 bag
-: 	 non
+: 	 oui
 ball
-: 	 non
+: 	 oui
 bank
-: 	 non
+: 	 oui
 bar
-: 	 non
+: 	 oui
 base
-: 	 non
+: 	 oui
 be
-: 	 non
+: 	 oui
 beat
-: 	 non
+: 	 oui
 beautiful
-: 	 non
+: 	 oui
 because
-: 	 non
+: 	 oui
 become
-: 	 non
+: 	 oui
 bed
-: 	 non
+: 	 oui
 before
-: 	 non
+: 	 oui
 begin
-: 	 non
+: 	 oui
 behavior
-: 	 non
+: 	 oui
 behind
-: 	 non
+: 	 oui
 believe
-: 	 non
+: 	 oui
 benefit
-: 	 non
+: 	 oui
 best
-: 	 non
+: 	 oui
 better
-: 	 non
+: 	 oui
 between
-: 	 non
+: 	 oui
 beyond
-: 	 non
+: 	 oui
 big
-: 	 non
+: 	 oui
 bill
-: 	 non
+: 	 oui
 billion
-: 	 non
+: 	 oui
 bit
-: 	 non
+: 	 oui
 black
-: 	 non
+: 	 oui
 blood
-: 	 non
+: 	 oui
 blue
-: 	 non
+: 	 oui
 board
-: 	 non
+: 	 oui
 body
-: 	 non
+: 	 oui
 book
-: 	 non
+: 	 oui
 born
-: 	 non
+: 	 oui
 both
-: 	 non
+: 	 oui
 box
-: 	 non
+: 	 oui
 boy
-: 	 non
+: 	 oui
 break
-: 	 non
+: 	 oui
 bring
-: 	 non
+: 	 oui
 brother
-: 	 non
+: 	 oui
 budget
-: 	 non
+: 	 oui
 build
-: 	 non
+: 	 oui
 building
-: 	 non
+: 	 oui
 business
-: 	 non
+: 	 oui
 but
-: 	 non
+: 	 oui
 buy
 : 	 oui
 by
@@ -349,115 +349,115 @@ computer
 concern
 : 	 oui
 condition
-: 	 non
+: 	 oui
 conference
-: 	 non
+: 	 oui
 Congress
-: 	 non
+: 	 Faux positif
 consider
-: 	 non
+: 	 oui
 consumer
-: 	 non
+: 	 oui
 contain
-: 	 non
+: 	 oui
 continue
-: 	 non
+: 	 oui
 control
-: 	 non
+: 	 oui
 cost
-: 	 non
+: 	 oui
 could
-: 	 Faux positif
+: 	 oui
 country
-: 	 non
+: 	 oui
 couple
-: 	 non
+: 	 oui
 course
-: 	 non
+: 	 oui
 court
-: 	 non
+: 	 oui
 cover
-: 	 non
+: 	 oui
 create
-: 	 non
+: 	 oui
 crime
-: 	 non
+: 	 oui
 cultural
-: 	 non
+: 	 oui
 culture
-: 	 non
+: 	 oui
 cup
-: 	 non
+: 	 oui
 current
-: 	 non
+: 	 oui
 customer
-: 	 non
+: 	 oui
 cut
-: 	 non
+: 	 oui
 dark
-: 	 non
+: 	 oui
 data
-: 	 non
+: 	 oui
 daughter
-: 	 non
+: 	 oui
 day
-: 	 non
+: 	 oui
 dead
-: 	 non
+: 	 oui
 deal
-: 	 non
+: 	 oui
 death
-: 	 non
+: 	 oui
 debate
-: 	 non
+: 	 oui
 decade
-: 	 Faux positif
+: 	 oui
 decide
-: 	 non
+: 	 oui
 decision
-: 	 non
+: 	 oui
 deep
-: 	 non
+: 	 oui
 defense
-: 	 non
+: 	 oui
 degree
-: 	 non
+: 	 oui
 Democrat
 : 	 non
 democratic
-: 	 non
+: 	 oui
 describe
-: 	 non
+: 	 oui
 design
-: 	 non
+: 	 oui
 despite
-: 	 non
+: 	 oui
 detail
-: 	 non
+: 	 oui
 determine
-: 	 non
+: 	 oui
 develop
-: 	 non
+: 	 oui
 development
-: 	 non
+: 	 oui
 die
-: 	 non
+: 	 oui
 difference
-: 	 non
+: 	 oui
 different
-: 	 non
+: 	 oui
 difficult
-: 	 non
+: 	 oui
 dinner
-: 	 non
+: 	 oui
 direction
-: 	 non
+: 	 oui
 director
-: 	 non
+: 	 oui
 discover
-: 	 non
+: 	 oui
 discuss
-: 	 non
+: 	 oui
 discussion
 : 	 oui
 disease
@@ -509,77 +509,77 @@ effort
 eight
 : 	 oui
 either
-: 	 non
+: 	 oui
 election
-: 	 non
+: 	 oui
 else
-: 	 non
+: 	 oui
 employee
-: 	 non
+: 	 oui
 end
-: 	 non
+: 	 oui
 energy
-: 	 non
+: 	 oui
 enjoy
-: 	 non
+: 	 oui
 enough
-: 	 non
+: 	 oui
 enter
-: 	 non
+: 	 oui
 entire
-: 	 non
+: 	 oui
 environment
-: 	 non
+: 	 oui
 environmental
-: 	 non
+: 	 oui
 especially
-: 	 non
+: 	 oui
 establish
-: 	 non
+: 	 oui
 even
-: 	 non
+: 	 oui
 evening
-: 	 non
+: 	 oui
 event
-: 	 non
+: 	 oui
 ever
-: 	 non
+: 	 oui
 every
-: 	 non
+: 	 oui
 everybody
-: 	 non
+: 	 oui
 everyone
-: 	 non
+: 	 oui
 everything
-: 	 non
+: 	 oui
 evidence
-: 	 non
+: 	 oui
 exactly
-: 	 non
+: 	 oui
 example
-: 	 non
+: 	 oui
 executive
-: 	 non
+: 	 oui
 exist
-: 	 non
+: 	 oui
 expect
-: 	 non
+: 	 oui
 experience
-: 	 non
+: 	 oui
 expert
-: 	 non
+: 	 oui
 explain
-: 	 non
+: 	 oui
 eye
-: 	 non
+: 	 oui
 face
-: 	 non
+: 	 oui
 fact
-: 	 non
+: 	 oui
 factor
-: 	 non
+: 	 oui
 fail
-: 	 non
+: 	 oui
 fall
 : 	 oui
 family
@@ -619,361 +619,361 @@ financial
 find
 : 	 oui
 fine
-: 	 non
+: 	 oui
 finger
-: 	 non
+: 	 oui
 finish
-: 	 non
+: 	 oui
 fire
-: 	 non
+: 	 oui
 firm
-: 	 non
+: 	 oui
 first
-: 	 non
+: 	 oui
 fish
-: 	 non
+: 	 oui
 five
-: 	 non
+: 	 oui
 floor
-: 	 non
+: 	 oui
 fly
-: 	 non
+: 	 oui
 focus
-: 	 non
+: 	 oui
 follow
-: 	 non
+: 	 oui
 food
-: 	 non
+: 	 oui
 foot
-: 	 non
+: 	 oui
 for
-: 	 non
+: 	 oui
 force
-: 	 non
+: 	 oui
 foreign
-: 	 non
+: 	 oui
 forget
-: 	 non
+: 	 oui
 form
-: 	 non
+: 	 oui
 former
-: 	 non
+: 	 oui
 forward
-: 	 non
+: 	 oui
 four
-: 	 non
+: 	 oui
 free
-: 	 non
+: 	 oui
 friend
-: 	 non
+: 	 oui
 from
-: 	 non
+: 	 oui
 front
-: 	 non
+: 	 oui
 full
-: 	 non
+: 	 oui
 fund
-: 	 non
+: 	 oui
 future
-: 	 non
+: 	 oui
 game
-: 	 non
+: 	 oui
 garden
-: 	 non
+: 	 oui
 gas
-: 	 non
+: 	 oui
 general
-: 	 non
+: 	 oui
 generation
-: 	 non
+: 	 oui
 get
-: 	 non
+: 	 oui
 girl
-: 	 non
+: 	 oui
 give
-: 	 non
+: 	 oui
 glass
-: 	 non
+: 	 oui
 go
-: 	 non
+: 	 oui
 goal
-: 	 non
+: 	 oui
 good
-: 	 non
+: 	 oui
 government
-: 	 non
+: 	 oui
 great
-: 	 non
+: 	 oui
 green
-: 	 non
+: 	 oui
 ground
-: 	 non
+: 	 oui
 group
-: 	 non
+: 	 oui
 grow
-: 	 non
+: 	 oui
 growth
-: 	 non
+: 	 oui
 guess
-: 	 non
+: 	 oui
 gun
-: 	 non
+: 	 oui
 guy
-: 	 non
+: 	 oui
 hair
-: 	 non
+: 	 oui
 half
-: 	 non
+: 	 oui
 hand
-: 	 non
+: 	 oui
 hang
-: 	 non
+: 	 oui
 happen
-: 	 non
+: 	 oui
 happy
-: 	 non
+: 	 oui
 hard
-: 	 non
+: 	 oui
 have
-: 	 non
+: 	 oui
 he
-: 	 non
+: 	 oui
 head
-: 	 non
+: 	 oui
 health
-: 	 non
+: 	 oui
 hear
-: 	 non
+: 	 oui
 heart
-: 	 non
+: 	 oui
 heat
-: 	 non
+: 	 oui
 heavy
-: 	 non
+: 	 oui
 help
-: 	 non
+: 	 oui
 her
-: 	 non
+: 	 oui
 here
-: 	 non
+: 	 oui
 herself
-: 	 non
+: 	 oui
 high
-: 	 non
+: 	 oui
 him
-: 	 non
+: 	 oui
 himself
-: 	 non
+: 	 oui
 his
-: 	 non
+: 	 oui
 history
-: 	 non
+: 	 oui
 hit
-: 	 non
+: 	 oui
 hold
-: 	 non
+: 	 oui
 home
-: 	 non
+: 	 oui
 hope
-: 	 non
+: 	 oui
 hospital
-: 	 non
+: 	 oui
 hot
-: 	 non
+: 	 oui
 hotel
-: 	 non
+: 	 oui
 hour
-: 	 non
+: 	 oui
 house
-: 	 non
+: 	 oui
 how
-: 	 non
+: 	 oui
 however
-: 	 non
+: 	 oui
 huge
-: 	 non
+: 	 oui
 human
-: 	 non
+: 	 oui
 hundred
-: 	 non
+: 	 oui
 husband
-: 	 non
+: 	 oui
 I
-: 	 non
-idea
-: 	 non
-identify
-: 	 non
-if
-: 	 non
-image
-: 	 non
-imagine
-: 	 non
-impact
-: 	 non
-important
-: 	 non
-improve
-: 	 non
-in
-: 	 non
-include
-: 	 non
-including
-: 	 non
-increase
-: 	 non
-indeed
-: 	 non
-indicate
-: 	 non
-individual
-: 	 non
-industry
-: 	 non
-information
-: 	 non
-inside
-: 	 non
-instead
-: 	 non
-institution
-: 	 non
-interest
-: 	 non
-interesting
-: 	 non
-international
-: 	 non
-interview
-: 	 non
-into
-: 	 non
-investment
-: 	 non
-involve
-: 	 non
-issue
-: 	 non
-it
-: 	 non
-item
-: 	 non
-its
-: 	 non
-itself
-: 	 non
-job
-: 	 non
-join
-: 	 non
-just
-: 	 non
-keep
-: 	 non
-key
-: 	 non
-kid
-: 	 non
-kill
-: 	 non
-kind
-: 	 non
-kitchen
-: 	 non
-know
-: 	 non
-knowledge
-: 	 non
-land
-: 	 non
-language
-: 	 non
-large
-: 	 non
-last
-: 	 non
-late
-: 	 non
-later
-: 	 non
-laugh
-: 	 non
-law
-: 	 non
-lawyer
-: 	 non
-lay
-: 	 non
-lead
-: 	 non
-leader
-: 	 non
-learn
-: 	 non
-least
-: 	 non
-leave
-: 	 non
-left
-: 	 non
-leg
-: 	 non
-legal
-: 	 non
-less
-: 	 non
-let
-: 	 non
-letter
-: 	 non
-level
-: 	 non
-lie
-: 	 non
-life
-: 	 non
-light
-: 	 non
-like
-: 	 non
-likely
 : 	 Faux positif
+idea
+: 	 oui
+identify
+: 	 oui
+if
+: 	 oui
+image
+: 	 oui
+imagine
+: 	 oui
+impact
+: 	 oui
+important
+: 	 oui
+improve
+: 	 oui
+in
+: 	 oui
+include
+: 	 oui
+including
+: 	 oui
+increase
+: 	 oui
+indeed
+: 	 oui
+indicate
+: 	 oui
+individual
+: 	 oui
+industry
+: 	 oui
+information
+: 	 oui
+inside
+: 	 oui
+instead
+: 	 oui
+institution
+: 	 oui
+interest
+: 	 oui
+interesting
+: 	 oui
+international
+: 	 oui
+interview
+: 	 oui
+into
+: 	 oui
+investment
+: 	 oui
+involve
+: 	 oui
+issue
+: 	 oui
+it
+: 	 oui
+item
+: 	 oui
+its
+: 	 oui
+itself
+: 	 oui
+job
+: 	 oui
+join
+: 	 oui
+just
+: 	 oui
+keep
+: 	 oui
+key
+: 	 oui
+kid
+: 	 oui
+kill
+: 	 oui
+kind
+: 	 oui
+kitchen
+: 	 oui
+know
+: 	 oui
+knowledge
+: 	 oui
+land
+: 	 oui
+language
+: 	 oui
+large
+: 	 oui
+last
+: 	 oui
+late
+: 	 oui
+later
+: 	 oui
+laugh
+: 	 oui
+law
+: 	 oui
+lawyer
+: 	 oui
+lay
+: 	 oui
+lead
+: 	 oui
+leader
+: 	 oui
+learn
+: 	 oui
+least
+: 	 oui
+leave
+: 	 oui
+left
+: 	 oui
+leg
+: 	 oui
+legal
+: 	 oui
+less
+: 	 oui
+let
+: 	 oui
+letter
+: 	 oui
+level
+: 	 oui
+lie
+: 	 oui
+life
+: 	 oui
+light
+: 	 oui
+like
+: 	 oui
+likely
+: 	 oui
 line
-: 	 non
+: 	 oui
 list
-: 	 non
+: 	 oui
 listen
-: 	 non
+: 	 oui
 little
-: 	 non
+: 	 oui
 live
-: 	 non
+: 	 oui
 local
-: 	 non
+: 	 oui
 long
-: 	 non
+: 	 oui
 look
-: 	 non
+: 	 oui
 lose
-: 	 non
+: 	 oui
 loss
-: 	 non
+: 	 oui
 lot
-: 	 non
+: 	 oui
 love
-: 	 non
+: 	 oui
 low
-: 	 non
+: 	 oui
 machine
-: 	 non
+: 	 oui
 magazine
-: 	 non
+: 	 oui
 main
-: 	 non
+: 	 oui
 maintain
-: 	 non
+: 	 oui
 major
 : 	 oui
 majority
@@ -1025,593 +1025,593 @@ mention
 message
 : 	 oui
 method
-: 	 non
+: 	 oui
 middle
-: 	 non
+: 	 oui
 might
-: 	 non
+: 	 oui
 military
-: 	 non
+: 	 oui
 million
-: 	 non
+: 	 oui
 mind
-: 	 non
+: 	 oui
 minute
-: 	 non
+: 	 oui
 miss
-: 	 non
+: 	 oui
 mission
-: 	 non
+: 	 oui
 model
-: 	 non
+: 	 oui
 modern
-: 	 non
+: 	 oui
 moment
-: 	 non
+: 	 oui
 money
-: 	 non
+: 	 oui
 month
-: 	 non
+: 	 oui
 more
-: 	 non
+: 	 oui
 morning
-: 	 non
+: 	 oui
 most
-: 	 non
+: 	 oui
 mother
-: 	 non
+: 	 oui
 mouth
-: 	 non
+: 	 oui
 move
-: 	 non
+: 	 oui
 movement
-: 	 non
+: 	 oui
 movie
-: 	 non
+: 	 oui
 Mr
-: 	 non
+: 	 Faux positif
 Mrs
-: 	 non
+: 	 Faux positif
 much
-: 	 non
+: 	 oui
 music
-: 	 non
+: 	 oui
 must
-: 	 non
+: 	 oui
 my
-: 	 non
+: 	 oui
 myself
-: 	 non
+: 	 oui
 name
-: 	 non
+: 	 oui
 nation
-: 	 non
+: 	 oui
 national
-: 	 non
+: 	 oui
 natural
-: 	 non
+: 	 oui
 nature
-: 	 non
+: 	 oui
 near
-: 	 non
+: 	 oui
 nearly
-: 	 non
+: 	 oui
 necessary
-: 	 non
+: 	 oui
 need
-: 	 non
+: 	 oui
 network
-: 	 non
+: 	 oui
 never
-: 	 non
+: 	 oui
 new
-: 	 non
+: 	 oui
 news
-: 	 non
+: 	 oui
 newspaper
-: 	 non
+: 	 oui
 next
-: 	 non
+: 	 oui
 nice
-: 	 non
+: 	 oui
 night
-: 	 non
+: 	 oui
 no
-: 	 non
+: 	 oui
 none
-: 	 non
+: 	 oui
 nor
-: 	 non
+: 	 oui
 north
-: 	 non
+: 	 oui
 not
-: 	 non
+: 	 oui
 note
-: 	 non
+: 	 oui
 nothing
-: 	 non
+: 	 oui
 notice
-: 	 non
+: 	 oui
 now
-: 	 non
+: 	 oui
 n't
-: 	 non
+: 	 Faux positif
 number
-: 	 non
+: 	 oui
 occur
-: 	 non
+: 	 oui
 of
-: 	 non
+: 	 oui
 off
-: 	 non
+: 	 oui
 offer
-: 	 non
+: 	 oui
 office
-: 	 non
+: 	 oui
 officer
-: 	 non
+: 	 oui
 official
-: 	 non
+: 	 oui
 often
-: 	 non
+: 	 oui
 oh
-: 	 non
+: 	 oui
 oil
-: 	 non
+: 	 oui
 ok
-: 	 non
+: 	 oui
 old
-: 	 non
+: 	 oui
 on
-: 	 non
+: 	 oui
 once
-: 	 non
+: 	 oui
 one
-: 	 non
+: 	 oui
 only
-: 	 non
+: 	 oui
 onto
-: 	 non
+: 	 oui
 open
-: 	 non
+: 	 oui
 operation
-: 	 non
+: 	 oui
 opportunity
-: 	 non
+: 	 oui
 option
-: 	 non
+: 	 oui
 or
-: 	 non
+: 	 oui
 order
-: 	 non
+: 	 oui
 organization
-: 	 non
+: 	 oui
 other
-: 	 non
+: 	 oui
 others
-: 	 non
+: 	 oui
 our
-: 	 non
+: 	 oui
 out
-: 	 non
+: 	 oui
 outside
-: 	 non
+: 	 oui
 over
-: 	 non
+: 	 oui
 own
-: 	 non
+: 	 oui
 owner
-: 	 non
+: 	 oui
 page
-: 	 non
+: 	 oui
 pain
-: 	 non
+: 	 oui
 painting
-: 	 non
+: 	 oui
 paper
-: 	 non
+: 	 oui
 parent
-: 	 non
+: 	 oui
 part
-: 	 non
+: 	 oui
 participant
-: 	 non
+: 	 oui
 particular
-: 	 non
+: 	 oui
 particularly
-: 	 non
+: 	 oui
 partner
-: 	 non
+: 	 oui
 party
-: 	 non
+: 	 oui
 pass
-: 	 non
+: 	 oui
 past
-: 	 non
+: 	 oui
 patient
-: 	 non
+: 	 oui
 pattern
-: 	 non
+: 	 oui
 pay
-: 	 non
+: 	 oui
 peace
-: 	 non
+: 	 oui
 people
-: 	 non
+: 	 oui
 per
-: 	 non
+: 	 oui
 perform
-: 	 non
+: 	 oui
 performance
-: 	 non
+: 	 oui
 perhaps
-: 	 non
+: 	 oui
 period
-: 	 non
+: 	 oui
 person
-: 	 non
+: 	 oui
 personal
-: 	 non
+: 	 oui
 phone
-: 	 non
+: 	 oui
 physical
-: 	 non
+: 	 oui
 pick
-: 	 non
+: 	 oui
 picture
-: 	 non
+: 	 oui
 piece
-: 	 non
+: 	 oui
 place
-: 	 non
+: 	 oui
 plan
-: 	 non
+: 	 oui
 plant
-: 	 non
+: 	 oui
 play
-: 	 non
+: 	 oui
 player
-: 	 non
+: 	 oui
 PM
 : 	 non
 point
-: 	 non
+: 	 oui
 police
-: 	 non
+: 	 oui
 policy
-: 	 non
+: 	 oui
 political
-: 	 non
+: 	 oui
 politics
-: 	 non
+: 	 oui
 poor
-: 	 non
+: 	 oui
 popular
-: 	 non
+: 	 oui
 population
-: 	 non
+: 	 oui
 position
-: 	 non
+: 	 oui
 positive
-: 	 non
+: 	 oui
 possible
-: 	 non
+: 	 oui
 power
-: 	 non
+: 	 oui
 practice
-: 	 non
+: 	 oui
 prepare
-: 	 non
+: 	 oui
 present
-: 	 Faux positif
+: 	 oui
 president
-: 	 non
+: 	 oui
 pressure
-: 	 non
+: 	 oui
 pretty
-: 	 non
+: 	 oui
 prevent
-: 	 non
+: 	 oui
 price
-: 	 non
+: 	 oui
 private
-: 	 non
+: 	 oui
 probably
-: 	 non
+: 	 oui
 problem
-: 	 non
+: 	 oui
 process
-: 	 non
+: 	 oui
 produce
-: 	 non
+: 	 oui
 product
-: 	 non
+: 	 oui
 production
-: 	 non
+: 	 oui
 professional
-: 	 non
+: 	 oui
 professor
-: 	 non
+: 	 oui
 program
-: 	 non
+: 	 oui
 project
-: 	 non
+: 	 oui
 property
-: 	 non
+: 	 oui
 protect
-: 	 non
+: 	 oui
 prove
-: 	 non
+: 	 oui
 provide
-: 	 non
+: 	 oui
 public
-: 	 non
+: 	 oui
 pull
-: 	 non
+: 	 oui
 purpose
-: 	 non
+: 	 oui
 push
-: 	 non
+: 	 oui
 put
-: 	 non
+: 	 oui
 quality
-: 	 non
+: 	 oui
 question
-: 	 non
+: 	 oui
 quickly
-: 	 non
+: 	 oui
 quite
-: 	 non
+: 	 oui
 race
-: 	 non
+: 	 oui
 radio
-: 	 non
+: 	 oui
 raise
-: 	 non
+: 	 oui
 range
-: 	 non
+: 	 oui
 rate
-: 	 non
+: 	 oui
 rather
-: 	 non
+: 	 oui
 reach
-: 	 non
+: 	 oui
 read
-: 	 non
+: 	 oui
 ready
-: 	 non
+: 	 oui
 real
-: 	 non
+: 	 oui
 reality
-: 	 non
+: 	 oui
 realize
-: 	 non
+: 	 oui
 really
-: 	 non
+: 	 oui
 reason
-: 	 non
+: 	 oui
 receive
-: 	 non
+: 	 oui
 recent
-: 	 non
+: 	 oui
 recently
-: 	 non
+: 	 oui
 recognize
-: 	 non
+: 	 oui
 record
-: 	 non
+: 	 oui
 red
-: 	 non
+: 	 oui
 reduce
-: 	 non
+: 	 oui
 reflect
-: 	 non
+: 	 oui
 region
-: 	 non
+: 	 oui
 relate
-: 	 non
+: 	 oui
 relationship
-: 	 non
+: 	 oui
 religious
-: 	 non
+: 	 oui
 remain
-: 	 non
+: 	 oui
 remember
-: 	 non
+: 	 oui
 remove
-: 	 non
+: 	 oui
 report
-: 	 non
+: 	 oui
 represent
-: 	 non
+: 	 oui
 Republican
-: 	 non
-require
-: 	 non
-research
-: 	 non
-resource
-: 	 non
-respond
-: 	 non
-response
-: 	 non
-responsibility
-: 	 non
-rest
-: 	 non
-result
-: 	 non
-return
-: 	 non
-reveal
-: 	 non
-rich
-: 	 non
-right
-: 	 non
-rise
-: 	 non
-risk
-: 	 non
-road
-: 	 non
-rock
-: 	 non
-role
-: 	 non
-room
-: 	 non
-rule
-: 	 non
-run
-: 	 non
-safe
-: 	 non
-same
-: 	 non
-save
-: 	 non
-say
-: 	 non
-scene
-: 	 non
-school
-: 	 non
-science
-: 	 non
-scientist
-: 	 non
-score
-: 	 non
-sea
-: 	 non
-season
-: 	 non
-seat
-: 	 non
-second
-: 	 non
-section
-: 	 non
-security
-: 	 non
-see
-: 	 non
-seek
-: 	 non
-seem
-: 	 non
-sell
-: 	 non
-send
-: 	 non
-senior
-: 	 non
-sense
-: 	 non
-series
-: 	 non
-serious
-: 	 non
-serve
-: 	 non
-service
-: 	 non
-set
-: 	 non
-seven
-: 	 non
-several
-: 	 non
-sex
-: 	 non
-sexual
-: 	 non
-shake
-: 	 non
-share
-: 	 non
-she
-: 	 non
-shoot
-: 	 non
-short
-: 	 non
-shot
-: 	 non
-should
 : 	 Faux positif
+require
+: 	 oui
+research
+: 	 oui
+resource
+: 	 oui
+respond
+: 	 oui
+response
+: 	 oui
+responsibility
+: 	 oui
+rest
+: 	 oui
+result
+: 	 oui
+return
+: 	 oui
+reveal
+: 	 oui
+rich
+: 	 oui
+right
+: 	 oui
+rise
+: 	 oui
+risk
+: 	 oui
+road
+: 	 oui
+rock
+: 	 oui
+role
+: 	 oui
+room
+: 	 oui
+rule
+: 	 oui
+run
+: 	 oui
+safe
+: 	 oui
+same
+: 	 oui
+save
+: 	 oui
+say
+: 	 oui
+scene
+: 	 oui
+school
+: 	 oui
+science
+: 	 oui
+scientist
+: 	 oui
+score
+: 	 oui
+sea
+: 	 oui
+season
+: 	 oui
+seat
+: 	 oui
+second
+: 	 oui
+section
+: 	 oui
+security
+: 	 oui
+see
+: 	 oui
+seek
+: 	 oui
+seem
+: 	 oui
+sell
+: 	 oui
+send
+: 	 oui
+senior
+: 	 oui
+sense
+: 	 oui
+series
+: 	 oui
+serious
+: 	 oui
+serve
+: 	 oui
+service
+: 	 oui
+set
+: 	 oui
+seven
+: 	 oui
+several
+: 	 oui
+sex
+: 	 oui
+sexual
+: 	 oui
+shake
+: 	 oui
+share
+: 	 oui
+she
+: 	 oui
+shoot
+: 	 oui
+short
+: 	 oui
+shot
+: 	 oui
+should
+: 	 oui
 shoulder
-: 	 non
+: 	 oui
 show
-: 	 non
+: 	 oui
 side
-: 	 non
+: 	 oui
 sign
-: 	 non
+: 	 oui
 significant
-: 	 non
+: 	 oui
 similar
-: 	 non
+: 	 oui
 simple
-: 	 non
+: 	 oui
 simply
-: 	 non
+: 	 oui
 since
-: 	 non
+: 	 oui
 sing
-: 	 non
+: 	 oui
 single
-: 	 non
+: 	 oui
 sister
-: 	 non
+: 	 oui
 sit
-: 	 non
+: 	 oui
 site
-: 	 non
+: 	 oui
 situation
-: 	 non
+: 	 oui
 six
-: 	 non
+: 	 oui
 size
-: 	 non
+: 	 oui
 skill
-: 	 non
+: 	 oui
 skin
-: 	 non
+: 	 oui
 small
-: 	 non
+: 	 oui
 smile
-: 	 non
+: 	 oui
 so
-: 	 non
+: 	 oui
 social
-: 	 non
+: 	 oui
 society
-: 	 non
+: 	 oui
 soldier
-: 	 non
+: 	 oui
 some
-: 	 non
+: 	 oui
 somebody
-: 	 non
+: 	 oui
 someone
-: 	 non
+: 	 oui
 something
-: 	 non
+: 	 oui
 sometimes
-: 	 non
+: 	 oui
 son
-: 	 non
+: 	 oui
 song
-: 	 non
+: 	 oui
 soon
-: 	 non
+: 	 oui
 sort
-: 	 non
+: 	 oui
 sound
-: 	 non
+: 	 oui
 source
 : 	 oui
 south
@@ -1653,115 +1653,115 @@ statement
 station
 : 	 oui
 stay
-: 	 non
+: 	 oui
 step
-: 	 non
+: 	 oui
 still
-: 	 non
+: 	 oui
 stock
-: 	 non
+: 	 oui
 stop
-: 	 non
+: 	 oui
 store
-: 	 non
+: 	 oui
 story
-: 	 non
+: 	 oui
 strategy
-: 	 non
+: 	 oui
 street
-: 	 non
+: 	 oui
 strong
-: 	 non
+: 	 oui
 structure
-: 	 non
+: 	 oui
 student
-: 	 non
+: 	 oui
 study
-: 	 non
+: 	 oui
 stuff
-: 	 non
+: 	 oui
 style
-: 	 non
+: 	 oui
 subject
-: 	 non
+: 	 oui
 success
-: 	 non
+: 	 oui
 successful
-: 	 non
+: 	 oui
 such
-: 	 non
+: 	 oui
 suddenly
-: 	 non
+: 	 oui
 suffer
-: 	 non
+: 	 oui
 suggest
-: 	 non
+: 	 oui
 summer
-: 	 non
+: 	 oui
 support
-: 	 non
+: 	 oui
 sure
-: 	 non
+: 	 oui
 surface
-: 	 non
+: 	 oui
 system
-: 	 non
+: 	 oui
 table
-: 	 non
+: 	 oui
 take
-: 	 non
+: 	 oui
 talk
-: 	 non
+: 	 oui
 task
-: 	 non
+: 	 oui
 tax
-: 	 non
+: 	 oui
 teach
-: 	 non
+: 	 oui
 teacher
-: 	 non
+: 	 oui
 team
-: 	 non
+: 	 oui
 technology
-: 	 non
+: 	 oui
 television
-: 	 non
+: 	 oui
 tell
-: 	 non
+: 	 oui
 ten
-: 	 non
+: 	 oui
 tend
-: 	 non
+: 	 oui
 term
-: 	 non
+: 	 oui
 test
-: 	 non
+: 	 oui
 than
-: 	 non
+: 	 oui
 thank
-: 	 non
+: 	 oui
 that
-: 	 non
+: 	 oui
 the
-: 	 non
+: 	 oui
 their
-: 	 non
+: 	 oui
 them
-: 	 non
+: 	 oui
 themselves
-: 	 non
+: 	 oui
 then
-: 	 non
+: 	 oui
 theory
-: 	 non
+: 	 oui
 there
-: 	 non
+: 	 oui
 these
-: 	 non
+: 	 oui
 they
-: 	 non
+: 	 oui
 thing
-: 	 non
+: 	 oui
 think
 : 	 oui
 third
@@ -1809,117 +1809,117 @@ tough
 toward
 : 	 oui
 town
-: 	 non
+: 	 oui
 trade
-: 	 non
+: 	 oui
 traditional
-: 	 non
+: 	 oui
 training
-: 	 non
+: 	 oui
 travel
-: 	 non
+: 	 oui
 treat
-: 	 non
+: 	 oui
 treatment
-: 	 non
+: 	 oui
 tree
-: 	 non
+: 	 oui
 trial
-: 	 non
+: 	 oui
 trip
-: 	 non
+: 	 oui
 trouble
-: 	 non
+: 	 oui
 true
-: 	 non
+: 	 oui
 truth
-: 	 non
+: 	 oui
 try
-: 	 non
+: 	 oui
 turn
-: 	 non
+: 	 oui
 TV
 : 	 non
 two
-: 	 non
+: 	 oui
 type
-: 	 non
+: 	 oui
 under
-: 	 non
+: 	 oui
 understand
-: 	 non
+: 	 oui
 unit
-: 	 non
+: 	 oui
 until
-: 	 non
+: 	 oui
 up
-: 	 non
+: 	 oui
 upon
-: 	 non
+: 	 oui
 us
-: 	 non
+: 	 oui
 use
-: 	 non
+: 	 oui
 usually
-: 	 non
+: 	 oui
 value
-: 	 non
+: 	 oui
 various
-: 	 non
+: 	 oui
 very
-: 	 non
+: 	 oui
 victim
-: 	 non
+: 	 oui
 view
-: 	 non
+: 	 oui
 violence
-: 	 non
+: 	 oui
 visit
-: 	 non
+: 	 oui
 voice
-: 	 non
+: 	 oui
 vote
-: 	 non
+: 	 oui
 wait
-: 	 non
+: 	 oui
 walk
-: 	 non
+: 	 oui
 wall
-: 	 non
+: 	 oui
 want
-: 	 non
+: 	 oui
 war
-: 	 non
+: 	 oui
 watch
-: 	 non
+: 	 oui
 water
-: 	 non
+: 	 oui
 way
-: 	 non
+: 	 oui
 we
-: 	 non
+: 	 oui
 weapon
-: 	 non
+: 	 oui
 wear
-: 	 non
+: 	 oui
 week
-: 	 non
+: 	 oui
 weight
-: 	 non
+: 	 oui
 well
-: 	 non
+: 	 oui
 west
-: 	 non
+: 	 oui
 western
-: 	 non
+: 	 oui
 what
-: 	 non
+: 	 oui
 whatever
-: 	 non
+: 	 oui
 when
-: 	 non
+: 	 oui
 where
-: 	 non
+: 	 oui
 whether
 : 	 oui
 which
@@ -1935,49 +1935,49 @@ whole
 whom
 : 	 oui
 whose
-: 	 non
+: 	 oui
 why
-: 	 non
+: 	 oui
 wide
-: 	 non
+: 	 oui
 wife
-: 	 non
+: 	 oui
 will
-: 	 non
+: 	 oui
 win
-: 	 non
+: 	 oui
 wind
-: 	 non
+: 	 oui
 window
-: 	 non
+: 	 oui
 wish
-: 	 non
+: 	 oui
 with
-: 	 non
+: 	 oui
 within
-: 	 non
+: 	 oui
 without
-: 	 non
+: 	 oui
 woman
-: 	 non
+: 	 oui
 wonder
-: 	 non
+: 	 oui
 word
-: 	 non
+: 	 oui
 work
-: 	 non
+: 	 oui
 worker
-: 	 non
+: 	 oui
 world
-: 	 non
+: 	 oui
 worry
-: 	 non
+: 	 oui
 would
-: 	 non
+: 	 oui
 write
-: 	 non
+: 	 oui
 writer
-: 	 non
+: 	 oui
 wrong
 : 	 oui
 yard
@@ -1998,4 +1998,4 @@ your
 : 	 oui
 yourself
 : 	 oui
-There is 226 maybes and 774 no, and finally 5 false positives, so there is a 0 percentage of false positive
+There is 997 maybes and 3 no, and finally 7 false positives, so there is a 0.700000 percentage of false positive

@@ -82,8 +82,8 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    printf("There is %d maybes and %d no, and finally %d false positives, so there is a %d percentage of false positive",
-           maybe, no, false_positive, (false_positive * 100) / 1000);
+    printf("There is %d maybes and %d no, and finally %d false positives, so there is a %f percentage of false positive",
+           maybe, no, false_positive, (float)(false_positive * 100.0) / 1000.0);
 
     fclose(f);
 
