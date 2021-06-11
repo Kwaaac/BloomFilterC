@@ -3,6 +3,7 @@
 #include <time.h>
 #include "filter.h"
 #include <string.h>
+#include "tree_word.h"
 
 #define MAX_READ 100
 
@@ -11,7 +12,7 @@ int main(int argc, char *argv[]) {
     char *file_in, *file_out;
     size_t word_length;
     FILE *f;
-    hashtable *hash_table;
+    node *node;
     char str[MAX_READ];
 
     for (i = 1; i < argc; i += 2) {
@@ -26,7 +27,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    hash_table = create_table(m);
+    node = create_node(m, k);
 
     f = fopen(file_in, "r");
     if (f == NULL) {
@@ -52,7 +53,7 @@ int main(int argc, char *argv[]) {
     freopen(file_out, "w+", stdout);
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        if (find_table(hash_table, str)) {
+        if (is_member_filter(bloom, str)) {
             printf("%s: \t yes\n", str);
             maybe++;
         } else {
@@ -65,7 +66,7 @@ int main(int argc, char *argv[]) {
 
     fclose(f);
 
-    free_hash_table(hash_table);
+    free_filter(bloom);
 
     return 0;
 }

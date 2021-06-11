@@ -3,7 +3,7 @@ a
 ability
 : 	 non
 able
-: 	 peut-être
+: 	 yes
 about
 : 	 non
 above
@@ -17,7 +17,7 @@ account
 across
 : 	 non
 act
-: 	 peut-être
+: 	 yes
 action
 : 	 non
 activity
@@ -25,7 +25,7 @@ activity
 actually
 : 	 non
 add
-: 	 peut-être
+: 	 yes
 address
 : 	 non
 administration
@@ -43,13 +43,13 @@ again
 against
 : 	 non
 age
-: 	 peut-être
+: 	 yes
 agency
 : 	 non
 agent
 : 	 non
 ago
-: 	 peut-être
+: 	 yes
 agree
 : 	 non
 agreement
@@ -57,9 +57,9 @@ agreement
 ahead
 : 	 non
 air
-: 	 peut-être
+: 	 yes
 all
-: 	 peut-être
+: 	 yes
 allow
 : 	 non
 almost
@@ -71,7 +71,7 @@ along
 already
 : 	 non
 also
-: 	 peut-être
+: 	 yes
 although
 : 	 non
 always
@@ -85,7 +85,7 @@ amount
 analysis
 : 	 non
 and
-: 	 peut-être
+: 	 yes
 animal
 : 	 non
 another
@@ -93,7 +93,7 @@ another
 answer
 : 	 non
 any
-: 	 peut-être
+: 	 yes
 anyone
 : 	 non
 anything
@@ -105,17 +105,17 @@ apply
 approach
 : 	 non
 area
-: 	 peut-être
+: 	 yes
 argue
 : 	 non
 arm
-: 	 peut-être
+: 	 yes
 around
 : 	 non
 arrive
 : 	 non
 art
-: 	 peut-être
+: 	 yes
 article
 : 	 non
 artist
@@ -123,7 +123,7 @@ artist
 as
 : 	 non
 ask
-: 	 peut-être
+: 	 yes
 assume
 : 	 non
 at
@@ -145,27 +145,27 @@ available
 avoid
 : 	 non
 away
-: 	 peut-être
+: 	 yes
 baby
-: 	 peut-être
+: 	 yes
 back
-: 	 peut-être
+: 	 yes
 bad
-: 	 peut-être
+: 	 yes
 bag
-: 	 peut-être
+: 	 yes
 ball
-: 	 peut-être
+: 	 yes
 bank
-: 	 peut-être
+: 	 yes
 bar
-: 	 peut-être
+: 	 yes
 base
-: 	 peut-être
+: 	 yes
 be
 : 	 non
 beat
-: 	 peut-être
+: 	 yes
 beautiful
 : 	 non
 because
@@ -173,7 +173,7 @@ because
 become
 : 	 non
 bed
-: 	 peut-être
+: 	 yes
 before
 : 	 non
 begin
@@ -187,7 +187,7 @@ believe
 benefit
 : 	 non
 best
-: 	 peut-être
+: 	 yes
 better
 : 	 non
 between
@@ -195,33 +195,33 @@ between
 beyond
 : 	 non
 big
-: 	 peut-être
+: 	 yes
 bill
-: 	 peut-être
+: 	 yes
 billion
 : 	 non
 bit
-: 	 peut-être
+: 	 yes
 black
 : 	 non
 blood
 : 	 non
 blue
-: 	 peut-être
+: 	 yes
 board
 : 	 non
 body
-: 	 peut-être
+: 	 yes
 book
-: 	 peut-être
+: 	 yes
 born
-: 	 peut-être
+: 	 yes
 both
-: 	 peut-être
+: 	 yes
 box
-: 	 peut-être
+: 	 yes
 boy
-: 	 peut-être
+: 	 yes
 break
 : 	 non
 bring
@@ -237,19 +237,19 @@ building
 business
 : 	 non
 but
-: 	 peut-être
+: 	 yes
 buy
-: 	 peut-être
+: 	 yes
 by
 : 	 non
 call
-: 	 peut-être
+: 	 yes
 camera
 : 	 non
 campaign
 : 	 non
 can
-: 	 peut-être
+: 	 yes
 cancer
 : 	 non
 candidate
@@ -257,23 +257,23 @@ candidate
 capital
 : 	 non
 car
-: 	 peut-être
+: 	 yes
 card
-: 	 peut-être
+: 	 yes
 care
-: 	 peut-être
+: 	 yes
 career
 : 	 non
 carry
 : 	 non
 case
-: 	 peut-être
+: 	 yes
 catch
 : 	 non
 cause
 : 	 non
 cell
-: 	 peut-être
+: 	 yes
 center
 : 	 non
 central
@@ -309,7 +309,7 @@ church
 citizen
 : 	 non
 city
-: 	 peut-être
+: 	 yes
 civil
 : 	 non
 claim
@@ -325,7 +325,7 @@ close
 coach
 : 	 non
 cold
-: 	 peut-être
+: 	 yes
 collection
 : 	 non
 college
@@ -333,7 +333,7 @@ college
 color
 : 	 non
 come
-: 	 peut-être
+: 	 yes
 commercial
 : 	 non
 common
@@ -365,13 +365,13 @@ continue
 control
 : 	 non
 cost
-: 	 peut-être
+: 	 yes
 could
 : 	 non
 country
 : 	 non
 couple
-: 	 peut-être
+: 	 non
 course
 : 	 non
 court
@@ -387,25 +387,25 @@ cultural
 culture
 : 	 non
 cup
-: 	 peut-être
+: 	 yes
 current
 : 	 non
 customer
 : 	 non
 cut
-: 	 peut-être
+: 	 yes
 dark
-: 	 peut-être
+: 	 yes
 data
-: 	 peut-être
+: 	 yes
 daughter
 : 	 non
 day
-: 	 peut-être
+: 	 yes
 dead
-: 	 peut-être
+: 	 yes
 deal
-: 	 peut-être
+: 	 yes
 death
 : 	 non
 debate
@@ -417,7 +417,7 @@ decide
 decision
 : 	 non
 deep
-: 	 peut-être
+: 	 yes
 defense
 : 	 non
 degree
@@ -441,7 +441,7 @@ develop
 development
 : 	 non
 die
-: 	 peut-être
+: 	 yes
 difference
 : 	 non
 different
@@ -467,39 +467,39 @@ do
 doctor
 : 	 non
 dog
-: 	 peut-être
+: 	 yes
 door
-: 	 peut-être
+: 	 yes
 down
-: 	 peut-être
+: 	 yes
 draw
-: 	 peut-être
+: 	 yes
 dream
 : 	 non
 drive
 : 	 non
 drop
-: 	 peut-être
+: 	 yes
 drug
-: 	 peut-être
+: 	 yes
 during
 : 	 non
 each
-: 	 peut-être
+: 	 yes
 early
 : 	 non
 east
-: 	 peut-être
+: 	 yes
 easy
-: 	 peut-être
+: 	 yes
 eat
-: 	 peut-être
+: 	 yes
 economic
 : 	 non
 economy
 : 	 non
 edge
-: 	 peut-être
+: 	 yes
 education
 : 	 non
 effect
@@ -513,11 +513,11 @@ either
 election
 : 	 non
 else
-: 	 peut-être
+: 	 yes
 employee
 : 	 non
 end
-: 	 peut-être
+: 	 yes
 energy
 : 	 non
 enjoy
@@ -537,13 +537,13 @@ especially
 establish
 : 	 non
 even
-: 	 peut-être
+: 	 yes
 evening
 : 	 non
 event
 : 	 non
 ever
-: 	 peut-être
+: 	 yes
 every
 : 	 non
 everybody
@@ -571,35 +571,35 @@ expert
 explain
 : 	 non
 eye
-: 	 peut-être
+: 	 yes
 face
-: 	 peut-être
+: 	 yes
 fact
-: 	 peut-être
+: 	 yes
 factor
 : 	 non
 fail
-: 	 peut-être
+: 	 yes
 fall
-: 	 peut-être
+: 	 yes
 family
 : 	 non
 far
-: 	 peut-être
+: 	 yes
 fast
-: 	 peut-être
+: 	 yes
 father
 : 	 non
 fear
-: 	 peut-être
+: 	 yes
 federal
 : 	 non
 feel
-: 	 peut-être
+: 	 yes
 feeling
 : 	 non
 few
-: 	 peut-être
+: 	 yes
 field
 : 	 non
 fight
@@ -607,9 +607,9 @@ fight
 figure
 : 	 non
 fill
-: 	 peut-être
+: 	 yes
 film
-: 	 peut-être
+: 	 yes
 final
 : 	 non
 finally
@@ -617,37 +617,37 @@ finally
 financial
 : 	 non
 find
-: 	 peut-être
+: 	 yes
 fine
-: 	 peut-être
+: 	 yes
 finger
 : 	 non
 finish
 : 	 non
 fire
-: 	 peut-être
+: 	 yes
 firm
-: 	 peut-être
+: 	 yes
 first
 : 	 non
 fish
-: 	 peut-être
+: 	 yes
 five
-: 	 peut-être
+: 	 yes
 floor
 : 	 non
 fly
-: 	 peut-être
+: 	 yes
 focus
 : 	 non
 follow
 : 	 non
 food
-: 	 peut-être
+: 	 yes
 foot
-: 	 peut-être
+: 	 yes
 for
-: 	 peut-être
+: 	 yes
 force
 : 	 non
 foreign
@@ -655,51 +655,51 @@ foreign
 forget
 : 	 non
 form
-: 	 peut-être
+: 	 yes
 former
 : 	 non
 forward
 : 	 non
 four
-: 	 peut-être
+: 	 yes
 free
-: 	 peut-être
+: 	 yes
 friend
 : 	 non
 from
-: 	 peut-être
+: 	 yes
 front
 : 	 non
 full
-: 	 peut-être
+: 	 yes
 fund
-: 	 peut-être
+: 	 yes
 future
 : 	 non
 game
-: 	 peut-être
+: 	 yes
 garden
 : 	 non
 gas
-: 	 peut-être
+: 	 yes
 general
 : 	 non
 generation
 : 	 non
 get
-: 	 peut-être
+: 	 yes
 girl
-: 	 peut-être
+: 	 yes
 give
-: 	 peut-être
+: 	 yes
 glass
 : 	 non
 go
 : 	 non
 goal
-: 	 peut-être
+: 	 yes
 good
-: 	 peut-être
+: 	 yes
 government
 : 	 non
 great
@@ -711,87 +711,87 @@ ground
 group
 : 	 non
 grow
-: 	 peut-être
+: 	 yes
 growth
 : 	 non
 guess
 : 	 non
 gun
-: 	 peut-être
+: 	 yes
 guy
-: 	 peut-être
+: 	 yes
 hair
-: 	 peut-être
+: 	 yes
 half
-: 	 peut-être
+: 	 yes
 hand
-: 	 peut-être
+: 	 yes
 hang
-: 	 peut-être
+: 	 yes
 happen
 : 	 non
 happy
 : 	 non
 hard
-: 	 peut-être
+: 	 yes
 have
-: 	 peut-être
+: 	 yes
 he
 : 	 non
 head
-: 	 peut-être
+: 	 yes
 health
 : 	 non
 hear
-: 	 peut-être
+: 	 yes
 heart
 : 	 non
 heat
-: 	 peut-être
+: 	 yes
 heavy
 : 	 non
 help
-: 	 peut-être
+: 	 yes
 her
-: 	 peut-être
+: 	 yes
 here
-: 	 peut-être
+: 	 yes
 herself
 : 	 non
 high
-: 	 peut-être
+: 	 yes
 him
-: 	 peut-être
+: 	 yes
 himself
 : 	 non
 his
-: 	 peut-être
+: 	 yes
 history
 : 	 non
 hit
-: 	 peut-être
+: 	 yes
 hold
-: 	 peut-être
+: 	 yes
 home
-: 	 peut-être
+: 	 yes
 hope
-: 	 peut-être
+: 	 yes
 hospital
 : 	 non
 hot
-: 	 peut-être
+: 	 yes
 hotel
 : 	 non
 hour
-: 	 peut-être
+: 	 yes
 house
 : 	 non
 how
-: 	 peut-être
+: 	 yes
 however
 : 	 non
 huge
-: 	 peut-être
+: 	 yes
 human
 : 	 non
 hundred
@@ -801,7 +801,7 @@ husband
 I
 : 	 non
 idea
-: 	 peut-être
+: 	 yes
 identify
 : 	 non
 if
@@ -849,7 +849,7 @@ international
 interview
 : 	 non
 into
-: 	 peut-être
+: 	 yes
 investment
 : 	 non
 involve
@@ -859,55 +859,55 @@ issue
 it
 : 	 non
 item
-: 	 peut-être
+: 	 yes
 its
-: 	 peut-être
+: 	 yes
 itself
 : 	 non
 job
-: 	 peut-être
+: 	 yes
 join
-: 	 peut-être
+: 	 yes
 just
-: 	 peut-être
+: 	 yes
 keep
-: 	 peut-être
+: 	 yes
 key
-: 	 peut-être
+: 	 yes
 kid
-: 	 peut-être
+: 	 yes
 kill
-: 	 peut-être
+: 	 yes
 kind
-: 	 peut-être
+: 	 yes
 kitchen
 : 	 non
 know
-: 	 peut-être
+: 	 yes
 knowledge
 : 	 non
 land
-: 	 peut-être
+: 	 yes
 language
 : 	 non
 large
 : 	 non
 last
-: 	 peut-être
+: 	 yes
 late
-: 	 peut-être
+: 	 yes
 later
 : 	 non
 laugh
 : 	 non
 law
-: 	 peut-être
+: 	 yes
 lawyer
 : 	 non
 lay
-: 	 peut-être
+: 	 yes
 lead
-: 	 peut-être
+: 	 yes
 leader
 : 	 non
 learn
@@ -917,61 +917,61 @@ least
 leave
 : 	 non
 left
-: 	 peut-être
+: 	 yes
 leg
-: 	 peut-être
+: 	 yes
 legal
 : 	 non
 less
-: 	 peut-être
+: 	 yes
 let
-: 	 peut-être
+: 	 yes
 letter
 : 	 non
 level
 : 	 non
 lie
-: 	 peut-être
+: 	 yes
 life
-: 	 peut-être
+: 	 yes
 light
 : 	 non
 like
-: 	 peut-être
+: 	 yes
 likely
 : 	 non
 line
-: 	 peut-être
+: 	 yes
 list
-: 	 peut-être
+: 	 yes
 listen
 : 	 non
 little
 : 	 non
 live
-: 	 peut-être
+: 	 yes
 local
 : 	 non
 long
-: 	 peut-être
+: 	 yes
 look
-: 	 peut-être
+: 	 yes
 lose
-: 	 peut-être
+: 	 yes
 loss
-: 	 peut-être
+: 	 yes
 lot
-: 	 peut-être
+: 	 yes
 love
-: 	 peut-être
+: 	 yes
 low
-: 	 peut-être
+: 	 yes
 machine
 : 	 non
 magazine
 : 	 non
 main
-: 	 peut-être
+: 	 yes
 maintain
 : 	 non
 major
@@ -979,9 +979,9 @@ major
 majority
 : 	 non
 make
-: 	 peut-être
+: 	 yes
 man
-: 	 peut-être
+: 	 yes
 manage
 : 	 non
 management
@@ -989,7 +989,7 @@ management
 manager
 : 	 non
 many
-: 	 peut-être
+: 	 yes
 market
 : 	 non
 marriage
@@ -999,13 +999,13 @@ material
 matter
 : 	 non
 may
-: 	 peut-être
+: 	 yes
 maybe
 : 	 non
 me
 : 	 non
 mean
-: 	 peut-être
+: 	 yes
 measure
 : 	 non
 media
@@ -1013,7 +1013,7 @@ media
 medical
 : 	 non
 meet
-: 	 peut-être
+: 	 yes
 meeting
 : 	 non
 member
@@ -1035,11 +1035,11 @@ military
 million
 : 	 non
 mind
-: 	 peut-être
+: 	 yes
 minute
 : 	 non
 miss
-: 	 peut-être
+: 	 yes
 mission
 : 	 non
 model
@@ -1053,17 +1053,17 @@ money
 month
 : 	 non
 more
-: 	 peut-être
+: 	 yes
 morning
 : 	 non
 most
-: 	 peut-être
+: 	 yes
 mother
 : 	 non
 mouth
 : 	 non
 move
-: 	 peut-être
+: 	 yes
 movement
 : 	 non
 movie
@@ -1071,19 +1071,19 @@ movie
 Mr
 : 	 non
 Mrs
-: 	 peut-être
+: 	 yes
 much
-: 	 peut-être
+: 	 yes
 music
 : 	 non
 must
-: 	 peut-être
+: 	 yes
 my
 : 	 non
 myself
-: 	 peut-être
+: 	 non
 name
-: 	 peut-être
+: 	 yes
 nation
 : 	 non
 national
@@ -1093,49 +1093,49 @@ natural
 nature
 : 	 non
 near
-: 	 peut-être
+: 	 yes
 nearly
 : 	 non
 necessary
 : 	 non
 need
-: 	 peut-être
+: 	 yes
 network
 : 	 non
 never
 : 	 non
 new
-: 	 peut-être
+: 	 yes
 news
-: 	 peut-être
+: 	 yes
 newspaper
 : 	 non
 next
-: 	 peut-être
+: 	 yes
 nice
-: 	 peut-être
+: 	 yes
 night
 : 	 non
 no
 : 	 non
 none
-: 	 peut-être
+: 	 yes
 nor
-: 	 peut-être
+: 	 yes
 north
 : 	 non
 not
-: 	 peut-être
+: 	 yes
 note
-: 	 peut-être
+: 	 yes
 nothing
 : 	 non
 notice
 : 	 non
 now
-: 	 peut-être
+: 	 yes
 n't
-: 	 peut-être
+: 	 yes
 number
 : 	 non
 occur
@@ -1143,7 +1143,7 @@ occur
 of
 : 	 non
 off
-: 	 peut-être
+: 	 yes
 offer
 : 	 non
 office
@@ -1157,23 +1157,23 @@ often
 oh
 : 	 non
 oil
-: 	 peut-être
+: 	 yes
 ok
 : 	 non
 old
-: 	 peut-être
+: 	 yes
 on
 : 	 non
 once
-: 	 peut-être
+: 	 yes
 one
-: 	 peut-être
+: 	 yes
 only
-: 	 peut-être
+: 	 yes
 onto
-: 	 peut-être
+: 	 yes
 open
-: 	 peut-être
+: 	 yes
 operation
 : 	 non
 opportunity
@@ -1191,21 +1191,21 @@ other
 others
 : 	 non
 our
-: 	 peut-être
+: 	 yes
 out
-: 	 peut-être
+: 	 yes
 outside
 : 	 non
 over
-: 	 peut-être
+: 	 yes
 own
-: 	 peut-être
+: 	 yes
 owner
 : 	 non
 page
-: 	 peut-être
+: 	 yes
 pain
-: 	 peut-être
+: 	 yes
 painting
 : 	 non
 paper
@@ -1213,7 +1213,7 @@ paper
 parent
 : 	 non
 part
-: 	 peut-être
+: 	 yes
 participant
 : 	 non
 particular
@@ -1225,21 +1225,21 @@ partner
 party
 : 	 non
 pass
-: 	 peut-être
+: 	 yes
 past
-: 	 peut-être
+: 	 yes
 patient
 : 	 non
 pattern
 : 	 non
 pay
-: 	 peut-être
+: 	 yes
 peace
 : 	 non
 people
 : 	 non
 per
-: 	 peut-être
+: 	 yes
 perform
 : 	 non
 performance
@@ -1257,7 +1257,7 @@ phone
 physical
 : 	 non
 pick
-: 	 peut-être
+: 	 yes
 picture
 : 	 non
 piece
@@ -1265,11 +1265,11 @@ piece
 place
 : 	 non
 plan
-: 	 peut-être
+: 	 yes
 plant
 : 	 non
 play
-: 	 peut-être
+: 	 yes
 player
 : 	 non
 PM
@@ -1285,7 +1285,7 @@ political
 politics
 : 	 non
 poor
-: 	 peut-être
+: 	 yes
 popular
 : 	 non
 population
@@ -1347,13 +1347,13 @@ provide
 public
 : 	 non
 pull
-: 	 peut-être
+: 	 yes
 purpose
 : 	 non
 push
-: 	 peut-être
+: 	 yes
 put
-: 	 peut-être
+: 	 yes
 quality
 : 	 non
 question
@@ -1363,7 +1363,7 @@ quickly
 quite
 : 	 non
 race
-: 	 peut-être
+: 	 yes
 radio
 : 	 non
 raise
@@ -1371,17 +1371,17 @@ raise
 range
 : 	 non
 rate
-: 	 peut-être
+: 	 yes
 rather
 : 	 non
 reach
 : 	 non
 read
-: 	 peut-être
+: 	 yes
 ready
 : 	 non
 real
-: 	 peut-être
+: 	 yes
 reality
 : 	 non
 realize
@@ -1401,7 +1401,7 @@ recognize
 record
 : 	 non
 red
-: 	 peut-être
+: 	 yes
 reduce
 : 	 non
 reflect
@@ -1439,7 +1439,7 @@ response
 responsibility
 : 	 non
 rest
-: 	 peut-être
+: 	 yes
 result
 : 	 non
 return
@@ -1447,33 +1447,33 @@ return
 reveal
 : 	 non
 rich
-: 	 peut-être
+: 	 yes
 right
 : 	 non
 rise
-: 	 peut-être
+: 	 yes
 risk
-: 	 peut-être
+: 	 yes
 road
-: 	 peut-être
+: 	 yes
 rock
-: 	 peut-être
+: 	 yes
 role
-: 	 peut-être
+: 	 yes
 room
-: 	 peut-être
+: 	 yes
 rule
-: 	 peut-être
+: 	 yes
 run
-: 	 peut-être
+: 	 yes
 safe
-: 	 peut-être
+: 	 yes
 same
-: 	 peut-être
+: 	 yes
 save
-: 	 peut-être
+: 	 yes
 say
-: 	 peut-être
+: 	 yes
 scene
 : 	 non
 school
@@ -1485,11 +1485,11 @@ scientist
 score
 : 	 non
 sea
-: 	 peut-être
+: 	 yes
 season
 : 	 non
 seat
-: 	 peut-être
+: 	 yes
 second
 : 	 non
 section
@@ -1497,15 +1497,15 @@ section
 security
 : 	 non
 see
-: 	 peut-être
+: 	 yes
 seek
-: 	 peut-être
+: 	 yes
 seem
-: 	 peut-être
+: 	 yes
 sell
-: 	 peut-être
+: 	 yes
 send
-: 	 peut-être
+: 	 yes
 senior
 : 	 non
 sense
@@ -1519,13 +1519,13 @@ serve
 service
 : 	 non
 set
-: 	 peut-être
+: 	 yes
 seven
 : 	 non
 several
 : 	 non
 sex
-: 	 peut-être
+: 	 yes
 sexual
 : 	 non
 shake
@@ -1533,23 +1533,23 @@ shake
 share
 : 	 non
 she
-: 	 peut-être
+: 	 yes
 shoot
 : 	 non
 short
 : 	 non
 shot
-: 	 peut-être
+: 	 yes
 should
 : 	 non
 shoulder
 : 	 non
 show
-: 	 peut-être
+: 	 yes
 side
-: 	 peut-être
+: 	 yes
 sign
-: 	 peut-être
+: 	 yes
 significant
 : 	 non
 similar
@@ -1561,25 +1561,25 @@ simply
 since
 : 	 non
 sing
-: 	 peut-être
+: 	 yes
 single
 : 	 non
 sister
 : 	 non
 sit
-: 	 peut-être
+: 	 yes
 site
-: 	 peut-être
+: 	 yes
 situation
 : 	 non
 six
-: 	 peut-être
+: 	 yes
 size
-: 	 peut-être
+: 	 yes
 skill
 : 	 non
 skin
-: 	 peut-être
+: 	 yes
 small
 : 	 non
 smile
@@ -1593,7 +1593,7 @@ society
 soldier
 : 	 non
 some
-: 	 peut-être
+: 	 yes
 somebody
 : 	 non
 someone
@@ -1603,13 +1603,13 @@ something
 sometimes
 : 	 non
 son
-: 	 peut-être
+: 	 yes
 song
-: 	 peut-être
+: 	 yes
 soon
-: 	 peut-être
+: 	 yes
 sort
-: 	 peut-être
+: 	 yes
 sound
 : 	 non
 source
@@ -1643,7 +1643,7 @@ stand
 standard
 : 	 non
 star
-: 	 peut-être
+: 	 yes
 start
 : 	 non
 state
@@ -1653,15 +1653,15 @@ statement
 station
 : 	 non
 stay
-: 	 peut-être
+: 	 yes
 step
-: 	 peut-être
+: 	 yes
 still
-: 	 peut-être
+: 	 non
 stock
 : 	 non
 stop
-: 	 peut-être
+: 	 yes
 store
 : 	 non
 story
@@ -1689,7 +1689,7 @@ success
 successful
 : 	 non
 such
-: 	 peut-être
+: 	 yes
 suddenly
 : 	 non
 suffer
@@ -1701,7 +1701,7 @@ summer
 support
 : 	 non
 sure
-: 	 peut-être
+: 	 yes
 surface
 : 	 non
 system
@@ -1709,49 +1709,49 @@ system
 table
 : 	 non
 take
-: 	 peut-être
+: 	 yes
 talk
-: 	 peut-être
+: 	 yes
 task
-: 	 peut-être
+: 	 yes
 tax
-: 	 peut-être
+: 	 yes
 teach
 : 	 non
 teacher
 : 	 non
 team
-: 	 peut-être
+: 	 yes
 technology
 : 	 non
 television
 : 	 non
 tell
-: 	 peut-être
+: 	 yes
 ten
-: 	 peut-être
+: 	 yes
 tend
-: 	 peut-être
+: 	 yes
 term
-: 	 peut-être
+: 	 yes
 test
-: 	 peut-être
+: 	 yes
 than
-: 	 peut-être
+: 	 yes
 thank
 : 	 non
 that
-: 	 peut-être
+: 	 yes
 the
-: 	 peut-être
+: 	 yes
 their
 : 	 non
 them
-: 	 peut-être
+: 	 yes
 themselves
 : 	 non
 then
-: 	 peut-être
+: 	 yes
 theory
 : 	 non
 there
@@ -1759,7 +1759,7 @@ there
 these
 : 	 non
 they
-: 	 peut-être
+: 	 yes
 thing
 : 	 non
 think
@@ -1767,7 +1767,7 @@ think
 third
 : 	 non
 this
-: 	 peut-être
+: 	 yes
 those
 : 	 non
 though
@@ -1787,9 +1787,9 @@ throughout
 throw
 : 	 non
 thus
-: 	 peut-être
+: 	 yes
 time
-: 	 peut-être
+: 	 yes
 to
 : 	 non
 today
@@ -1799,9 +1799,9 @@ together
 tonight
 : 	 non
 too
-: 	 peut-être
+: 	 yes
 top
-: 	 peut-être
+: 	 yes
 total
 : 	 non
 tough
@@ -1809,7 +1809,7 @@ tough
 toward
 : 	 non
 town
-: 	 peut-être
+: 	 yes
 trade
 : 	 non
 traditional
@@ -1823,43 +1823,43 @@ treat
 treatment
 : 	 non
 tree
-: 	 peut-être
+: 	 yes
 trial
 : 	 non
 trip
-: 	 peut-être
+: 	 yes
 trouble
 : 	 non
 true
-: 	 peut-être
+: 	 yes
 truth
 : 	 non
 try
-: 	 peut-être
+: 	 yes
 turn
-: 	 peut-être
+: 	 yes
 TV
 : 	 non
 two
-: 	 peut-être
+: 	 yes
 type
-: 	 peut-être
+: 	 yes
 under
 : 	 non
 understand
 : 	 non
 unit
-: 	 peut-être
+: 	 yes
 until
 : 	 non
 up
 : 	 non
 upon
-: 	 peut-être
+: 	 yes
 us
 : 	 non
 use
-: 	 peut-être
+: 	 yes
 usually
 : 	 non
 value
@@ -1867,11 +1867,11 @@ value
 various
 : 	 non
 very
-: 	 peut-être
+: 	 yes
 victim
 : 	 non
 view
-: 	 peut-être
+: 	 yes
 violence
 : 	 non
 visit
@@ -1879,45 +1879,45 @@ visit
 voice
 : 	 non
 vote
-: 	 peut-être
+: 	 yes
 wait
-: 	 peut-être
+: 	 yes
 walk
-: 	 peut-être
+: 	 yes
 wall
-: 	 peut-être
+: 	 yes
 want
-: 	 peut-être
+: 	 yes
 war
-: 	 peut-être
+: 	 yes
 watch
 : 	 non
 water
 : 	 non
 way
-: 	 peut-être
+: 	 yes
 we
 : 	 non
 weapon
 : 	 non
 wear
-: 	 peut-être
+: 	 yes
 week
-: 	 peut-être
+: 	 yes
 weight
 : 	 non
 well
-: 	 peut-être
+: 	 yes
 west
-: 	 peut-être
+: 	 yes
 western
 : 	 non
 what
-: 	 peut-être
+: 	 yes
 whatever
 : 	 non
 when
-: 	 peut-être
+: 	 yes
 where
 : 	 non
 whether
@@ -1929,43 +1929,43 @@ while
 white
 : 	 non
 who
-: 	 peut-être
+: 	 yes
 whole
 : 	 non
 whom
-: 	 peut-être
+: 	 yes
 whose
 : 	 non
 why
-: 	 peut-être
+: 	 yes
 wide
-: 	 peut-être
+: 	 yes
 wife
-: 	 peut-être
+: 	 yes
 will
-: 	 peut-être
+: 	 yes
 win
-: 	 peut-être
+: 	 yes
 wind
-: 	 peut-être
+: 	 yes
 window
 : 	 non
 wish
-: 	 peut-être
+: 	 yes
 with
-: 	 peut-être
+: 	 yes
 within
 : 	 non
 without
-: 	 peut-être
+: 	 non
 woman
 : 	 non
 wonder
 : 	 non
 word
-: 	 peut-être
+: 	 yes
 work
-: 	 peut-être
+: 	 yes
 worker
 : 	 non
 world
@@ -1981,21 +1981,21 @@ writer
 wrong
 : 	 non
 yard
-: 	 peut-être
+: 	 yes
 yeah
-: 	 peut-être
+: 	 yes
 year
-: 	 peut-être
+: 	 yes
 yes
-: 	 peut-être
+: 	 yes
 yet
-: 	 peut-être
+: 	 yes
 you
-: 	 peut-être
+: 	 yes
 young
 : 	 non
 your
-: 	 peut-être
+: 	 yes
 yourself
 : 	 non
-There is 344 maybe and 656 no
+There is 340 yes and 660 no

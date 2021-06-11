@@ -3,7 +3,7 @@ a
 aa
 : 	 non
 aaa
-: 	 peut-être
+: 	 yes
 aaron
 : 	 non
 ab
@@ -11,7 +11,7 @@ ab
 abandoned
 : 	 non
 abc
-: 	 peut-être
+: 	 yes
 aberdeen
 : 	 non
 abilities
@@ -19,7 +19,7 @@ abilities
 ability
 : 	 non
 able
-: 	 peut-être
+: 	 yes
 aboriginal
 : 	 non
 abortion
@@ -33,7 +33,7 @@ abraham
 abroad
 : 	 non
 abs
-: 	 peut-être
+: 	 yes
 absence
 : 	 non
 absent
@@ -49,7 +49,7 @@ abstract
 abstracts
 : 	 non
 abu
-: 	 peut-être
+: 	 yes
 abuse
 : 	 non
 ac
@@ -61,7 +61,7 @@ academics
 academy
 : 	 non
 acc
-: 	 peut-être
+: 	 yes
 accent
 : 	 non
 accept
@@ -137,9 +137,9 @@ accused
 acdbentity
 : 	 non
 ace
-: 	 peut-être
+: 	 yes
 acer
-: 	 peut-être
+: 	 yes
 achieve
 : 	 non
 achieved
@@ -151,7 +151,7 @@ achievements
 achieving
 : 	 non
 acid
-: 	 peut-être
+: 	 yes
 acids
 : 	 non
 acknowledge
@@ -159,9 +159,9 @@ acknowledge
 acknowledged
 : 	 non
 acm
-: 	 peut-être
+: 	 yes
 acne
-: 	 peut-être
+: 	 yes
 acoustic
 : 	 non
 acquire
@@ -173,7 +173,7 @@ acquisition
 acquisitions
 : 	 non
 acre
-: 	 peut-être
+: 	 yes
 acres
 : 	 non
 acrobat
@@ -183,7 +183,7 @@ across
 acrylic
 : 	 non
 act
-: 	 peut-être
+: 	 yes
 acting
 : 	 non
 action
@@ -211,7 +211,7 @@ actors
 actress
 : 	 non
 acts
-: 	 peut-être
+: 	 yes
 actual
 : 	 non
 actually
@@ -221,9 +221,9 @@ acute
 ad
 : 	 non
 ada
-: 	 peut-être
+: 	 yes
 adam
-: 	 peut-être
+: 	 yes
 adams
 : 	 non
 adaptation
@@ -239,7 +239,7 @@ adaptive
 adaptor
 : 	 non
 add
-: 	 peut-être
+: 	 yes
 added
 : 	 non
 addiction
@@ -263,7 +263,7 @@ addresses
 addressing
 : 	 non
 adds
-: 	 peut-être
+: 	 yes
 adelaide
 : 	 non
 adequate
@@ -317,9 +317,9 @@ adoption
 adrian
 : 	 non
 ads
-: 	 peut-être
+: 	 yes
 adsl
-: 	 peut-être
+: 	 yes
 adult
 : 	 non
 adults
@@ -427,9 +427,9 @@ again
 against
 : 	 non
 age
-: 	 peut-être
+: 	 yes
 aged
-: 	 peut-être
+: 	 yes
 agencies
 : 	 non
 agency
@@ -441,7 +441,7 @@ agent
 agents
 : 	 non
 ages
-: 	 peut-être
+: 	 yes
 aggregate
 : 	 non
 aggressive
@@ -449,7 +449,7 @@ aggressive
 aging
 : 	 non
 ago
-: 	 peut-être
+: 	 yes
 agree
 : 	 non
 agreed
@@ -471,17 +471,17 @@ ahead
 ai
 : 	 non
 aid
-: 	 peut-être
+: 	 yes
 aids
-: 	 peut-être
+: 	 yes
 aim
-: 	 peut-être
+: 	 yes
 aimed
 : 	 non
 aims
-: 	 peut-être
+: 	 yes
 air
-: 	 peut-être
+: 	 yes
 aircraft
 : 	 non
 airfare
@@ -501,15 +501,15 @@ aj
 ak
 : 	 non
 aka
-: 	 peut-être
+: 	 yes
 al
 : 	 non
 ala
-: 	 peut-être
+: 	 yes
 alabama
 : 	 non
 alan
-: 	 peut-être
+: 	 yes
 alarm
 : 	 non
 alaska
@@ -535,7 +535,7 @@ alert
 alerts
 : 	 non
 alex
-: 	 peut-être
+: 	 yes
 alexander
 : 	 non
 alexandria
@@ -551,7 +551,7 @@ algorithm
 algorithms
 : 	 non
 ali
-: 	 peut-être
+: 	 yes
 alias
 : 	 non
 alice
@@ -567,7 +567,7 @@ alike
 alive
 : 	 non
 all
-: 	 peut-être
+: 	 yes
 allah
 : 	 non
 allan
@@ -605,7 +605,7 @@ alone
 along
 : 	 non
 alot
-: 	 peut-être
+: 	 yes
 alpha
 : 	 non
 alphabetical
@@ -615,9 +615,9 @@ alpine
 already
 : 	 non
 also
-: 	 peut-être
+: 	 yes
 alt
-: 	 peut-être
+: 	 yes
 alter
 : 	 non
 altered
@@ -633,7 +633,7 @@ alternatives
 although
 : 	 non
 alto
-: 	 peut-être
+: 	 yes
 aluminium
 : 	 non
 aluminum
@@ -665,7 +665,7 @@ ambien
 ambient
 : 	 non
 amd
-: 	 peut-être
+: 	 yes
 amend
 : 	 non
 amended
@@ -695,7 +695,7 @@ amount
 amounts
 : 	 non
 amp
-: 	 peut-être
+: 	 yes
 ampland
 : 	 non
 amplifier
@@ -703,15 +703,15 @@ amplifier
 amsterdam
 : 	 non
 amy
-: 	 peut-être
+: 	 yes
 an
 : 	 non
 ana
-: 	 peut-être
+: 	 yes
 anaheim
 : 	 non
 anal
-: 	 peut-être
+: 	 yes
 analog
 : 	 non
 analyses
@@ -735,7 +735,7 @@ anchor
 ancient
 : 	 non
 and
-: 	 peut-être
+: 	 yes
 andale
 : 	 non
 anderson
@@ -751,7 +751,7 @@ andrew
 andrews
 : 	 non
 andy
-: 	 peut-être
+: 	 yes
 angel
 : 	 non
 angela
@@ -779,11 +779,11 @@ animation
 anime
 : 	 non
 ann
-: 	 peut-être
+: 	 yes
 anna
-: 	 peut-être
+: 	 yes
 anne
-: 	 peut-être
+: 	 yes
 annex
 : 	 non
 annie
@@ -823,7 +823,7 @@ answering
 answers
 : 	 non
 ant
-: 	 peut-être
+: 	 yes
 antarctica
 : 	 non
 antenna
@@ -833,7 +833,7 @@ anthony
 anthropology
 : 	 non
 anti
-: 	 peut-être
+: 	 yes
 antibodies
 : 	 non
 antibody
@@ -853,7 +853,7 @@ antonio
 anxiety
 : 	 non
 any
-: 	 peut-être
+: 	 yes
 anybody
 : 	 non
 anymore
@@ -869,7 +869,7 @@ anyway
 anywhere
 : 	 non
 aol
-: 	 peut-être
+: 	 yes
 ap
 : 	 non
 apache
@@ -881,13 +881,13 @@ apartment
 apartments
 : 	 non
 api
-: 	 peut-être
+: 	 yes
 apnic
 : 	 non
 apollo
 : 	 non
 app
-: 	 peut-être
+: 	 yes
 apparatus
 : 	 non
 apparel
@@ -971,15 +971,15 @@ approximate
 approximately
 : 	 non
 apps
-: 	 peut-être
+: 	 yes
 apr
-: 	 peut-être
+: 	 yes
 april
 : 	 non
 apt
-: 	 peut-être
+: 	 yes
 aqua
-: 	 peut-être
+: 	 yes
 aquarium
 : 	 non
 aquatic
@@ -987,7 +987,7 @@ aquatic
 ar
 : 	 non
 arab
-: 	 peut-être
+: 	 yes
 arabia
 : 	 non
 arabic
@@ -997,11 +997,11 @@ arbitrary
 arbitration
 : 	 non
 arc
-: 	 peut-être
+: 	 yes
 arcade
 : 	 non
 arch
-: 	 peut-être
+: 	 yes
 architect
 : 	 non
 architects
@@ -1019,15 +1019,15 @@ archives
 arctic
 : 	 non
 are
-: 	 peut-être
+: 	 yes
 area
-: 	 peut-être
+: 	 yes
 areas
 : 	 non
 arena
 : 	 non
 arg
-: 	 peut-être
+: 	 yes
 argentina
 : 	 non
 argue
@@ -1049,7 +1049,7 @@ arkansas
 arlington
 : 	 non
 arm
-: 	 peut-être
+: 	 yes
 armed
 : 	 non
 armenia
@@ -1057,11 +1057,11 @@ armenia
 armor
 : 	 non
 arms
-: 	 peut-être
+: 	 yes
 armstrong
 : 	 non
 army
-: 	 peut-être
+: 	 yes
 arnold
 : 	 non
 around
@@ -1093,7 +1093,7 @@ arrives
 arrow
 : 	 non
 art
-: 	 peut-être
+: 	 yes
 arthritis
 : 	 non
 arthur
@@ -1111,7 +1111,7 @@ artistic
 artists
 : 	 non
 arts
-: 	 peut-être
+: 	 yes
 artwork
 : 	 non
 aruba
@@ -1123,29 +1123,29 @@ asbestos
 ascii
 : 	 non
 ash
-: 	 peut-être
+: 	 yes
 ashley
 : 	 non
 asia
-: 	 peut-être
+: 	 yes
 asian
 : 	 non
 aside
 : 	 non
 asin
-: 	 peut-être
+: 	 yes
 ask
-: 	 peut-être
+: 	 yes
 asked
 : 	 non
 asking
 : 	 non
 asks
-: 	 peut-être
+: 	 yes
 asn
-: 	 peut-être
+: 	 yes
 asp
-: 	 peut-être
+: 	 yes
 aspect
 : 	 non
 aspects
@@ -1153,7 +1153,7 @@ aspects
 aspnet
 : 	 non
 ass
-: 	 peut-être
+: 	 yes
 assault
 : 	 non
 assembled
@@ -1227,13 +1227,13 @@ astrology
 astronomy
 : 	 non
 asus
-: 	 peut-être
+: 	 yes
 at
 : 	 non
 ata
-: 	 peut-être
+: 	 yes
 ate
-: 	 peut-être
+: 	 yes
 athens
 : 	 non
 athletes
@@ -1243,7 +1243,7 @@ athletic
 athletics
 : 	 non
 ati
-: 	 peut-être
+: 	 yes
 atlanta
 : 	 non
 atlantic
@@ -1251,13 +1251,13 @@ atlantic
 atlas
 : 	 non
 atm
-: 	 peut-être
+: 	 yes
 atmosphere
 : 	 non
 atmospheric
 : 	 non
 atom
-: 	 peut-être
+: 	 yes
 atomic
 : 	 non
 attach
@@ -1323,9 +1323,9 @@ auction
 auctions
 : 	 non
 aud
-: 	 peut-être
+: 	 yes
 audi
-: 	 peut-être
+: 	 yes
 audience
 : 	 non
 audio
@@ -1335,13 +1335,13 @@ audit
 auditor
 : 	 non
 aug
-: 	 peut-être
+: 	 yes
 august
 : 	 non
 aurora
 : 	 non
 aus
-: 	 peut-être
+: 	 yes
 austin
 : 	 non
 australia
@@ -1367,7 +1367,7 @@ authorized
 authors
 : 	 non
 auto
-: 	 peut-être
+: 	 yes
 automated
 : 	 non
 automatic
@@ -1395,15 +1395,15 @@ available
 avatar
 : 	 non
 ave
-: 	 peut-être
+: 	 yes
 avenue
 : 	 non
 average
 : 	 non
 avg
-: 	 peut-être
+: 	 yes
 avi
-: 	 peut-être
+: 	 yes
 aviation
 : 	 non
 avoid
@@ -1411,7 +1411,7 @@ avoid
 avoiding
 : 	 non
 avon
-: 	 peut-être
+: 	 yes
 aw
 : 	 non
 award
@@ -1425,15 +1425,15 @@ aware
 awareness
 : 	 non
 away
-: 	 peut-être
+: 	 yes
 awesome
 : 	 non
 awful
 : 	 non
 axis
-: 	 peut-être
+: 	 yes
 aye
-: 	 peut-être
+: 	 yes
 az
 : 	 non
 azerbaijan
@@ -1443,17 +1443,17 @@ b
 ba
 : 	 non
 babe
-: 	 peut-être
+: 	 yes
 babes
 : 	 non
 babies
 : 	 non
 baby
-: 	 peut-être
+: 	 yes
 bachelor
 : 	 non
 back
-: 	 peut-être
+: 	 yes
 backed
 : 	 non
 background
@@ -1471,17 +1471,17 @@ bacteria
 bacterial
 : 	 non
 bad
-: 	 peut-être
+: 	 yes
 badge
 : 	 non
 badly
 : 	 non
 bag
-: 	 peut-être
+: 	 yes
 baghdad
 : 	 non
 bags
-: 	 peut-être
+: 	 yes
 bahamas
 : 	 non
 bahrain
@@ -1497,11 +1497,11 @@ balance
 balanced
 : 	 non
 bald
-: 	 peut-être
+: 	 yes
 bali
-: 	 peut-être
+: 	 yes
 ball
-: 	 peut-être
+: 	 yes
 ballet
 : 	 non
 balloon
@@ -1513,17 +1513,17 @@ balls
 baltimore
 : 	 non
 ban
-: 	 peut-être
+: 	 yes
 banana
 : 	 non
 band
-: 	 peut-être
+: 	 yes
 bands
 : 	 non
 bandwidth
 : 	 non
 bang
-: 	 peut-être
+: 	 yes
 bangbus
 : 	 non
 bangkok
@@ -1531,7 +1531,7 @@ bangkok
 bangladesh
 : 	 non
 bank
-: 	 peut-être
+: 	 yes
 banking
 : 	 non
 bankruptcy
@@ -1547,7 +1547,7 @@ banners
 baptist
 : 	 non
 bar
-: 	 peut-être
+: 	 yes
 barbados
 : 	 non
 barbara
@@ -1557,7 +1557,7 @@ barbie
 barcelona
 : 	 non
 bare
-: 	 peut-être
+: 	 yes
 barely
 : 	 non
 bargain
@@ -1565,7 +1565,7 @@ bargain
 bargains
 : 	 non
 barn
-: 	 peut-être
+: 	 yes
 barnes
 : 	 non
 barrel
@@ -1577,9 +1577,9 @@ barriers
 barry
 : 	 non
 bars
-: 	 peut-être
+: 	 yes
 base
-: 	 peut-être
+: 	 yes
 baseball
 : 	 non
 based
@@ -1609,13 +1609,13 @@ basketball
 baskets
 : 	 non
 bass
-: 	 peut-être
+: 	 yes
 bat
-: 	 peut-être
+: 	 yes
 batch
 : 	 non
 bath
-: 	 peut-être
+: 	 yes
 bathroom
 : 	 non
 bathrooms
@@ -1633,21 +1633,21 @@ battle
 battlefield
 : 	 non
 bay
-: 	 peut-être
+: 	 yes
 bb
 : 	 non
 bbc
-: 	 peut-être
+: 	 yes
 bbs
-: 	 peut-être
+: 	 yes
 bbw
-: 	 peut-être
+: 	 yes
 bc
 : 	 non
 bd
 : 	 non
 bdsm
-: 	 peut-être
+: 	 yes
 be
 : 	 non
 beach
@@ -1657,13 +1657,13 @@ beaches
 beads
 : 	 non
 beam
-: 	 peut-être
+: 	 yes
 bean
-: 	 peut-être
+: 	 yes
 beans
 : 	 non
 bear
-: 	 peut-être
+: 	 yes
 bearing
 : 	 non
 bears
@@ -1675,7 +1675,7 @@ beastality
 beastiality
 : 	 non
 beat
-: 	 peut-être
+: 	 yes
 beatles
 : 	 non
 beats
@@ -1699,7 +1699,7 @@ becomes
 becoming
 : 	 non
 bed
-: 	 peut-être
+: 	 yes
 bedding
 : 	 non
 bedford
@@ -1709,15 +1709,15 @@ bedroom
 bedrooms
 : 	 non
 beds
-: 	 peut-être
+: 	 yes
 bee
-: 	 peut-être
+: 	 yes
 beef
-: 	 peut-être
+: 	 yes
 been
-: 	 peut-être
+: 	 yes
 beer
-: 	 peut-être
+: 	 yes
 before
 : 	 non
 began
@@ -1771,7 +1771,7 @@ belize
 belkin
 : 	 non
 bell
-: 	 peut-être
+: 	 yes
 belle
 : 	 non
 belly
@@ -1783,17 +1783,17 @@ belongs
 below
 : 	 non
 belt
-: 	 peut-être
+: 	 yes
 belts
 : 	 non
 ben
-: 	 peut-être
+: 	 yes
 bench
 : 	 non
 benchmark
 : 	 non
 bend
-: 	 peut-être
+: 	 yes
 beneath
 : 	 non
 beneficial
@@ -1807,7 +1807,7 @@ benjamin
 bennett
 : 	 non
 benz
-: 	 peut-être
+: 	 yes
 berkeley
 : 	 non
 berlin
@@ -1823,17 +1823,17 @@ beside
 besides
 : 	 non
 best
-: 	 peut-être
+: 	 yes
 bestiality
 : 	 non
 bestsellers
 : 	 non
 bet
-: 	 peut-être
+: 	 yes
 beta
-: 	 peut-être
+: 	 yes
 beth
-: 	 peut-être
+: 	 yes
 better
 : 	 non
 betting
@@ -1857,7 +1857,7 @@ bhutan
 bi
 : 	 non
 bias
-: 	 peut-être
+: 	 yes
 bible
 : 	 non
 biblical
@@ -1869,27 +1869,27 @@ bibliography
 bicycle
 : 	 non
 bid
-: 	 peut-être
+: 	 yes
 bidder
 : 	 non
 bidding
 : 	 non
 bids
-: 	 peut-être
+: 	 yes
 big
-: 	 peut-être
+: 	 yes
 bigger
 : 	 non
 biggest
 : 	 non
 bike
-: 	 peut-être
+: 	 yes
 bikes
 : 	 non
 bikini
 : 	 non
 bill
-: 	 peut-être
+: 	 yes
 billing
 : 	 non
 billion
@@ -1899,17 +1899,17 @@ bills
 billy
 : 	 non
 bin
-: 	 peut-être
+: 	 yes
 binary
 : 	 non
 bind
-: 	 peut-être
+: 	 yes
 binding
 : 	 non
 bingo
 : 	 non
 bio
-: 	 peut-être
+: 	 yes
 biodiversity
 : 	 non
 biographies
@@ -1917,17 +1917,17 @@ biographies
 biography
 : 	 non
 biol
-: 	 peut-être
+: 	 yes
 biological
 : 	 non
 biology
 : 	 non
 bios
-: 	 peut-être
+: 	 yes
 biotechnology
 : 	 non
 bird
-: 	 peut-être
+: 	 yes
 birds
 : 	 non
 birmingham
@@ -1939,15 +1939,15 @@ birthday
 bishop
 : 	 non
 bit
-: 	 peut-être
+: 	 yes
 bitch
 : 	 non
 bite
-: 	 peut-être
+: 	 yes
 bits
-: 	 peut-être
+: 	 yes
 biz
-: 	 peut-être
+: 	 yes
 bizarre
 : 	 non
 bizrate
@@ -1969,7 +1969,7 @@ blade
 blades
 : 	 non
 blah
-: 	 peut-être
+: 	 yes
 blair
 : 	 non
 blake
@@ -2003,7 +2003,7 @@ blocking
 blocks
 : 	 non
 blog
-: 	 peut-être
+: 	 yes
 blogger
 : 	 non
 bloggers
@@ -2025,7 +2025,7 @@ bloom
 bloomberg
 : 	 non
 blow
-: 	 peut-être
+: 	 yes
 blowing
 : 	 non
 blowjob
@@ -2033,17 +2033,17 @@ blowjob
 blowjobs
 : 	 non
 blue
-: 	 peut-être
+: 	 yes
 blues
 : 	 non
 bluetooth
 : 	 non
 blvd
-: 	 peut-être
+: 	 yes
 bm
 : 	 non
 bmw
-: 	 peut-être
+: 	 yes
 bo
 : 	 non
 board
@@ -2051,49 +2051,49 @@ board
 boards
 : 	 non
 boat
-: 	 peut-être
+: 	 yes
 boating
 : 	 non
 boats
 : 	 non
 bob
-: 	 peut-être
+: 	 yes
 bobby
 : 	 non
 boc
-: 	 peut-être
+: 	 yes
 bodies
 : 	 non
 body
-: 	 peut-être
+: 	 yes
 bold
-: 	 peut-être
+: 	 yes
 bolivia
 : 	 non
 bolt
-: 	 peut-être
+: 	 yes
 bomb
-: 	 peut-être
+: 	 yes
 bon
-: 	 peut-être
+: 	 yes
 bond
-: 	 peut-être
+: 	 yes
 bondage
 : 	 non
 bonds
 : 	 non
 bone
-: 	 peut-être
+: 	 yes
 bones
 : 	 non
 bonus
 : 	 non
 boob
-: 	 peut-être
+: 	 yes
 boobs
 : 	 non
 book
-: 	 peut-être
+: 	 yes
 booking
 : 	 non
 bookings
@@ -2107,15 +2107,15 @@ books
 bookstore
 : 	 non
 bool
-: 	 peut-être
+: 	 yes
 boolean
 : 	 non
 boom
-: 	 peut-être
+: 	 yes
 boost
 : 	 non
 boot
-: 	 peut-être
+: 	 yes
 booth
 : 	 non
 boots
@@ -2131,17 +2131,17 @@ bored
 boring
 : 	 non
 born
-: 	 peut-être
+: 	 yes
 borough
 : 	 non
 bosnia
 : 	 non
 boss
-: 	 peut-être
+: 	 yes
 boston
 : 	 non
 both
-: 	 peut-être
+: 	 yes
 bother
 : 	 non
 botswana
@@ -2169,13 +2169,13 @@ bouquet
 boutique
 : 	 non
 bow
-: 	 peut-être
+: 	 yes
 bowl
-: 	 peut-être
+: 	 yes
 bowling
 : 	 non
 box
-: 	 peut-être
+: 	 yes
 boxed
 : 	 non
 boxes
@@ -2183,15 +2183,15 @@ boxes
 boxing
 : 	 non
 boy
-: 	 peut-être
+: 	 yes
 boys
-: 	 peut-être
+: 	 yes
 bp
 : 	 non
 br
 : 	 non
 bra
-: 	 peut-être
+: 	 yes
 bracelet
 : 	 non
 bracelets
@@ -2199,7 +2199,7 @@ bracelets
 bracket
 : 	 non
 brad
-: 	 peut-être
+: 	 yes
 bradford
 : 	 non
 bradley
@@ -2221,7 +2221,7 @@ brandon
 brands
 : 	 non
 bras
-: 	 peut-être
+: 	 yes
 brass
 : 	 non
 brave
@@ -2335,7 +2335,7 @@ brooklyn
 brooks
 : 	 non
 bros
-: 	 peut-être
+: 	 yes
 brother
 : 	 non
 brothers
@@ -2377,7 +2377,7 @@ bt
 bubble
 : 	 non
 buck
-: 	 peut-être
+: 	 yes
 bucks
 : 	 non
 budapest
@@ -2389,7 +2389,7 @@ budget
 budgets
 : 	 non
 buf
-: 	 peut-être
+: 	 yes
 buffalo
 : 	 non
 buffer
@@ -2397,9 +2397,9 @@ buffer
 bufing
 : 	 non
 bug
-: 	 peut-être
+: 	 yes
 bugs
-: 	 peut-être
+: 	 yes
 build
 : 	 non
 builder
@@ -2421,9 +2421,9 @@ bulgaria
 bulgarian
 : 	 non
 bulk
-: 	 peut-être
+: 	 yes
 bull
-: 	 peut-être
+: 	 yes
 bullet
 : 	 non
 bulletin
@@ -2447,7 +2447,7 @@ burke
 burlington
 : 	 non
 burn
-: 	 peut-être
+: 	 yes
 burner
 : 	 non
 burning
@@ -2459,11 +2459,11 @@ burst
 burton
 : 	 non
 bus
-: 	 peut-être
+: 	 yes
 buses
 : 	 non
 bush
-: 	 peut-être
+: 	 yes
 business
 : 	 non
 businesses
@@ -2471,13 +2471,13 @@ businesses
 busty
 : 	 non
 busy
-: 	 peut-être
+: 	 yes
 but
-: 	 peut-être
+: 	 yes
 butler
 : 	 non
 butt
-: 	 peut-être
+: 	 yes
 butter
 : 	 non
 butterfly
@@ -2489,7 +2489,7 @@ buttons
 butts
 : 	 non
 buy
-: 	 peut-être
+: 	 yes
 buyer
 : 	 non
 buyers
@@ -2497,17 +2497,17 @@ buyers
 buying
 : 	 non
 buys
-: 	 peut-être
+: 	 yes
 buzz
-: 	 peut-être
+: 	 yes
 bw
 : 	 non
 by
 : 	 non
 bye
-: 	 peut-être
+: 	 yes
 byte
-: 	 peut-être
+: 	 yes
 bytes
 : 	 non
 c
@@ -2515,7 +2515,7 @@ c
 ca
 : 	 non
 cab
-: 	 peut-être
+: 	 yes
 cabin
 : 	 non
 cabinet
@@ -2531,19 +2531,19 @@ cache
 cached
 : 	 non
 cad
-: 	 peut-être
+: 	 yes
 cadillac
 : 	 non
 cafe
-: 	 peut-être
+: 	 yes
 cage
-: 	 peut-être
+: 	 yes
 cake
-: 	 peut-être
+: 	 yes
 cakes
 : 	 non
 cal
-: 	 peut-être
+: 	 yes
 calcium
 : 	 non
 calculate
@@ -2571,7 +2571,7 @@ calif
 california
 : 	 non
 call
-: 	 peut-être
+: 	 yes
 called
 : 	 non
 calling
@@ -2579,11 +2579,11 @@ calling
 calls
 : 	 non
 calm
-: 	 peut-être
+: 	 yes
 calvin
 : 	 non
 cam
-: 	 peut-être
+: 	 yes
 cambodia
 : 	 non
 cambridge
@@ -2593,7 +2593,7 @@ camcorder
 camcorders
 : 	 non
 came
-: 	 peut-être
+: 	 yes
 camel
 : 	 non
 camera
@@ -2605,7 +2605,7 @@ cameron
 cameroon
 : 	 non
 camp
-: 	 peut-être
+: 	 yes
 campaign
 : 	 non
 campaigns
@@ -2619,9 +2619,9 @@ camps
 campus
 : 	 non
 cams
-: 	 peut-être
+: 	 yes
 can
-: 	 peut-être
+: 	 yes
 canada
 : 	 non
 canadian
@@ -2653,13 +2653,13 @@ cannon
 canon
 : 	 non
 cant
-: 	 peut-être
+: 	 yes
 canvas
 : 	 non
 canyon
 : 	 non
 cap
-: 	 peut-être
+: 	 yes
 capabilities
 : 	 non
 capability
@@ -2669,13 +2669,13 @@ capable
 capacity
 : 	 non
 cape
-: 	 peut-être
+: 	 yes
 capital
 : 	 non
 capitol
 : 	 non
 caps
-: 	 peut-être
+: 	 yes
 captain
 : 	 non
 capture
@@ -2683,13 +2683,13 @@ capture
 captured
 : 	 non
 car
-: 	 peut-être
+: 	 yes
 carb
-: 	 peut-être
+: 	 yes
 carbon
 : 	 non
 card
-: 	 peut-être
+: 	 yes
 cardiac
 : 	 non
 cardiff
@@ -2699,7 +2699,7 @@ cardiovascular
 cards
 : 	 non
 care
-: 	 peut-être
+: 	 yes
 career
 : 	 non
 careers
@@ -2717,7 +2717,7 @@ caribbean
 caring
 : 	 non
 carl
-: 	 peut-être
+: 	 yes
 carlo
 : 	 non
 carlos
@@ -2749,9 +2749,9 @@ carry
 carrying
 : 	 non
 cars
-: 	 peut-être
+: 	 yes
 cart
-: 	 peut-être
+: 	 yes
 carter
 : 	 non
 cartoon
@@ -2763,17 +2763,17 @@ cartridge
 cartridges
 : 	 non
 cas
-: 	 peut-être
+: 	 yes
 casa
-: 	 peut-être
+: 	 yes
 case
-: 	 peut-être
+: 	 yes
 cases
 : 	 non
 casey
 : 	 non
 cash
-: 	 peut-être
+: 	 yes
 cashiers
 : 	 non
 casino
@@ -2785,7 +2785,7 @@ casio
 cassette
 : 	 non
 cast
-: 	 peut-être
+: 	 yes
 casting
 : 	 non
 castle
@@ -2793,7 +2793,7 @@ castle
 casual
 : 	 non
 cat
-: 	 peut-être
+: 	 yes
 catalog
 : 	 non
 catalogs
@@ -2817,7 +2817,7 @@ catherine
 catholic
 : 	 non
 cats
-: 	 peut-être
+: 	 yes
 cattle
 : 	 non
 caught
@@ -2833,25 +2833,25 @@ causing
 caution
 : 	 non
 cave
-: 	 peut-être
+: 	 yes
 cayman
 : 	 non
 cb
 : 	 non
 cbs
-: 	 peut-être
+: 	 yes
 cc
 : 	 non
 ccd
-: 	 peut-être
+: 	 yes
 cd
 : 	 non
 cdna
-: 	 peut-être
+: 	 yes
 cds
-: 	 peut-être
+: 	 yes
 cdt
-: 	 peut-être
+: 	 yes
 ce
 : 	 non
 cedar
@@ -2869,7 +2869,7 @@ celebrity
 celebs
 : 	 non
 cell
-: 	 peut-être
+: 	 yes
 cells
 : 	 non
 cellular
@@ -2883,7 +2883,7 @@ cemetery
 census
 : 	 non
 cent
-: 	 peut-être
+: 	 yes
 center
 : 	 non
 centered
@@ -2903,7 +2903,7 @@ centuries
 century
 : 	 non
 ceo
-: 	 peut-être
+: 	 yes
 ceramic
 : 	 non
 ceremony
@@ -2921,21 +2921,21 @@ certification
 certified
 : 	 non
 cest
-: 	 peut-être
+: 	 yes
 cet
-: 	 peut-être
+: 	 yes
 cf
 : 	 non
 cfr
-: 	 peut-être
+: 	 yes
 cg
 : 	 non
 cgi
-: 	 peut-être
+: 	 yes
 ch
 : 	 non
 chad
-: 	 peut-être
+: 	 yes
 chain
 : 	 non
 chains
@@ -2969,7 +2969,7 @@ championship
 championships
 : 	 non
 chan
-: 	 peut-être
+: 	 yes
 chance
 : 	 non
 chancellor
@@ -2999,7 +2999,7 @@ chapter
 chapters
 : 	 non
 char
-: 	 peut-être
+: 	 yes
 character
 : 	 non
 characteristic
@@ -3053,7 +3053,7 @@ chase
 chassis
 : 	 non
 chat
-: 	 peut-être
+: 	 yes
 cheap
 : 	 non
 cheaper
@@ -3081,11 +3081,11 @@ cheers
 cheese
 : 	 non
 chef
-: 	 peut-être
+: 	 yes
 chelsea
 : 	 non
 chem
-: 	 peut-être
+: 	 yes
 chemical
 : 	 non
 chemicals
@@ -3093,7 +3093,7 @@ chemicals
 chemistry
 : 	 non
 chen
-: 	 peut-être
+: 	 yes
 cheque
 : 	 non
 cherry
@@ -3109,7 +3109,7 @@ chevrolet
 chevy
 : 	 non
 chi
-: 	 peut-être
+: 	 yes
 chicago
 : 	 non
 chick
@@ -3135,11 +3135,11 @@ china
 chinese
 : 	 non
 chip
-: 	 peut-être
+: 	 yes
 chips
 : 	 non
 cho
-: 	 peut-être
+: 	 yes
 chocolate
 : 	 non
 choice
@@ -3199,11 +3199,11 @@ churches
 ci
 : 	 non
 cia
-: 	 peut-être
+: 	 yes
 cialis
 : 	 non
 ciao
-: 	 peut-être
+: 	 yes
 cigarette
 : 	 non
 cigarettes
@@ -3217,9 +3217,9 @@ cinema
 cingular
 : 	 non
 cio
-: 	 peut-être
+: 	 yes
 cir
-: 	 peut-être
+: 	 yes
 circle
 : 	 non
 circles
@@ -3243,7 +3243,7 @@ citation
 citations
 : 	 non
 cite
-: 	 peut-être
+: 	 yes
 cited
 : 	 non
 cities
@@ -3255,7 +3255,7 @@ citizens
 citizenship
 : 	 non
 city
-: 	 peut-être
+: 	 yes
 citysearch
 : 	 non
 civic
@@ -3279,7 +3279,7 @@ claims
 claire
 : 	 non
 clan
-: 	 peut-être
+: 	 yes
 clara
 : 	 non
 clarity
@@ -3309,7 +3309,7 @@ classroom
 clause
 : 	 non
 clay
-: 	 peut-être
+: 	 yes
 clean
 : 	 non
 cleaner
@@ -3361,7 +3361,7 @@ clinics
 clinton
 : 	 non
 clip
-: 	 peut-être
+: 	 yes
 clips
 : 	 non
 clock
@@ -3399,7 +3399,7 @@ clouds
 cloudy
 : 	 non
 club
-: 	 peut-être
+: 	 yes
 clubs
 : 	 non
 cluster
@@ -3409,15 +3409,15 @@ clusters
 cm
 : 	 non
 cms
-: 	 peut-être
+: 	 yes
 cn
 : 	 non
 cnet
-: 	 peut-être
+: 	 yes
 cnetcom
 : 	 non
 cnn
-: 	 peut-être
+: 	 yes
 co
 : 	 non
 coach
@@ -3427,7 +3427,7 @@ coaches
 coaching
 : 	 non
 coal
-: 	 peut-être
+: 	 yes
 coalition
 : 	 non
 coast
@@ -3435,19 +3435,19 @@ coast
 coastal
 : 	 non
 coat
-: 	 peut-être
+: 	 yes
 coated
 : 	 non
 coating
 : 	 non
 cock
-: 	 peut-être
+: 	 yes
 cocks
 : 	 non
 cod
-: 	 peut-être
+: 	 yes
 code
-: 	 peut-être
+: 	 yes
 codes
 : 	 non
 coding
@@ -3459,15 +3459,15 @@ cognitive
 cohen
 : 	 non
 coin
-: 	 peut-être
+: 	 yes
 coins
 : 	 non
 col
-: 	 peut-être
+: 	 yes
 cold
-: 	 peut-être
+: 	 yes
 cole
-: 	 peut-être
+: 	 yes
 coleman
 : 	 non
 colin
@@ -3545,7 +3545,7 @@ columnists
 columns
 : 	 non
 com
-: 	 peut-être
+: 	 yes
 combat
 : 	 non
 combination
@@ -3563,7 +3563,7 @@ combining
 combo
 : 	 non
 come
-: 	 peut-être
+: 	 yes
 comedy
 : 	 non
 comes
@@ -3579,7 +3579,7 @@ comics
 coming
 : 	 non
 comm
-: 	 peut-être
+: 	 yes
 command
 : 	 non
 commander
@@ -3643,7 +3643,7 @@ communities
 community
 : 	 non
 comp
-: 	 peut-être
+: 	 yes
 compact
 : 	 non
 companies
@@ -3767,7 +3767,7 @@ computers
 computing
 : 	 non
 con
-: 	 peut-être
+: 	 yes
 concentrate
 : 	 non
 concentration
@@ -3823,7 +3823,7 @@ conducted
 conducting
 : 	 non
 conf
-: 	 peut-être
+: 	 yes
 conference
 : 	 non
 conferences
@@ -3891,7 +3891,7 @@ connector
 connectors
 : 	 non
 cons
-: 	 peut-être
+: 	 yes
 conscious
 : 	 non
 consciousness
@@ -4123,7 +4123,7 @@ conviction
 convinced
 : 	 non
 cook
-: 	 peut-être
+: 	 yes
 cookbook
 : 	 non
 cooked
@@ -4135,7 +4135,7 @@ cookies
 cooking
 : 	 non
 cool
-: 	 peut-être
+: 	 yes
 cooler
 : 	 non
 cooling
@@ -4157,9 +4157,9 @@ coordination
 coordinator
 : 	 non
 cop
-: 	 peut-être
+: 	 yes
 cope
-: 	 peut-être
+: 	 yes
 copied
 : 	 non
 copies
@@ -4167,7 +4167,7 @@ copies
 copper
 : 	 non
 copy
-: 	 peut-être
+: 	 yes
 copying
 : 	 non
 copyright
@@ -4179,15 +4179,15 @@ copyrights
 coral
 : 	 non
 cord
-: 	 peut-être
+: 	 yes
 cordless
 : 	 non
 core
-: 	 peut-être
+: 	 yes
 cork
-: 	 peut-être
+: 	 yes
 corn
-: 	 peut-être
+: 	 yes
 cornell
 : 	 non
 corner
@@ -4197,7 +4197,7 @@ corners
 cornwall
 : 	 non
 corp
-: 	 peut-être
+: 	 yes
 corporate
 : 	 non
 corporation
@@ -4227,13 +4227,13 @@ corresponding
 corruption
 : 	 non
 cos
-: 	 peut-être
+: 	 yes
 cosmetic
 : 	 non
 cosmetics
 : 	 non
 cost
-: 	 peut-être
+: 	 yes
 costa
 : 	 non
 costs
@@ -4303,7 +4303,7 @@ courtesy
 courts
 : 	 non
 cove
-: 	 peut-être
+: 	 yes
 cover
 : 	 non
 coverage
@@ -4315,15 +4315,15 @@ covering
 covers
 : 	 non
 cow
-: 	 peut-être
+: 	 yes
 cowboy
 : 	 non
 cox
-: 	 peut-être
+: 	 yes
 cp
 : 	 non
 cpu
-: 	 peut-être
+: 	 yes
 cr
 : 	 non
 crack
@@ -4337,7 +4337,7 @@ crafts
 craig
 : 	 non
 crap
-: 	 peut-être
+: 	 yes
 craps
 : 	 non
 crash
@@ -4379,7 +4379,7 @@ creek
 crest
 : 	 non
 crew
-: 	 peut-être
+: 	 yes
 cricket
 : 	 non
 crime
@@ -4401,11 +4401,11 @@ criticism
 critics
 : 	 non
 crm
-: 	 peut-être
+: 	 yes
 croatia
 : 	 non
 crop
-: 	 peut-être
+: 	 yes
 crops
 : 	 non
 cross
@@ -4427,31 +4427,31 @@ cruise
 cruises
 : 	 non
 cruz
-: 	 peut-être
+: 	 yes
 cry
-: 	 peut-être
+: 	 yes
 crystal
 : 	 non
 cs
 : 	 non
 css
-: 	 peut-être
+: 	 yes
 cst
-: 	 peut-être
+: 	 yes
 ct
 : 	 non
 cu
 : 	 non
 cuba
-: 	 peut-être
+: 	 yes
 cube
-: 	 peut-être
+: 	 yes
 cubic
 : 	 non
 cuisine
 : 	 non
 cult
-: 	 peut-être
+: 	 yes
 cultural
 : 	 non
 culture
@@ -4459,7 +4459,7 @@ culture
 cultures
 : 	 non
 cum
-: 	 peut-être
+: 	 yes
 cumshot
 : 	 non
 cumshots
@@ -4467,13 +4467,13 @@ cumshots
 cumulative
 : 	 non
 cunt
-: 	 peut-être
+: 	 yes
 cup
-: 	 peut-être
+: 	 yes
 cups
-: 	 peut-être
+: 	 yes
 cure
-: 	 peut-être
+: 	 yes
 curious
 : 	 non
 currencies
@@ -4511,17 +4511,17 @@ customized
 customs
 : 	 non
 cut
-: 	 peut-être
+: 	 yes
 cute
-: 	 peut-être
+: 	 yes
 cuts
-: 	 peut-être
+: 	 yes
 cutting
 : 	 non
 cv
 : 	 non
 cvs
-: 	 peut-être
+: 	 yes
 cw
 : 	 non
 cyber
@@ -4545,7 +4545,7 @@ d
 da
 : 	 non
 dad
-: 	 peut-être
+: 	 yes
 daddy
 : 	 non
 daily
@@ -4557,11 +4557,11 @@ daisy
 dakota
 : 	 non
 dale
-: 	 peut-être
+: 	 yes
 dallas
 : 	 non
 dam
-: 	 peut-être
+: 	 yes
 damage
 : 	 non
 damaged
@@ -4569,13 +4569,13 @@ damaged
 damages
 : 	 non
 dame
-: 	 peut-être
+: 	 yes
 damn
-: 	 peut-être
+: 	 yes
 dan
-: 	 peut-être
+: 	 yes
 dana
-: 	 peut-être
+: 	 yes
 dance
 : 	 non
 dancing
@@ -4591,29 +4591,29 @@ danish
 danny
 : 	 non
 dans
-: 	 peut-être
+: 	 yes
 dare
-: 	 peut-être
+: 	 yes
 dark
-: 	 peut-être
+: 	 yes
 darkness
 : 	 non
 darwin
 : 	 non
 das
-: 	 peut-être
+: 	 yes
 dash
-: 	 peut-être
+: 	 yes
 dat
-: 	 peut-être
+: 	 yes
 data
-: 	 peut-être
+: 	 yes
 database
 : 	 non
 databases
 : 	 non
 date
-: 	 peut-être
+: 	 yes
 dated
 : 	 non
 dates
@@ -4625,7 +4625,7 @@ daughter
 daughters
 : 	 non
 dave
-: 	 peut-être
+: 	 yes
 david
 : 	 non
 davidson
@@ -4633,11 +4633,11 @@ davidson
 davis
 : 	 non
 dawn
-: 	 peut-être
+: 	 yes
 day
-: 	 peut-être
+: 	 yes
 days
-: 	 peut-être
+: 	 yes
 dayton
 : 	 non
 db
@@ -4647,19 +4647,19 @@ dc
 dd
 : 	 non
 ddr
-: 	 peut-être
+: 	 yes
 de
 : 	 non
 dead
-: 	 peut-être
+: 	 yes
 deadline
 : 	 non
 deadly
 : 	 non
 deaf
-: 	 peut-être
+: 	 yes
 deal
-: 	 peut-être
+: 	 yes
 dealer
 : 	 non
 dealers
@@ -4673,9 +4673,9 @@ dealt
 dealtime
 : 	 non
 dean
-: 	 peut-être
+: 	 yes
 dear
-: 	 peut-être
+: 	 yes
 death
 : 	 non
 deaths
@@ -4687,13 +4687,13 @@ debian
 deborah
 : 	 non
 debt
-: 	 peut-être
+: 	 yes
 debug
 : 	 non
 debut
 : 	 non
 dec
-: 	 peut-être
+: 	 yes
 decade
 : 	 non
 decades
@@ -4713,7 +4713,7 @@ decision
 decisions
 : 	 non
 deck
-: 	 peut-être
+: 	 yes
 declaration
 : 	 non
 declare
@@ -4737,19 +4737,19 @@ decreased
 dedicated
 : 	 non
 dee
-: 	 peut-être
+: 	 yes
 deemed
 : 	 non
 deep
-: 	 peut-être
+: 	 yes
 deeper
 : 	 non
 deeply
 : 	 non
 deer
-: 	 peut-être
+: 	 yes
 def
-: 	 peut-être
+: 	 yes
 default
 : 	 non
 defeat
@@ -4789,7 +4789,7 @@ degree
 degrees
 : 	 non
 del
-: 	 peut-être
+: 	 yes
 delaware
 : 	 non
 delay
@@ -4821,13 +4821,13 @@ delivers
 delivery
 : 	 non
 dell
-: 	 peut-être
+: 	 yes
 delta
 : 	 non
 deluxe
 : 	 non
 dem
-: 	 peut-être
+: 	 yes
 demand
 : 	 non
 demanding
@@ -4835,7 +4835,7 @@ demanding
 demands
 : 	 non
 demo
-: 	 peut-être
+: 	 yes
 democracy
 : 	 non
 democrat
@@ -4855,7 +4855,7 @@ demonstrates
 demonstration
 : 	 non
 den
-: 	 peut-être
+: 	 yes
 denial
 : 	 non
 denied
@@ -4875,7 +4875,7 @@ dentists
 denver
 : 	 non
 deny
-: 	 peut-être
+: 	 yes
 department
 : 	 non
 departmental
@@ -4905,13 +4905,13 @@ depot
 depression
 : 	 non
 dept
-: 	 peut-être
+: 	 yes
 depth
 : 	 non
 deputy
 : 	 non
 der
-: 	 peut-être
+: 	 yes
 derby
 : 	 non
 derek
@@ -4919,7 +4919,7 @@ derek
 derived
 : 	 non
 des
-: 	 peut-être
+: 	 yes
 descending
 : 	 non
 describe
@@ -4961,7 +4961,7 @@ desire
 desired
 : 	 non
 desk
-: 	 peut-être
+: 	 yes
 desktop
 : 	 non
 desktops
@@ -5017,7 +5017,7 @@ deutsche
 deutschland
 : 	 non
 dev
-: 	 peut-être
+: 	 yes
 devel
 : 	 non
 develop
@@ -5069,7 +5069,7 @@ diagnostic
 diagram
 : 	 non
 dial
-: 	 peut-être
+: 	 yes
 dialog
 : 	 non
 dialogue
@@ -5087,9 +5087,9 @@ diane
 diary
 : 	 non
 dice
-: 	 peut-être
+: 	 yes
 dick
-: 	 peut-être
+: 	 yes
 dicke
 : 	 non
 dicks
@@ -5099,23 +5099,23 @@ dictionaries
 dictionary
 : 	 non
 did
-: 	 peut-être
+: 	 yes
 die
-: 	 peut-être
+: 	 yes
 died
-: 	 peut-être
+: 	 yes
 diego
 : 	 non
 dies
-: 	 peut-être
+: 	 yes
 diesel
 : 	 non
 diet
-: 	 peut-être
+: 	 yes
 dietary
 : 	 non
 diff
-: 	 peut-être
+: 	 yes
 differ
 : 	 non
 difference
@@ -5137,7 +5137,7 @@ difficulty
 diffs
 : 	 non
 dig
-: 	 peut-être
+: 	 yes
 digest
 : 	 non
 digit
@@ -5149,7 +5149,7 @@ dildo
 dildos
 : 	 non
 dim
-: 	 peut-être
+: 	 yes
 dimension
 : 	 non
 dimensional
@@ -5161,11 +5161,11 @@ dining
 dinner
 : 	 non
 dip
-: 	 peut-être
+: 	 yes
 diploma
 : 	 non
 dir
-: 	 peut-être
+: 	 yes
 direct
 : 	 non
 directed
@@ -5187,11 +5187,11 @@ directors
 directory
 : 	 non
 dirt
-: 	 peut-être
+: 	 yes
 dirty
 : 	 non
 dis
-: 	 peut-être
+: 	 yes
 disabilities
 : 	 non
 disability
@@ -5207,7 +5207,7 @@ disappointed
 disaster
 : 	 non
 disc
-: 	 peut-être
+: 	 yes
 discharge
 : 	 non
 disciplinary
@@ -5263,11 +5263,11 @@ disease
 diseases
 : 	 non
 dish
-: 	 peut-être
+: 	 yes
 dishes
 : 	 non
 disk
-: 	 peut-être
+: 	 yes
 disks
 : 	 non
 disney
@@ -5297,7 +5297,7 @@ dispute
 disputes
 : 	 non
 dist
-: 	 peut-être
+: 	 yes
 distance
 : 	 non
 distances
@@ -5329,9 +5329,9 @@ districts
 disturbed
 : 	 non
 div
-: 	 peut-être
+: 	 yes
 dive
-: 	 peut-être
+: 	 yes
 diverse
 : 	 non
 diversity
@@ -5353,9 +5353,9 @@ divisions
 divorce
 : 	 non
 divx
-: 	 peut-être
+: 	 yes
 diy
-: 	 peut-être
+: 	 yes
 dj
 : 	 non
 dk
@@ -5365,17 +5365,17 @@ dl
 dm
 : 	 non
 dna
-: 	 peut-être
+: 	 yes
 dns
-: 	 peut-être
+: 	 yes
 do
 : 	 non
 doc
-: 	 peut-être
+: 	 yes
 dock
-: 	 peut-être
+: 	 yes
 docs
-: 	 peut-être
+: 	 yes
 doctor
 : 	 non
 doctors
@@ -5395,21 +5395,21 @@ documented
 documents
 : 	 non
 dod
-: 	 peut-être
+: 	 yes
 dodge
 : 	 non
 doe
-: 	 peut-être
+: 	 yes
 does
-: 	 peut-être
+: 	 yes
 dog
-: 	 peut-être
+: 	 yes
 dogs
-: 	 peut-être
+: 	 yes
 doing
 : 	 non
 doll
-: 	 peut-être
+: 	 yes
 dollar
 : 	 non
 dollars
@@ -5417,13 +5417,13 @@ dollars
 dolls
 : 	 non
 dom
-: 	 peut-être
+: 	 yes
 domain
 : 	 non
 domains
 : 	 non
 dome
-: 	 peut-être
+: 	 yes
 domestic
 : 	 non
 dominant
@@ -5431,7 +5431,7 @@ dominant
 dominican
 : 	 non
 don
-: 	 peut-être
+: 	 yes
 donald
 : 	 non
 donate
@@ -5443,7 +5443,7 @@ donation
 donations
 : 	 non
 done
-: 	 peut-être
+: 	 yes
 donna
 : 	 non
 donor
@@ -5451,35 +5451,35 @@ donor
 donors
 : 	 non
 dont
-: 	 peut-être
+: 	 yes
 doom
-: 	 peut-être
+: 	 yes
 door
-: 	 peut-être
+: 	 yes
 doors
 : 	 non
 dos
-: 	 peut-être
+: 	 yes
 dosage
 : 	 non
 dose
-: 	 peut-être
+: 	 yes
 dot
-: 	 peut-être
+: 	 yes
 double
 : 	 non
 doubt
 : 	 non
 doug
-: 	 peut-être
+: 	 yes
 douglas
 : 	 non
 dover
 : 	 non
 dow
-: 	 peut-être
+: 	 yes
 down
-: 	 peut-être
+: 	 yes
 download
 : 	 non
 downloadable
@@ -5501,13 +5501,13 @@ dozens
 dp
 : 	 non
 dpi
-: 	 peut-être
+: 	 yes
 dr
 : 	 non
 draft
 : 	 non
 drag
-: 	 peut-être
+: 	 yes
 dragon
 : 	 non
 drain
@@ -5521,7 +5521,7 @@ dramatic
 dramatically
 : 	 non
 draw
-: 	 peut-être
+: 	 yes
 drawing
 : 	 non
 drawings
@@ -5543,7 +5543,7 @@ dresses
 dressing
 : 	 non
 drew
-: 	 peut-être
+: 	 yes
 dried
 : 	 non
 drill
@@ -5569,7 +5569,7 @@ drives
 driving
 : 	 non
 drop
-: 	 peut-être
+: 	 yes
 dropped
 : 	 non
 drops
@@ -5577,55 +5577,55 @@ drops
 drove
 : 	 non
 drug
-: 	 peut-être
+: 	 yes
 drugs
 : 	 non
 drum
-: 	 peut-être
+: 	 yes
 drums
 : 	 non
 drunk
 : 	 non
 dry
-: 	 peut-être
+: 	 yes
 dryer
 : 	 non
 ds
 : 	 non
 dsc
-: 	 peut-être
+: 	 yes
 dsl
-: 	 peut-être
+: 	 yes
 dt
 : 	 non
 dts
-: 	 peut-être
+: 	 yes
 du
 : 	 non
 dual
-: 	 peut-être
+: 	 yes
 dubai
 : 	 non
 dublin
 : 	 non
 duck
-: 	 peut-être
+: 	 yes
 dude
-: 	 peut-être
+: 	 yes
 due
-: 	 peut-être
+: 	 yes
 dui
-: 	 peut-être
+: 	 yes
 duke
-: 	 peut-être
+: 	 yes
 dumb
-: 	 peut-être
+: 	 yes
 dump
-: 	 peut-être
+: 	 yes
 duncan
 : 	 non
 duo
-: 	 peut-être
+: 	 yes
 duplicate
 : 	 non
 durable
@@ -5637,19 +5637,19 @@ durham
 during
 : 	 non
 dust
-: 	 peut-être
+: 	 yes
 dutch
 : 	 non
 duties
 : 	 non
 duty
-: 	 peut-être
+: 	 yes
 dv
 : 	 non
 dvd
-: 	 peut-être
+: 	 yes
 dvds
-: 	 peut-être
+: 	 yes
 dx
 : 	 non
 dying
@@ -5665,15 +5665,15 @@ e
 ea
 : 	 non
 each
-: 	 peut-être
+: 	 yes
 eagle
 : 	 non
 eagles
 : 	 non
 ear
-: 	 peut-être
+: 	 yes
 earl
-: 	 peut-être
+: 	 yes
 earlier
 : 	 non
 earliest
@@ -5681,7 +5681,7 @@ earliest
 early
 : 	 non
 earn
-: 	 peut-être
+: 	 yes
 earned
 : 	 non
 earning
@@ -5691,33 +5691,33 @@ earnings
 earrings
 : 	 non
 ears
-: 	 peut-être
+: 	 yes
 earth
 : 	 non
 earthquake
 : 	 non
 ease
-: 	 peut-être
+: 	 yes
 easier
 : 	 non
 easily
 : 	 non
 east
-: 	 peut-être
+: 	 yes
 easter
 : 	 non
 eastern
 : 	 non
 easy
-: 	 peut-être
+: 	 yes
 eat
-: 	 peut-être
+: 	 yes
 eating
 : 	 non
 eau
-: 	 peut-être
+: 	 yes
 ebay
-: 	 peut-être
+: 	 yes
 ebony
 : 	 non
 ebook
@@ -5727,11 +5727,11 @@ ebooks
 ec
 : 	 non
 echo
-: 	 peut-être
+: 	 yes
 eclipse
 : 	 non
 eco
-: 	 peut-être
+: 	 yes
 ecological
 : 	 non
 ecology
@@ -5753,17 +5753,17 @@ ed
 eddie
 : 	 non
 eden
-: 	 peut-être
+: 	 yes
 edgar
 : 	 non
 edge
-: 	 peut-être
+: 	 yes
 edges
 : 	 non
 edinburgh
 : 	 non
 edit
-: 	 peut-être
+: 	 yes
 edited
 : 	 non
 editing
@@ -5783,9 +5783,9 @@ editors
 edmonton
 : 	 non
 eds
-: 	 peut-être
+: 	 yes
 edt
-: 	 peut-être
+: 	 yes
 educated
 : 	 non
 education
@@ -5825,9 +5825,9 @@ efforts
 eg
 : 	 non
 egg
-: 	 peut-être
+: 	 yes
 eggs
-: 	 peut-être
+: 	 yes
 egypt
 : 	 non
 egyptian
@@ -5903,7 +5903,7 @@ elliott
 ellis
 : 	 non
 else
-: 	 peut-être
+: 	 yes
 elsewhere
 : 	 non
 elvis
@@ -5925,7 +5925,7 @@ emerald
 emergency
 : 	 non
 emerging
-: 	 peut-être
+: 	 non
 emily
 : 	 non
 eminem
@@ -5937,7 +5937,7 @@ emission
 emissions
 : 	 non
 emma
-: 	 peut-être
+: 	 yes
 emotional
 : 	 non
 emotions
@@ -5977,7 +5977,7 @@ enables
 enabling
 : 	 non
 enb
-: 	 peut-être
+: 	 yes
 enclosed
 : 	 non
 enclosure
@@ -6001,7 +6001,7 @@ encryption
 encyclopedia
 : 	 non
 end
-: 	 peut-être
+: 	 yes
 endangered
 : 	 non
 ended
@@ -6017,7 +6017,7 @@ endorsed
 endorsement
 : 	 non
 ends
-: 	 peut-être
+: 	 yes
 enemies
 : 	 non
 enemy
@@ -6027,7 +6027,7 @@ energy
 enforcement
 : 	 non
 eng
-: 	 peut-être
+: 	 yes
 engage
 : 	 non
 engaged
@@ -6091,7 +6091,7 @@ ensures
 ensuring
 : 	 non
 ent
-: 	 peut-être
+: 	 yes
 enter
 : 	 non
 entered
@@ -6139,13 +6139,13 @@ environments
 enzyme
 : 	 non
 eos
-: 	 peut-être
+: 	 yes
 ep
 : 	 non
 epa
-: 	 peut-être
+: 	 yes
 epic
-: 	 peut-être
+: 	 yes
 epinions
 : 	 non
 epinionscom
@@ -6181,19 +6181,19 @@ equivalent
 er
 : 	 non
 era
-: 	 peut-être
+: 	 yes
 eric
-: 	 peut-être
+: 	 yes
 ericsson
 : 	 non
 erik
-: 	 peut-être
+: 	 yes
 erotic
 : 	 non
 erotica
 : 	 non
 erp
-: 	 peut-être
+: 	 yes
 error
 : 	 non
 errors
@@ -6209,7 +6209,7 @@ escorts
 especially
 : 	 non
 espn
-: 	 peut-être
+: 	 yes
 essay
 : 	 non
 essays
@@ -6225,7 +6225,7 @@ essentials
 essex
 : 	 non
 est
-: 	 peut-être
+: 	 yes
 establish
 : 	 non
 established
@@ -6251,7 +6251,7 @@ estonia
 et
 : 	 non
 etc
-: 	 peut-être
+: 	 yes
 eternal
 : 	 non
 ethernet
@@ -6269,9 +6269,9 @@ eu
 eugene
 : 	 non
 eur
-: 	 peut-être
+: 	 yes
 euro
-: 	 peut-être
+: 	 yes
 europe
 : 	 non
 european
@@ -6281,9 +6281,9 @@ euros
 ev
 : 	 non
 eva
-: 	 peut-être
+: 	 yes
 eval
-: 	 peut-être
+: 	 yes
 evaluate
 : 	 non
 evaluated
@@ -6299,9 +6299,9 @@ evanescence
 evans
 : 	 non
 eve
-: 	 peut-être
+: 	 yes
 even
-: 	 peut-être
+: 	 yes
 evening
 : 	 non
 event
@@ -6311,7 +6311,7 @@ events
 eventually
 : 	 non
 ever
-: 	 peut-être
+: 	 yes
 every
 : 	 non
 everybody
@@ -6329,7 +6329,7 @@ evidence
 evident
 : 	 non
 evil
-: 	 peut-être
+: 	 yes
 evolution
 : 	 non
 ex
@@ -6339,7 +6339,7 @@ exact
 exactly
 : 	 non
 exam
-: 	 peut-être
+: 	 yes
 examination
 : 	 non
 examinations
@@ -6405,7 +6405,7 @@ exclusively
 excuse
 : 	 non
 exec
-: 	 peut-être
+: 	 yes
 execute
 : 	 non
 executed
@@ -6445,11 +6445,11 @@ existing
 exists
 : 	 non
 exit
-: 	 peut-être
+: 	 yes
 exotic
 : 	 non
 exp
-: 	 peut-être
+: 	 yes
 expand
 : 	 non
 expanded
@@ -6531,7 +6531,7 @@ exploring
 explosion
 : 	 non
 expo
-: 	 peut-être
+: 	 yes
 export
 : 	 non
 exports
@@ -6549,7 +6549,7 @@ expression
 expressions
 : 	 non
 ext
-: 	 peut-être
+: 	 yes
 extend
 : 	 non
 extended
@@ -6585,11 +6585,11 @@ extreme
 extremely
 : 	 non
 eye
-: 	 peut-être
+: 	 yes
 eyed
-: 	 peut-être
+: 	 yes
 eyes
-: 	 peut-être
+: 	 yes
 ez
 : 	 non
 f
@@ -6603,7 +6603,7 @@ fabrics
 fabulous
 : 	 non
 face
-: 	 peut-être
+: 	 yes
 faced
 : 	 non
 faces
@@ -6619,7 +6619,7 @@ facility
 facing
 : 	 non
 fact
-: 	 peut-être
+: 	 yes
 factor
 : 	 non
 factors
@@ -6631,7 +6631,7 @@ facts
 faculty
 : 	 non
 fail
-: 	 peut-être
+: 	 yes
 failed
 : 	 non
 failing
@@ -6643,7 +6643,7 @@ failure
 failures
 : 	 non
 fair
-: 	 peut-être
+: 	 yes
 fairfield
 : 	 non
 fairly
@@ -6653,9 +6653,9 @@ fairy
 faith
 : 	 non
 fake
-: 	 peut-être
+: 	 yes
 fall
-: 	 peut-être
+: 	 yes
 fallen
 : 	 non
 falling
@@ -6665,7 +6665,7 @@ falls
 false
 : 	 non
 fame
-: 	 peut-être
+: 	 yes
 familiar
 : 	 non
 families
@@ -6675,27 +6675,27 @@ family
 famous
 : 	 non
 fan
-: 	 peut-être
+: 	 yes
 fancy
 : 	 non
 fans
-: 	 peut-être
+: 	 yes
 fantastic
 : 	 non
 fantasy
 : 	 non
 faq
-: 	 peut-être
+: 	 yes
 faqs
-: 	 peut-être
+: 	 yes
 far
-: 	 peut-être
+: 	 yes
 fare
-: 	 peut-être
+: 	 yes
 fares
 : 	 non
 farm
-: 	 peut-être
+: 	 yes
 farmer
 : 	 non
 farmers
@@ -6709,17 +6709,17 @@ fascinating
 fashion
 : 	 non
 fast
-: 	 peut-être
+: 	 yes
 faster
 : 	 non
 fastest
 : 	 non
 fat
-: 	 peut-être
+: 	 yes
 fatal
 : 	 non
 fate
-: 	 peut-être
+: 	 yes
 father
 : 	 non
 fathers
@@ -6743,25 +6743,25 @@ favourite
 favourites
 : 	 non
 fax
-: 	 peut-être
+: 	 yes
 fbi
-: 	 peut-être
+: 	 yes
 fc
 : 	 non
 fcc
-: 	 peut-être
+: 	 yes
 fd
 : 	 non
 fda
-: 	 peut-être
+: 	 yes
 fe
 : 	 non
 fear
-: 	 peut-être
+: 	 yes
 fears
 : 	 non
 feat
-: 	 peut-être
+: 	 yes
 feature
 : 	 non
 featured
@@ -6771,19 +6771,19 @@ features
 featuring
 : 	 non
 feb
-: 	 peut-être
+: 	 yes
 february
 : 	 non
 fed
-: 	 peut-être
+: 	 yes
 federal
 : 	 non
 federation
 : 	 non
 fee
-: 	 peut-être
+: 	 yes
 feed
-: 	 peut-être
+: 	 yes
 feedback
 : 	 non
 feeding
@@ -6791,7 +6791,7 @@ feeding
 feeds
 : 	 non
 feel
-: 	 peut-être
+: 	 yes
 feeling
 : 	 non
 feelings
@@ -6799,17 +6799,17 @@ feelings
 feels
 : 	 non
 fees
-: 	 peut-être
+: 	 yes
 feet
-: 	 peut-être
+: 	 yes
 fell
-: 	 peut-être
+: 	 yes
 fellow
 : 	 non
 fellowship
 : 	 non
 felt
-: 	 peut-être
+: 	 yes
 female
 : 	 non
 females
@@ -6817,7 +6817,7 @@ females
 fence
 : 	 non
 feof
-: 	 peut-être
+: 	 yes
 ferrari
 : 	 non
 ferry
@@ -6831,7 +6831,7 @@ fetish
 fever
 : 	 non
 few
-: 	 peut-être
+: 	 yes
 fewer
 : 	 non
 ff
@@ -6857,7 +6857,7 @@ fifth
 fifty
 : 	 non
 fig
-: 	 peut-être
+: 	 yes
 fight
 : 	 non
 fighter
@@ -6873,9 +6873,9 @@ figured
 figures
 : 	 non
 fiji
-: 	 peut-être
+: 	 yes
 file
-: 	 peut-être
+: 	 yes
 filed
 : 	 non
 filename
@@ -6885,13 +6885,13 @@ files
 filing
 : 	 non
 fill
-: 	 peut-être
+: 	 yes
 filled
 : 	 non
 filling
 : 	 non
 film
-: 	 peut-être
+: 	 yes
 filme
 : 	 non
 films
@@ -6903,7 +6903,7 @@ filtering
 filters
 : 	 non
 fin
-: 	 peut-être
+: 	 yes
 final
 : 	 non
 finally
@@ -6919,7 +6919,7 @@ financial
 financing
 : 	 non
 find
-: 	 peut-être
+: 	 yes
 findarticles
 : 	 non
 finder
@@ -6933,7 +6933,7 @@ findlaw
 finds
 : 	 non
 fine
-: 	 peut-être
+: 	 yes
 finest
 : 	 non
 finger
@@ -6957,7 +6957,7 @@ finnish
 fioricet
 : 	 non
 fire
-: 	 peut-être
+: 	 yes
 fired
 : 	 non
 firefox
@@ -6971,7 +6971,7 @@ firewall
 firewire
 : 	 non
 firm
-: 	 peut-être
+: 	 yes
 firms
 : 	 non
 firmware
@@ -6981,7 +6981,7 @@ first
 fiscal
 : 	 non
 fish
-: 	 peut-être
+: 	 yes
 fisher
 : 	 non
 fisheries
@@ -6989,23 +6989,23 @@ fisheries
 fishing
 : 	 non
 fist
-: 	 peut-être
+: 	 yes
 fisting
 : 	 non
 fit
-: 	 peut-être
+: 	 yes
 fitness
 : 	 non
 fits
-: 	 peut-être
+: 	 yes
 fitted
 : 	 non
 fitting
 : 	 non
 five
-: 	 peut-être
+: 	 yes
 fix
-: 	 peut-être
+: 	 yes
 fixed
 : 	 non
 fixes
@@ -7015,9 +7015,9 @@ fixtures
 fl
 : 	 non
 fla
-: 	 peut-être
+: 	 yes
 flag
-: 	 peut-être
+: 	 yes
 flags
 : 	 non
 flame
@@ -7029,7 +7029,7 @@ flashers
 flashing
 : 	 non
 flat
-: 	 peut-être
+: 	 yes
 flavor
 : 	 non
 fleece
@@ -7039,7 +7039,7 @@ fleet
 flesh
 : 	 non
 flex
-: 	 peut-être
+: 	 yes
 flexibility
 : 	 non
 flexible
@@ -7051,7 +7051,7 @@ flight
 flights
 : 	 non
 flip
-: 	 peut-être
+: 	 yes
 float
 : 	 non
 floating
@@ -7079,7 +7079,7 @@ florists
 flour
 : 	 non
 flow
-: 	 peut-être
+: 	 yes
 flower
 : 	 non
 flowers
@@ -7089,15 +7089,15 @@ flows
 floyd
 : 	 non
 flu
-: 	 peut-être
+: 	 yes
 fluid
 : 	 non
 flush
 : 	 non
 flux
-: 	 peut-être
+: 	 yes
 fly
-: 	 peut-être
+: 	 yes
 flyer
 : 	 non
 flying
@@ -7107,7 +7107,7 @@ fm
 fo
 : 	 non
 foam
-: 	 peut-être
+: 	 yes
 focal
 : 	 non
 focus
@@ -7119,9 +7119,9 @@ focuses
 focusing
 : 	 non
 fog
-: 	 peut-être
+: 	 yes
 fold
-: 	 peut-être
+: 	 yes
 folder
 : 	 non
 folders
@@ -7129,7 +7129,7 @@ folders
 folding
 : 	 non
 folk
-: 	 peut-être
+: 	 yes
 folks
 : 	 non
 follow
@@ -7141,19 +7141,19 @@ following
 follows
 : 	 non
 font
-: 	 peut-être
+: 	 yes
 fonts
 : 	 non
 foo
-: 	 peut-être
+: 	 yes
 food
-: 	 peut-être
+: 	 yes
 foods
 : 	 non
 fool
-: 	 peut-être
+: 	 yes
 foot
-: 	 peut-être
+: 	 yes
 footage
 : 	 non
 football
@@ -7161,7 +7161,7 @@ football
 footwear
 : 	 non
 for
-: 	 peut-être
+: 	 yes
 forbes
 : 	 non
 forbidden
@@ -7173,7 +7173,7 @@ forced
 forces
 : 	 non
 ford
-: 	 peut-être
+: 	 yes
 forecast
 : 	 non
 forecasts
@@ -7197,9 +7197,9 @@ forgot
 forgotten
 : 	 non
 fork
-: 	 peut-être
+: 	 yes
 form
-: 	 peut-être
+: 	 yes
 formal
 : 	 non
 format
@@ -7223,7 +7223,7 @@ forms
 formula
 : 	 non
 fort
-: 	 peut-être
+: 	 yes
 forth
 : 	 non
 fortune
@@ -7243,13 +7243,13 @@ fossil
 foster
 : 	 non
 foto
-: 	 peut-être
+: 	 yes
 fotos
 : 	 non
 fought
 : 	 non
 foul
-: 	 peut-être
+: 	 yes
 found
 : 	 non
 foundation
@@ -7263,11 +7263,11 @@ founder
 fountain
 : 	 non
 four
-: 	 peut-être
+: 	 yes
 fourth
 : 	 non
 fox
-: 	 peut-être
+: 	 yes
 fp
 : 	 non
 fr
@@ -7307,11 +7307,11 @@ fraser
 fraud
 : 	 non
 fred
-: 	 peut-être
+: 	 yes
 frederick
 : 	 non
 free
-: 	 peut-être
+: 	 yes
 freebsd
 : 	 non
 freedom
@@ -7339,7 +7339,7 @@ frequently
 fresh
 : 	 non
 fri
-: 	 peut-être
+: 	 yes
 friday
 : 	 non
 fridge
@@ -7353,9 +7353,9 @@ friends
 friendship
 : 	 non
 frog
-: 	 peut-être
+: 	 yes
 from
-: 	 peut-être
+: 	 yes
 front
 : 	 non
 frontier
@@ -7375,27 +7375,27 @@ fs
 ft
 : 	 non
 ftp
-: 	 peut-être
+: 	 yes
 fu
 : 	 non
 fuck
-: 	 peut-être
+: 	 yes
 fucked
 : 	 non
 fucking
 : 	 non
 fuel
-: 	 peut-être
+: 	 yes
 fuji
-: 	 peut-être
+: 	 yes
 fujitsu
 : 	 non
 full
-: 	 peut-être
+: 	 yes
 fully
 : 	 non
 fun
-: 	 peut-être
+: 	 yes
 function
 : 	 non
 functional
@@ -7407,7 +7407,7 @@ functioning
 functions
 : 	 non
 fund
-: 	 peut-être
+: 	 yes
 fundamental
 : 	 non
 fundamentals
@@ -7423,13 +7423,13 @@ funds
 funeral
 : 	 non
 funk
-: 	 peut-être
+: 	 yes
 funky
 : 	 non
 funny
 : 	 non
 fur
-: 	 peut-être
+: 	 yes
 furnished
 : 	 non
 furnishings
@@ -7451,7 +7451,7 @@ fuzzy
 fw
 : 	 non
 fwd
-: 	 peut-être
+: 	 yes
 fx
 : 	 non
 fy
@@ -7465,9 +7465,9 @@ gabriel
 gadgets
 : 	 non
 gage
-: 	 peut-être
+: 	 yes
 gain
-: 	 peut-être
+: 	 yes
 gained
 : 	 non
 gains
@@ -7475,7 +7475,7 @@ gains
 galaxy
 : 	 non
 gale
-: 	 peut-être
+: 	 yes
 galleries
 : 	 non
 gallery
@@ -7483,7 +7483,7 @@ gallery
 gambling
 : 	 non
 game
-: 	 peut-être
+: 	 yes
 gamecube
 : 	 non
 games
@@ -7495,13 +7495,13 @@ gaming
 gamma
 : 	 non
 gang
-: 	 peut-être
+: 	 yes
 gangbang
 : 	 non
 gap
-: 	 peut-être
+: 	 yes
 gaps
-: 	 peut-être
+: 	 yes
 garage
 : 	 non
 garbage
@@ -7519,13 +7519,13 @@ garlic
 garmin
 : 	 non
 gary
-: 	 peut-être
+: 	 yes
 gas
-: 	 peut-être
+: 	 yes
 gasoline
 : 	 non
 gate
-: 	 peut-être
+: 	 yes
 gates
 : 	 non
 gateway
@@ -7539,43 +7539,43 @@ gathering
 gauge
 : 	 non
 gave
-: 	 peut-être
+: 	 yes
 gay
-: 	 peut-être
+: 	 yes
 gays
-: 	 peut-être
+: 	 yes
 gazette
 : 	 non
 gb
 : 	 non
 gba
-: 	 peut-être
+: 	 yes
 gbp
-: 	 peut-être
+: 	 yes
 gc
 : 	 non
 gcc
-: 	 peut-être
+: 	 yes
 gd
 : 	 non
 gdp
-: 	 peut-être
+: 	 yes
 ge
 : 	 non
 gear
-: 	 peut-être
+: 	 yes
 geek
-: 	 peut-être
+: 	 yes
 gel
-: 	 peut-être
+: 	 yes
 gem
-: 	 peut-être
+: 	 yes
 gen
-: 	 peut-être
+: 	 yes
 gender
 : 	 non
 gene
-: 	 peut-être
+: 	 yes
 genealogy
 : 	 non
 general
@@ -7629,7 +7629,7 @@ gently
 genuine
 : 	 non
 geo
-: 	 peut-être
+: 	 yes
 geographic
 : 	 non
 geographical
@@ -7653,9 +7653,9 @@ german
 germany
 : 	 non
 get
-: 	 peut-être
+: 	 yes
 gets
-: 	 peut-être
+: 	 yes
 getting
 : 	 non
 gg
@@ -7665,7 +7665,7 @@ ghana
 ghost
 : 	 non
 ghz
-: 	 peut-être
+: 	 yes
 gi
 : 	 non
 giant
@@ -7677,25 +7677,25 @@ gibraltar
 gibson
 : 	 non
 gif
-: 	 peut-être
+: 	 yes
 gift
-: 	 peut-être
+: 	 yes
 gifts
 : 	 non
 gig
-: 	 peut-être
+: 	 yes
 gilbert
 : 	 non
 girl
-: 	 peut-être
+: 	 yes
 girlfriend
 : 	 non
 girls
 : 	 non
 gis
-: 	 peut-être
+: 	 yes
 give
-: 	 peut-être
+: 	 yes
 given
 : 	 non
 gives
@@ -7705,7 +7705,7 @@ giving
 gl
 : 	 non
 glad
-: 	 peut-être
+: 	 yes
 glance
 : 	 non
 glasgow
@@ -7715,7 +7715,7 @@ glass
 glasses
 : 	 non
 glen
-: 	 peut-être
+: 	 yes
 glenn
 : 	 non
 global
@@ -7729,49 +7729,49 @@ glossary
 gloves
 : 	 non
 glow
-: 	 peut-être
+: 	 yes
 glucose
 : 	 non
 gm
 : 	 non
 gmbh
-: 	 peut-être
+: 	 yes
 gmc
-: 	 peut-être
+: 	 yes
 gmt
-: 	 peut-être
+: 	 yes
 gnome
 : 	 non
 gnu
-: 	 peut-être
+: 	 yes
 go
 : 	 non
 goal
-: 	 peut-être
+: 	 yes
 goals
 : 	 non
 goat
-: 	 peut-être
+: 	 yes
 god
-: 	 peut-être
+: 	 yes
 gods
-: 	 peut-être
+: 	 yes
 goes
-: 	 peut-être
+: 	 yes
 going
 : 	 non
 gold
-: 	 peut-être
+: 	 yes
 golden
 : 	 non
 golf
-: 	 peut-être
+: 	 yes
 gone
-: 	 peut-être
+: 	 yes
 gonna
 : 	 non
 good
-: 	 peut-être
+: 	 yes
 goods
 : 	 non
 google
@@ -7779,7 +7779,7 @@ google
 gordon
 : 	 non
 gore
-: 	 peut-être
+: 	 yes
 gorgeous
 : 	 non
 gospel
@@ -7787,11 +7787,11 @@ gospel
 gossip
 : 	 non
 got
-: 	 peut-être
+: 	 yes
 gothic
 : 	 non
 goto
-: 	 peut-être
+: 	 yes
 gotta
 : 	 non
 gotten
@@ -7799,7 +7799,7 @@ gotten
 gourmet
 : 	 non
 gov
-: 	 peut-être
+: 	 yes
 governance
 : 	 non
 governing
@@ -7813,21 +7813,21 @@ governments
 governor
 : 	 non
 govt
-: 	 peut-être
+: 	 yes
 gp
 : 	 non
 gpl
-: 	 peut-être
+: 	 yes
 gps
-: 	 peut-être
+: 	 yes
 gr
 : 	 non
 grab
-: 	 peut-être
+: 	 yes
 grace
 : 	 non
 grad
-: 	 peut-être
+: 	 yes
 grade
 : 	 non
 grades
@@ -7873,7 +7873,7 @@ graphics
 graphs
 : 	 non
 gras
-: 	 peut-être
+: 	 yes
 grass
 : 	 non
 grateful
@@ -7887,7 +7887,7 @@ grave
 gravity
 : 	 non
 gray
-: 	 peut-être
+: 	 yes
 great
 : 	 non
 greater
@@ -7913,23 +7913,23 @@ greeting
 greetings
 : 	 non
 greg
-: 	 peut-être
+: 	 yes
 gregory
 : 	 non
 grenada
 : 	 non
 grew
-: 	 peut-être
+: 	 yes
 grey
-: 	 peut-être
+: 	 yes
 grid
-: 	 peut-être
+: 	 yes
 griffin
 : 	 non
 grill
 : 	 non
 grip
-: 	 peut-être
+: 	 yes
 grocery
 : 	 non
 groove
@@ -7949,7 +7949,7 @@ groups
 grove
 : 	 non
 grow
-: 	 peut-être
+: 	 yes
 growing
 : 	 non
 grown
@@ -7961,15 +7961,15 @@ growth
 gs
 : 	 non
 gsm
-: 	 peut-être
+: 	 yes
 gst
-: 	 peut-être
+: 	 yes
 gt
 : 	 non
 gtk
-: 	 peut-être
+: 	 yes
 guam
-: 	 peut-être
+: 	 yes
 guarantee
 : 	 non
 guaranteed
@@ -7993,7 +7993,7 @@ guestbook
 guests
 : 	 non
 gui
-: 	 peut-être
+: 	 yes
 guidance
 : 	 non
 guide
@@ -8015,23 +8015,23 @@ guitar
 guitars
 : 	 non
 gulf
-: 	 peut-être
+: 	 yes
 gun
-: 	 peut-être
+: 	 yes
 guns
-: 	 peut-être
+: 	 yes
 guru
-: 	 peut-être
+: 	 yes
 guy
-: 	 peut-être
+: 	 yes
 guyana
 : 	 non
 guys
-: 	 peut-être
+: 	 yes
 gym
-: 	 peut-être
+: 	 yes
 gzip
-: 	 peut-être
+: 	 yes
 h
 : 	 non
 ha
@@ -8041,31 +8041,31 @@ habitat
 habits
 : 	 non
 hack
-: 	 peut-être
+: 	 yes
 hacker
 : 	 non
 had
-: 	 peut-être
+: 	 yes
 hair
-: 	 peut-être
+: 	 yes
 hairy
 : 	 non
 haiti
 : 	 non
 half
-: 	 peut-être
+: 	 yes
 halfcom
 : 	 non
 halifax
 : 	 non
 hall
-: 	 peut-être
+: 	 yes
 halloween
 : 	 non
 halo
-: 	 peut-être
+: 	 yes
 ham
-: 	 peut-être
+: 	 yes
 hamburg
 : 	 non
 hamilton
@@ -8077,7 +8077,7 @@ hampshire
 hampton
 : 	 non
 hand
-: 	 peut-être
+: 	 yes
 handbags
 : 	 non
 handbook
@@ -8107,11 +8107,11 @@ hands
 handy
 : 	 non
 hang
-: 	 peut-être
+: 	 yes
 hanging
 : 	 non
 hans
-: 	 peut-être
+: 	 yes
 hansen
 : 	 non
 happen
@@ -8133,7 +8133,7 @@ harbor
 harbour
 : 	 non
 hard
-: 	 peut-être
+: 	 yes
 hardcore
 : 	 non
 hardcover
@@ -8149,7 +8149,7 @@ hardwood
 harley
 : 	 non
 harm
-: 	 peut-être
+: 	 yes
 harmful
 : 	 non
 harmony
@@ -8165,7 +8165,7 @@ harrison
 harry
 : 	 non
 hart
-: 	 peut-être
+: 	 yes
 hartford
 : 	 non
 harvard
@@ -8175,17 +8175,17 @@ harvest
 harvey
 : 	 non
 has
-: 	 peut-être
+: 	 yes
 hash
-: 	 peut-être
+: 	 yes
 hat
-: 	 peut-être
+: 	 yes
 hate
-: 	 peut-être
+: 	 yes
 hats
-: 	 peut-être
+: 	 yes
 have
-: 	 peut-être
+: 	 yes
 haven
 : 	 non
 having
@@ -8195,9 +8195,9 @@ hawaii
 hawaiian
 : 	 non
 hawk
-: 	 peut-être
+: 	 yes
 hay
-: 	 peut-être
+: 	 yes
 hayes
 : 	 non
 hazard
@@ -8213,11 +8213,11 @@ hc
 hd
 : 	 non
 hdtv
-: 	 peut-être
+: 	 yes
 he
 : 	 non
 head
-: 	 peut-être
+: 	 yes
 headed
 : 	 non
 header
@@ -8247,7 +8247,7 @@ healthcare
 healthy
 : 	 non
 hear
-: 	 peut-être
+: 	 yes
 heard
 : 	 non
 hearing
@@ -8259,7 +8259,7 @@ heart
 hearts
 : 	 non
 heat
-: 	 peut-être
+: 	 yes
 heated
 : 	 non
 heater
@@ -8279,13 +8279,13 @@ heavy
 hebrew
 : 	 non
 heel
-: 	 peut-être
+: 	 yes
 height
 : 	 non
 heights
 : 	 non
 held
-: 	 peut-être
+: 	 yes
 helen
 : 	 non
 helena
@@ -8293,13 +8293,13 @@ helena
 helicopter
 : 	 non
 hell
-: 	 peut-être
+: 	 yes
 hello
 : 	 non
 helmet
 : 	 non
 help
-: 	 peut-être
+: 	 yes
 helped
 : 	 non
 helpful
@@ -8319,17 +8319,17 @@ hentai
 hepatitis
 : 	 non
 her
-: 	 peut-être
+: 	 yes
 herald
 : 	 non
 herb
-: 	 peut-être
+: 	 yes
 herbal
 : 	 non
 herbs
 : 	 non
 here
-: 	 peut-être
+: 	 yes
 hereby
 : 	 non
 herein
@@ -8337,7 +8337,7 @@ herein
 heritage
 : 	 non
 hero
-: 	 peut-être
+: 	 yes
 heroes
 : 	 non
 herself
@@ -8345,7 +8345,7 @@ herself
 hewlett
 : 	 non
 hey
-: 	 peut-être
+: 	 yes
 hh
 : 	 non
 hi
@@ -8353,11 +8353,11 @@ hi
 hidden
 : 	 non
 hide
-: 	 peut-être
+: 	 yes
 hierarchy
 : 	 non
 high
-: 	 peut-être
+: 	 yes
 higher
 : 	 non
 highest
@@ -8381,35 +8381,35 @@ highways
 hiking
 : 	 non
 hill
-: 	 peut-être
+: 	 yes
 hills
 : 	 non
 hilton
 : 	 non
 him
-: 	 peut-être
+: 	 yes
 himself
 : 	 non
 hindu
 : 	 non
 hint
-: 	 peut-être
+: 	 yes
 hints
 : 	 non
 hip
-: 	 peut-être
+: 	 yes
 hire
-: 	 peut-être
+: 	 yes
 hired
 : 	 non
 hiring
 : 	 non
 his
-: 	 peut-être
+: 	 yes
 hispanic
 : 	 non
 hist
-: 	 peut-être
+: 	 yes
 historic
 : 	 non
 historical
@@ -8417,15 +8417,15 @@ historical
 history
 : 	 non
 hit
-: 	 peut-être
+: 	 yes
 hitachi
 : 	 non
 hits
-: 	 peut-être
+: 	 yes
 hitting
 : 	 non
 hiv
-: 	 peut-être
+: 	 yes
 hk
 : 	 non
 hl
@@ -8439,7 +8439,7 @@ hobby
 hockey
 : 	 non
 hold
-: 	 peut-être
+: 	 yes
 holdem
 : 	 non
 holder
@@ -8453,7 +8453,7 @@ holdings
 holds
 : 	 non
 hole
-: 	 peut-être
+: 	 yes
 holes
 : 	 non
 holiday
@@ -8473,9 +8473,9 @@ holmes
 holocaust
 : 	 non
 holy
-: 	 peut-être
+: 	 yes
 home
-: 	 peut-être
+: 	 yes
 homeland
 : 	 non
 homeless
@@ -8489,7 +8489,7 @@ hometown
 homework
 : 	 non
 hon
-: 	 peut-être
+: 	 yes
 honda
 : 	 non
 honduras
@@ -8499,7 +8499,7 @@ honest
 honey
 : 	 non
 hong
-: 	 peut-être
+: 	 yes
 honolulu
 : 	 non
 honor
@@ -8507,13 +8507,13 @@ honor
 honors
 : 	 non
 hood
-: 	 peut-être
+: 	 yes
 hook
-: 	 peut-être
+: 	 yes
 hop
-: 	 peut-être
+: 	 yes
 hope
-: 	 peut-être
+: 	 yes
 hoped
 : 	 non
 hopefully
@@ -8531,7 +8531,7 @@ horizontal
 hormone
 : 	 non
 horn
-: 	 peut-être
+: 	 yes
 horny
 : 	 non
 horrible
@@ -8543,7 +8543,7 @@ horse
 horses
 : 	 non
 hose
-: 	 peut-être
+: 	 yes
 hospital
 : 	 non
 hospitality
@@ -8551,7 +8551,7 @@ hospitality
 hospitals
 : 	 non
 host
-: 	 peut-être
+: 	 yes
 hosted
 : 	 non
 hostel
@@ -8563,7 +8563,7 @@ hosting
 hosts
 : 	 non
 hot
-: 	 peut-être
+: 	 yes
 hotel
 : 	 non
 hotels
@@ -8575,7 +8575,7 @@ hotmail
 hottest
 : 	 non
 hour
-: 	 peut-être
+: 	 yes
 hourly
 : 	 non
 hours
@@ -8597,7 +8597,7 @@ housing
 houston
 : 	 non
 how
-: 	 peut-être
+: 	 yes
 howard
 : 	 non
 however
@@ -8611,33 +8611,33 @@ hq
 hr
 : 	 non
 href
-: 	 peut-être
+: 	 yes
 hrs
-: 	 peut-être
+: 	 yes
 hs
 : 	 non
 ht
 : 	 non
 html
-: 	 peut-être
+: 	 yes
 http
-: 	 peut-être
+: 	 yes
 hu
 : 	 non
 hub
-: 	 peut-être
+: 	 yes
 hudson
 : 	 non
 huge
-: 	 peut-être
+: 	 yes
 hugh
-: 	 peut-être
+: 	 yes
 hughes
 : 	 non
 hugo
-: 	 peut-être
+: 	 yes
 hull
-: 	 peut-être
+: 	 yes
 human
 : 	 non
 humanitarian
@@ -8657,7 +8657,7 @@ hundred
 hundreds
 : 	 non
 hung
-: 	 peut-être
+: 	 yes
 hungarian
 : 	 non
 hungary
@@ -8667,7 +8667,7 @@ hunger
 hungry
 : 	 non
 hunt
-: 	 peut-être
+: 	 yes
 hunter
 : 	 non
 hunting
@@ -8677,11 +8677,11 @@ huntington
 hurricane
 : 	 non
 hurt
-: 	 peut-être
+: 	 yes
 husband
 : 	 non
 hwy
-: 	 peut-être
+: 	 yes
 hybrid
 : 	 non
 hydraulic
@@ -8705,31 +8705,31 @@ i
 ia
 : 	 non
 ian
-: 	 peut-être
+: 	 yes
 ibm
-: 	 peut-être
+: 	 yes
 ic
 : 	 non
 ice
-: 	 peut-être
+: 	 yes
 iceland
 : 	 non
 icon
-: 	 peut-être
+: 	 yes
 icons
 : 	 non
 icq
-: 	 peut-être
+: 	 yes
 ict
-: 	 peut-être
+: 	 yes
 id
 : 	 non
 idaho
 : 	 non
 ide
-: 	 peut-être
+: 	 yes
 idea
-: 	 peut-être
+: 	 yes
 ideal
 : 	 non
 ideas
@@ -8751,15 +8751,15 @@ identifying
 identity
 : 	 non
 idle
-: 	 peut-être
+: 	 yes
 idol
-: 	 peut-être
+: 	 yes
 ids
-: 	 peut-être
+: 	 yes
 ie
 : 	 non
 ieee
-: 	 peut-être
+: 	 yes
 if
 : 	 non
 ignore
@@ -8769,11 +8769,11 @@ ignored
 ii
 : 	 non
 iii
-: 	 peut-être
+: 	 yes
 il
 : 	 non
 ill
-: 	 peut-être
+: 	 yes
 illegal
 : 	 non
 illinois
@@ -8789,7 +8789,7 @@ illustrations
 im
 : 	 non
 ima
-: 	 peut-être
+: 	 yes
 image
 : 	 non
 images
@@ -8801,7 +8801,7 @@ imagine
 imaging
 : 	 non
 img
-: 	 peut-être
+: 	 yes
 immediate
 : 	 non
 immediately
@@ -8877,7 +8877,7 @@ inappropriate
 inbox
 : 	 non
 inc
-: 	 peut-être
+: 	 yes
 incentive
 : 	 non
 incentives
@@ -8885,7 +8885,7 @@ incentives
 incest
 : 	 non
 inch
-: 	 peut-être
+: 	 yes
 inches
 : 	 non
 incidence
@@ -8895,7 +8895,7 @@ incident
 incidents
 : 	 non
 incl
-: 	 peut-être
+: 	 yes
 include
 : 	 non
 included
@@ -8935,7 +8935,7 @@ incredible
 incurred
 : 	 non
 ind
-: 	 peut-être
+: 	 yes
 indeed
 : 	 non
 independence
@@ -9007,7 +9007,7 @@ industry
 inexpensive
 : 	 non
 inf
-: 	 peut-être
+: 	 yes
 infant
 : 	 non
 infants
@@ -9031,7 +9031,7 @@ influenced
 influences
 : 	 non
 info
-: 	 peut-être
+: 	 yes
 inform
 : 	 non
 informal
@@ -9049,7 +9049,7 @@ infrared
 infrastructure
 : 	 non
 ing
-: 	 peut-être
+: 	 yes
 ingredients
 : 	 non
 inherited
@@ -9073,13 +9073,13 @@ injuries
 injury
 : 	 non
 ink
-: 	 peut-être
+: 	 yes
 inkjet
 : 	 non
 inline
 : 	 non
 inn
-: 	 peut-être
+: 	 yes
 inner
 : 	 non
 innocent
@@ -9091,7 +9091,7 @@ innovations
 innovative
 : 	 non
 inns
-: 	 peut-être
+: 	 yes
 input
 : 	 non
 inputs
@@ -9103,7 +9103,7 @@ inquiries
 inquiry
 : 	 non
 ins
-: 	 peut-être
+: 	 yes
 insects
 : 	 non
 insert
@@ -9185,7 +9185,7 @@ insurance
 insured
 : 	 non
 int
-: 	 peut-être
+: 	 yes
 intake
 : 	 non
 integer
@@ -9289,9 +9289,9 @@ interviews
 intimate
 : 	 non
 intl
-: 	 peut-être
+: 	 yes
 into
-: 	 peut-être
+: 	 yes
 intranet
 : 	 non
 intro
@@ -9367,47 +9367,47 @@ involving
 io
 : 	 non
 ion
-: 	 peut-être
+: 	 yes
 iowa
-: 	 peut-être
+: 	 yes
 ip
 : 	 non
 ipaq
-: 	 peut-être
+: 	 yes
 ipod
-: 	 peut-être
+: 	 yes
 ips
-: 	 peut-être
+: 	 yes
 ir
 : 	 non
 ira
-: 	 peut-être
+: 	 yes
 iran
-: 	 peut-être
+: 	 yes
 iraq
-: 	 peut-être
+: 	 yes
 iraqi
 : 	 non
 irc
-: 	 peut-être
+: 	 yes
 ireland
 : 	 non
 irish
 : 	 non
 iron
-: 	 peut-être
+: 	 yes
 irrigation
 : 	 non
 irs
-: 	 peut-être
+: 	 yes
 is
 : 	 non
 isa
-: 	 peut-être
+: 	 yes
 isaac
 : 	 non
 isbn
-: 	 peut-être
+: 	 yes
 islam
 : 	 non
 islamic
@@ -9417,21 +9417,21 @@ island
 islands
 : 	 non
 isle
-: 	 peut-être
+: 	 yes
 iso
-: 	 peut-être
+: 	 yes
 isolated
 : 	 non
 isolation
 : 	 non
 isp
-: 	 peut-être
+: 	 yes
 israel
 : 	 non
 israeli
 : 	 non
 issn
-: 	 peut-être
+: 	 yes
 issue
 : 	 non
 issued
@@ -9439,7 +9439,7 @@ issued
 issues
 : 	 non
 ist
-: 	 peut-être
+: 	 yes
 istanbul
 : 	 non
 it
@@ -9455,13 +9455,13 @@ italic
 italy
 : 	 non
 item
-: 	 peut-être
+: 	 yes
 items
 : 	 non
 its
-: 	 peut-être
+: 	 yes
 itsa
-: 	 peut-être
+: 	 yes
 itself
 : 	 non
 itunes
@@ -9477,7 +9477,7 @@ j
 ja
 : 	 non
 jack
-: 	 peut-être
+: 	 yes
 jacket
 : 	 non
 jackets
@@ -9491,15 +9491,15 @@ jacksonville
 jacob
 : 	 non
 jade
-: 	 peut-être
+: 	 yes
 jaguar
 : 	 non
 jail
-: 	 peut-être
+: 	 yes
 jake
-: 	 peut-être
+: 	 yes
 jam
-: 	 peut-être
+: 	 yes
 jamaica
 : 	 non
 james
@@ -9507,9 +9507,9 @@ james
 jamie
 : 	 non
 jan
-: 	 peut-être
+: 	 yes
 jane
-: 	 peut-être
+: 	 yes
 janet
 : 	 non
 january
@@ -9519,17 +9519,17 @@ japan
 japanese
 : 	 non
 jar
-: 	 peut-être
+: 	 yes
 jason
 : 	 non
 java
-: 	 peut-être
+: 	 yes
 javascript
 : 	 non
 jay
-: 	 peut-être
+: 	 yes
 jazz
-: 	 peut-être
+: 	 yes
 jc
 : 	 non
 jd
@@ -9537,13 +9537,13 @@ jd
 je
 : 	 non
 jean
-: 	 peut-être
+: 	 yes
 jeans
 : 	 non
 jeep
-: 	 peut-être
+: 	 yes
 jeff
-: 	 peut-être
+: 	 yes
 jefferson
 : 	 non
 jeffrey
@@ -9569,9 +9569,9 @@ jessica
 jesus
 : 	 non
 jet
-: 	 peut-être
+: 	 yes
 jets
-: 	 peut-être
+: 	 yes
 jewel
 : 	 non
 jewellery
@@ -9581,11 +9581,11 @@ jewelry
 jewish
 : 	 non
 jews
-: 	 peut-être
+: 	 yes
 jill
-: 	 peut-être
+: 	 yes
 jim
-: 	 peut-être
+: 	 yes
 jimmy
 : 	 non
 jj
@@ -9595,17 +9595,17 @@ jm
 jo
 : 	 non
 joan
-: 	 peut-être
+: 	 yes
 job
-: 	 peut-être
+: 	 yes
 jobs
-: 	 peut-être
+: 	 yes
 joe
-: 	 peut-être
+: 	 yes
 joel
-: 	 peut-être
+: 	 yes
 john
-: 	 peut-être
+: 	 yes
 johnny
 : 	 non
 johns
@@ -9615,7 +9615,7 @@ johnson
 johnston
 : 	 non
 join
-: 	 peut-être
+: 	 yes
 joined
 : 	 non
 joining
@@ -9625,11 +9625,11 @@ joins
 joint
 : 	 non
 joke
-: 	 peut-être
+: 	 yes
 jokes
 : 	 non
 jon
-: 	 peut-être
+: 	 yes
 jonathan
 : 	 non
 jones
@@ -9637,11 +9637,11 @@ jones
 jordan
 : 	 non
 jose
-: 	 peut-être
+: 	 yes
 joseph
 : 	 non
 josh
-: 	 peut-être
+: 	 yes
 joshua
 : 	 non
 journal
@@ -9657,21 +9657,21 @@ journals
 journey
 : 	 non
 joy
-: 	 peut-être
+: 	 yes
 joyce
 : 	 non
 jp
 : 	 non
 jpeg
-: 	 peut-être
+: 	 yes
 jpg
-: 	 peut-être
+: 	 yes
 jr
 : 	 non
 js
 : 	 non
 juan
-: 	 peut-être
+: 	 yes
 judge
 : 	 non
 judges
@@ -9681,11 +9681,11 @@ judgment
 judicial
 : 	 non
 judy
-: 	 peut-être
+: 	 yes
 juice
 : 	 non
 jul
-: 	 peut-être
+: 	 yes
 julia
 : 	 non
 julian
@@ -9693,29 +9693,29 @@ julian
 julie
 : 	 non
 july
-: 	 peut-être
+: 	 yes
 jump
-: 	 peut-être
+: 	 yes
 jumping
 : 	 non
 jun
-: 	 peut-être
+: 	 yes
 junction
 : 	 non
 june
-: 	 peut-être
+: 	 yes
 jungle
 : 	 non
 junior
 : 	 non
 junk
-: 	 peut-être
+: 	 yes
 jurisdiction
 : 	 non
 jury
-: 	 peut-être
+: 	 yes
 just
-: 	 peut-être
+: 	 yes
 justice
 : 	 non
 justify
@@ -9725,13 +9725,13 @@ justin
 juvenile
 : 	 non
 jvc
-: 	 peut-être
+: 	 yes
 k
 : 	 non
 ka
 : 	 non
 kai
-: 	 peut-être
+: 	 yes
 kansas
 : 	 non
 karaoke
@@ -9739,11 +9739,11 @@ karaoke
 karen
 : 	 non
 karl
-: 	 peut-être
+: 	 yes
 karma
 : 	 non
 kate
-: 	 peut-être
+: 	 yes
 kathy
 : 	 non
 katie
@@ -9751,17 +9751,17 @@ katie
 katrina
 : 	 non
 kay
-: 	 peut-être
+: 	 yes
 kazakhstan
 : 	 non
 kb
 : 	 non
 kde
-: 	 peut-être
+: 	 yes
 keen
-: 	 peut-être
+: 	 yes
 keep
-: 	 peut-être
+: 	 yes
 keeping
 : 	 non
 keeps
@@ -9773,7 +9773,7 @@ kelkoo
 kelly
 : 	 non
 ken
-: 	 peut-être
+: 	 yes
 kennedy
 : 	 non
 kenneth
@@ -9781,15 +9781,15 @@ kenneth
 kenny
 : 	 non
 keno
-: 	 peut-être
+: 	 yes
 kent
-: 	 peut-être
+: 	 yes
 kentucky
 : 	 non
 kenya
 : 	 non
 kept
-: 	 peut-être
+: 	 yes
 kernel
 : 	 non
 kerry
@@ -9797,13 +9797,13 @@ kerry
 kevin
 : 	 non
 key
-: 	 peut-être
+: 	 yes
 keyboard
 : 	 non
 keyboards
 : 	 non
 keys
-: 	 peut-être
+: 	 yes
 keyword
 : 	 non
 keywords
@@ -9811,17 +9811,17 @@ keywords
 kg
 : 	 non
 kick
-: 	 peut-être
+: 	 yes
 kid
-: 	 peut-être
+: 	 yes
 kidney
 : 	 non
 kids
-: 	 peut-être
+: 	 yes
 kijiji
 : 	 non
 kill
-: 	 peut-être
+: 	 yes
 killed
 : 	 non
 killer
@@ -9833,17 +9833,17 @@ kills
 kilometers
 : 	 non
 kim
-: 	 peut-être
+: 	 yes
 kinase
 : 	 non
 kind
-: 	 peut-être
+: 	 yes
 kinda
 : 	 non
 kinds
 : 	 non
 king
-: 	 peut-être
+: 	 yes
 kingdom
 : 	 non
 kings
@@ -9851,17 +9851,17 @@ kings
 kingston
 : 	 non
 kirk
-: 	 peut-être
+: 	 yes
 kiss
-: 	 peut-être
+: 	 yes
 kissing
 : 	 non
 kit
-: 	 peut-être
+: 	 yes
 kitchen
 : 	 non
 kits
-: 	 peut-être
+: 	 yes
 kitty
 : 	 non
 klein
@@ -9869,9 +9869,9 @@ klein
 km
 : 	 non
 knee
-: 	 peut-être
+: 	 yes
 knew
-: 	 peut-être
+: 	 yes
 knife
 : 	 non
 knight
@@ -9879,7 +9879,7 @@ knight
 knights
 : 	 non
 knit
-: 	 peut-être
+: 	 yes
 knitting
 : 	 non
 knives
@@ -9887,7 +9887,7 @@ knives
 knock
 : 	 non
 know
-: 	 peut-être
+: 	 yes
 knowing
 : 	 non
 knowledge
@@ -9903,7 +9903,7 @@ ko
 kodak
 : 	 non
 kong
-: 	 peut-être
+: 	 yes
 korea
 : 	 non
 korean
@@ -9913,7 +9913,7 @@ kruger
 ks
 : 	 non
 kurt
-: 	 peut-être
+: 	 yes
 kuwait
 : 	 non
 kw
@@ -9921,13 +9921,13 @@ kw
 ky
 : 	 non
 kyle
-: 	 peut-être
+: 	 yes
 l
 : 	 non
 la
 : 	 non
 lab
-: 	 peut-être
+: 	 yes
 label
 : 	 non
 labeled
@@ -9943,11 +9943,11 @@ laboratory
 labour
 : 	 non
 labs
-: 	 peut-être
+: 	 yes
 lace
-: 	 peut-être
+: 	 yes
 lack
-: 	 peut-être
+: 	 yes
 ladder
 : 	 non
 laden
@@ -9955,31 +9955,31 @@ laden
 ladies
 : 	 non
 lady
-: 	 peut-être
+: 	 yes
 lafayette
 : 	 non
 laid
-: 	 peut-être
+: 	 yes
 lake
-: 	 peut-être
+: 	 yes
 lakes
 : 	 non
 lamb
-: 	 peut-être
+: 	 yes
 lambda
 : 	 non
 lamp
-: 	 peut-être
+: 	 yes
 lamps
 : 	 non
 lan
-: 	 peut-être
+: 	 yes
 lancaster
 : 	 non
 lance
 : 	 non
 land
-: 	 peut-être
+: 	 yes
 landing
 : 	 non
 lands
@@ -9989,11 +9989,11 @@ landscape
 landscapes
 : 	 non
 lane
-: 	 peut-être
+: 	 yes
 lanes
 : 	 non
 lang
-: 	 peut-être
+: 	 yes
 language
 : 	 non
 languages
@@ -10001,7 +10001,7 @@ languages
 lanka
 : 	 non
 lap
-: 	 peut-être
+: 	 yes
 laptop
 : 	 non
 laptops
@@ -10017,17 +10017,17 @@ largest
 larry
 : 	 non
 las
-: 	 peut-être
+: 	 yes
 laser
 : 	 non
 last
-: 	 peut-être
+: 	 yes
 lasting
 : 	 non
 lat
-: 	 peut-être
+: 	 yes
 late
-: 	 peut-être
+: 	 yes
 lately
 : 	 non
 later
@@ -10069,13 +10069,13 @@ laura
 lauren
 : 	 non
 law
-: 	 peut-être
+: 	 yes
 lawn
-: 	 peut-être
+: 	 yes
 lawrence
 : 	 non
 laws
-: 	 peut-être
+: 	 yes
 lawsuit
 : 	 non
 lawyer
@@ -10083,7 +10083,7 @@ lawyer
 lawyers
 : 	 non
 lay
-: 	 peut-être
+: 	 yes
 layer
 : 	 non
 layers
@@ -10091,21 +10091,21 @@ layers
 layout
 : 	 non
 lazy
-: 	 peut-être
+: 	 yes
 lb
 : 	 non
 lbs
-: 	 peut-être
+: 	 yes
 lc
 : 	 non
 lcd
-: 	 peut-être
+: 	 yes
 ld
 : 	 non
 le
 : 	 non
 lead
-: 	 peut-être
+: 	 yes
 leader
 : 	 non
 leaders
@@ -10117,11 +10117,11 @@ leading
 leads
 : 	 non
 leaf
-: 	 peut-être
+: 	 yes
 league
 : 	 non
 lean
-: 	 peut-être
+: 	 yes
 learn
 : 	 non
 learned
@@ -10151,15 +10151,15 @@ lecture
 lectures
 : 	 non
 led
-: 	 peut-être
+: 	 yes
 lee
-: 	 peut-être
+: 	 yes
 leeds
 : 	 non
 left
-: 	 peut-être
+: 	 yes
 leg
-: 	 peut-être
+: 	 yes
 legacy
 : 	 non
 legal
@@ -10181,13 +10181,13 @@ legislature
 legitimate
 : 	 non
 legs
-: 	 peut-être
+: 	 yes
 leisure
 : 	 non
 lemon
 : 	 non
 len
-: 	 peut-être
+: 	 yes
 lender
 : 	 non
 lenders
@@ -10197,19 +10197,19 @@ lending
 length
 : 	 non
 lens
-: 	 peut-être
+: 	 yes
 lenses
 : 	 non
 leo
-: 	 peut-être
+: 	 yes
 leon
-: 	 peut-être
+: 	 yes
 leonard
 : 	 non
 leone
 : 	 non
 les
-: 	 peut-être
+: 	 yes
 lesbian
 : 	 non
 lesbians
@@ -10217,7 +10217,7 @@ lesbians
 leslie
 : 	 non
 less
-: 	 peut-être
+: 	 yes
 lesser
 : 	 non
 lesson
@@ -10225,9 +10225,9 @@ lesson
 lessons
 : 	 non
 let
-: 	 peut-être
+: 	 yes
 lets
-: 	 peut-être
+: 	 yes
 letter
 : 	 non
 letters
@@ -10235,7 +10235,7 @@ letters
 letting
 : 	 non
 leu
-: 	 peut-être
+: 	 yes
 level
 : 	 non
 levels
@@ -10243,7 +10243,7 @@ levels
 levitra
 : 	 non
 levy
-: 	 peut-être
+: 	 yes
 lewis
 : 	 non
 lexington
@@ -10265,7 +10265,7 @@ liability
 liable
 : 	 non
 lib
-: 	 peut-être
+: 	 yes
 liberal
 : 	 non
 liberia
@@ -10279,7 +10279,7 @@ libraries
 library
 : 	 non
 libs
-: 	 peut-être
+: 	 yes
 licence
 : 	 non
 license
@@ -10293,21 +10293,21 @@ licensing
 licking
 : 	 non
 lid
-: 	 peut-être
+: 	 yes
 lie
-: 	 peut-être
+: 	 yes
 liechtenstein
 : 	 non
 lies
-: 	 peut-être
+: 	 yes
 life
-: 	 peut-être
+: 	 yes
 lifestyle
 : 	 non
 lifetime
 : 	 non
 lift
-: 	 peut-être
+: 	 yes
 light
 : 	 non
 lighter
@@ -10321,7 +10321,7 @@ lights
 lightweight
 : 	 non
 like
-: 	 peut-être
+: 	 yes
 liked
 : 	 non
 likelihood
@@ -10333,9 +10333,9 @@ likes
 likewise
 : 	 non
 lil
-: 	 peut-être
+: 	 yes
 lime
-: 	 peut-être
+: 	 yes
 limit
 : 	 non
 limitation
@@ -10357,7 +10357,7 @@ linda
 lindsay
 : 	 non
 line
-: 	 peut-être
+: 	 yes
 linear
 : 	 non
 lined
@@ -10367,7 +10367,7 @@ lines
 lingerie
 : 	 non
 link
-: 	 peut-être
+: 	 yes
 linked
 : 	 non
 linking
@@ -10377,19 +10377,19 @@ links
 linux
 : 	 non
 lion
-: 	 peut-être
+: 	 yes
 lions
 : 	 non
 lip
-: 	 peut-être
+: 	 yes
 lips
-: 	 peut-être
+: 	 yes
 liquid
 : 	 non
 lisa
-: 	 peut-être
+: 	 yes
 list
-: 	 peut-être
+: 	 yes
 listed
 : 	 non
 listen
@@ -10405,9 +10405,9 @@ listprice
 lists
 : 	 non
 lit
-: 	 peut-être
+: 	 yes
 lite
-: 	 peut-être
+: 	 yes
 literacy
 : 	 non
 literally
@@ -10423,7 +10423,7 @@ litigation
 little
 : 	 non
 live
-: 	 peut-être
+: 	 yes
 livecam
 : 	 non
 lived
@@ -10441,15 +10441,15 @@ livestock
 living
 : 	 non
 liz
-: 	 peut-être
+: 	 yes
 ll
 : 	 non
 llc
-: 	 peut-être
+: 	 yes
 lloyd
 : 	 non
 llp
-: 	 peut-être
+: 	 yes
 lm
 : 	 non
 ln
@@ -10457,7 +10457,7 @@ ln
 lo
 : 	 non
 load
-: 	 peut-être
+: 	 yes
 loaded
 : 	 non
 loading
@@ -10465,13 +10465,13 @@ loading
 loads
 : 	 non
 loan
-: 	 peut-être
+: 	 yes
 loans
 : 	 non
 lobby
 : 	 non
 loc
-: 	 peut-être
+: 	 yes
 local
 : 	 non
 locale
@@ -10489,7 +10489,7 @@ locations
 locator
 : 	 non
 lock
-: 	 peut-être
+: 	 yes
 locked
 : 	 non
 locking
@@ -10501,7 +10501,7 @@ lodge
 lodging
 : 	 non
 log
-: 	 peut-être
+: 	 yes
 logan
 : 	 non
 logged
@@ -10519,23 +10519,23 @@ logistics
 logitech
 : 	 non
 logo
-: 	 peut-être
+: 	 yes
 logos
 : 	 non
 logs
-: 	 peut-être
+: 	 yes
 lol
-: 	 peut-être
+: 	 yes
 lolita
 : 	 non
 london
 : 	 non
 lone
-: 	 peut-être
+: 	 yes
 lonely
 : 	 non
 long
-: 	 peut-être
+: 	 yes
 longer
 : 	 non
 longest
@@ -10543,7 +10543,7 @@ longest
 longitude
 : 	 non
 look
-: 	 peut-être
+: 	 yes
 looked
 : 	 non
 looking
@@ -10555,7 +10555,7 @@ looksmart
 lookup
 : 	 non
 loop
-: 	 peut-être
+: 	 yes
 loops
 : 	 non
 loose
@@ -10563,31 +10563,31 @@ loose
 lopez
 : 	 non
 lord
-: 	 peut-être
+: 	 yes
 los
-: 	 peut-être
+: 	 yes
 lose
-: 	 peut-être
+: 	 yes
 losing
 : 	 non
 loss
-: 	 peut-être
+: 	 yes
 losses
 : 	 non
 lost
-: 	 peut-être
+: 	 yes
 lot
-: 	 peut-être
+: 	 yes
 lots
-: 	 peut-être
+: 	 yes
 lottery
 : 	 non
 lotus
 : 	 non
 lou
-: 	 peut-être
+: 	 yes
 loud
-: 	 peut-être
+: 	 yes
 louis
 : 	 non
 louise
@@ -10599,7 +10599,7 @@ louisville
 lounge
 : 	 non
 love
-: 	 peut-être
+: 	 yes
 loved
 : 	 non
 lovely
@@ -10613,13 +10613,13 @@ loves
 loving
 : 	 non
 low
-: 	 peut-être
+: 	 yes
 lower
 : 	 non
 lowest
 : 	 non
 lows
-: 	 peut-être
+: 	 yes
 lp
 : 	 non
 ls
@@ -10627,7 +10627,7 @@ ls
 lt
 : 	 non
 ltd
-: 	 peut-être
+: 	 yes
 lu
 : 	 non
 lucas
@@ -10635,21 +10635,21 @@ lucas
 lucia
 : 	 non
 luck
-: 	 peut-être
+: 	 yes
 lucky
 : 	 non
 lucy
-: 	 peut-être
+: 	 yes
 luggage
 : 	 non
 luis
-: 	 peut-être
+: 	 yes
 luke
-: 	 peut-être
+: 	 yes
 lunch
 : 	 non
 lung
-: 	 peut-être
+: 	 yes
 luther
 : 	 non
 luxembourg
@@ -10661,7 +10661,7 @@ lycos
 lying
 : 	 non
 lynn
-: 	 peut-être
+: 	 yes
 lyric
 : 	 non
 lyrics
@@ -10671,7 +10671,7 @@ m
 ma
 : 	 non
 mac
-: 	 peut-être
+: 	 yes
 macedonia
 : 	 non
 machine
@@ -10687,11 +10687,11 @@ macro
 macromedia
 : 	 non
 mad
-: 	 peut-être
+: 	 yes
 madagascar
 : 	 non
 made
-: 	 peut-être
+: 	 yes
 madison
 : 	 non
 madness
@@ -10701,9 +10701,9 @@ madonna
 madrid
 : 	 non
 mae
-: 	 peut-être
+: 	 yes
 mag
-: 	 peut-être
+: 	 yes
 magazine
 : 	 non
 magazines
@@ -10721,11 +10721,11 @@ magnificent
 magnitude
 : 	 non
 mai
-: 	 peut-être
+: 	 yes
 maiden
 : 	 non
 mail
-: 	 peut-être
+: 	 yes
 mailed
 : 	 non
 mailing
@@ -10737,7 +10737,7 @@ mails
 mailto
 : 	 non
 main
-: 	 peut-être
+: 	 yes
 maine
 : 	 non
 mainland
@@ -10761,7 +10761,7 @@ major
 majority
 : 	 non
 make
-: 	 peut-être
+: 	 yes
 maker
 : 	 non
 makers
@@ -10779,13 +10779,13 @@ malaysia
 maldives
 : 	 non
 male
-: 	 peut-être
+: 	 yes
 males
 : 	 non
 mali
-: 	 peut-être
+: 	 yes
 mall
-: 	 peut-être
+: 	 yes
 malpractice
 : 	 non
 malta
@@ -10793,7 +10793,7 @@ malta
 mambo
 : 	 non
 man
-: 	 peut-être
+: 	 yes
 manage
 : 	 non
 managed
@@ -10839,23 +10839,23 @@ manufacturers
 manufacturing
 : 	 non
 many
-: 	 peut-être
+: 	 yes
 map
-: 	 peut-être
+: 	 yes
 maple
 : 	 non
 mapping
 : 	 non
 maps
-: 	 peut-être
+: 	 yes
 mar
-: 	 peut-être
+: 	 yes
 marathon
 : 	 non
 marble
 : 	 non
 marc
-: 	 peut-être
+: 	 yes
 march
 : 	 non
 marco
@@ -10889,7 +10889,7 @@ marion
 maritime
 : 	 non
 mark
-: 	 peut-être
+: 	 yes
 marked
 : 	 non
 marker
@@ -10915,11 +10915,11 @@ married
 marriott
 : 	 non
 mars
-: 	 peut-être
+: 	 yes
 marshall
 : 	 non
 mart
-: 	 peut-être
+: 	 yes
 martha
 : 	 non
 martial
@@ -10929,17 +10929,17 @@ martin
 marvel
 : 	 non
 mary
-: 	 peut-être
+: 	 yes
 maryland
 : 	 non
 mas
-: 	 peut-être
+: 	 yes
 mask
-: 	 peut-être
+: 	 yes
 mason
 : 	 non
 mass
-: 	 peut-être
+: 	 yes
 massachusetts
 : 	 non
 massage
@@ -10957,7 +10957,7 @@ masturbating
 masturbation
 : 	 non
 mat
-: 	 peut-être
+: 	 yes
 match
 : 	 non
 matched
@@ -10967,7 +10967,7 @@ matches
 matching
 : 	 non
 mate
-: 	 peut-être
+: 	 yes
 material
 : 	 non
 materials
@@ -10975,7 +10975,7 @@ materials
 maternity
 : 	 non
 math
-: 	 peut-être
+: 	 yes
 mathematical
 : 	 non
 mathematics
@@ -10985,9 +10985,9 @@ mating
 matrix
 : 	 non
 mats
-: 	 peut-être
+: 	 yes
 matt
-: 	 peut-être
+: 	 yes
 matter
 : 	 non
 matters
@@ -10999,17 +10999,17 @@ mattress
 mature
 : 	 non
 maui
-: 	 peut-être
+: 	 yes
 mauritius
 : 	 non
 max
-: 	 peut-être
+: 	 yes
 maximize
 : 	 non
 maximum
 : 	 non
 may
-: 	 peut-être
+: 	 yes
 maybe
 : 	 non
 mayor
@@ -11019,7 +11019,7 @@ mazda
 mb
 : 	 non
 mba
-: 	 peut-être
+: 	 yes
 mc
 : 	 non
 mcdonald
@@ -11029,11 +11029,11 @@ md
 me
 : 	 non
 meal
-: 	 peut-être
+: 	 yes
 meals
 : 	 non
 mean
-: 	 peut-être
+: 	 yes
 meaning
 : 	 non
 meaningful
@@ -11057,7 +11057,7 @@ measures
 measuring
 : 	 non
 meat
-: 	 peut-être
+: 	 yes
 mechanical
 : 	 non
 mechanics
@@ -11067,7 +11067,7 @@ mechanism
 mechanisms
 : 	 non
 med
-: 	 peut-être
+: 	 yes
 medal
 : 	 non
 media
@@ -11099,7 +11099,7 @@ medium
 medline
 : 	 non
 meet
-: 	 peut-être
+: 	 yes
 meeting
 : 	 non
 meetings
@@ -11109,15 +11109,15 @@ meets
 meetup
 : 	 non
 mega
-: 	 peut-être
+: 	 yes
 mel
-: 	 peut-être
+: 	 yes
 melbourne
 : 	 non
 melissa
 : 	 non
 mem
-: 	 peut-être
+: 	 yes
 member
 : 	 non
 members
@@ -11127,7 +11127,7 @@ membership
 membrane
 : 	 non
 memo
-: 	 peut-être
+: 	 yes
 memorabilia
 : 	 non
 memorial
@@ -11139,11 +11139,11 @@ memory
 memphis
 : 	 non
 men
-: 	 peut-être
+: 	 yes
 mens
-: 	 peut-être
+: 	 yes
 ment
-: 	 peut-être
+: 	 yes
 mental
 : 	 non
 mention
@@ -11153,7 +11153,7 @@ mentioned
 mentor
 : 	 non
 menu
-: 	 peut-être
+: 	 yes
 menus
 : 	 non
 mercedes
@@ -11169,7 +11169,7 @@ mercury
 mercy
 : 	 non
 mere
-: 	 peut-être
+: 	 yes
 merely
 : 	 non
 merge
@@ -11181,11 +11181,11 @@ merit
 merry
 : 	 non
 mesa
-: 	 peut-être
+: 	 yes
 mesh
-: 	 peut-être
+: 	 yes
 mess
-: 	 peut-être
+: 	 yes
 message
 : 	 non
 messages
@@ -11195,9 +11195,9 @@ messaging
 messenger
 : 	 non
 met
-: 	 peut-être
+: 	 yes
 meta
-: 	 peut-être
+: 	 yes
 metabolism
 : 	 non
 metadata
@@ -11237,23 +11237,23 @@ meyer
 mf
 : 	 non
 mfg
-: 	 peut-être
+: 	 yes
 mg
 : 	 non
 mh
 : 	 non
 mhz
-: 	 peut-être
+: 	 yes
 mi
 : 	 non
 mia
-: 	 peut-être
+: 	 yes
 miami
 : 	 non
 mic
-: 	 peut-être
+: 	 yes
 mice
-: 	 peut-être
+: 	 yes
 michael
 : 	 non
 michel
@@ -11271,11 +11271,11 @@ microsoft
 microwave
 : 	 non
 mid
-: 	 peut-être
+: 	 yes
 middle
 : 	 non
 midi
-: 	 peut-être
+: 	 yes
 midlands
 : 	 non
 midnight
@@ -11289,21 +11289,21 @@ mighty
 migration
 : 	 non
 mike
-: 	 peut-être
+: 	 yes
 mil
-: 	 peut-être
+: 	 yes
 milan
 : 	 non
 mild
-: 	 peut-être
+: 	 yes
 mile
-: 	 peut-être
+: 	 yes
 mileage
 : 	 non
 miles
 : 	 non
 milf
-: 	 peut-être
+: 	 yes
 milfhunter
 : 	 non
 milfs
@@ -11311,9 +11311,9 @@ milfs
 military
 : 	 non
 milk
-: 	 peut-être
+: 	 yes
 mill
-: 	 peut-être
+: 	 yes
 millennium
 : 	 non
 miller
@@ -11329,15 +11329,15 @@ milton
 milwaukee
 : 	 non
 mime
-: 	 peut-être
+: 	 yes
 min
-: 	 peut-être
+: 	 yes
 mind
-: 	 peut-être
+: 	 yes
 minds
 : 	 non
 mine
-: 	 peut-être
+: 	 yes
 mineral
 : 	 non
 minerals
@@ -11345,7 +11345,7 @@ minerals
 mines
 : 	 non
 mini
-: 	 peut-être
+: 	 yes
 miniature
 : 	 non
 minimal
@@ -11375,9 +11375,9 @@ minor
 minority
 : 	 non
 mins
-: 	 peut-être
+: 	 yes
 mint
-: 	 peut-être
+: 	 yes
 minus
 : 	 non
 minute
@@ -11391,11 +11391,11 @@ mirror
 mirrors
 : 	 non
 misc
-: 	 peut-être
+: 	 yes
 miscellaneous
 : 	 non
 miss
-: 	 peut-être
+: 	 yes
 missed
 : 	 non
 missile
@@ -11417,13 +11417,13 @@ mistakes
 mistress
 : 	 non
 mit
-: 	 peut-être
+: 	 yes
 mitchell
 : 	 non
 mitsubishi
 : 	 non
 mix
-: 	 peut-être
+: 	 yes
 mixed
 : 	 non
 mixer
@@ -11437,9 +11437,9 @@ mj
 ml
 : 	 non
 mlb
-: 	 peut-être
+: 	 yes
 mls
-: 	 peut-être
+: 	 yes
 mm
 : 	 non
 mn
@@ -11453,9 +11453,9 @@ mobiles
 mobility
 : 	 non
 mod
-: 	 peut-être
+: 	 yes
 mode
-: 	 peut-être
+: 	 yes
 model
 : 	 non
 modeling
@@ -11487,7 +11487,7 @@ modified
 modify
 : 	 non
 mods
-: 	 peut-être
+: 	 yes
 modular
 : 	 non
 module
@@ -11497,7 +11497,7 @@ modules
 moisture
 : 	 non
 mold
-: 	 peut-être
+: 	 yes
 moldova
 : 	 non
 molecular
@@ -11505,7 +11505,7 @@ molecular
 molecules
 : 	 non
 mom
-: 	 peut-être
+: 	 yes
 moment
 : 	 non
 moments
@@ -11513,9 +11513,9 @@ moments
 momentum
 : 	 non
 moms
-: 	 peut-être
+: 	 yes
 mon
-: 	 peut-être
+: 	 yes
 monaco
 : 	 non
 monday
@@ -11539,7 +11539,7 @@ monitors
 monkey
 : 	 non
 mono
-: 	 peut-être
+: 	 yes
 monroe
 : 	 non
 monster
@@ -11559,15 +11559,15 @@ months
 montreal
 : 	 non
 mood
-: 	 peut-être
+: 	 yes
 moon
-: 	 peut-être
+: 	 yes
 moore
 : 	 non
 moral
 : 	 non
 more
-: 	 peut-être
+: 	 yes
 moreover
 : 	 non
 morgan
@@ -11591,11 +11591,11 @@ moscow
 moses
 : 	 non
 moss
-: 	 peut-être
+: 	 yes
 most
-: 	 peut-être
+: 	 yes
 mostly
-: 	 peut-être
+: 	 non
 motel
 : 	 non
 motels
@@ -11639,7 +11639,7 @@ mouse
 mouth
 : 	 non
 move
-: 	 peut-être
+: 	 yes
 moved
 : 	 non
 movement
@@ -11663,43 +11663,43 @@ mozilla
 mp
 : 	 non
 mpeg
-: 	 peut-être
+: 	 yes
 mpegs
 : 	 non
 mpg
-: 	 peut-être
+: 	 yes
 mph
-: 	 peut-être
+: 	 yes
 mr
 : 	 non
 mrna
-: 	 peut-être
+: 	 yes
 mrs
-: 	 peut-être
+: 	 yes
 ms
 : 	 non
 msg
-: 	 peut-être
+: 	 yes
 msgid
 : 	 non
 msgstr
 : 	 non
 msie
-: 	 peut-être
+: 	 yes
 msn
-: 	 peut-être
+: 	 yes
 mt
 : 	 non
 mtv
-: 	 peut-être
+: 	 yes
 mu
 : 	 non
 much
-: 	 peut-être
+: 	 yes
 mud
-: 	 peut-être
+: 	 yes
 mug
-: 	 peut-être
+: 	 yes
 multi
 : 	 non
 multimedia
@@ -11741,13 +11741,13 @@ muslim
 muslims
 : 	 non
 must
-: 	 peut-être
+: 	 yes
 mustang
 : 	 non
 mutual
 : 	 non
 muze
-: 	 peut-être
+: 	 yes
 mv
 : 	 non
 mw
@@ -11775,21 +11775,21 @@ mysterious
 mystery
 : 	 non
 myth
-: 	 peut-être
+: 	 yes
 n
 : 	 non
 na
 : 	 non
 nail
-: 	 peut-être
+: 	 yes
 nails
 : 	 non
 naked
 : 	 non
 nam
-: 	 peut-être
+: 	 yes
 name
-: 	 peut-être
+: 	 yes
 named
 : 	 non
 namely
@@ -11803,7 +11803,7 @@ namibia
 nancy
 : 	 non
 nano
-: 	 peut-être
+: 	 yes
 naples
 : 	 non
 narrative
@@ -11811,7 +11811,7 @@ narrative
 narrow
 : 	 non
 nasa
-: 	 peut-être
+: 	 yes
 nascar
 : 	 non
 nasdaq
@@ -11821,7 +11821,7 @@ nashville
 nasty
 : 	 non
 nat
-: 	 peut-être
+: 	 yes
 nathan
 : 	 non
 nation
@@ -11837,7 +11837,7 @@ nationwide
 native
 : 	 non
 nato
-: 	 peut-être
+: 	 yes
 natural
 : 	 non
 naturally
@@ -11849,7 +11849,7 @@ nature
 naughty
 : 	 non
 nav
-: 	 peut-être
+: 	 yes
 naval
 : 	 non
 navigate
@@ -11859,23 +11859,23 @@ navigation
 navigator
 : 	 non
 navy
-: 	 peut-être
+: 	 yes
 nb
 : 	 non
 nba
-: 	 peut-être
+: 	 yes
 nbc
-: 	 peut-être
+: 	 yes
 nc
 : 	 non
 ncaa
-: 	 peut-être
+: 	 yes
 nd
 : 	 non
 ne
 : 	 non
 near
-: 	 peut-être
+: 	 yes
 nearby
 : 	 non
 nearest
@@ -11885,7 +11885,7 @@ nearly
 nebraska
 : 	 non
 nec
-: 	 peut-être
+: 	 yes
 necessarily
 : 	 non
 necessary
@@ -11893,11 +11893,11 @@ necessary
 necessity
 : 	 non
 neck
-: 	 peut-être
+: 	 yes
 necklace
 : 	 non
 need
-: 	 peut-être
+: 	 yes
 needed
 : 	 non
 needle
@@ -11917,15 +11917,15 @@ neighborhood
 neighbors
 : 	 non
 neil
-: 	 peut-être
+: 	 yes
 neither
 : 	 non
 nelson
 : 	 non
 neo
-: 	 peut-être
+: 	 yes
 neon
-: 	 peut-être
+: 	 yes
 nepal
 : 	 non
 nerve
@@ -11933,11 +11933,11 @@ nerve
 nervous
 : 	 non
 nest
-: 	 peut-être
+: 	 yes
 nested
 : 	 non
 net
-: 	 peut-être
+: 	 yes
 netherlands
 : 	 non
 netscape
@@ -11959,7 +11959,7 @@ never
 nevertheless
 : 	 non
 new
-: 	 peut-être
+: 	 yes
 newark
 : 	 non
 newbie
@@ -11977,7 +11977,7 @@ newly
 newport
 : 	 non
 news
-: 	 peut-être
+: 	 yes
 newscom
 : 	 non
 newsletter
@@ -11991,19 +11991,19 @@ newspapers
 newton
 : 	 non
 next
-: 	 peut-être
+: 	 yes
 nextel
 : 	 non
 nfl
-: 	 peut-être
+: 	 yes
 ng
 : 	 non
 nh
 : 	 non
 nhl
-: 	 peut-être
+: 	 yes
 nhs
-: 	 peut-être
+: 	 yes
 ni
 : 	 non
 niagara
@@ -12011,11 +12011,11 @@ niagara
 nicaragua
 : 	 non
 nice
-: 	 peut-être
+: 	 yes
 nicholas
 : 	 non
 nick
-: 	 peut-être
+: 	 yes
 nickel
 : 	 non
 nickname
@@ -12035,13 +12035,13 @@ nightmare
 nights
 : 	 non
 nike
-: 	 peut-être
+: 	 yes
 nikon
 : 	 non
 nil
-: 	 peut-être
+: 	 yes
 nine
-: 	 peut-être
+: 	 yes
 nintendo
 : 	 non
 nipple
@@ -12069,7 +12069,7 @@ noble
 nobody
 : 	 non
 node
-: 	 peut-être
+: 	 yes
 nodes
 : 	 non
 noise
@@ -12083,19 +12083,19 @@ nomination
 nominations
 : 	 non
 non
-: 	 peut-être
+: 	 yes
 none
-: 	 peut-être
+: 	 yes
 nonprofit
 : 	 non
 noon
-: 	 peut-être
+: 	 yes
 nor
-: 	 peut-être
+: 	 yes
 norfolk
 : 	 non
 norm
-: 	 peut-être
+: 	 yes
 normal
 : 	 non
 normally
@@ -12117,13 +12117,13 @@ norway
 norwegian
 : 	 non
 nos
-: 	 peut-être
+: 	 yes
 nose
-: 	 peut-être
+: 	 yes
 not
-: 	 peut-être
+: 	 yes
 note
-: 	 peut-être
+: 	 yes
 notebook
 : 	 non
 notebooks
@@ -12155,9 +12155,9 @@ notre
 nottingham
 : 	 non
 nov
-: 	 peut-être
+: 	 yes
 nova
-: 	 peut-être
+: 	 yes
 novel
 : 	 non
 novels
@@ -12167,7 +12167,7 @@ novelty
 november
 : 	 non
 now
-: 	 peut-être
+: 	 yes
 nowhere
 : 	 non
 np
@@ -12177,25 +12177,25 @@ nr
 ns
 : 	 non
 nsw
-: 	 peut-être
+: 	 yes
 nt
 : 	 non
 ntsc
-: 	 peut-être
+: 	 yes
 nu
 : 	 non
 nuclear
 : 	 non
 nude
-: 	 peut-être
+: 	 yes
 nudist
 : 	 non
 nudity
 : 	 non
 nuke
-: 	 peut-être
+: 	 yes
 null
-: 	 peut-être
+: 	 yes
 number
 : 	 non
 numbers
@@ -12215,13 +12215,13 @@ nurses
 nursing
 : 	 non
 nut
-: 	 peut-être
+: 	 yes
 nutrition
 : 	 non
 nutritional
 : 	 non
 nuts
-: 	 peut-être
+: 	 yes
 nutten
 : 	 non
 nv
@@ -12233,7 +12233,7 @@ nw
 ny
 : 	 non
 nyc
-: 	 peut-être
+: 	 yes
 nylon
 : 	 non
 nz
@@ -12241,11 +12241,11 @@ nz
 o
 : 	 non
 oak
-: 	 peut-être
+: 	 yes
 oakland
 : 	 non
 oaks
-: 	 peut-être
+: 	 yes
 oasis
 : 	 non
 ob
@@ -12255,7 +12255,7 @@ obesity
 obituaries
 : 	 non
 obj
-: 	 peut-être
+: 	 yes
 object
 : 	 non
 objective
@@ -12319,25 +12319,25 @@ occurs
 ocean
 : 	 non
 oclc
-: 	 peut-être
+: 	 yes
 oct
-: 	 peut-être
+: 	 yes
 october
 : 	 non
 odd
-: 	 peut-être
+: 	 yes
 odds
-: 	 peut-être
+: 	 yes
 oe
 : 	 non
 oecd
-: 	 peut-être
+: 	 yes
 oem
-: 	 peut-être
+: 	 yes
 of
 : 	 non
 off
-: 	 peut-être
+: 	 yes
 offense
 : 	 non
 offensive
@@ -12379,21 +12379,21 @@ og
 oh
 : 	 non
 ohio
-: 	 peut-être
+: 	 yes
 oil
-: 	 peut-être
+: 	 yes
 oils
-: 	 peut-être
+: 	 yes
 ok
 : 	 non
 okay
-: 	 peut-être
+: 	 yes
 oklahoma
 : 	 non
 ol
 : 	 non
 old
-: 	 peut-être
+: 	 yes
 older
 : 	 non
 oldest
@@ -12413,7 +12413,7 @@ om
 omaha
 : 	 non
 oman
-: 	 peut-être
+: 	 yes
 omega
 : 	 non
 omissions
@@ -12421,11 +12421,11 @@ omissions
 on
 : 	 non
 once
-: 	 peut-être
+: 	 yes
 one
-: 	 peut-être
+: 	 yes
 ones
-: 	 peut-être
+: 	 yes
 ongoing
 : 	 non
 onion
@@ -12433,23 +12433,23 @@ onion
 online
 : 	 non
 only
-: 	 peut-être
+: 	 yes
 ons
-: 	 peut-être
+: 	 yes
 ontario
 : 	 non
 onto
-: 	 peut-être
+: 	 yes
 oo
 : 	 non
 ooo
-: 	 peut-être
+: 	 yes
 oops
-: 	 peut-être
+: 	 yes
 op
 : 	 non
 open
-: 	 peut-être
+: 	 yes
 opened
 : 	 non
 opening
@@ -12497,7 +12497,7 @@ opposite
 opposition
 : 	 non
 opt
-: 	 peut-être
+: 	 yes
 optical
 : 	 non
 optics
@@ -12521,7 +12521,7 @@ or
 oracle
 : 	 non
 oral
-: 	 peut-être
+: 	 yes
 orange
 : 	 non
 orbit
@@ -12543,7 +12543,7 @@ ordinary
 oregon
 : 	 non
 org
-: 	 peut-être
+: 	 yes
 organ
 : 	 non
 organic
@@ -12573,7 +12573,7 @@ organizing
 orgasm
 : 	 non
 orgy
-: 	 peut-être
+: 	 yes
 oriental
 : 	 non
 orientation
@@ -12611,13 +12611,13 @@ ou
 ought
 : 	 non
 our
-: 	 peut-être
+: 	 yes
 ours
-: 	 peut-être
+: 	 yes
 ourselves
 : 	 non
 out
-: 	 peut-être
+: 	 yes
 outcome
 : 	 non
 outcomes
@@ -12649,11 +12649,11 @@ outsourcing
 outstanding
 : 	 non
 oval
-: 	 peut-être
+: 	 yes
 oven
-: 	 peut-être
+: 	 yes
 over
-: 	 peut-être
+: 	 yes
 overall
 : 	 non
 overcome
@@ -12667,9 +12667,9 @@ overseas
 overview
 : 	 non
 owen
-: 	 peut-être
+: 	 yes
 own
-: 	 peut-être
+: 	 yes
 owned
 : 	 non
 owner
@@ -12679,7 +12679,7 @@ owners
 ownership
 : 	 non
 owns
-: 	 peut-être
+: 	 yes
 oxford
 : 	 non
 oxide
@@ -12695,13 +12695,13 @@ p
 pa
 : 	 non
 pac
-: 	 peut-être
+: 	 yes
 pace
-: 	 peut-être
+: 	 yes
 pacific
 : 	 non
 pack
-: 	 peut-être
+: 	 yes
 package
 : 	 non
 packages
@@ -12721,17 +12721,17 @@ packing
 packs
 : 	 non
 pad
-: 	 peut-être
+: 	 yes
 pads
-: 	 peut-être
+: 	 yes
 page
-: 	 peut-être
+: 	 yes
 pages
 : 	 non
 paid
-: 	 peut-être
+: 	 yes
 pain
-: 	 peut-être
+: 	 yes
 painful
 : 	 non
 paint
@@ -12745,31 +12745,31 @@ painting
 paintings
 : 	 non
 pair
-: 	 peut-être
+: 	 yes
 pairs
 : 	 non
 pakistan
 : 	 non
 pal
-: 	 peut-être
+: 	 yes
 palace
 : 	 non
 pale
-: 	 peut-être
+: 	 yes
 palestine
 : 	 non
 palestinian
 : 	 non
 palm
-: 	 peut-être
+: 	 yes
 palmer
 : 	 non
 pam
-: 	 peut-être
+: 	 yes
 pamela
 : 	 non
 pan
-: 	 peut-être
+: 	 yes
 panama
 : 	 non
 panasonic
@@ -12797,9 +12797,9 @@ papers
 papua
 : 	 non
 par
-: 	 peut-être
+: 	 yes
 para
-: 	 peut-être
+: 	 yes
 parade
 : 	 non
 paradise
@@ -12831,7 +12831,7 @@ paris
 parish
 : 	 non
 park
-: 	 peut-être
+: 	 yes
 parker
 : 	 non
 parking
@@ -12843,7 +12843,7 @@ parliament
 parliamentary
 : 	 non
 part
-: 	 peut-être
+: 	 yes
 partial
 : 	 non
 partially
@@ -12887,11 +12887,11 @@ parts
 party
 : 	 non
 pas
-: 	 peut-être
+: 	 yes
 paso
-: 	 peut-être
+: 	 yes
 pass
-: 	 peut-être
+: 	 yes
 passage
 : 	 non
 passed
@@ -12915,7 +12915,7 @@ password
 passwords
 : 	 non
 past
-: 	 peut-être
+: 	 yes
 pasta
 : 	 non
 paste
@@ -12923,7 +12923,7 @@ paste
 pastor
 : 	 non
 pat
-: 	 peut-être
+: 	 yes
 patch
 : 	 non
 patches
@@ -12933,7 +12933,7 @@ patent
 patents
 : 	 non
 path
-: 	 peut-être
+: 	 yes
 pathology
 : 	 non
 paths
@@ -12955,13 +12955,13 @@ pattern
 patterns
 : 	 non
 paul
-: 	 peut-être
+: 	 yes
 pavilion
 : 	 non
 paxil
 : 	 non
 pay
-: 	 peut-être
+: 	 yes
 payable
 : 	 non
 payday
@@ -12977,27 +12977,27 @@ paypal
 payroll
 : 	 non
 pays
-: 	 peut-être
+: 	 yes
 pb
 : 	 non
 pc
 : 	 non
 pci
-: 	 peut-être
+: 	 yes
 pcs
-: 	 peut-être
+: 	 yes
 pct
-: 	 peut-être
+: 	 yes
 pd
 : 	 non
 pda
-: 	 peut-être
+: 	 yes
 pdas
-: 	 peut-être
+: 	 yes
 pdf
-: 	 peut-être
+: 	 yes
 pdt
-: 	 peut-être
+: 	 yes
 pe
 : 	 non
 peace
@@ -13005,23 +13005,23 @@ peace
 peaceful
 : 	 non
 peak
-: 	 peut-être
+: 	 yes
 pearl
 : 	 non
 peas
-: 	 peut-être
+: 	 yes
 pediatric
 : 	 non
 pee
-: 	 peut-être
+: 	 yes
 peeing
 : 	 non
 peer
-: 	 peut-être
+: 	 yes
 peers
 : 	 non
 pen
-: 	 peut-être
+: 	 yes
 penalties
 : 	 non
 penalty
@@ -13041,13 +13041,13 @@ peninsula
 penis
 : 	 non
 penn
-: 	 peut-être
+: 	 yes
 pennsylvania
 : 	 non
 penny
 : 	 non
 pens
-: 	 peut-être
+: 	 yes
 pension
 : 	 non
 pensions
@@ -13061,7 +13061,7 @@ peoples
 pepper
 : 	 non
 per
-: 	 peut-être
+: 	 yes
 perceived
 : 	 non
 percent
@@ -13105,7 +13105,7 @@ peripheral
 peripherals
 : 	 non
 perl
-: 	 peut-être
+: 	 yes
 permalink
 : 	 non
 permanent
@@ -13149,13 +13149,13 @@ perspectives
 perth
 : 	 non
 peru
-: 	 peut-être
+: 	 yes
 pest
-: 	 peut-être
+: 	 yes
 pet
-: 	 peut-être
+: 	 yes
 pete
-: 	 peut-être
+: 	 yes
 peter
 : 	 non
 petersburg
@@ -13169,13 +13169,13 @@ petition
 petroleum
 : 	 non
 pets
-: 	 peut-être
+: 	 yes
 pf
 : 	 non
 pg
 : 	 non
 pgp
-: 	 peut-être
+: 	 yes
 ph
 : 	 non
 phantom
@@ -13195,15 +13195,15 @@ phase
 phases
 : 	 non
 phd
-: 	 peut-être
+: 	 yes
 phenomenon
 : 	 non
 phentermine
 : 	 non
 phi
-: 	 peut-être
+: 	 yes
 phil
-: 	 peut-être
+: 	 yes
 philadelphia
 : 	 non
 philip
@@ -13241,7 +13241,7 @@ photos
 photoshop
 : 	 non
 php
-: 	 peut-être
+: 	 yes
 phpbb
 : 	 non
 phrase
@@ -13249,7 +13249,7 @@ phrase
 phrases
 : 	 non
 phys
-: 	 peut-être
+: 	 yes
 physical
 : 	 non
 physically
@@ -13267,11 +13267,11 @@ pi
 piano
 : 	 non
 pic
-: 	 peut-être
+: 	 yes
 pichunter
 : 	 non
 pick
-: 	 peut-être
+: 	 yes
 picked
 : 	 non
 picking
@@ -13283,13 +13283,13 @@ pickup
 picnic
 : 	 non
 pics
-: 	 peut-être
+: 	 yes
 picture
 : 	 non
 pictures
 : 	 non
 pie
-: 	 peut-être
+: 	 yes
 piece
 : 	 non
 pieces
@@ -13299,11 +13299,11 @@ pierce
 pierre
 : 	 non
 pig
-: 	 peut-être
+: 	 yes
 pike
-: 	 peut-être
+: 	 yes
 pill
-: 	 peut-être
+: 	 yes
 pillow
 : 	 non
 pills
@@ -13311,19 +13311,19 @@ pills
 pilot
 : 	 non
 pin
-: 	 peut-être
+: 	 yes
 pine
-: 	 peut-être
+: 	 yes
 ping
-: 	 peut-être
+: 	 yes
 pink
-: 	 peut-être
+: 	 yes
 pins
-: 	 peut-être
+: 	 yes
 pioneer
 : 	 non
 pipe
-: 	 peut-être
+: 	 yes
 pipeline
 : 	 non
 pipes
@@ -13331,17 +13331,17 @@ pipes
 pirates
 : 	 non
 piss
-: 	 peut-être
+: 	 yes
 pissing
 : 	 non
 pit
-: 	 peut-être
+: 	 yes
 pitch
 : 	 non
 pittsburgh
 : 	 non
 pix
-: 	 peut-être
+: 	 yes
 pixel
 : 	 non
 pixels
@@ -13371,7 +13371,7 @@ plains
 plaintiff
 : 	 non
 plan
-: 	 peut-être
+: 	 yes
 plane
 : 	 non
 planes
@@ -13411,7 +13411,7 @@ platforms
 platinum
 : 	 non
 play
-: 	 peut-être
+: 	 yes
 playback
 : 	 non
 playboy
@@ -13433,7 +13433,7 @@ playstation
 plaza
 : 	 non
 plc
-: 	 peut-être
+: 	 yes
 pleasant
 : 	 non
 please
@@ -13447,11 +13447,11 @@ pledge
 plenty
 : 	 non
 plot
-: 	 peut-être
+: 	 yes
 plots
 : 	 non
 plug
-: 	 peut-être
+: 	 yes
 plugin
 : 	 non
 plugins
@@ -13459,15 +13459,15 @@ plugins
 plumbing
 : 	 non
 plus
-: 	 peut-être
+: 	 yes
 plymouth
 : 	 non
 pm
 : 	 non
 pmc
-: 	 peut-être
+: 	 yes
 pmid
-: 	 peut-être
+: 	 yes
 pn
 : 	 non
 po
@@ -13477,17 +13477,17 @@ pocket
 pockets
 : 	 non
 pod
-: 	 peut-être
+: 	 yes
 podcast
 : 	 non
 podcasts
 : 	 non
 poem
-: 	 peut-être
+: 	 yes
 poems
 : 	 non
 poet
-: 	 peut-être
+: 	 yes
 poetry
 : 	 non
 point
@@ -13509,7 +13509,7 @@ poland
 polar
 : 	 non
 pole
-: 	 peut-être
+: 	 yes
 police
 : 	 non
 policies
@@ -13527,15 +13527,15 @@ politicians
 politics
 : 	 non
 poll
-: 	 peut-être
+: 	 yes
 polls
 : 	 non
 pollution
 : 	 non
 polo
-: 	 peut-être
+: 	 yes
 poly
-: 	 peut-être
+: 	 yes
 polyester
 : 	 non
 polymer
@@ -13543,19 +13543,19 @@ polymer
 polyphonic
 : 	 non
 pond
-: 	 peut-être
+: 	 yes
 pontiac
 : 	 non
 pool
-: 	 peut-être
+: 	 yes
 pools
 : 	 non
 poor
-: 	 peut-être
+: 	 yes
 pop
-: 	 peut-être
+: 	 yes
 pope
-: 	 peut-être
+: 	 yes
 popular
 : 	 non
 popularity
@@ -13565,19 +13565,19 @@ population
 populations
 : 	 non
 por
-: 	 peut-être
+: 	 yes
 porcelain
 : 	 non
 pork
-: 	 peut-être
+: 	 yes
 porn
-: 	 peut-être
+: 	 yes
 porno
 : 	 non
 porsche
 : 	 non
 port
-: 	 peut-être
+: 	 yes
 portable
 : 	 non
 portal
@@ -13605,9 +13605,9 @@ portugal
 portuguese
 : 	 non
 pos
-: 	 peut-être
+: 	 yes
 pose
-: 	 peut-être
+: 	 yes
 posing
 : 	 non
 position
@@ -13631,7 +13631,7 @@ possible
 possibly
 : 	 non
 post
-: 	 peut-être
+: 	 yes
 postage
 : 	 non
 postal
@@ -13655,7 +13655,7 @@ postposted
 posts
 : 	 non
 pot
-: 	 peut-être
+: 	 yes
 potato
 : 	 non
 potatoes
@@ -13675,7 +13675,7 @@ pound
 pounds
 : 	 non
 pour
-: 	 peut-être
+: 	 yes
 poverty
 : 	 non
 powder
@@ -13697,9 +13697,9 @@ powerseller
 pp
 : 	 non
 ppc
-: 	 peut-être
+: 	 yes
 ppm
-: 	 peut-être
+: 	 yes
 pr
 : 	 non
 practical
@@ -13719,13 +13719,13 @@ prairie
 praise
 : 	 non
 pray
-: 	 peut-être
+: 	 yes
 prayer
 : 	 non
 prayers
 : 	 non
 pre
-: 	 peut-être
+: 	 yes
 preceding
 : 	 non
 precious
@@ -13773,7 +13773,7 @@ premises
 premium
 : 	 non
 prep
-: 	 peut-être
+: 	 yes
 prepaid
 : 	 non
 preparation
@@ -13827,7 +13827,7 @@ preston
 pretty
 : 	 non
 prev
-: 	 peut-être
+: 	 yes
 prevent
 : 	 non
 preventing
@@ -13907,13 +13907,13 @@ privilege
 privileges
 : 	 non
 prix
-: 	 peut-être
+: 	 yes
 prize
 : 	 non
 prizes
 : 	 non
 pro
-: 	 peut-être
+: 	 yes
 probability
 : 	 non
 probably
@@ -13925,7 +13925,7 @@ problem
 problems
 : 	 non
 proc
-: 	 peut-être
+: 	 yes
 procedure
 : 	 non
 procedures
@@ -13977,7 +13977,7 @@ productivity
 products
 : 	 non
 prof
-: 	 peut-être
+: 	 yes
 profession
 : 	 non
 professional
@@ -14085,7 +14085,7 @@ proposition
 proprietary
 : 	 non
 pros
-: 	 peut-être
+: 	 yes
 prospect
 : 	 non
 prospective
@@ -14097,7 +14097,7 @@ prostate
 prostores
 : 	 non
 prot
-: 	 peut-être
+: 	 yes
 protect
 : 	 non
 protected
@@ -14161,11 +14161,11 @@ prozac
 ps
 : 	 non
 psi
-: 	 peut-être
+: 	 yes
 psp
-: 	 peut-être
+: 	 yes
 pst
-: 	 peut-être
+: 	 yes
 psychiatry
 : 	 non
 psychological
@@ -14175,11 +14175,11 @@ psychology
 pt
 : 	 non
 pts
-: 	 peut-être
+: 	 yes
 pty
-: 	 peut-être
+: 	 yes
 pub
-: 	 peut-être
+: 	 yes
 public
 : 	 non
 publication
@@ -14203,11 +14203,11 @@ publishing
 pubmed
 : 	 non
 pubs
-: 	 peut-être
+: 	 yes
 puerto
 : 	 non
 pull
-: 	 peut-être
+: 	 yes
 pulled
 : 	 non
 pulling
@@ -14215,7 +14215,7 @@ pulling
 pulse
 : 	 non
 pump
-: 	 peut-être
+: 	 yes
 pumps
 : 	 non
 punch
@@ -14223,7 +14223,7 @@ punch
 punishment
 : 	 non
 punk
-: 	 peut-être
+: 	 yes
 pupils
 : 	 non
 puppy
@@ -14237,7 +14237,7 @@ purchases
 purchasing
 : 	 non
 pure
-: 	 peut-être
+: 	 yes
 purple
 : 	 non
 purpose
@@ -14253,7 +14253,7 @@ pursue
 pursuit
 : 	 non
 push
-: 	 peut-être
+: 	 yes
 pushed
 : 	 non
 pushing
@@ -14261,9 +14261,9 @@ pushing
 pussy
 : 	 non
 put
-: 	 peut-être
+: 	 yes
 puts
-: 	 peut-être
+: 	 yes
 putting
 : 	 non
 puzzle
@@ -14271,7 +14271,7 @@ puzzle
 puzzles
 : 	 non
 pvc
-: 	 peut-être
+: 	 yes
 python
 : 	 non
 q
@@ -14281,13 +14281,13 @@ qatar
 qc
 : 	 non
 qld
-: 	 peut-être
+: 	 yes
 qt
 : 	 non
 qty
-: 	 peut-être
+: 	 yes
 quad
-: 	 peut-être
+: 	 yes
 qualification
 : 	 non
 qualifications
@@ -14317,7 +14317,7 @@ quarterly
 quarters
 : 	 non
 que
-: 	 peut-être
+: 	 yes
 quebec
 : 	 non
 queen
@@ -14341,7 +14341,7 @@ questions
 queue
 : 	 non
 qui
-: 	 peut-être
+: 	 yes
 quick
 : 	 non
 quickly
@@ -14351,11 +14351,11 @@ quiet
 quilt
 : 	 non
 quit
-: 	 peut-être
+: 	 yes
 quite
 : 	 non
 quiz
-: 	 peut-être
+: 	 yes
 quizzes
 : 	 non
 quotations
@@ -14373,7 +14373,7 @@ ra
 rabbit
 : 	 non
 race
-: 	 peut-être
+: 	 yes
 races
 : 	 non
 rachel
@@ -14383,7 +14383,7 @@ racial
 racing
 : 	 non
 rack
-: 	 peut-être
+: 	 yes
 racks
 : 	 non
 radar
@@ -14399,17 +14399,17 @@ radios
 radius
 : 	 non
 rage
-: 	 peut-être
+: 	 yes
 raid
-: 	 peut-être
+: 	 yes
 rail
-: 	 peut-être
+: 	 yes
 railroad
 : 	 non
 railway
 : 	 non
 rain
-: 	 peut-être
+: 	 yes
 rainbow
 : 	 non
 raise
@@ -14427,13 +14427,13 @@ rally
 ralph
 : 	 non
 ram
-: 	 peut-être
+: 	 yes
 ran
-: 	 peut-être
+: 	 yes
 ranch
 : 	 non
 rand
-: 	 peut-être
+: 	 yes
 random
 : 	 non
 randy
@@ -14447,7 +14447,7 @@ ranges
 ranging
 : 	 non
 rank
-: 	 peut-être
+: 	 yes
 ranked
 : 	 non
 ranking
@@ -14457,9 +14457,9 @@ rankings
 ranks
 : 	 non
 rap
-: 	 peut-être
+: 	 yes
 rape
-: 	 peut-être
+: 	 yes
 rapid
 : 	 non
 rapidly
@@ -14467,13 +14467,13 @@ rapidly
 rapids
 : 	 non
 rare
-: 	 peut-être
+: 	 yes
 rarely
 : 	 non
 rat
-: 	 peut-être
+: 	 yes
 rate
-: 	 peut-être
+: 	 yes
 rated
 : 	 non
 rates
@@ -14491,21 +14491,21 @@ rational
 ratios
 : 	 non
 rats
-: 	 peut-être
+: 	 yes
 raw
-: 	 peut-être
+: 	 yes
 ray
-: 	 peut-être
+: 	 yes
 raymond
 : 	 non
 rays
-: 	 peut-être
+: 	 yes
 rb
 : 	 non
 rc
 : 	 non
 rca
-: 	 peut-être
+: 	 yes
 rd
 : 	 non
 re
@@ -14523,7 +14523,7 @@ reaction
 reactions
 : 	 non
 read
-: 	 peut-être
+: 	 yes
 reader
 : 	 non
 readers
@@ -14539,7 +14539,7 @@ reads
 ready
 : 	 non
 real
-: 	 peut-être
+: 	 yes
 realistic
 : 	 non
 reality
@@ -14559,7 +14559,7 @@ realtors
 realty
 : 	 non
 rear
-: 	 peut-être
+: 	 yes
 reason
 : 	 non
 reasonable
@@ -14581,7 +14581,7 @@ rebel
 rebound
 : 	 non
 rec
-: 	 peut-être
+: 	 yes
 recall
 : 	 non
 receipt
@@ -14667,7 +14667,7 @@ recruitment
 recycling
 : 	 non
 red
-: 	 peut-être
+: 	 yes
 redeem
 : 	 non
 redhead
@@ -14685,13 +14685,13 @@ reduction
 reductions
 : 	 non
 reed
-: 	 peut-être
+: 	 yes
 reef
-: 	 peut-être
+: 	 yes
 reel
-: 	 peut-être
+: 	 yes
 ref
-: 	 peut-être
+: 	 yes
 refer
 : 	 non
 reference
@@ -14745,7 +14745,7 @@ refuse
 refused
 : 	 non
 reg
-: 	 peut-être
+: 	 yes
 regard
 : 	 non
 regarded
@@ -14795,13 +14795,13 @@ rehab
 rehabilitation
 : 	 non
 reid
-: 	 peut-être
+: 	 yes
 reject
 : 	 non
 rejected
 : 	 non
 rel
-: 	 peut-être
+: 	 yes
 relate
 : 	 non
 related
@@ -14859,7 +14859,7 @@ reload
 relocation
 : 	 non
 rely
-: 	 peut-être
+: 	 yes
 relying
 : 	 non
 remain
@@ -14919,9 +14919,9 @@ renewable
 renewal
 : 	 non
 reno
-: 	 peut-être
+: 	 yes
 rent
-: 	 peut-être
+: 	 yes
 rental
 : 	 non
 rentals
@@ -14929,7 +14929,7 @@ rentals
 rentcom
 : 	 non
 rep
-: 	 peut-être
+: 	 yes
 repair
 : 	 non
 repairs
@@ -15027,7 +15027,7 @@ requires
 requiring
 : 	 non
 res
-: 	 peut-être
+: 	 yes
 rescue
 : 	 non
 research
@@ -15113,7 +15113,7 @@ responsibility
 responsible
 : 	 non
 rest
-: 	 peut-être
+: 	 yes
 restaurant
 : 	 non
 restaurants
@@ -15185,7 +15185,7 @@ reunion
 reuters
 : 	 non
 rev
-: 	 peut-être
+: 	 yes
 reveal
 : 	 non
 revealed
@@ -15231,7 +15231,7 @@ reynolds
 rf
 : 	 non
 rfc
-: 	 peut-être
+: 	 yes
 rg
 : 	 non
 rh
@@ -15245,11 +15245,11 @@ ri
 ribbon
 : 	 non
 rica
-: 	 peut-être
+: 	 yes
 rice
-: 	 peut-être
+: 	 yes
 rich
-: 	 peut-être
+: 	 yes
 richard
 : 	 non
 richards
@@ -15259,13 +15259,13 @@ richardson
 richmond
 : 	 non
 rick
-: 	 peut-être
+: 	 yes
 rico
-: 	 peut-être
+: 	 yes
 rid
-: 	 peut-être
+: 	 yes
 ride
-: 	 peut-être
+: 	 yes
 rider
 : 	 non
 riders
@@ -15281,9 +15281,9 @@ right
 rights
 : 	 non
 rim
-: 	 peut-être
+: 	 yes
 ring
-: 	 peut-être
+: 	 yes
 rings
 : 	 non
 ringtone
@@ -15291,17 +15291,17 @@ ringtone
 ringtones
 : 	 non
 rio
-: 	 peut-être
+: 	 yes
 rip
-: 	 peut-être
+: 	 yes
 ripe
-: 	 peut-être
+: 	 yes
 rise
-: 	 peut-être
+: 	 yes
 rising
 : 	 non
 risk
-: 	 peut-être
+: 	 yes
 risks
 : 	 non
 river
@@ -15319,15 +15319,15 @@ rm
 rn
 : 	 non
 rna
-: 	 peut-être
+: 	 yes
 ro
 : 	 non
 road
-: 	 peut-être
+: 	 yes
 roads
 : 	 non
 rob
-: 	 peut-être
+: 	 yes
 robert
 : 	 non
 roberts
@@ -15347,7 +15347,7 @@ robust
 rochester
 : 	 non
 rock
-: 	 peut-être
+: 	 yes
 rocket
 : 	 non
 rocks
@@ -15355,7 +15355,7 @@ rocks
 rocky
 : 	 non
 rod
-: 	 peut-être
+: 	 yes
 roger
 : 	 non
 rogers
@@ -15363,11 +15363,11 @@ rogers
 roland
 : 	 non
 role
-: 	 peut-être
+: 	 yes
 roles
 : 	 non
 roll
-: 	 peut-être
+: 	 yes
 rolled
 : 	 non
 roller
@@ -15377,7 +15377,7 @@ rolling
 rolls
 : 	 non
 rom
-: 	 peut-être
+: 	 yes
 roman
 : 	 non
 romance
@@ -15387,15 +15387,15 @@ romania
 romantic
 : 	 non
 rome
-: 	 peut-être
+: 	 yes
 ron
-: 	 peut-être
+: 	 yes
 ronald
 : 	 non
 roof
-: 	 peut-être
+: 	 yes
 room
-: 	 peut-être
+: 	 yes
 roommate
 : 	 non
 roommates
@@ -15403,19 +15403,19 @@ roommates
 rooms
 : 	 non
 root
-: 	 peut-être
+: 	 yes
 roots
 : 	 non
 rope
-: 	 peut-être
+: 	 yes
 rosa
-: 	 peut-être
+: 	 yes
 rose
-: 	 peut-être
+: 	 yes
 roses
 : 	 non
 ross
-: 	 peut-être
+: 	 yes
 roster
 : 	 non
 rotary
@@ -15451,11 +15451,11 @@ routing
 rover
 : 	 non
 row
-: 	 peut-être
+: 	 yes
 rows
-: 	 peut-être
+: 	 yes
 roy
-: 	 peut-être
+: 	 yes
 royal
 : 	 non
 royalty
@@ -15463,17 +15463,17 @@ royalty
 rp
 : 	 non
 rpg
-: 	 peut-être
+: 	 yes
 rpm
-: 	 peut-être
+: 	 yes
 rr
 : 	 non
 rrp
-: 	 peut-être
+: 	 yes
 rs
 : 	 non
 rss
-: 	 peut-être
+: 	 yes
 rt
 : 	 non
 ru
@@ -15481,15 +15481,15 @@ ru
 rubber
 : 	 non
 ruby
-: 	 peut-être
+: 	 yes
 rug
-: 	 peut-être
+: 	 yes
 rugby
 : 	 non
 rugs
-: 	 peut-être
+: 	 yes
 rule
-: 	 peut-être
+: 	 yes
 ruled
 : 	 non
 rules
@@ -15497,19 +15497,19 @@ rules
 ruling
 : 	 non
 run
-: 	 peut-être
+: 	 yes
 runner
 : 	 non
 running
 : 	 non
 runs
-: 	 peut-être
+: 	 yes
 runtime
 : 	 non
 rural
 : 	 non
 rush
-: 	 peut-être
+: 	 yes
 russell
 : 	 non
 russia
@@ -15517,7 +15517,7 @@ russia
 russian
 : 	 non
 ruth
-: 	 peut-être
+: 	 yes
 rv
 : 	 non
 rw
@@ -15527,7 +15527,7 @@ rwanda
 rx
 : 	 non
 ryan
-: 	 peut-être
+: 	 yes
 s
 : 	 non
 sa
@@ -15539,13 +15539,13 @@ sacred
 sacrifice
 : 	 non
 sad
-: 	 peut-être
+: 	 yes
 saddam
 : 	 non
 safari
 : 	 non
 safe
-: 	 peut-être
+: 	 yes
 safely
 : 	 non
 safer
@@ -15553,13 +15553,13 @@ safer
 safety
 : 	 non
 sage
-: 	 peut-être
+: 	 yes
 sagem
 : 	 non
 said
-: 	 peut-être
+: 	 yes
 sail
-: 	 peut-être
+: 	 yes
 sailing
 : 	 non
 saint
@@ -15567,7 +15567,7 @@ saint
 saints
 : 	 non
 sake
-: 	 peut-être
+: 	 yes
 salad
 : 	 non
 salaries
@@ -15575,7 +15575,7 @@ salaries
 salary
 : 	 non
 sale
-: 	 peut-être
+: 	 yes
 salem
 : 	 non
 sales
@@ -15587,17 +15587,17 @@ salmon
 salon
 : 	 non
 salt
-: 	 peut-être
+: 	 yes
 salvador
 : 	 non
 salvation
 : 	 non
 sam
-: 	 peut-être
+: 	 yes
 samba
 : 	 non
 same
-: 	 peut-être
+: 	 yes
 samoa
 : 	 non
 sample
@@ -15611,9 +15611,9 @@ samsung
 samuel
 : 	 non
 san
-: 	 peut-être
+: 	 yes
 sand
-: 	 peut-être
+: 	 yes
 sandra
 : 	 non
 sandwich
@@ -15621,27 +15621,27 @@ sandwich
 sandy
 : 	 non
 sans
-: 	 peut-être
+: 	 yes
 santa
 : 	 non
 sanyo
 : 	 non
 sao
-: 	 peut-être
+: 	 yes
 sap
-: 	 peut-être
+: 	 yes
 sapphire
 : 	 non
 sara
-: 	 peut-être
+: 	 yes
 sarah
 : 	 non
 sas
-: 	 peut-être
+: 	 yes
 saskatchewan
 : 	 non
 sat
-: 	 peut-être
+: 	 yes
 satellite
 : 	 non
 satin
@@ -15667,7 +15667,7 @@ savage
 savannah
 : 	 non
 save
-: 	 peut-être
+: 	 yes
 saved
 : 	 non
 saver
@@ -15679,13 +15679,13 @@ saving
 savings
 : 	 non
 saw
-: 	 peut-être
+: 	 yes
 say
-: 	 peut-être
+: 	 yes
 saying
 : 	 non
 says
-: 	 peut-être
+: 	 yes
 sb
 : 	 non
 sbjct
@@ -15697,7 +15697,7 @@ scale
 scales
 : 	 non
 scan
-: 	 peut-être
+: 	 yes
 scanned
 : 	 non
 scanner
@@ -15745,7 +15745,7 @@ school
 schools
 : 	 non
 sci
-: 	 peut-être
+: 	 yes
 science
 : 	 non
 sciences
@@ -15805,7 +15805,7 @@ scripts
 scroll
 : 	 non
 scsi
-: 	 peut-être
+: 	 yes
 scuba
 : 	 non
 sculpture
@@ -15815,15 +15815,15 @@ sd
 se
 : 	 non
 sea
-: 	 peut-être
+: 	 yes
 seafood
 : 	 non
 seal
-: 	 peut-être
+: 	 yes
 sealed
 : 	 non
 sean
-: 	 peut-être
+: 	 yes
 search
 : 	 non
 searchcom
@@ -15835,7 +15835,7 @@ searches
 searching
 : 	 non
 seas
-: 	 peut-être
+: 	 yes
 season
 : 	 non
 seasonal
@@ -15843,7 +15843,7 @@ seasonal
 seasons
 : 	 non
 seat
-: 	 peut-être
+: 	 yes
 seating
 : 	 non
 seats
@@ -15851,7 +15851,7 @@ seats
 seattle
 : 	 non
 sec
-: 	 peut-être
+: 	 yes
 second
 : 	 non
 secondary
@@ -15885,15 +15885,15 @@ securities
 security
 : 	 non
 see
-: 	 peut-être
+: 	 yes
 seed
-: 	 peut-être
+: 	 yes
 seeds
 : 	 non
 seeing
 : 	 non
 seek
-: 	 peut-être
+: 	 yes
 seeker
 : 	 non
 seekers
@@ -15903,17 +15903,17 @@ seeking
 seeks
 : 	 non
 seem
-: 	 peut-être
+: 	 yes
 seemed
 : 	 non
 seems
 : 	 non
 seen
-: 	 peut-être
+: 	 yes
 sees
-: 	 peut-être
+: 	 yes
 sega
-: 	 peut-être
+: 	 yes
 segment
 : 	 non
 segments
@@ -15931,9 +15931,9 @@ selections
 selective
 : 	 non
 self
-: 	 peut-être
+: 	 yes
 sell
-: 	 peut-être
+: 	 yes
 seller
 : 	 non
 sellers
@@ -15945,7 +15945,7 @@ sells
 semester
 : 	 non
 semi
-: 	 peut-être
+: 	 yes
 semiconductor
 : 	 non
 seminar
@@ -15953,7 +15953,7 @@ seminar
 seminars
 : 	 non
 sen
-: 	 peut-être
+: 	 yes
 senate
 : 	 non
 senator
@@ -15961,7 +15961,7 @@ senator
 senators
 : 	 non
 send
-: 	 peut-être
+: 	 yes
 sender
 : 	 non
 sending
@@ -15985,15 +15985,15 @@ sensor
 sensors
 : 	 non
 sent
-: 	 peut-être
+: 	 yes
 sentence
 : 	 non
 sentences
 : 	 non
 seo
-: 	 peut-être
+: 	 yes
 sep
-: 	 peut-être
+: 	 yes
 separate
 : 	 non
 separated
@@ -16003,17 +16003,17 @@ separately
 separation
 : 	 non
 sept
-: 	 peut-être
+: 	 yes
 september
 : 	 non
 seq
-: 	 peut-être
+: 	 yes
 sequence
 : 	 non
 sequences
 : 	 non
 ser
-: 	 peut-être
+: 	 yes
 serbia
 : 	 non
 serial
@@ -16047,9 +16047,9 @@ session
 sessions
 : 	 non
 set
-: 	 peut-être
+: 	 yes
 sets
-: 	 peut-être
+: 	 yes
 setting
 : 	 non
 settings
@@ -16073,11 +16073,11 @@ severe
 sewing
 : 	 non
 sex
-: 	 peut-être
+: 	 yes
 sexcam
 : 	 non
 sexo
-: 	 peut-être
+: 	 yes
 sexual
 : 	 non
 sexuality
@@ -16085,7 +16085,7 @@ sexuality
 sexually
 : 	 non
 sexy
-: 	 peut-être
+: 	 yes
 sf
 : 	 non
 sg
@@ -16143,11 +16143,11 @@ sharp
 shaved
 : 	 non
 shaw
-: 	 peut-être
+: 	 yes
 she
-: 	 peut-être
+: 	 yes
 shed
-: 	 peut-être
+: 	 yes
 sheep
 : 	 non
 sheer
@@ -16181,7 +16181,7 @@ shift
 shine
 : 	 non
 ship
-: 	 peut-être
+: 	 yes
 shipment
 : 	 non
 shipments
@@ -16197,11 +16197,11 @@ shirt
 shirts
 : 	 non
 shit
-: 	 peut-être
+: 	 yes
 shock
 : 	 non
 shoe
-: 	 peut-être
+: 	 yes
 shoes
 : 	 non
 shoot
@@ -16209,7 +16209,7 @@ shoot
 shooting
 : 	 non
 shop
-: 	 peut-être
+: 	 yes
 shopper
 : 	 non
 shoppercom
@@ -16237,7 +16237,7 @@ shortly
 shorts
 : 	 non
 shot
-: 	 peut-être
+: 	 yes
 shots
 : 	 non
 should
@@ -16245,7 +16245,7 @@ should
 shoulder
 : 	 non
 show
-: 	 peut-être
+: 	 yes
 showcase
 : 	 non
 showed
@@ -16263,33 +16263,33 @@ shows
 showtimes
 : 	 non
 shut
-: 	 peut-être
+: 	 yes
 shuttle
 : 	 non
 si
 : 	 non
 sic
-: 	 peut-être
+: 	 yes
 sick
-: 	 peut-être
+: 	 yes
 side
-: 	 peut-être
+: 	 yes
 sides
 : 	 non
 sie
-: 	 peut-être
+: 	 yes
 siemens
 : 	 non
 sierra
 : 	 non
 sig
-: 	 peut-être
+: 	 yes
 sight
 : 	 non
 sigma
 : 	 non
 sign
-: 	 peut-être
+: 	 yes
 signal
 : 	 non
 signals
@@ -16319,13 +16319,13 @@ silent
 silicon
 : 	 non
 silk
-: 	 peut-être
+: 	 yes
 silly
 : 	 non
 silver
 : 	 non
 sim
-: 	 peut-être
+: 	 yes
 similar
 : 	 non
 similarly
@@ -16343,7 +16343,7 @@ simpson
 simpsons
 : 	 non
 sims
-: 	 peut-être
+: 	 yes
 simulation
 : 	 non
 simulations
@@ -16351,11 +16351,11 @@ simulations
 simultaneously
 : 	 non
 sin
-: 	 peut-être
+: 	 yes
 since
 : 	 non
 sing
-: 	 peut-être
+: 	 yes
 singapore
 : 	 non
 singer
@@ -16369,19 +16369,19 @@ single
 singles
 : 	 non
 sink
-: 	 peut-être
+: 	 yes
 sip
-: 	 peut-être
+: 	 yes
 sir
-: 	 peut-être
+: 	 yes
 sister
 : 	 non
 sisters
 : 	 non
 sit
-: 	 peut-être
+: 	 yes
 site
-: 	 peut-être
+: 	 yes
 sitemap
 : 	 non
 sites
@@ -16395,11 +16395,11 @@ situation
 situations
 : 	 non
 six
-: 	 peut-être
+: 	 yes
 sixth
 : 	 non
 size
-: 	 peut-être
+: 	 yes
 sized
 : 	 non
 sizes
@@ -16409,7 +16409,7 @@ sk
 skating
 : 	 non
 ski
-: 	 peut-être
+: 	 yes
 skiing
 : 	 non
 skill
@@ -16419,19 +16419,19 @@ skilled
 skills
 : 	 non
 skin
-: 	 peut-être
+: 	 yes
 skins
 : 	 non
 skip
-: 	 peut-être
+: 	 yes
 skirt
 : 	 non
 skirts
 : 	 non
 sku
-: 	 peut-être
+: 	 yes
 sky
-: 	 peut-être
+: 	 yes
 skype
 : 	 non
 sl
@@ -16457,13 +16457,13 @@ slight
 slightly
 : 	 non
 slim
-: 	 peut-être
+: 	 yes
 slip
-: 	 peut-être
+: 	 yes
 slope
 : 	 non
 slot
-: 	 peut-être
+: 	 yes
 slots
 : 	 non
 slovak
@@ -16473,11 +16473,11 @@ slovakia
 slovenia
 : 	 non
 slow
-: 	 peut-être
+: 	 yes
 slowly
 : 	 non
 slut
-: 	 peut-être
+: 	 yes
 sluts
 : 	 non
 sm
@@ -16505,29 +16505,29 @@ smoking
 smooth
 : 	 non
 sms
-: 	 peut-être
+: 	 yes
 smtp
-: 	 peut-être
+: 	 yes
 sn
 : 	 non
 snake
 : 	 non
 snap
-: 	 peut-être
+: 	 yes
 snapshot
 : 	 non
 snow
-: 	 peut-être
+: 	 yes
 snowboard
 : 	 non
 so
 : 	 non
 soa
-: 	 peut-être
+: 	 yes
 soap
-: 	 peut-être
+: 	 yes
 soc
-: 	 peut-être
+: 	 yes
 soccer
 : 	 non
 social
@@ -16545,35 +16545,35 @@ socks
 sodium
 : 	 non
 sofa
-: 	 peut-être
+: 	 yes
 soft
-: 	 peut-être
+: 	 yes
 softball
 : 	 non
 software
 : 	 non
 soil
-: 	 peut-être
+: 	 yes
 sol
-: 	 peut-être
+: 	 yes
 solar
 : 	 non
 solaris
 : 	 non
 sold
-: 	 peut-être
+: 	 yes
 soldier
 : 	 non
 soldiers
 : 	 non
 sole
-: 	 peut-être
+: 	 yes
 solely
 : 	 non
 solid
 : 	 non
 solo
-: 	 peut-être
+: 	 yes
 solomon
 : 	 non
 solution
@@ -16587,11 +16587,11 @@ solved
 solving
 : 	 non
 soma
-: 	 peut-être
+: 	 yes
 somalia
 : 	 non
 some
-: 	 peut-être
+: 	 yes
 somebody
 : 	 non
 somehow
@@ -16609,19 +16609,19 @@ somewhat
 somewhere
 : 	 non
 son
-: 	 peut-être
+: 	 yes
 song
-: 	 peut-être
+: 	 yes
 songs
 : 	 non
 sonic
 : 	 non
 sons
-: 	 peut-être
+: 	 yes
 sony
-: 	 peut-être
+: 	 yes
 soon
-: 	 peut-être
+: 	 yes
 soonest
 : 	 non
 sophisticated
@@ -16629,7 +16629,7 @@ sophisticated
 sorry
 : 	 non
 sort
-: 	 peut-être
+: 	 yes
 sorted
 : 	 non
 sorts
@@ -16637,7 +16637,7 @@ sorts
 sought
 : 	 non
 soul
-: 	 peut-être
+: 	 yes
 souls
 : 	 non
 sound
@@ -16647,7 +16647,7 @@ sounds
 soundtrack
 : 	 non
 soup
-: 	 peut-être
+: 	 yes
 source
 : 	 non
 sources
@@ -16665,11 +16665,11 @@ southwest
 soviet
 : 	 non
 sox
-: 	 peut-être
+: 	 yes
 sp
 : 	 non
 spa
-: 	 peut-être
+: 	 yes
 space
 : 	 non
 spaces
@@ -16677,9 +16677,9 @@ spaces
 spain
 : 	 non
 spam
-: 	 peut-être
+: 	 yes
 span
-: 	 peut-être
+: 	 yes
 spanish
 : 	 non
 spank
@@ -16691,7 +16691,7 @@ sparc
 spare
 : 	 non
 spas
-: 	 peut-être
+: 	 yes
 spatial
 : 	 non
 speak
@@ -16707,7 +16707,7 @@ speaks
 spears
 : 	 non
 spec
-: 	 peut-être
+: 	 yes
 special
 : 	 non
 specialist
@@ -16781,7 +16781,7 @@ spider
 spies
 : 	 non
 spin
-: 	 peut-être
+: 	 yes
 spine
 : 	 non
 spirit
@@ -16815,7 +16815,7 @@ sporting
 sports
 : 	 non
 spot
-: 	 peut-être
+: 	 yes
 spotlight
 : 	 non
 spots
@@ -16839,13 +16839,13 @@ springs
 sprint
 : 	 non
 spy
-: 	 peut-être
+: 	 yes
 spyware
 : 	 non
 sq
 : 	 non
 sql
-: 	 peut-être
+: 	 yes
 squad
 : 	 non
 square
@@ -16857,13 +16857,13 @@ squirting
 sr
 : 	 non
 src
-: 	 peut-être
+: 	 yes
 sri
-: 	 peut-être
+: 	 yes
 ss
 : 	 non
 ssl
-: 	 peut-être
+: 	 yes
 st
 : 	 non
 stability
@@ -16891,7 +16891,7 @@ stamp
 stamps
 : 	 non
 stan
-: 	 peut-être
+: 	 yes
 stand
 : 	 non
 standard
@@ -16909,7 +16909,7 @@ stanford
 stanley
 : 	 non
 star
-: 	 peut-être
+: 	 yes
 starring
 : 	 non
 stars
@@ -16929,7 +16929,7 @@ starts
 startup
 : 	 non
 stat
-: 	 peut-être
+: 	 yes
 state
 : 	 non
 stated
@@ -16967,7 +16967,7 @@ statutes
 statutory
 : 	 non
 stay
-: 	 peut-être
+: 	 yes
 stayed
 : 	 non
 staying
@@ -16975,9 +16975,9 @@ staying
 stays
 : 	 non
 std
-: 	 peut-être
+: 	 yes
 ste
-: 	 peut-être
+: 	 yes
 steady
 : 	 non
 steal
@@ -16989,9 +16989,9 @@ steel
 steering
 : 	 non
 stem
-: 	 peut-être
+: 	 yes
 step
-: 	 peut-être
+: 	 yes
 stephanie
 : 	 non
 stephen
@@ -17041,7 +17041,7 @@ stones
 stood
 : 	 non
 stop
-: 	 peut-être
+: 	 yes
 stopped
 : 	 non
 stopping
@@ -17063,7 +17063,7 @@ storm
 story
 : 	 non
 str
-: 	 peut-être
+: 	 yes
 straight
 : 	 non
 strain
@@ -17151,7 +17151,7 @@ stuart
 stuck
 : 	 non
 stud
-: 	 peut-être
+: 	 yes
 student
 : 	 non
 students
@@ -17187,7 +17187,7 @@ stylus
 su
 : 	 non
 sub
-: 	 peut-être
+: 	 yes
 subaru
 : 	 non
 subcommittee
@@ -17255,9 +17255,9 @@ successful
 successfully
 : 	 non
 such
-: 	 peut-être
+: 	 yes
 suck
-: 	 peut-être
+: 	 yes
 sucking
 : 	 non
 sucks
@@ -17269,7 +17269,7 @@ sudden
 suddenly
 : 	 non
 sue
-: 	 peut-être
+: 	 yes
 suffer
 : 	 non
 suffered
@@ -17297,7 +17297,7 @@ suggests
 suicide
 : 	 non
 suit
-: 	 peut-être
+: 	 yes
 suitable
 : 	 non
 suite
@@ -17311,7 +17311,7 @@ suits
 sullivan
 : 	 non
 sum
-: 	 peut-être
+: 	 yes
 summaries
 : 	 non
 summary
@@ -17321,7 +17321,7 @@ summer
 summit
 : 	 non
 sun
-: 	 peut-être
+: 	 yes
 sunday
 : 	 non
 sunglasses
@@ -17381,13 +17381,13 @@ supposed
 supreme
 : 	 non
 sur
-: 	 peut-être
+: 	 yes
 sure
-: 	 peut-être
+: 	 yes
 surely
 : 	 non
 surf
-: 	 peut-être
+: 	 yes
 surface
 : 	 non
 surfaces
@@ -17439,7 +17439,7 @@ survivors
 susan
 : 	 non
 suse
-: 	 peut-être
+: 	 yes
 suspect
 : 	 non
 suspected
@@ -17463,7 +17463,7 @@ sv
 sw
 : 	 non
 swap
-: 	 peut-être
+: 	 yes
 sweden
 : 	 non
 swedish
@@ -17473,7 +17473,7 @@ sweet
 swift
 : 	 non
 swim
-: 	 peut-être
+: 	 yes
 swimming
 : 	 non
 swing
@@ -17511,7 +17511,7 @@ symposium
 symptoms
 : 	 non
 sync
-: 	 peut-être
+: 	 yes
 syndicate
 : 	 non
 syndication
@@ -17531,7 +17531,7 @@ syracuse
 syria
 : 	 non
 sys
-: 	 peut-être
+: 	 yes
 system
 : 	 non
 systematic
@@ -17543,7 +17543,7 @@ t
 ta
 : 	 non
 tab
-: 	 peut-être
+: 	 yes
 table
 : 	 non
 tables
@@ -17553,25 +17553,25 @@ tablet
 tablets
 : 	 non
 tabs
-: 	 peut-être
+: 	 yes
 tackle
 : 	 non
 tactics
 : 	 non
 tag
-: 	 peut-être
+: 	 yes
 tagged
 : 	 non
 tags
-: 	 peut-être
+: 	 yes
 tahoe
 : 	 non
 tail
-: 	 peut-être
+: 	 yes
 taiwan
 : 	 non
 take
-: 	 peut-être
+: 	 yes
 taken
 : 	 non
 takes
@@ -17579,7 +17579,7 @@ takes
 taking
 : 	 non
 tale
-: 	 peut-être
+: 	 yes
 talent
 : 	 non
 talented
@@ -17587,7 +17587,7 @@ talented
 tales
 : 	 non
 talk
-: 	 peut-être
+: 	 yes
 talked
 : 	 non
 talking
@@ -17595,27 +17595,27 @@ talking
 talks
 : 	 non
 tall
-: 	 peut-être
+: 	 yes
 tamil
 : 	 non
 tampa
 : 	 non
 tan
-: 	 peut-être
+: 	 yes
 tank
-: 	 peut-être
+: 	 yes
 tanks
 : 	 non
 tanzania
 : 	 non
 tap
-: 	 peut-être
+: 	 yes
 tape
-: 	 peut-être
+: 	 yes
 tapes
 : 	 non
 tar
-: 	 peut-être
+: 	 yes
 target
 : 	 non
 targeted
@@ -17625,7 +17625,7 @@ targets
 tariff
 : 	 non
 task
-: 	 peut-être
+: 	 yes
 tasks
 : 	 non
 taste
@@ -17635,29 +17635,29 @@ tattoo
 taught
 : 	 non
 tax
-: 	 peut-être
+: 	 yes
 taxation
 : 	 non
 taxes
 : 	 non
 taxi
-: 	 peut-être
+: 	 yes
 taylor
 : 	 non
 tb
 : 	 non
 tba
-: 	 peut-être
+: 	 yes
 tc
 : 	 non
 tcp
-: 	 peut-être
+: 	 yes
 td
 : 	 non
 te
 : 	 non
 tea
-: 	 peut-être
+: 	 yes
 teach
 : 	 non
 teacher
@@ -17669,15 +17669,15 @@ teaches
 teaching
 : 	 non
 team
-: 	 peut-être
+: 	 yes
 teams
 : 	 non
 tear
-: 	 peut-être
+: 	 yes
 tears
 : 	 non
 tech
-: 	 peut-être
+: 	 yes
 technical
 : 	 non
 technician
@@ -17697,13 +17697,13 @@ technology
 techrepublic
 : 	 non
 ted
-: 	 peut-être
+: 	 yes
 teddy
 : 	 non
 tee
-: 	 peut-être
+: 	 yes
 teen
-: 	 peut-être
+: 	 yes
 teenage
 : 	 non
 teens
@@ -17711,7 +17711,7 @@ teens
 teeth
 : 	 non
 tel
-: 	 peut-être
+: 	 yes
 telecharger
 : 	 non
 telecom
@@ -17729,13 +17729,13 @@ television
 televisions
 : 	 non
 tell
-: 	 peut-être
+: 	 yes
 telling
 : 	 non
 tells
 : 	 non
 temp
-: 	 peut-être
+: 	 yes
 temperature
 : 	 non
 temperatures
@@ -17753,11 +17753,11 @@ temporarily
 temporary
 : 	 non
 ten
-: 	 peut-être
+: 	 yes
 tenant
 : 	 non
 tend
-: 	 peut-être
+: 	 yes
 tender
 : 	 non
 tennessee
@@ -17767,9 +17767,9 @@ tennis
 tension
 : 	 non
 tent
-: 	 peut-être
+: 	 yes
 term
-: 	 peut-être
+: 	 yes
 terminal
 : 	 non
 terminals
@@ -17801,7 +17801,7 @@ terrorists
 terry
 : 	 non
 test
-: 	 peut-être
+: 	 yes
 testament
 : 	 non
 tested
@@ -17815,11 +17815,11 @@ testing
 tests
 : 	 non
 tex
-: 	 peut-être
+: 	 yes
 texas
 : 	 non
 text
-: 	 peut-être
+: 	 yes
 textbook
 : 	 non
 textbooks
@@ -17835,17 +17835,17 @@ texture
 tf
 : 	 non
 tft
-: 	 peut-être
+: 	 yes
 tgp
-: 	 peut-être
+: 	 yes
 th
 : 	 non
 thai
-: 	 peut-être
+: 	 yes
 thailand
 : 	 non
 than
-: 	 peut-être
+: 	 yes
 thank
 : 	 non
 thanks
@@ -17853,11 +17853,11 @@ thanks
 thanksgiving
 : 	 non
 that
-: 	 peut-être
+: 	 yes
 thats
 : 	 non
 the
-: 	 peut-être
+: 	 yes
 theater
 : 	 non
 theaters
@@ -17865,7 +17865,7 @@ theaters
 theatre
 : 	 non
 thee
-: 	 peut-être
+: 	 yes
 theft
 : 	 non
 thehun
@@ -17873,7 +17873,7 @@ thehun
 their
 : 	 non
 them
-: 	 peut-être
+: 	 yes
 theme
 : 	 non
 themes
@@ -17881,7 +17881,7 @@ themes
 themselves
 : 	 non
 then
-: 	 peut-être
+: 	 yes
 theology
 : 	 non
 theorem
@@ -17917,13 +17917,13 @@ these
 thesis
 : 	 non
 they
-: 	 peut-être
+: 	 yes
 thick
 : 	 non
 thickness
 : 	 non
 thin
-: 	 peut-être
+: 	 yes
 thing
 : 	 non
 things
@@ -17941,7 +17941,7 @@ third
 thirty
 : 	 non
 this
-: 	 peut-être
+: 	 yes
 thomas
 : 	 non
 thompson
@@ -17959,7 +17959,7 @@ thoroughly
 those
 : 	 non
 thou
-: 	 peut-être
+: 	 yes
 though
 : 	 non
 thought
@@ -18007,9 +18007,9 @@ thrown
 throws
 : 	 non
 thru
-: 	 peut-être
+: 	 yes
 thu
-: 	 peut-être
+: 	 yes
 thumb
 : 	 non
 thumbnail
@@ -18025,9 +18025,9 @@ thunder
 thursday
 : 	 non
 thus
-: 	 peut-être
+: 	 yes
 thy
-: 	 peut-être
+: 	 yes
 ti
 : 	 non
 ticket
@@ -18035,15 +18035,15 @@ ticket
 tickets
 : 	 non
 tide
-: 	 peut-être
+: 	 yes
 tie
-: 	 peut-être
+: 	 yes
 tied
-: 	 peut-être
+: 	 yes
 tier
-: 	 peut-être
+: 	 yes
 ties
-: 	 peut-être
+: 	 yes
 tiffany
 : 	 non
 tiger
@@ -18053,19 +18053,19 @@ tigers
 tight
 : 	 non
 til
-: 	 peut-être
+: 	 yes
 tile
-: 	 peut-être
+: 	 yes
 tiles
 : 	 non
 till
-: 	 peut-être
+: 	 yes
 tim
-: 	 peut-être
+: 	 yes
 timber
 : 	 non
 time
-: 	 peut-être
+: 	 yes
 timeline
 : 	 non
 timely
@@ -18079,19 +18079,19 @@ timing
 timothy
 : 	 non
 tin
-: 	 peut-être
+: 	 yes
 tiny
-: 	 peut-être
+: 	 yes
 tion
-: 	 peut-être
+: 	 yes
 tions
 : 	 non
 tip
-: 	 peut-être
+: 	 yes
 tips
-: 	 peut-être
+: 	 yes
 tire
-: 	 peut-être
+: 	 yes
 tired
 : 	 non
 tires
@@ -18099,7 +18099,7 @@ tires
 tissue
 : 	 non
 tit
-: 	 peut-être
+: 	 yes
 titanium
 : 	 non
 titans
@@ -18111,13 +18111,13 @@ titled
 titles
 : 	 non
 tits
-: 	 peut-être
+: 	 yes
 titten
 : 	 non
 tm
 : 	 non
 tmp
-: 	 peut-être
+: 	 yes
 tn
 : 	 non
 to
@@ -18129,11 +18129,11 @@ tobago
 today
 : 	 non
 todd
-: 	 peut-être
+: 	 yes
 toddler
 : 	 non
 toe
-: 	 peut-être
+: 	 yes
 together
 : 	 non
 toilet
@@ -18143,13 +18143,13 @@ token
 tokyo
 : 	 non
 told
-: 	 peut-être
+: 	 yes
 tolerance
 : 	 non
 toll
-: 	 peut-être
+: 	 yes
 tom
-: 	 peut-être
+: 	 yes
 tomato
 : 	 non
 tomatoes
@@ -18159,9 +18159,9 @@ tommy
 tomorrow
 : 	 non
 ton
-: 	 peut-être
+: 	 yes
 tone
-: 	 peut-être
+: 	 yes
 toner
 : 	 non
 tones
@@ -18171,15 +18171,15 @@ tongue
 tonight
 : 	 non
 tons
-: 	 peut-être
+: 	 yes
 tony
-: 	 peut-être
+: 	 yes
 too
-: 	 peut-être
+: 	 yes
 took
-: 	 peut-être
+: 	 yes
 tool
-: 	 peut-être
+: 	 yes
 toolbar
 : 	 non
 toolbox
@@ -18191,7 +18191,7 @@ tools
 tooth
 : 	 non
 top
-: 	 peut-être
+: 	 yes
 topic
 : 	 non
 topics
@@ -18199,7 +18199,7 @@ topics
 topless
 : 	 non
 tops
-: 	 peut-être
+: 	 yes
 toronto
 : 	 non
 torture
@@ -18219,7 +18219,7 @@ touched
 tough
 : 	 non
 tour
-: 	 peut-être
+: 	 yes
 touring
 : 	 non
 tourism
@@ -18241,7 +18241,7 @@ tower
 towers
 : 	 non
 town
-: 	 peut-être
+: 	 yes
 towns
 : 	 non
 township
@@ -18249,11 +18249,11 @@ township
 toxic
 : 	 non
 toy
-: 	 peut-être
+: 	 yes
 toyota
 : 	 non
 toys
-: 	 peut-être
+: 	 yes
 tp
 : 	 non
 tr
@@ -18385,7 +18385,7 @@ transportation
 transsexual
 : 	 non
 trap
-: 	 peut-être
+: 	 yes
 trash
 : 	 non
 trauma
@@ -18409,7 +18409,7 @@ travesti
 travis
 : 	 non
 tray
-: 	 peut-être
+: 	 yes
 treasure
 : 	 non
 treasurer
@@ -18431,11 +18431,11 @@ treatments
 treaty
 : 	 non
 tree
-: 	 peut-être
+: 	 yes
 trees
 : 	 non
 trek
-: 	 peut-être
+: 	 yes
 trembl
 : 	 non
 tremendous
@@ -18445,9 +18445,9 @@ trend
 trends
 : 	 non
 treo
-: 	 peut-être
+: 	 yes
 tri
-: 	 peut-être
+: 	 yes
 trial
 : 	 non
 trials
@@ -18477,15 +18477,15 @@ tries
 trigger
 : 	 non
 trim
-: 	 peut-être
+: 	 yes
 trinidad
 : 	 non
 trinity
 : 	 non
 trio
-: 	 peut-être
+: 	 yes
 trip
-: 	 peut-être
+: 	 yes
 tripadvisor
 : 	 non
 triple
@@ -18507,13 +18507,13 @@ troubleshooting
 trout
 : 	 non
 troy
-: 	 peut-être
+: 	 yes
 truck
 : 	 non
 trucks
 : 	 non
 true
-: 	 peut-être
+: 	 yes
 truly
 : 	 non
 trunk
@@ -18531,7 +18531,7 @@ trusts
 truth
 : 	 non
 try
-: 	 peut-être
+: 	 yes
 trying
 : 	 non
 ts
@@ -18543,15 +18543,15 @@ tt
 tu
 : 	 non
 tub
-: 	 peut-être
+: 	 yes
 tube
-: 	 peut-être
+: 	 yes
 tubes
 : 	 non
 tucson
 : 	 non
 tue
-: 	 peut-être
+: 	 yes
 tuesday
 : 	 non
 tuition
@@ -18561,7 +18561,7 @@ tulsa
 tumor
 : 	 non
 tune
-: 	 peut-être
+: 	 yes
 tuner
 : 	 non
 tunes
@@ -18579,7 +18579,7 @@ turkey
 turkish
 : 	 non
 turn
-: 	 peut-être
+: 	 yes
 turned
 : 	 non
 turner
@@ -18599,7 +18599,7 @@ tv
 tvcom
 : 	 non
 tvs
-: 	 peut-être
+: 	 yes
 twelve
 : 	 non
 twenty
@@ -18609,7 +18609,7 @@ twice
 twiki
 : 	 non
 twin
-: 	 peut-être
+: 	 yes
 twinks
 : 	 non
 twins
@@ -18619,7 +18619,7 @@ twist
 twisted
 : 	 non
 two
-: 	 peut-être
+: 	 yes
 tx
 : 	 non
 ty
@@ -18627,7 +18627,7 @@ ty
 tyler
 : 	 non
 type
-: 	 peut-être
+: 	 yes
 types
 : 	 non
 typical
@@ -18643,7 +18643,7 @@ uc
 uganda
 : 	 non
 ugly
-: 	 peut-être
+: 	 yes
 uh
 : 	 non
 ui
@@ -18667,7 +18667,7 @@ um
 un
 : 	 non
 una
-: 	 peut-être
+: 	 yes
 unable
 : 	 non
 unauthorized
@@ -18679,7 +18679,7 @@ uncertainty
 uncle
 : 	 non
 und
-: 	 peut-être
+: 	 yes
 undefined
 : 	 non
 under
@@ -18703,9 +18703,9 @@ undertaken
 underwear
 : 	 non
 undo
-: 	 peut-être
+: 	 yes
 une
-: 	 peut-être
+: 	 yes
 unemployment
 : 	 non
 unexpected
@@ -18713,7 +18713,7 @@ unexpected
 unfortunately
 : 	 non
 uni
-: 	 peut-être
+: 	 yes
 unified
 : 	 non
 uniform
@@ -18727,7 +18727,7 @@ uniprotkb
 unique
 : 	 non
 unit
-: 	 peut-être
+: 	 yes
 united
 : 	 non
 units
@@ -18735,7 +18735,7 @@ units
 unity
 : 	 non
 univ
-: 	 peut-être
+: 	 yes
 universal
 : 	 non
 universe
@@ -18745,7 +18745,7 @@ universities
 university
 : 	 non
 unix
-: 	 peut-être
+: 	 yes
 unknown
 : 	 non
 unless
@@ -18769,7 +18769,7 @@ until
 untitled
 : 	 non
 unto
-: 	 peut-être
+: 	 yes
 unusual
 : 	 non
 unwrap
@@ -18777,7 +18777,7 @@ unwrap
 up
 : 	 non
 upc
-: 	 peut-être
+: 	 yes
 upcoming
 : 	 non
 update
@@ -18799,11 +18799,11 @@ upload
 uploaded
 : 	 non
 upon
-: 	 peut-être
+: 	 yes
 upper
 : 	 non
 ups
-: 	 peut-être
+: 	 yes
 upset
 : 	 non
 upskirt
@@ -18815,55 +18815,55 @@ ur
 urban
 : 	 non
 urge
-: 	 peut-être
+: 	 yes
 urgent
 : 	 non
 uri
-: 	 peut-être
+: 	 yes
 url
-: 	 peut-être
+: 	 yes
 urls
-: 	 peut-être
+: 	 yes
 uruguay
 : 	 non
 urw
-: 	 peut-être
+: 	 yes
 us
 : 	 non
 usa
-: 	 peut-être
+: 	 yes
 usage
 : 	 non
 usb
-: 	 peut-être
+: 	 yes
 usc
-: 	 peut-être
+: 	 yes
 usd
-: 	 peut-être
+: 	 yes
 usda
-: 	 peut-être
+: 	 yes
 use
-: 	 peut-être
+: 	 yes
 used
-: 	 peut-être
+: 	 yes
 useful
 : 	 non
 user
-: 	 peut-être
+: 	 yes
 username
 : 	 non
 users
 : 	 non
 uses
-: 	 peut-être
+: 	 yes
 usgs
-: 	 peut-être
+: 	 yes
 using
 : 	 non
 usps
-: 	 peut-être
+: 	 yes
 usr
-: 	 peut-être
+: 	 yes
 usual
 : 	 non
 usually
@@ -18871,9 +18871,9 @@ usually
 ut
 : 	 non
 utah
-: 	 peut-être
+: 	 yes
 utc
-: 	 peut-être
+: 	 yes
 utilities
 : 	 non
 utility
@@ -18907,7 +18907,7 @@ vacuum
 vagina
 : 	 non
 val
-: 	 peut-être
+: 	 yes
 valentine
 : 	 non
 valid
@@ -18937,13 +18937,13 @@ valves
 vampire
 : 	 non
 van
-: 	 peut-être
+: 	 yes
 vancouver
 : 	 non
 vanilla
 : 	 non
 var
-: 	 peut-être
+: 	 yes
 variable
 : 	 non
 variables
@@ -18963,13 +18963,13 @@ variety
 various
 : 	 non
 vary
-: 	 peut-être
+: 	 yes
 varying
 : 	 non
 vast
-: 	 peut-être
+: 	 yes
 vat
-: 	 peut-être
+: 	 yes
 vatican
 : 	 non
 vault
@@ -18981,7 +18981,7 @@ vbulletin
 vc
 : 	 non
 vcr
-: 	 peut-être
+: 	 yes
 ve
 : 	 non
 vector
@@ -19021,7 +19021,7 @@ venue
 venues
 : 	 non
 ver
-: 	 peut-être
+: 	 yes
 verbal
 : 	 non
 verde
@@ -19051,7 +19051,7 @@ vertex
 vertical
 : 	 non
 very
-: 	 peut-être
+: 	 yes
 verzeichnis
 : 	 non
 vessel
@@ -19067,11 +19067,11 @@ veterinary
 vg
 : 	 non
 vhs
-: 	 peut-être
+: 	 yes
 vi
 : 	 non
 via
-: 	 peut-être
+: 	 yes
 viagra
 : 	 non
 vibrator
@@ -19079,9 +19079,9 @@ vibrator
 vibrators
 : 	 non
 vic
-: 	 peut-être
+: 	 yes
 vice
-: 	 peut-être
+: 	 yes
 victim
 : 	 non
 victims
@@ -19095,13 +19095,13 @@ victorian
 victory
 : 	 non
 vid
-: 	 peut-être
+: 	 yes
 video
 : 	 non
 videos
 : 	 non
 vids
-: 	 peut-être
+: 	 yes
 vienna
 : 	 non
 vietnam
@@ -19109,7 +19109,7 @@ vietnam
 vietnamese
 : 	 non
 view
-: 	 peut-être
+: 	 yes
 viewed
 : 	 non
 viewer
@@ -19123,9 +19123,9 @@ viewpicture
 views
 : 	 non
 vii
-: 	 peut-être
+: 	 yes
 viii
-: 	 peut-être
+: 	 yes
 viking
 : 	 non
 villa
@@ -19153,7 +19153,7 @@ violent
 violin
 : 	 non
 vip
-: 	 peut-être
+: 	 yes
 viral
 : 	 non
 virgin
@@ -19171,7 +19171,7 @@ virus
 viruses
 : 	 non
 visa
-: 	 peut-être
+: 	 yes
 visibility
 : 	 non
 visible
@@ -19213,17 +19213,17 @@ voice
 voices
 : 	 non
 void
-: 	 peut-être
+: 	 yes
 voip
-: 	 peut-être
+: 	 yes
 vol
-: 	 peut-être
+: 	 yes
 volkswagen
 : 	 non
 volleyball
 : 	 non
 volt
-: 	 peut-être
+: 	 yes
 voltage
 : 	 non
 volume
@@ -19239,9 +19239,9 @@ volunteers
 volvo
 : 	 non
 von
-: 	 peut-être
+: 	 yes
 vote
-: 	 peut-être
+: 	 yes
 voted
 : 	 non
 voters
@@ -19259,7 +19259,7 @@ voyuer
 vp
 : 	 non
 vpn
-: 	 peut-être
+: 	 yes
 vs
 : 	 non
 vsnet
@@ -19275,7 +19275,7 @@ w
 wa
 : 	 non
 wage
-: 	 peut-être
+: 	 yes
 wages
 : 	 non
 wagner
@@ -19283,19 +19283,19 @@ wagner
 wagon
 : 	 non
 wait
-: 	 peut-être
+: 	 yes
 waiting
 : 	 non
 waiver
 : 	 non
 wake
-: 	 peut-être
+: 	 yes
 wal
-: 	 peut-être
+: 	 yes
 wales
 : 	 non
 walk
-: 	 peut-être
+: 	 yes
 walked
 : 	 non
 walker
@@ -19305,7 +19305,7 @@ walking
 walks
 : 	 non
 wall
-: 	 peut-être
+: 	 yes
 wallace
 : 	 non
 wallet
@@ -19319,17 +19319,17 @@ walls
 walnut
 : 	 non
 walt
-: 	 peut-être
+: 	 yes
 walter
 : 	 non
 wan
-: 	 peut-être
+: 	 yes
 wang
-: 	 peut-être
+: 	 yes
 wanna
 : 	 non
 want
-: 	 peut-être
+: 	 yes
 wanted
 : 	 non
 wanting
@@ -19337,17 +19337,17 @@ wanting
 wants
 : 	 non
 war
-: 	 peut-être
+: 	 yes
 warcraft
 : 	 non
 ward
-: 	 peut-être
+: 	 yes
 ware
-: 	 peut-être
+: 	 yes
 warehouse
 : 	 non
 warm
-: 	 peut-être
+: 	 yes
 warming
 : 	 non
 warned
@@ -19371,11 +19371,11 @@ warrior
 warriors
 : 	 non
 wars
-: 	 peut-être
+: 	 yes
 was
-: 	 peut-être
+: 	 yes
 wash
-: 	 peut-être
+: 	 yes
 washer
 : 	 non
 washing
@@ -19403,23 +19403,23 @@ watershed
 watson
 : 	 non
 watt
-: 	 peut-être
+: 	 yes
 watts
 : 	 non
 wav
-: 	 peut-être
+: 	 yes
 wave
-: 	 peut-être
+: 	 yes
 waves
 : 	 non
 wax
-: 	 peut-être
+: 	 yes
 way
-: 	 peut-être
+: 	 yes
 wayne
 : 	 non
 ways
-: 	 peut-être
+: 	 yes
 wb
 : 	 non
 wc
@@ -19427,7 +19427,7 @@ wc
 we
 : 	 non
 weak
-: 	 peut-être
+: 	 yes
 wealth
 : 	 non
 weapon
@@ -19435,13 +19435,13 @@ weapon
 weapons
 : 	 non
 wear
-: 	 peut-être
+: 	 yes
 wearing
 : 	 non
 weather
 : 	 non
 web
-: 	 peut-être
+: 	 yes
 webcam
 : 	 non
 webcams
@@ -19467,7 +19467,7 @@ websites
 webster
 : 	 non
 wed
-: 	 peut-être
+: 	 yes
 wedding
 : 	 non
 weddings
@@ -19475,9 +19475,9 @@ weddings
 wednesday
 : 	 non
 weed
-: 	 peut-être
+: 	 yes
 week
-: 	 peut-être
+: 	 yes
 weekend
 : 	 non
 weekends
@@ -19501,7 +19501,7 @@ welding
 welfare
 : 	 non
 well
-: 	 peut-être
+: 	 yes
 wellington
 : 	 non
 wellness
@@ -19513,23 +19513,23 @@ welsh
 wendy
 : 	 non
 went
-: 	 peut-être
+: 	 yes
 were
-: 	 peut-être
+: 	 yes
 wesley
 : 	 non
 west
-: 	 peut-être
+: 	 yes
 western
 : 	 non
 westminster
 : 	 non
 wet
-: 	 peut-être
+: 	 yes
 whale
 : 	 non
 what
-: 	 peut-être
+: 	 yes
 whatever
 : 	 non
 whats
@@ -19541,7 +19541,7 @@ wheel
 wheels
 : 	 non
 when
-: 	 peut-être
+: 	 yes
 whenever
 : 	 non
 where
@@ -19561,19 +19561,19 @@ whilst
 white
 : 	 non
 who
-: 	 peut-être
+: 	 yes
 whole
 : 	 non
 wholesale
 : 	 non
 whom
-: 	 peut-être
+: 	 yes
 whore
 : 	 non
 whose
 : 	 non
 why
-: 	 peut-être
+: 	 yes
 wi
 : 	 non
 wichita
@@ -19581,7 +19581,7 @@ wichita
 wicked
 : 	 non
 wide
-: 	 peut-être
+: 	 yes
 widely
 : 	 non
 wider
@@ -19593,15 +19593,15 @@ widespread
 width
 : 	 non
 wife
-: 	 peut-être
+: 	 yes
 wifi
-: 	 peut-être
+: 	 yes
 wiki
-: 	 peut-être
+: 	 yes
 wikipedia
 : 	 non
 wild
-: 	 peut-être
+: 	 yes
 wilderness
 : 	 non
 wildlife
@@ -19609,7 +19609,7 @@ wildlife
 wiley
 : 	 non
 will
-: 	 peut-être
+: 	 yes
 william
 : 	 non
 williams
@@ -19621,9 +19621,9 @@ willow
 wilson
 : 	 non
 win
-: 	 peut-être
+: 	 yes
 wind
-: 	 peut-être
+: 	 yes
 window
 : 	 non
 windows
@@ -19633,11 +19633,11 @@ winds
 windsor
 : 	 non
 wine
-: 	 peut-être
+: 	 yes
 wines
 : 	 non
 wing
-: 	 peut-être
+: 	 yes
 wings
 : 	 non
 winner
@@ -19647,13 +19647,13 @@ winners
 winning
 : 	 non
 wins
-: 	 peut-être
+: 	 yes
 winston
 : 	 non
 winter
 : 	 non
 wire
-: 	 peut-être
+: 	 yes
 wired
 : 	 non
 wireless
@@ -19667,19 +19667,19 @@ wisconsin
 wisdom
 : 	 non
 wise
-: 	 peut-être
+: 	 yes
 wish
-: 	 peut-être
+: 	 yes
 wishes
 : 	 non
 wishlist
 : 	 non
 wit
-: 	 peut-être
+: 	 yes
 witch
 : 	 non
 with
-: 	 peut-être
+: 	 yes
 withdrawal
 : 	 non
 within
@@ -19697,11 +19697,11 @@ wizard
 wm
 : 	 non
 wma
-: 	 peut-être
+: 	 yes
 wn
 : 	 non
 wolf
-: 	 peut-être
+: 	 yes
 woman
 : 	 non
 women
@@ -19709,7 +19709,7 @@ women
 womens
 : 	 non
 won
-: 	 peut-être
+: 	 yes
 wonder
 : 	 non
 wonderful
@@ -19717,23 +19717,23 @@ wonderful
 wondering
 : 	 non
 wood
-: 	 peut-être
+: 	 yes
 wooden
 : 	 non
 woods
 : 	 non
 wool
-: 	 peut-être
+: 	 yes
 worcester
 : 	 non
 word
-: 	 peut-être
+: 	 yes
 wordpress
 : 	 non
 words
 : 	 non
 work
-: 	 peut-être
+: 	 yes
 worked
 : 	 non
 worker
@@ -19769,9 +19769,9 @@ worldsex
 worldwide
 : 	 non
 worm
-: 	 peut-être
+: 	 yes
 worn
-: 	 peut-être
+: 	 yes
 worried
 : 	 non
 worry
@@ -19791,13 +19791,13 @@ would
 wound
 : 	 non
 wow
-: 	 peut-être
+: 	 yes
 wp
 : 	 non
 wr
 : 	 non
 wrap
-: 	 peut-être
+: 	 yes
 wrapped
 : 	 non
 wrapping
@@ -19831,7 +19831,7 @@ ws
 wt
 : 	 non
 wto
-: 	 peut-être
+: 	 yes
 wu
 : 	 non
 wv
@@ -19839,7 +19839,7 @@ wv
 ww
 : 	 non
 www
-: 	 peut-être
+: 	 yes
 wx
 : 	 non
 wy
@@ -19851,7 +19851,7 @@ x
 xanax
 : 	 non
 xbox
-: 	 peut-être
+: 	 yes
 xerox
 : 	 non
 xhtml
@@ -19861,15 +19861,15 @@ xi
 xl
 : 	 non
 xml
-: 	 peut-être
+: 	 yes
 xnxx
-: 	 peut-être
+: 	 yes
 xp
 : 	 non
 xx
 : 	 non
 xxx
-: 	 peut-être
+: 	 yes
 y
 : 	 non
 ya
@@ -19879,25 +19879,25 @@ yacht
 yahoo
 : 	 non
 yale
-: 	 peut-être
+: 	 yes
 yamaha
 : 	 non
 yang
-: 	 peut-être
+: 	 yes
 yard
-: 	 peut-être
+: 	 yes
 yards
 : 	 non
 yarn
-: 	 peut-être
+: 	 yes
 ye
 : 	 non
 yea
-: 	 peut-être
+: 	 yes
 yeah
-: 	 peut-être
+: 	 yes
 year
-: 	 peut-être
+: 	 yes
 yearly
 : 	 non
 years
@@ -19909,13 +19909,13 @@ yellow
 yemen
 : 	 non
 yen
-: 	 peut-être
+: 	 yes
 yes
-: 	 peut-être
+: 	 yes
 yesterday
 : 	 non
 yet
-: 	 peut-être
+: 	 yes
 yield
 : 	 non
 yields
@@ -19925,19 +19925,19 @@ yn
 yo
 : 	 non
 yoga
-: 	 peut-être
+: 	 yes
 york
-: 	 peut-être
+: 	 yes
 yorkshire
 : 	 non
 you
-: 	 peut-être
+: 	 yes
 young
 : 	 non
 younger
 : 	 non
 your
-: 	 peut-être
+: 	 yes
 yours
 : 	 non
 yourself
@@ -19947,7 +19947,7 @@ youth
 yr
 : 	 non
 yrs
-: 	 peut-être
+: 	 yes
 yu
 : 	 non
 yugoslavia
@@ -19965,36 +19965,36 @@ zdnet
 zealand
 : 	 non
 zen
-: 	 peut-être
+: 	 yes
 zero
-: 	 peut-être
+: 	 yes
 zimbabwe
 : 	 non
 zinc
-: 	 peut-être
+: 	 yes
 zip
-: 	 peut-être
+: 	 yes
 zoloft
 : 	 non
 zone
-: 	 peut-être
+: 	 yes
 zones
 : 	 non
 zoning
 : 	 non
 zoo
-: 	 peut-être
+: 	 yes
 zoom
-: 	 peut-être
+: 	 yes
 zoophilia
 : 	 non
 zope
-: 	 peut-être
+: 	 yes
 zshops
 : 	 non
 zu
 : 	 non
 zum
-: 	 peut-être
+: 	 yes
 zus: 	 non
-There is 1806 maybe and 8194 no
+There is 1804 yes and 8196 no
