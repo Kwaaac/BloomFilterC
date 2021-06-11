@@ -37,9 +37,7 @@ int main(int argc, char *argv[]) {
     while (fgets(str, MAX_READ, f) != NULL) {
         word_length = strlen(str);
         if (word_length == 4 || word_length == 5) {
-            for (i = 0; i < bloom->k; i++) {
-                add_filter(bloom, str);
-            }
+            add_filter(bloom, str);
         }
     }
 
