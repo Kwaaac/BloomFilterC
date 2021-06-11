@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    unsigned int hashes[bloom->k];
+    unsigned int* hashes = (unsigned int *) malloc(sizeof(unsigned int) * k);
 
     while (fgets(str, MAX_READ, f) != NULL) {
         for (i = 0; i < bloom->k; i++) {
@@ -39,7 +39,6 @@ int main(int argc, char *argv[]) {
     }
 
     /* test.txt sur les 1000 passwords */
-
     fclose(f);
 
     f = fopen("passwords/1000password.txt", "r");
@@ -48,7 +47,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    freopen("passwords/results.txt", "a+", stdout);
+    freopen("passwords/results.txt", "w+", stdout);
 
     while (fgets(str, MAX_READ, f) != NULL) {
         hash(bloom, str, hashes);

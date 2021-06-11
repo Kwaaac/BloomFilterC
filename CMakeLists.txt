@@ -16,6 +16,12 @@ set(PROJECT_SOURCES
         filter.c
         hashtable.c)
 
+set(PROJECT_SOURCES_FALSE
+        test_false_positive.c
+        bitarray.c
+        filter.c
+        hashtable.c)
+
 set(PROJECT_HEADERS_TEST
         bitarray.h
         filter.h)
@@ -27,8 +33,11 @@ set(PROJECT_SOURCES_TEST
 
 add_executable(MAIN ${PROJECT_SOURCES} ${PROJECT_HEADERS})
 
+add_executable(TEST_FALSE_POSITIVE ${PROJECT_SOURCES_FALSE} ${PROJECT_HEADERS})
+
 add_executable(TEST ${PROJECT_SOURCES_TEST} ${PROJECT_HEADERS_TEST})
 
 target_link_libraries(MAIN m)
 target_link_libraries(TEST m)
+target_link_libraries(TEST_FALSE_POSITIVE m)
 

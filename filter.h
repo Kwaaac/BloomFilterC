@@ -6,12 +6,11 @@
 
 typedef struct _filter {
     bitarray *array;
-    hashtable *table;
-    /* Arbre binaire */
     int k;
     unsigned int *weigth;
 
-    /* Tableau de hashes (conseil du professeur)  */
+    /* Tableau de hashes (conseil du professeur)
+     * Interet : Eviter d'allouer le tableau à chaque fois*/
     unsigned int *hashes;
 } filter;
 

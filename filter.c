@@ -1,21 +1,21 @@
-#include <math.h>
 #include "filter.h"
 #include <time.h>
-
-#define SECONDARY_STRUCT 0
+#include <stdlib.h>
+#include <assert.h>
+#include <stdio.h>
+#include <math.h>
 
 filter *create_filter(int m, int k) {
     int i, j, t;
 
     filter *new_filter = (filter *) malloc(sizeof(filter));
-    assert(new_filter != NULL);
+    assert(NULL != new_filter);
 
     new_filter->array = create_bitarray(m);
 
     if (k < 2) {
         k = 2;
-    }
-    else if (k > 255) {
+    } else if (k > 255) {
         k = 255;
     }
     new_filter->k = k;
@@ -79,10 +79,6 @@ filter *create_filter(int m, int k) {
     new_filter->hashes = (unsigned int *) calloc(new_filter->k, sizeof(unsigned int));
     /* Fin allocation du tableau de hashes (conseil du professeur) */
 
-    if (SECONDARY_STRUCT == 1) {
-        new_filter->table = create_table(m);
-    }
-
     return new_filter;
 }
 
@@ -100,10 +96,13 @@ void hash(filter *f, char *str, unsigned int hashes[]) {
         unsigned int h;
         h = 0;
         for (j = 0; j < size_str; j++) {
-            h += str[j] * pow(f->weigth[i], (size_str - (j + 1)));
+            /*h += str[j] * pow(f->weigth[i], (size_str - (j + 1)));*/
+            h = (f->weigth[i] * h + str[j]) % f->array->size;
         }
 
-        hashes[i] = h % f->array->size;
+        hashes[i] = h;
+
+        /*hashes[i] = h % f->array->size;*/
 
         /*printf("Actual %d => %d, ", i, hashes[i]);*/
         /* End actual hash method */
@@ -127,9 +126,6 @@ void free_filter(filter *f) {
     free_bitarray(f->array);
     free(f->weigth);
     free(f->hashes);
-    if (SECONDARY_STRUCT == 1) {
-        free_hash_table(f->table);
-    }
     free(f);
 }
 
@@ -139,11 +135,6 @@ void add_filter(filter *f, char *str) {
 
     for (i = 0; i < size; i++) {
         set_bitarray(f->array, f->hashes[i]);
-    }
-
-    /* Secondary structure */
-    if (SECONDARY_STRUCT == 1) {
-        add_occ_table(f->table, str);
     }
 }
 
@@ -159,12 +150,6 @@ int is_member_filter(filter *f, char *str) {
             }
             return 0;
         }
-    }
-
-    /* TODO: Vérifier si c'est un faut positif */
-    if (SECONDARY_STRUCT == 1) {
-        free(f->hashes);
-        return find_table(f->table, str);
     }
 
     return 1;
