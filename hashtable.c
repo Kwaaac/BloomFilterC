@@ -74,7 +74,7 @@ void free_list(link *lst) {
 
 link *find_list(link *lst, char word[]) {
     link *ptr = lst;
-    while (ptr != NULL && !strcmp(ptr->word, word))
+    while (ptr != NULL && strcmp(ptr->word, word) != 0)
         ptr = ptr->next;
     return ptr;
 }

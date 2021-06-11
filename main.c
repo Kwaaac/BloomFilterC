@@ -2,19 +2,23 @@
 #include <stdlib.h>
 #include <time.h>
 #include "filter.h"
+#include <string.h>
 
 #define MAX_READ 100
 
 int main(int argc, char *argv[]) {
     int k, m, i, flag, maybe = 0, no = 0;
-    char *filename;
+    char *file_in, *file_out;
+    size_t word_length;
     FILE *f;
     filter *bloom;
     char str[MAX_READ];
 
     for (i = 1; i < argc; i += 2) {
-        if (strcmp(argv[i], "-f") == 0) {
-            filename = argv[i + 1];
+        if (strcmp(argv[i], "-fin") == 0) {
+            file_in = argv[i + 1];
+        } else if (strcmp(argv[i], "-fout") == 0) {
+            file_out = argv[i + 1];
         } else if (strcmp(argv[i], "-k") == 0) {
             k = atoi(argv[i + 1]);
         } else if (strcmp(argv[i], "-m") == 0) {
@@ -24,34 +28,35 @@ int main(int argc, char *argv[]) {
 
     bloom = create_filter(m, k);
 
-    f = fopen(filename, "r");
+    f = fopen(file_in, "r");
     if (f == NULL) {
-        fprintf(stderr, "Erreur d'ouverture du fichier %s\n", filename);
+        fprintf(stderr, "Erreur d'ouverture du fichier %s\n", file_in);
         return 0;
     }
 
-    unsigned int* hashes = (unsigned int *) malloc(sizeof(unsigned int) * k);
+    unsigned int *hashes = (unsigned int *) malloc(sizeof(unsigned int) * k);
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        for (i = 0; i < bloom->k; i++) {
-            add_filter(bloom, str);
+        word_length = strlen(str);
+        if (word_length == 4 || word_length == 5) {
+            for (i = 0; i < bloom->k; i++) {
+                add_filter(bloom, str);
+            }
         }
     }
 
     /* test.txt sur les 1000 passwords */
     fclose(f);
 
-    f = fopen("passwords/1000password.txt", "r");
+    f = fopen(file_in, "r");
     if (f == NULL) {
-        fprintf(stderr, "Erreur d'ouverture du fichier %s\n", "passwords/1000password.txt");
+        fprintf(stderr, "Erreur d'ouverture du fichier %s\n", file_in);
         return 0;
     }
 
-    freopen("passwords/results.txt", "w+", stdout);
+    freopen(file_out, "w+", stdout);
 
     while (fgets(str, MAX_READ, f) != NULL) {
-        hash(bloom, str, hashes);
-
         flag = 1;
 
         for (i = 0; i < bloom->k; i++) {

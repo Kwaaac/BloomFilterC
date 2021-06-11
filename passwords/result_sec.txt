@@ -1,0 +1,2001 @@
+a
+: 	 oui
+ability
+: 	 oui
+able
+: 	 oui
+about
+: 	 oui
+above
+: 	 non
+accept
+: 	 non
+according
+: 	 non
+account
+: 	 non
+across
+: 	 non
+act
+: 	 non
+action
+: 	 non
+activity
+: 	 non
+actually
+: 	 non
+add
+: 	 non
+address
+: 	 non
+administration
+: 	 non
+admit
+: 	 non
+adult
+: 	 non
+affect
+: 	 non
+after
+: 	 non
+again
+: 	 non
+against
+: 	 non
+age
+: 	 non
+agency
+: 	 non
+agent
+: 	 non
+ago
+: 	 non
+agree
+: 	 non
+agreement
+: 	 non
+ahead
+: 	 non
+air
+: 	 non
+all
+: 	 non
+allow
+: 	 non
+almost
+: 	 non
+alone
+: 	 non
+along
+: 	 non
+already
+: 	 oui
+also
+: 	 oui
+although
+: 	 oui
+always
+: 	 oui
+American
+: 	 oui
+among
+: 	 oui
+amount
+: 	 oui
+analysis
+: 	 oui
+and
+: 	 oui
+animal
+: 	 oui
+another
+: 	 oui
+answer
+: 	 oui
+any
+: 	 oui
+anyone
+: 	 oui
+anything
+: 	 oui
+appear
+: 	 oui
+apply
+: 	 oui
+approach
+: 	 oui
+area
+: 	 oui
+argue
+: 	 oui
+arm
+: 	 oui
+around
+: 	 oui
+arrive
+: 	 oui
+art
+: 	 oui
+article
+: 	 oui
+artist
+: 	 oui
+as
+: 	 oui
+ask
+: 	 oui
+assume
+: 	 oui
+at
+: 	 oui
+attack
+: 	 oui
+attention
+: 	 oui
+attorney
+: 	 oui
+audience
+: 	 non
+author
+: 	 non
+authority
+: 	 non
+available
+: 	 non
+avoid
+: 	 non
+away
+: 	 non
+baby
+: 	 non
+back
+: 	 non
+bad
+: 	 non
+bag
+: 	 non
+ball
+: 	 non
+bank
+: 	 non
+bar
+: 	 non
+base
+: 	 non
+be
+: 	 non
+beat
+: 	 non
+beautiful
+: 	 non
+because
+: 	 non
+become
+: 	 non
+bed
+: 	 non
+before
+: 	 non
+begin
+: 	 non
+behavior
+: 	 non
+behind
+: 	 non
+believe
+: 	 non
+benefit
+: 	 non
+best
+: 	 non
+better
+: 	 non
+between
+: 	 non
+beyond
+: 	 non
+big
+: 	 non
+bill
+: 	 non
+billion
+: 	 non
+bit
+: 	 non
+black
+: 	 non
+blood
+: 	 non
+blue
+: 	 non
+board
+: 	 non
+body
+: 	 non
+book
+: 	 non
+born
+: 	 non
+both
+: 	 non
+box
+: 	 non
+boy
+: 	 non
+break
+: 	 non
+bring
+: 	 non
+brother
+: 	 non
+budget
+: 	 non
+build
+: 	 non
+building
+: 	 non
+business
+: 	 non
+but
+: 	 non
+buy
+: 	 oui
+by
+: 	 oui
+call
+: 	 oui
+camera
+: 	 oui
+campaign
+: 	 oui
+can
+: 	 oui
+cancer
+: 	 oui
+candidate
+: 	 oui
+capital
+: 	 oui
+car
+: 	 oui
+card
+: 	 oui
+care
+: 	 oui
+career
+: 	 oui
+carry
+: 	 oui
+case
+: 	 oui
+catch
+: 	 oui
+cause
+: 	 oui
+cell
+: 	 oui
+center
+: 	 oui
+central
+: 	 oui
+century
+: 	 oui
+certain
+: 	 oui
+certainly
+: 	 oui
+chair
+: 	 oui
+challenge
+: 	 oui
+chance
+: 	 oui
+change
+: 	 oui
+character
+: 	 oui
+charge
+: 	 oui
+check
+: 	 oui
+child
+: 	 oui
+choice
+: 	 oui
+choose
+: 	 oui
+church
+: 	 oui
+citizen
+: 	 oui
+city
+: 	 oui
+civil
+: 	 oui
+claim
+: 	 oui
+class
+: 	 oui
+clear
+: 	 oui
+clearly
+: 	 oui
+close
+: 	 oui
+coach
+: 	 oui
+cold
+: 	 oui
+collection
+: 	 oui
+college
+: 	 oui
+color
+: 	 oui
+come
+: 	 oui
+commercial
+: 	 oui
+common
+: 	 oui
+community
+: 	 oui
+company
+: 	 oui
+compare
+: 	 oui
+computer
+: 	 oui
+concern
+: 	 oui
+condition
+: 	 non
+conference
+: 	 non
+Congress
+: 	 non
+consider
+: 	 non
+consumer
+: 	 non
+contain
+: 	 non
+continue
+: 	 non
+control
+: 	 non
+cost
+: 	 non
+could
+: 	 Faux positif
+country
+: 	 non
+couple
+: 	 non
+course
+: 	 non
+court
+: 	 non
+cover
+: 	 non
+create
+: 	 non
+crime
+: 	 non
+cultural
+: 	 non
+culture
+: 	 non
+cup
+: 	 non
+current
+: 	 non
+customer
+: 	 non
+cut
+: 	 non
+dark
+: 	 non
+data
+: 	 non
+daughter
+: 	 non
+day
+: 	 non
+dead
+: 	 non
+deal
+: 	 non
+death
+: 	 non
+debate
+: 	 non
+decade
+: 	 Faux positif
+decide
+: 	 non
+decision
+: 	 non
+deep
+: 	 non
+defense
+: 	 non
+degree
+: 	 non
+Democrat
+: 	 non
+democratic
+: 	 non
+describe
+: 	 non
+design
+: 	 non
+despite
+: 	 non
+detail
+: 	 non
+determine
+: 	 non
+develop
+: 	 non
+development
+: 	 non
+die
+: 	 non
+difference
+: 	 non
+different
+: 	 non
+difficult
+: 	 non
+dinner
+: 	 non
+direction
+: 	 non
+director
+: 	 non
+discover
+: 	 non
+discuss
+: 	 non
+discussion
+: 	 oui
+disease
+: 	 oui
+do
+: 	 oui
+doctor
+: 	 oui
+dog
+: 	 oui
+door
+: 	 oui
+down
+: 	 oui
+draw
+: 	 oui
+dream
+: 	 oui
+drive
+: 	 oui
+drop
+: 	 oui
+drug
+: 	 oui
+during
+: 	 oui
+each
+: 	 oui
+early
+: 	 oui
+east
+: 	 oui
+easy
+: 	 oui
+eat
+: 	 oui
+economic
+: 	 oui
+economy
+: 	 oui
+edge
+: 	 oui
+education
+: 	 oui
+effect
+: 	 oui
+effort
+: 	 oui
+eight
+: 	 oui
+either
+: 	 non
+election
+: 	 non
+else
+: 	 non
+employee
+: 	 non
+end
+: 	 non
+energy
+: 	 non
+enjoy
+: 	 non
+enough
+: 	 non
+enter
+: 	 non
+entire
+: 	 non
+environment
+: 	 non
+environmental
+: 	 non
+especially
+: 	 non
+establish
+: 	 non
+even
+: 	 non
+evening
+: 	 non
+event
+: 	 non
+ever
+: 	 non
+every
+: 	 non
+everybody
+: 	 non
+everyone
+: 	 non
+everything
+: 	 non
+evidence
+: 	 non
+exactly
+: 	 non
+example
+: 	 non
+executive
+: 	 non
+exist
+: 	 non
+expect
+: 	 non
+experience
+: 	 non
+expert
+: 	 non
+explain
+: 	 non
+eye
+: 	 non
+face
+: 	 non
+fact
+: 	 non
+factor
+: 	 non
+fail
+: 	 non
+fall
+: 	 oui
+family
+: 	 oui
+far
+: 	 oui
+fast
+: 	 oui
+father
+: 	 oui
+fear
+: 	 oui
+federal
+: 	 oui
+feel
+: 	 oui
+feeling
+: 	 oui
+few
+: 	 oui
+field
+: 	 oui
+fight
+: 	 oui
+figure
+: 	 oui
+fill
+: 	 oui
+film
+: 	 oui
+final
+: 	 oui
+finally
+: 	 oui
+financial
+: 	 oui
+find
+: 	 oui
+fine
+: 	 non
+finger
+: 	 non
+finish
+: 	 non
+fire
+: 	 non
+firm
+: 	 non
+first
+: 	 non
+fish
+: 	 non
+five
+: 	 non
+floor
+: 	 non
+fly
+: 	 non
+focus
+: 	 non
+follow
+: 	 non
+food
+: 	 non
+foot
+: 	 non
+for
+: 	 non
+force
+: 	 non
+foreign
+: 	 non
+forget
+: 	 non
+form
+: 	 non
+former
+: 	 non
+forward
+: 	 non
+four
+: 	 non
+free
+: 	 non
+friend
+: 	 non
+from
+: 	 non
+front
+: 	 non
+full
+: 	 non
+fund
+: 	 non
+future
+: 	 non
+game
+: 	 non
+garden
+: 	 non
+gas
+: 	 non
+general
+: 	 non
+generation
+: 	 non
+get
+: 	 non
+girl
+: 	 non
+give
+: 	 non
+glass
+: 	 non
+go
+: 	 non
+goal
+: 	 non
+good
+: 	 non
+government
+: 	 non
+great
+: 	 non
+green
+: 	 non
+ground
+: 	 non
+group
+: 	 non
+grow
+: 	 non
+growth
+: 	 non
+guess
+: 	 non
+gun
+: 	 non
+guy
+: 	 non
+hair
+: 	 non
+half
+: 	 non
+hand
+: 	 non
+hang
+: 	 non
+happen
+: 	 non
+happy
+: 	 non
+hard
+: 	 non
+have
+: 	 non
+he
+: 	 non
+head
+: 	 non
+health
+: 	 non
+hear
+: 	 non
+heart
+: 	 non
+heat
+: 	 non
+heavy
+: 	 non
+help
+: 	 non
+her
+: 	 non
+here
+: 	 non
+herself
+: 	 non
+high
+: 	 non
+him
+: 	 non
+himself
+: 	 non
+his
+: 	 non
+history
+: 	 non
+hit
+: 	 non
+hold
+: 	 non
+home
+: 	 non
+hope
+: 	 non
+hospital
+: 	 non
+hot
+: 	 non
+hotel
+: 	 non
+hour
+: 	 non
+house
+: 	 non
+how
+: 	 non
+however
+: 	 non
+huge
+: 	 non
+human
+: 	 non
+hundred
+: 	 non
+husband
+: 	 non
+I
+: 	 non
+idea
+: 	 non
+identify
+: 	 non
+if
+: 	 non
+image
+: 	 non
+imagine
+: 	 non
+impact
+: 	 non
+important
+: 	 non
+improve
+: 	 non
+in
+: 	 non
+include
+: 	 non
+including
+: 	 non
+increase
+: 	 non
+indeed
+: 	 non
+indicate
+: 	 non
+individual
+: 	 non
+industry
+: 	 non
+information
+: 	 non
+inside
+: 	 non
+instead
+: 	 non
+institution
+: 	 non
+interest
+: 	 non
+interesting
+: 	 non
+international
+: 	 non
+interview
+: 	 non
+into
+: 	 non
+investment
+: 	 non
+involve
+: 	 non
+issue
+: 	 non
+it
+: 	 non
+item
+: 	 non
+its
+: 	 non
+itself
+: 	 non
+job
+: 	 non
+join
+: 	 non
+just
+: 	 non
+keep
+: 	 non
+key
+: 	 non
+kid
+: 	 non
+kill
+: 	 non
+kind
+: 	 non
+kitchen
+: 	 non
+know
+: 	 non
+knowledge
+: 	 non
+land
+: 	 non
+language
+: 	 non
+large
+: 	 non
+last
+: 	 non
+late
+: 	 non
+later
+: 	 non
+laugh
+: 	 non
+law
+: 	 non
+lawyer
+: 	 non
+lay
+: 	 non
+lead
+: 	 non
+leader
+: 	 non
+learn
+: 	 non
+least
+: 	 non
+leave
+: 	 non
+left
+: 	 non
+leg
+: 	 non
+legal
+: 	 non
+less
+: 	 non
+let
+: 	 non
+letter
+: 	 non
+level
+: 	 non
+lie
+: 	 non
+life
+: 	 non
+light
+: 	 non
+like
+: 	 non
+likely
+: 	 Faux positif
+line
+: 	 non
+list
+: 	 non
+listen
+: 	 non
+little
+: 	 non
+live
+: 	 non
+local
+: 	 non
+long
+: 	 non
+look
+: 	 non
+lose
+: 	 non
+loss
+: 	 non
+lot
+: 	 non
+love
+: 	 non
+low
+: 	 non
+machine
+: 	 non
+magazine
+: 	 non
+main
+: 	 non
+maintain
+: 	 non
+major
+: 	 oui
+majority
+: 	 oui
+make
+: 	 oui
+man
+: 	 oui
+manage
+: 	 oui
+management
+: 	 oui
+manager
+: 	 oui
+many
+: 	 oui
+market
+: 	 oui
+marriage
+: 	 oui
+material
+: 	 oui
+matter
+: 	 oui
+may
+: 	 oui
+maybe
+: 	 oui
+me
+: 	 oui
+mean
+: 	 oui
+measure
+: 	 oui
+media
+: 	 oui
+medical
+: 	 oui
+meet
+: 	 oui
+meeting
+: 	 oui
+member
+: 	 oui
+memory
+: 	 oui
+mention
+: 	 oui
+message
+: 	 oui
+method
+: 	 non
+middle
+: 	 non
+might
+: 	 non
+military
+: 	 non
+million
+: 	 non
+mind
+: 	 non
+minute
+: 	 non
+miss
+: 	 non
+mission
+: 	 non
+model
+: 	 non
+modern
+: 	 non
+moment
+: 	 non
+money
+: 	 non
+month
+: 	 non
+more
+: 	 non
+morning
+: 	 non
+most
+: 	 non
+mother
+: 	 non
+mouth
+: 	 non
+move
+: 	 non
+movement
+: 	 non
+movie
+: 	 non
+Mr
+: 	 non
+Mrs
+: 	 non
+much
+: 	 non
+music
+: 	 non
+must
+: 	 non
+my
+: 	 non
+myself
+: 	 non
+name
+: 	 non
+nation
+: 	 non
+national
+: 	 non
+natural
+: 	 non
+nature
+: 	 non
+near
+: 	 non
+nearly
+: 	 non
+necessary
+: 	 non
+need
+: 	 non
+network
+: 	 non
+never
+: 	 non
+new
+: 	 non
+news
+: 	 non
+newspaper
+: 	 non
+next
+: 	 non
+nice
+: 	 non
+night
+: 	 non
+no
+: 	 non
+none
+: 	 non
+nor
+: 	 non
+north
+: 	 non
+not
+: 	 non
+note
+: 	 non
+nothing
+: 	 non
+notice
+: 	 non
+now
+: 	 non
+n't
+: 	 non
+number
+: 	 non
+occur
+: 	 non
+of
+: 	 non
+off
+: 	 non
+offer
+: 	 non
+office
+: 	 non
+officer
+: 	 non
+official
+: 	 non
+often
+: 	 non
+oh
+: 	 non
+oil
+: 	 non
+ok
+: 	 non
+old
+: 	 non
+on
+: 	 non
+once
+: 	 non
+one
+: 	 non
+only
+: 	 non
+onto
+: 	 non
+open
+: 	 non
+operation
+: 	 non
+opportunity
+: 	 non
+option
+: 	 non
+or
+: 	 non
+order
+: 	 non
+organization
+: 	 non
+other
+: 	 non
+others
+: 	 non
+our
+: 	 non
+out
+: 	 non
+outside
+: 	 non
+over
+: 	 non
+own
+: 	 non
+owner
+: 	 non
+page
+: 	 non
+pain
+: 	 non
+painting
+: 	 non
+paper
+: 	 non
+parent
+: 	 non
+part
+: 	 non
+participant
+: 	 non
+particular
+: 	 non
+particularly
+: 	 non
+partner
+: 	 non
+party
+: 	 non
+pass
+: 	 non
+past
+: 	 non
+patient
+: 	 non
+pattern
+: 	 non
+pay
+: 	 non
+peace
+: 	 non
+people
+: 	 non
+per
+: 	 non
+perform
+: 	 non
+performance
+: 	 non
+perhaps
+: 	 non
+period
+: 	 non
+person
+: 	 non
+personal
+: 	 non
+phone
+: 	 non
+physical
+: 	 non
+pick
+: 	 non
+picture
+: 	 non
+piece
+: 	 non
+place
+: 	 non
+plan
+: 	 non
+plant
+: 	 non
+play
+: 	 non
+player
+: 	 non
+PM
+: 	 non
+point
+: 	 non
+police
+: 	 non
+policy
+: 	 non
+political
+: 	 non
+politics
+: 	 non
+poor
+: 	 non
+popular
+: 	 non
+population
+: 	 non
+position
+: 	 non
+positive
+: 	 non
+possible
+: 	 non
+power
+: 	 non
+practice
+: 	 non
+prepare
+: 	 non
+present
+: 	 Faux positif
+president
+: 	 non
+pressure
+: 	 non
+pretty
+: 	 non
+prevent
+: 	 non
+price
+: 	 non
+private
+: 	 non
+probably
+: 	 non
+problem
+: 	 non
+process
+: 	 non
+produce
+: 	 non
+product
+: 	 non
+production
+: 	 non
+professional
+: 	 non
+professor
+: 	 non
+program
+: 	 non
+project
+: 	 non
+property
+: 	 non
+protect
+: 	 non
+prove
+: 	 non
+provide
+: 	 non
+public
+: 	 non
+pull
+: 	 non
+purpose
+: 	 non
+push
+: 	 non
+put
+: 	 non
+quality
+: 	 non
+question
+: 	 non
+quickly
+: 	 non
+quite
+: 	 non
+race
+: 	 non
+radio
+: 	 non
+raise
+: 	 non
+range
+: 	 non
+rate
+: 	 non
+rather
+: 	 non
+reach
+: 	 non
+read
+: 	 non
+ready
+: 	 non
+real
+: 	 non
+reality
+: 	 non
+realize
+: 	 non
+really
+: 	 non
+reason
+: 	 non
+receive
+: 	 non
+recent
+: 	 non
+recently
+: 	 non
+recognize
+: 	 non
+record
+: 	 non
+red
+: 	 non
+reduce
+: 	 non
+reflect
+: 	 non
+region
+: 	 non
+relate
+: 	 non
+relationship
+: 	 non
+religious
+: 	 non
+remain
+: 	 non
+remember
+: 	 non
+remove
+: 	 non
+report
+: 	 non
+represent
+: 	 non
+Republican
+: 	 non
+require
+: 	 non
+research
+: 	 non
+resource
+: 	 non
+respond
+: 	 non
+response
+: 	 non
+responsibility
+: 	 non
+rest
+: 	 non
+result
+: 	 non
+return
+: 	 non
+reveal
+: 	 non
+rich
+: 	 non
+right
+: 	 non
+rise
+: 	 non
+risk
+: 	 non
+road
+: 	 non
+rock
+: 	 non
+role
+: 	 non
+room
+: 	 non
+rule
+: 	 non
+run
+: 	 non
+safe
+: 	 non
+same
+: 	 non
+save
+: 	 non
+say
+: 	 non
+scene
+: 	 non
+school
+: 	 non
+science
+: 	 non
+scientist
+: 	 non
+score
+: 	 non
+sea
+: 	 non
+season
+: 	 non
+seat
+: 	 non
+second
+: 	 non
+section
+: 	 non
+security
+: 	 non
+see
+: 	 non
+seek
+: 	 non
+seem
+: 	 non
+sell
+: 	 non
+send
+: 	 non
+senior
+: 	 non
+sense
+: 	 non
+series
+: 	 non
+serious
+: 	 non
+serve
+: 	 non
+service
+: 	 non
+set
+: 	 non
+seven
+: 	 non
+several
+: 	 non
+sex
+: 	 non
+sexual
+: 	 non
+shake
+: 	 non
+share
+: 	 non
+she
+: 	 non
+shoot
+: 	 non
+short
+: 	 non
+shot
+: 	 non
+should
+: 	 Faux positif
+shoulder
+: 	 non
+show
+: 	 non
+side
+: 	 non
+sign
+: 	 non
+significant
+: 	 non
+similar
+: 	 non
+simple
+: 	 non
+simply
+: 	 non
+since
+: 	 non
+sing
+: 	 non
+single
+: 	 non
+sister
+: 	 non
+sit
+: 	 non
+site
+: 	 non
+situation
+: 	 non
+six
+: 	 non
+size
+: 	 non
+skill
+: 	 non
+skin
+: 	 non
+small
+: 	 non
+smile
+: 	 non
+so
+: 	 non
+social
+: 	 non
+society
+: 	 non
+soldier
+: 	 non
+some
+: 	 non
+somebody
+: 	 non
+someone
+: 	 non
+something
+: 	 non
+sometimes
+: 	 non
+son
+: 	 non
+song
+: 	 non
+soon
+: 	 non
+sort
+: 	 non
+sound
+: 	 non
+source
+: 	 oui
+south
+: 	 oui
+southern
+: 	 oui
+space
+: 	 oui
+speak
+: 	 oui
+special
+: 	 oui
+specific
+: 	 oui
+speech
+: 	 oui
+spend
+: 	 oui
+sport
+: 	 oui
+spring
+: 	 oui
+staff
+: 	 oui
+stage
+: 	 oui
+stand
+: 	 oui
+standard
+: 	 oui
+star
+: 	 oui
+start
+: 	 oui
+state
+: 	 oui
+statement
+: 	 oui
+station
+: 	 oui
+stay
+: 	 non
+step
+: 	 non
+still
+: 	 non
+stock
+: 	 non
+stop
+: 	 non
+store
+: 	 non
+story
+: 	 non
+strategy
+: 	 non
+street
+: 	 non
+strong
+: 	 non
+structure
+: 	 non
+student
+: 	 non
+study
+: 	 non
+stuff
+: 	 non
+style
+: 	 non
+subject
+: 	 non
+success
+: 	 non
+successful
+: 	 non
+such
+: 	 non
+suddenly
+: 	 non
+suffer
+: 	 non
+suggest
+: 	 non
+summer
+: 	 non
+support
+: 	 non
+sure
+: 	 non
+surface
+: 	 non
+system
+: 	 non
+table
+: 	 non
+take
+: 	 non
+talk
+: 	 non
+task
+: 	 non
+tax
+: 	 non
+teach
+: 	 non
+teacher
+: 	 non
+team
+: 	 non
+technology
+: 	 non
+television
+: 	 non
+tell
+: 	 non
+ten
+: 	 non
+tend
+: 	 non
+term
+: 	 non
+test
+: 	 non
+than
+: 	 non
+thank
+: 	 non
+that
+: 	 non
+the
+: 	 non
+their
+: 	 non
+them
+: 	 non
+themselves
+: 	 non
+then
+: 	 non
+theory
+: 	 non
+there
+: 	 non
+these
+: 	 non
+they
+: 	 non
+thing
+: 	 non
+think
+: 	 oui
+third
+: 	 oui
+this
+: 	 oui
+those
+: 	 oui
+though
+: 	 oui
+thought
+: 	 oui
+thousand
+: 	 oui
+threat
+: 	 oui
+three
+: 	 oui
+through
+: 	 oui
+throughout
+: 	 oui
+throw
+: 	 oui
+thus
+: 	 oui
+time
+: 	 oui
+to
+: 	 oui
+today
+: 	 oui
+together
+: 	 oui
+tonight
+: 	 oui
+too
+: 	 oui
+top
+: 	 oui
+total
+: 	 oui
+tough
+: 	 oui
+toward
+: 	 oui
+town
+: 	 non
+trade
+: 	 non
+traditional
+: 	 non
+training
+: 	 non
+travel
+: 	 non
+treat
+: 	 non
+treatment
+: 	 non
+tree
+: 	 non
+trial
+: 	 non
+trip
+: 	 non
+trouble
+: 	 non
+true
+: 	 non
+truth
+: 	 non
+try
+: 	 non
+turn
+: 	 non
+TV
+: 	 non
+two
+: 	 non
+type
+: 	 non
+under
+: 	 non
+understand
+: 	 non
+unit
+: 	 non
+until
+: 	 non
+up
+: 	 non
+upon
+: 	 non
+us
+: 	 non
+use
+: 	 non
+usually
+: 	 non
+value
+: 	 non
+various
+: 	 non
+very
+: 	 non
+victim
+: 	 non
+view
+: 	 non
+violence
+: 	 non
+visit
+: 	 non
+voice
+: 	 non
+vote
+: 	 non
+wait
+: 	 non
+walk
+: 	 non
+wall
+: 	 non
+want
+: 	 non
+war
+: 	 non
+watch
+: 	 non
+water
+: 	 non
+way
+: 	 non
+we
+: 	 non
+weapon
+: 	 non
+wear
+: 	 non
+week
+: 	 non
+weight
+: 	 non
+well
+: 	 non
+west
+: 	 non
+western
+: 	 non
+what
+: 	 non
+whatever
+: 	 non
+when
+: 	 non
+where
+: 	 non
+whether
+: 	 oui
+which
+: 	 oui
+while
+: 	 oui
+white
+: 	 oui
+who
+: 	 oui
+whole
+: 	 oui
+whom
+: 	 oui
+whose
+: 	 non
+why
+: 	 non
+wide
+: 	 non
+wife
+: 	 non
+will
+: 	 non
+win
+: 	 non
+wind
+: 	 non
+window
+: 	 non
+wish
+: 	 non
+with
+: 	 non
+within
+: 	 non
+without
+: 	 non
+woman
+: 	 non
+wonder
+: 	 non
+word
+: 	 non
+work
+: 	 non
+worker
+: 	 non
+world
+: 	 non
+worry
+: 	 non
+would
+: 	 non
+write
+: 	 non
+writer
+: 	 non
+wrong
+: 	 oui
+yard
+: 	 oui
+yeah
+: 	 oui
+year
+: 	 oui
+yes
+: 	 oui
+yet
+: 	 oui
+you
+: 	 oui
+young
+: 	 oui
+your
+: 	 oui
+yourself
+: 	 oui
+There is 226 maybes and 774 no, and finally 5 false positives, so there is a 0 percentage of false positive
