@@ -1,0 +1,2001 @@
+a
+: 	 non
+ability
+: 	 non
+able
+: 	 peut-être
+about
+: 	 non
+above
+: 	 non
+accept
+: 	 non
+according
+: 	 non
+account
+: 	 non
+across
+: 	 non
+act
+: 	 peut-être
+action
+: 	 non
+activity
+: 	 non
+actually
+: 	 non
+add
+: 	 peut-être
+address
+: 	 non
+administration
+: 	 non
+admit
+: 	 non
+adult
+: 	 non
+affect
+: 	 non
+after
+: 	 non
+again
+: 	 non
+against
+: 	 non
+age
+: 	 peut-être
+agency
+: 	 non
+agent
+: 	 non
+ago
+: 	 peut-être
+agree
+: 	 non
+agreement
+: 	 non
+ahead
+: 	 non
+air
+: 	 peut-être
+all
+: 	 peut-être
+allow
+: 	 non
+almost
+: 	 non
+alone
+: 	 non
+along
+: 	 non
+already
+: 	 non
+also
+: 	 peut-être
+although
+: 	 non
+always
+: 	 non
+American
+: 	 non
+among
+: 	 non
+amount
+: 	 non
+analysis
+: 	 non
+and
+: 	 peut-être
+animal
+: 	 non
+another
+: 	 non
+answer
+: 	 non
+any
+: 	 peut-être
+anyone
+: 	 non
+anything
+: 	 non
+appear
+: 	 non
+apply
+: 	 non
+approach
+: 	 non
+area
+: 	 peut-être
+argue
+: 	 non
+arm
+: 	 peut-être
+around
+: 	 non
+arrive
+: 	 non
+art
+: 	 peut-être
+article
+: 	 non
+artist
+: 	 non
+as
+: 	 non
+ask
+: 	 peut-être
+assume
+: 	 non
+at
+: 	 non
+attack
+: 	 non
+attention
+: 	 non
+attorney
+: 	 non
+audience
+: 	 non
+author
+: 	 non
+authority
+: 	 non
+available
+: 	 non
+avoid
+: 	 non
+away
+: 	 peut-être
+baby
+: 	 peut-être
+back
+: 	 peut-être
+bad
+: 	 peut-être
+bag
+: 	 peut-être
+ball
+: 	 peut-être
+bank
+: 	 peut-être
+bar
+: 	 peut-être
+base
+: 	 peut-être
+be
+: 	 non
+beat
+: 	 peut-être
+beautiful
+: 	 non
+because
+: 	 non
+become
+: 	 non
+bed
+: 	 peut-être
+before
+: 	 non
+begin
+: 	 non
+behavior
+: 	 non
+behind
+: 	 non
+believe
+: 	 non
+benefit
+: 	 non
+best
+: 	 peut-être
+better
+: 	 non
+between
+: 	 non
+beyond
+: 	 non
+big
+: 	 peut-être
+bill
+: 	 peut-être
+billion
+: 	 non
+bit
+: 	 peut-être
+black
+: 	 non
+blood
+: 	 non
+blue
+: 	 peut-être
+board
+: 	 non
+body
+: 	 peut-être
+book
+: 	 peut-être
+born
+: 	 peut-être
+both
+: 	 peut-être
+box
+: 	 peut-être
+boy
+: 	 peut-être
+break
+: 	 non
+bring
+: 	 non
+brother
+: 	 non
+budget
+: 	 non
+build
+: 	 non
+building
+: 	 non
+business
+: 	 non
+but
+: 	 peut-être
+buy
+: 	 peut-être
+by
+: 	 non
+call
+: 	 peut-être
+camera
+: 	 non
+campaign
+: 	 non
+can
+: 	 peut-être
+cancer
+: 	 non
+candidate
+: 	 non
+capital
+: 	 non
+car
+: 	 peut-être
+card
+: 	 peut-être
+care
+: 	 peut-être
+career
+: 	 non
+carry
+: 	 non
+case
+: 	 peut-être
+catch
+: 	 non
+cause
+: 	 non
+cell
+: 	 peut-être
+center
+: 	 non
+central
+: 	 non
+century
+: 	 non
+certain
+: 	 non
+certainly
+: 	 non
+chair
+: 	 non
+challenge
+: 	 non
+chance
+: 	 non
+change
+: 	 non
+character
+: 	 non
+charge
+: 	 non
+check
+: 	 non
+child
+: 	 non
+choice
+: 	 non
+choose
+: 	 non
+church
+: 	 non
+citizen
+: 	 non
+city
+: 	 peut-être
+civil
+: 	 non
+claim
+: 	 non
+class
+: 	 non
+clear
+: 	 non
+clearly
+: 	 non
+close
+: 	 non
+coach
+: 	 non
+cold
+: 	 peut-être
+collection
+: 	 non
+college
+: 	 non
+color
+: 	 non
+come
+: 	 peut-être
+commercial
+: 	 non
+common
+: 	 non
+community
+: 	 non
+company
+: 	 non
+compare
+: 	 non
+computer
+: 	 non
+concern
+: 	 non
+condition
+: 	 non
+conference
+: 	 non
+Congress
+: 	 non
+consider
+: 	 non
+consumer
+: 	 non
+contain
+: 	 non
+continue
+: 	 non
+control
+: 	 non
+cost
+: 	 peut-être
+could
+: 	 non
+country
+: 	 non
+couple
+: 	 non
+course
+: 	 non
+court
+: 	 non
+cover
+: 	 non
+create
+: 	 non
+crime
+: 	 non
+cultural
+: 	 non
+culture
+: 	 non
+cup
+: 	 peut-être
+current
+: 	 non
+customer
+: 	 non
+cut
+: 	 peut-être
+dark
+: 	 peut-être
+data
+: 	 peut-être
+daughter
+: 	 non
+day
+: 	 peut-être
+dead
+: 	 peut-être
+deal
+: 	 peut-être
+death
+: 	 non
+debate
+: 	 non
+decade
+: 	 non
+decide
+: 	 non
+decision
+: 	 non
+deep
+: 	 peut-être
+defense
+: 	 non
+degree
+: 	 non
+Democrat
+: 	 non
+democratic
+: 	 non
+describe
+: 	 non
+design
+: 	 non
+despite
+: 	 non
+detail
+: 	 non
+determine
+: 	 non
+develop
+: 	 non
+development
+: 	 non
+die
+: 	 peut-être
+difference
+: 	 non
+different
+: 	 non
+difficult
+: 	 non
+dinner
+: 	 non
+direction
+: 	 non
+director
+: 	 non
+discover
+: 	 non
+discuss
+: 	 non
+discussion
+: 	 non
+disease
+: 	 non
+do
+: 	 non
+doctor
+: 	 non
+dog
+: 	 peut-être
+door
+: 	 peut-être
+down
+: 	 peut-être
+draw
+: 	 peut-être
+dream
+: 	 non
+drive
+: 	 non
+drop
+: 	 peut-être
+drug
+: 	 peut-être
+during
+: 	 non
+each
+: 	 peut-être
+early
+: 	 non
+east
+: 	 peut-être
+easy
+: 	 peut-être
+eat
+: 	 peut-être
+economic
+: 	 non
+economy
+: 	 non
+edge
+: 	 peut-être
+education
+: 	 non
+effect
+: 	 non
+effort
+: 	 non
+eight
+: 	 non
+either
+: 	 non
+election
+: 	 non
+else
+: 	 peut-être
+employee
+: 	 non
+end
+: 	 peut-être
+energy
+: 	 non
+enjoy
+: 	 non
+enough
+: 	 non
+enter
+: 	 non
+entire
+: 	 non
+environment
+: 	 non
+environmental
+: 	 non
+especially
+: 	 non
+establish
+: 	 non
+even
+: 	 peut-être
+evening
+: 	 non
+event
+: 	 non
+ever
+: 	 peut-être
+every
+: 	 non
+everybody
+: 	 non
+everyone
+: 	 non
+everything
+: 	 non
+evidence
+: 	 non
+exactly
+: 	 non
+example
+: 	 non
+executive
+: 	 non
+exist
+: 	 non
+expect
+: 	 non
+experience
+: 	 non
+expert
+: 	 non
+explain
+: 	 non
+eye
+: 	 peut-être
+face
+: 	 peut-être
+fact
+: 	 peut-être
+factor
+: 	 non
+fail
+: 	 peut-être
+fall
+: 	 peut-être
+family
+: 	 non
+far
+: 	 peut-être
+fast
+: 	 peut-être
+father
+: 	 non
+fear
+: 	 peut-être
+federal
+: 	 non
+feel
+: 	 peut-être
+feeling
+: 	 non
+few
+: 	 peut-être
+field
+: 	 non
+fight
+: 	 non
+figure
+: 	 non
+fill
+: 	 peut-être
+film
+: 	 peut-être
+final
+: 	 non
+finally
+: 	 non
+financial
+: 	 non
+find
+: 	 peut-être
+fine
+: 	 peut-être
+finger
+: 	 non
+finish
+: 	 non
+fire
+: 	 peut-être
+firm
+: 	 peut-être
+first
+: 	 non
+fish
+: 	 peut-être
+five
+: 	 peut-être
+floor
+: 	 non
+fly
+: 	 peut-être
+focus
+: 	 non
+follow
+: 	 non
+food
+: 	 peut-être
+foot
+: 	 peut-être
+for
+: 	 peut-être
+force
+: 	 non
+foreign
+: 	 non
+forget
+: 	 non
+form
+: 	 peut-être
+former
+: 	 non
+forward
+: 	 non
+four
+: 	 peut-être
+free
+: 	 peut-être
+friend
+: 	 non
+from
+: 	 peut-être
+front
+: 	 non
+full
+: 	 peut-être
+fund
+: 	 peut-être
+future
+: 	 non
+game
+: 	 peut-être
+garden
+: 	 non
+gas
+: 	 peut-être
+general
+: 	 non
+generation
+: 	 non
+get
+: 	 peut-être
+girl
+: 	 peut-être
+give
+: 	 peut-être
+glass
+: 	 non
+go
+: 	 non
+goal
+: 	 peut-être
+good
+: 	 peut-être
+government
+: 	 non
+great
+: 	 non
+green
+: 	 non
+ground
+: 	 non
+group
+: 	 non
+grow
+: 	 peut-être
+growth
+: 	 non
+guess
+: 	 non
+gun
+: 	 peut-être
+guy
+: 	 peut-être
+hair
+: 	 peut-être
+half
+: 	 peut-être
+hand
+: 	 peut-être
+hang
+: 	 peut-être
+happen
+: 	 non
+happy
+: 	 non
+hard
+: 	 peut-être
+have
+: 	 peut-être
+he
+: 	 non
+head
+: 	 peut-être
+health
+: 	 non
+hear
+: 	 peut-être
+heart
+: 	 non
+heat
+: 	 peut-être
+heavy
+: 	 non
+help
+: 	 peut-être
+her
+: 	 peut-être
+here
+: 	 peut-être
+herself
+: 	 non
+high
+: 	 peut-être
+him
+: 	 peut-être
+himself
+: 	 non
+his
+: 	 peut-être
+history
+: 	 non
+hit
+: 	 peut-être
+hold
+: 	 peut-être
+home
+: 	 peut-être
+hope
+: 	 peut-être
+hospital
+: 	 non
+hot
+: 	 peut-être
+hotel
+: 	 non
+hour
+: 	 peut-être
+house
+: 	 non
+how
+: 	 peut-être
+however
+: 	 non
+huge
+: 	 peut-être
+human
+: 	 non
+hundred
+: 	 non
+husband
+: 	 non
+I
+: 	 non
+idea
+: 	 peut-être
+identify
+: 	 non
+if
+: 	 non
+image
+: 	 non
+imagine
+: 	 non
+impact
+: 	 non
+important
+: 	 non
+improve
+: 	 non
+in
+: 	 non
+include
+: 	 non
+including
+: 	 non
+increase
+: 	 non
+indeed
+: 	 non
+indicate
+: 	 non
+individual
+: 	 non
+industry
+: 	 non
+information
+: 	 non
+inside
+: 	 non
+instead
+: 	 non
+institution
+: 	 non
+interest
+: 	 non
+interesting
+: 	 non
+international
+: 	 non
+interview
+: 	 non
+into
+: 	 peut-être
+investment
+: 	 non
+involve
+: 	 non
+issue
+: 	 non
+it
+: 	 non
+item
+: 	 peut-être
+its
+: 	 peut-être
+itself
+: 	 non
+job
+: 	 peut-être
+join
+: 	 peut-être
+just
+: 	 peut-être
+keep
+: 	 peut-être
+key
+: 	 peut-être
+kid
+: 	 peut-être
+kill
+: 	 peut-être
+kind
+: 	 peut-être
+kitchen
+: 	 non
+know
+: 	 peut-être
+knowledge
+: 	 non
+land
+: 	 peut-être
+language
+: 	 non
+large
+: 	 non
+last
+: 	 peut-être
+late
+: 	 peut-être
+later
+: 	 non
+laugh
+: 	 non
+law
+: 	 peut-être
+lawyer
+: 	 non
+lay
+: 	 peut-être
+lead
+: 	 peut-être
+leader
+: 	 non
+learn
+: 	 non
+least
+: 	 non
+leave
+: 	 non
+left
+: 	 peut-être
+leg
+: 	 peut-être
+legal
+: 	 non
+less
+: 	 peut-être
+let
+: 	 peut-être
+letter
+: 	 non
+level
+: 	 non
+lie
+: 	 peut-être
+life
+: 	 peut-être
+light
+: 	 non
+like
+: 	 peut-être
+likely
+: 	 non
+line
+: 	 peut-être
+list
+: 	 peut-être
+listen
+: 	 non
+little
+: 	 non
+live
+: 	 peut-être
+local
+: 	 non
+long
+: 	 peut-être
+look
+: 	 peut-être
+lose
+: 	 peut-être
+loss
+: 	 peut-être
+lot
+: 	 peut-être
+love
+: 	 peut-être
+low
+: 	 peut-être
+machine
+: 	 non
+magazine
+: 	 non
+main
+: 	 peut-être
+maintain
+: 	 non
+major
+: 	 non
+majority
+: 	 non
+make
+: 	 peut-être
+man
+: 	 peut-être
+manage
+: 	 non
+management
+: 	 non
+manager
+: 	 non
+many
+: 	 peut-être
+market
+: 	 non
+marriage
+: 	 non
+material
+: 	 non
+matter
+: 	 non
+may
+: 	 peut-être
+maybe
+: 	 non
+me
+: 	 non
+mean
+: 	 peut-être
+measure
+: 	 non
+media
+: 	 non
+medical
+: 	 non
+meet
+: 	 peut-être
+meeting
+: 	 non
+member
+: 	 non
+memory
+: 	 non
+mention
+: 	 non
+message
+: 	 non
+method
+: 	 non
+middle
+: 	 non
+might
+: 	 non
+military
+: 	 non
+million
+: 	 non
+mind
+: 	 peut-être
+minute
+: 	 non
+miss
+: 	 peut-être
+mission
+: 	 non
+model
+: 	 non
+modern
+: 	 non
+moment
+: 	 non
+money
+: 	 non
+month
+: 	 non
+more
+: 	 peut-être
+morning
+: 	 non
+most
+: 	 peut-être
+mother
+: 	 non
+mouth
+: 	 non
+move
+: 	 peut-être
+movement
+: 	 non
+movie
+: 	 non
+Mr
+: 	 non
+Mrs
+: 	 peut-être
+much
+: 	 peut-être
+music
+: 	 non
+must
+: 	 peut-être
+my
+: 	 non
+myself
+: 	 non
+name
+: 	 peut-être
+nation
+: 	 non
+national
+: 	 non
+natural
+: 	 non
+nature
+: 	 non
+near
+: 	 peut-être
+nearly
+: 	 non
+necessary
+: 	 non
+need
+: 	 peut-être
+network
+: 	 non
+never
+: 	 non
+new
+: 	 peut-être
+news
+: 	 peut-être
+newspaper
+: 	 non
+next
+: 	 peut-être
+nice
+: 	 peut-être
+night
+: 	 non
+no
+: 	 non
+none
+: 	 peut-être
+nor
+: 	 peut-être
+north
+: 	 non
+not
+: 	 peut-être
+note
+: 	 peut-être
+nothing
+: 	 non
+notice
+: 	 non
+now
+: 	 peut-être
+n't
+: 	 peut-être
+number
+: 	 non
+occur
+: 	 non
+of
+: 	 non
+off
+: 	 peut-être
+offer
+: 	 non
+office
+: 	 non
+officer
+: 	 non
+official
+: 	 non
+often
+: 	 non
+oh
+: 	 non
+oil
+: 	 peut-être
+ok
+: 	 non
+old
+: 	 peut-être
+on
+: 	 non
+once
+: 	 peut-être
+one
+: 	 peut-être
+only
+: 	 peut-être
+onto
+: 	 peut-être
+open
+: 	 peut-être
+operation
+: 	 non
+opportunity
+: 	 non
+option
+: 	 non
+or
+: 	 non
+order
+: 	 non
+organization
+: 	 non
+other
+: 	 non
+others
+: 	 non
+our
+: 	 peut-être
+out
+: 	 peut-être
+outside
+: 	 non
+over
+: 	 peut-être
+own
+: 	 peut-être
+owner
+: 	 non
+page
+: 	 peut-être
+pain
+: 	 peut-être
+painting
+: 	 non
+paper
+: 	 non
+parent
+: 	 non
+part
+: 	 peut-être
+participant
+: 	 non
+particular
+: 	 non
+particularly
+: 	 non
+partner
+: 	 non
+party
+: 	 non
+pass
+: 	 peut-être
+past
+: 	 peut-être
+patient
+: 	 non
+pattern
+: 	 non
+pay
+: 	 peut-être
+peace
+: 	 non
+people
+: 	 non
+per
+: 	 peut-être
+perform
+: 	 non
+performance
+: 	 non
+perhaps
+: 	 non
+period
+: 	 non
+person
+: 	 non
+personal
+: 	 non
+phone
+: 	 non
+physical
+: 	 non
+pick
+: 	 peut-être
+picture
+: 	 non
+piece
+: 	 non
+place
+: 	 non
+plan
+: 	 peut-être
+plant
+: 	 non
+play
+: 	 peut-être
+player
+: 	 non
+PM
+: 	 non
+point
+: 	 non
+police
+: 	 non
+policy
+: 	 non
+political
+: 	 non
+politics
+: 	 non
+poor
+: 	 peut-être
+popular
+: 	 non
+population
+: 	 non
+position
+: 	 non
+positive
+: 	 non
+possible
+: 	 non
+power
+: 	 non
+practice
+: 	 non
+prepare
+: 	 non
+present
+: 	 non
+president
+: 	 non
+pressure
+: 	 non
+pretty
+: 	 non
+prevent
+: 	 non
+price
+: 	 non
+private
+: 	 non
+probably
+: 	 non
+problem
+: 	 non
+process
+: 	 non
+produce
+: 	 non
+product
+: 	 non
+production
+: 	 non
+professional
+: 	 non
+professor
+: 	 non
+program
+: 	 non
+project
+: 	 non
+property
+: 	 non
+protect
+: 	 non
+prove
+: 	 non
+provide
+: 	 non
+public
+: 	 non
+pull
+: 	 peut-être
+purpose
+: 	 non
+push
+: 	 peut-être
+put
+: 	 peut-être
+quality
+: 	 non
+question
+: 	 non
+quickly
+: 	 non
+quite
+: 	 non
+race
+: 	 peut-être
+radio
+: 	 non
+raise
+: 	 non
+range
+: 	 non
+rate
+: 	 peut-être
+rather
+: 	 non
+reach
+: 	 non
+read
+: 	 peut-être
+ready
+: 	 non
+real
+: 	 peut-être
+reality
+: 	 non
+realize
+: 	 non
+really
+: 	 non
+reason
+: 	 non
+receive
+: 	 non
+recent
+: 	 non
+recently
+: 	 non
+recognize
+: 	 non
+record
+: 	 non
+red
+: 	 peut-être
+reduce
+: 	 non
+reflect
+: 	 non
+region
+: 	 non
+relate
+: 	 non
+relationship
+: 	 non
+religious
+: 	 non
+remain
+: 	 non
+remember
+: 	 non
+remove
+: 	 non
+report
+: 	 non
+represent
+: 	 non
+Republican
+: 	 non
+require
+: 	 non
+research
+: 	 non
+resource
+: 	 non
+respond
+: 	 non
+response
+: 	 non
+responsibility
+: 	 non
+rest
+: 	 peut-être
+result
+: 	 non
+return
+: 	 non
+reveal
+: 	 non
+rich
+: 	 peut-être
+right
+: 	 non
+rise
+: 	 peut-être
+risk
+: 	 peut-être
+road
+: 	 peut-être
+rock
+: 	 peut-être
+role
+: 	 peut-être
+room
+: 	 peut-être
+rule
+: 	 peut-être
+run
+: 	 peut-être
+safe
+: 	 peut-être
+same
+: 	 peut-être
+save
+: 	 peut-être
+say
+: 	 peut-être
+scene
+: 	 non
+school
+: 	 non
+science
+: 	 non
+scientist
+: 	 non
+score
+: 	 non
+sea
+: 	 peut-être
+season
+: 	 non
+seat
+: 	 peut-être
+second
+: 	 non
+section
+: 	 non
+security
+: 	 non
+see
+: 	 peut-être
+seek
+: 	 peut-être
+seem
+: 	 peut-être
+sell
+: 	 peut-être
+send
+: 	 peut-être
+senior
+: 	 non
+sense
+: 	 non
+series
+: 	 non
+serious
+: 	 non
+serve
+: 	 non
+service
+: 	 non
+set
+: 	 peut-être
+seven
+: 	 non
+several
+: 	 non
+sex
+: 	 peut-être
+sexual
+: 	 non
+shake
+: 	 non
+share
+: 	 non
+she
+: 	 peut-être
+shoot
+: 	 non
+short
+: 	 non
+shot
+: 	 peut-être
+should
+: 	 non
+shoulder
+: 	 non
+show
+: 	 peut-être
+side
+: 	 peut-être
+sign
+: 	 peut-être
+significant
+: 	 non
+similar
+: 	 non
+simple
+: 	 non
+simply
+: 	 non
+since
+: 	 non
+sing
+: 	 peut-être
+single
+: 	 non
+sister
+: 	 non
+sit
+: 	 peut-être
+site
+: 	 peut-être
+situation
+: 	 non
+six
+: 	 peut-être
+size
+: 	 peut-être
+skill
+: 	 non
+skin
+: 	 peut-être
+small
+: 	 non
+smile
+: 	 non
+so
+: 	 non
+social
+: 	 non
+society
+: 	 non
+soldier
+: 	 non
+some
+: 	 peut-être
+somebody
+: 	 non
+someone
+: 	 non
+something
+: 	 non
+sometimes
+: 	 non
+son
+: 	 peut-être
+song
+: 	 peut-être
+soon
+: 	 peut-être
+sort
+: 	 peut-être
+sound
+: 	 non
+source
+: 	 non
+south
+: 	 non
+southern
+: 	 non
+space
+: 	 non
+speak
+: 	 non
+special
+: 	 non
+specific
+: 	 non
+speech
+: 	 non
+spend
+: 	 non
+sport
+: 	 non
+spring
+: 	 non
+staff
+: 	 non
+stage
+: 	 non
+stand
+: 	 non
+standard
+: 	 non
+star
+: 	 peut-être
+start
+: 	 non
+state
+: 	 non
+statement
+: 	 non
+station
+: 	 non
+stay
+: 	 peut-être
+step
+: 	 peut-être
+still
+: 	 non
+stock
+: 	 non
+stop
+: 	 peut-être
+store
+: 	 non
+story
+: 	 non
+strategy
+: 	 non
+street
+: 	 non
+strong
+: 	 non
+structure
+: 	 non
+student
+: 	 non
+study
+: 	 non
+stuff
+: 	 non
+style
+: 	 non
+subject
+: 	 non
+success
+: 	 non
+successful
+: 	 non
+such
+: 	 peut-être
+suddenly
+: 	 non
+suffer
+: 	 non
+suggest
+: 	 non
+summer
+: 	 non
+support
+: 	 non
+sure
+: 	 peut-être
+surface
+: 	 non
+system
+: 	 non
+table
+: 	 non
+take
+: 	 peut-être
+talk
+: 	 peut-être
+task
+: 	 peut-être
+tax
+: 	 peut-être
+teach
+: 	 non
+teacher
+: 	 non
+team
+: 	 peut-être
+technology
+: 	 non
+television
+: 	 non
+tell
+: 	 peut-être
+ten
+: 	 peut-être
+tend
+: 	 peut-être
+term
+: 	 peut-être
+test
+: 	 peut-être
+than
+: 	 peut-être
+thank
+: 	 non
+that
+: 	 peut-être
+the
+: 	 peut-être
+their
+: 	 non
+them
+: 	 peut-être
+themselves
+: 	 non
+then
+: 	 peut-être
+theory
+: 	 non
+there
+: 	 non
+these
+: 	 non
+they
+: 	 peut-être
+thing
+: 	 non
+think
+: 	 non
+third
+: 	 non
+this
+: 	 peut-être
+those
+: 	 non
+though
+: 	 non
+thought
+: 	 non
+thousand
+: 	 non
+threat
+: 	 non
+three
+: 	 non
+through
+: 	 non
+throughout
+: 	 non
+throw
+: 	 non
+thus
+: 	 peut-être
+time
+: 	 peut-être
+to
+: 	 non
+today
+: 	 non
+together
+: 	 non
+tonight
+: 	 non
+too
+: 	 peut-être
+top
+: 	 peut-être
+total
+: 	 non
+tough
+: 	 non
+toward
+: 	 non
+town
+: 	 peut-être
+trade
+: 	 non
+traditional
+: 	 non
+training
+: 	 non
+travel
+: 	 non
+treat
+: 	 non
+treatment
+: 	 non
+tree
+: 	 peut-être
+trial
+: 	 non
+trip
+: 	 peut-être
+trouble
+: 	 non
+true
+: 	 peut-être
+truth
+: 	 non
+try
+: 	 peut-être
+turn
+: 	 peut-être
+TV
+: 	 non
+two
+: 	 peut-être
+type
+: 	 peut-être
+under
+: 	 non
+understand
+: 	 non
+unit
+: 	 peut-être
+until
+: 	 non
+up
+: 	 non
+upon
+: 	 peut-être
+us
+: 	 non
+use
+: 	 peut-être
+usually
+: 	 non
+value
+: 	 non
+various
+: 	 non
+very
+: 	 peut-être
+victim
+: 	 non
+view
+: 	 peut-être
+violence
+: 	 non
+visit
+: 	 non
+voice
+: 	 non
+vote
+: 	 peut-être
+wait
+: 	 peut-être
+walk
+: 	 peut-être
+wall
+: 	 peut-être
+want
+: 	 peut-être
+war
+: 	 peut-être
+watch
+: 	 non
+water
+: 	 non
+way
+: 	 peut-être
+we
+: 	 non
+weapon
+: 	 non
+wear
+: 	 peut-être
+week
+: 	 peut-être
+weight
+: 	 non
+well
+: 	 peut-être
+west
+: 	 peut-être
+western
+: 	 non
+what
+: 	 peut-être
+whatever
+: 	 non
+when
+: 	 peut-être
+where
+: 	 non
+whether
+: 	 non
+which
+: 	 non
+while
+: 	 non
+white
+: 	 non
+who
+: 	 peut-être
+whole
+: 	 non
+whom
+: 	 peut-être
+whose
+: 	 non
+why
+: 	 peut-être
+wide
+: 	 peut-être
+wife
+: 	 peut-être
+will
+: 	 peut-être
+win
+: 	 peut-être
+wind
+: 	 peut-être
+window
+: 	 non
+wish
+: 	 peut-être
+with
+: 	 peut-être
+within
+: 	 non
+without
+: 	 non
+woman
+: 	 non
+wonder
+: 	 non
+word
+: 	 peut-être
+work
+: 	 peut-être
+worker
+: 	 non
+world
+: 	 non
+worry
+: 	 non
+would
+: 	 non
+write
+: 	 non
+writer
+: 	 non
+wrong
+: 	 non
+yard
+: 	 peut-être
+yeah
+: 	 peut-être
+year
+: 	 peut-être
+yes
+: 	 peut-être
+yet
+: 	 peut-être
+you
+: 	 peut-être
+young
+: 	 non
+your
+: 	 peut-être
+yourself
+: 	 non
+There is 340 maybe and 660 no

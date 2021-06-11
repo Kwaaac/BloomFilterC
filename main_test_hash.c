@@ -7,7 +7,7 @@
 #define MAX_READ 100
 
 int main(int argc, char *argv[]) {
-    int k, m, i, maybe = 0, no = 0;
+    int k, m, i, flag, maybe = 0, no = 0;
     char *file_in, *file_out;
     size_t word_length;
     FILE *f;
@@ -34,6 +34,8 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
+    unsigned int *hashes = (unsigned int *) malloc(sizeof(unsigned int) * k);
+
     while (fgets(str, MAX_READ, f) != NULL) {
         word_length = strlen(str);
         if (word_length == 4 || word_length == 5) {
@@ -43,6 +45,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
+    /* test.txt sur les 1000 passwords */
     fclose(f);
 
     f = fopen(file_in, "r");
