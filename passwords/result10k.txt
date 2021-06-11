@@ -1,0 +1,20000 @@
+a
+: 	 non
+aa
+: 	 non
+aaa
+: 	 yes
+aaron
+: 	 non
+ab
+: 	 non
+abandoned
+: 	 non
+abc
+: 	 yes
+aberdeen
+: 	 non
+abilities
+: 	 non
+ability
+: 	 non
+able
+: 	 yes
+aboriginal
+: 	 non
+abortion
+: 	 non
+about
+: 	 non
+above
+: 	 non
+abraham
+: 	 non
+abroad
+: 	 non
+abs
+: 	 yes
+absence
+: 	 non
+absent
+: 	 non
+absolute
+: 	 non
+absolutely
+: 	 non
+absorption
+: 	 non
+abstract
+: 	 non
+abstracts
+: 	 non
+abu
+: 	 yes
+abuse
+: 	 non
+ac
+: 	 non
+academic
+: 	 non
+academics
+: 	 non
+academy
+: 	 non
+acc
+: 	 yes
+accent
+: 	 non
+accept
+: 	 non
+acceptable
+: 	 non
+acceptance
+: 	 non
+accepted
+: 	 non
+accepting
+: 	 non
+accepts
+: 	 non
+access
+: 	 non
+accessed
+: 	 non
+accessibility
+: 	 non
+accessible
+: 	 non
+accessing
+: 	 non
+accessories
+: 	 non
+accessory
+: 	 non
+accident
+: 	 non
+accidents
+: 	 non
+accommodate
+: 	 non
+accommodation
+: 	 non
+accommodations
+: 	 non
+accompanied
+: 	 non
+accompanying
+: 	 non
+accomplish
+: 	 non
+accomplished
+: 	 non
+accordance
+: 	 non
+according
+: 	 non
+accordingly
+: 	 non
+account
+: 	 non
+accountability
+: 	 non
+accounting
+: 	 non
+accounts
+: 	 non
+accreditation
+: 	 non
+accredited
+: 	 non
+accuracy
+: 	 non
+accurate
+: 	 non
+accurately
+: 	 non
+accused
+: 	 non
+acdbentity
+: 	 non
+ace
+: 	 yes
+acer
+: 	 yes
+achieve
+: 	 non
+achieved
+: 	 non
+achievement
+: 	 non
+achievements
+: 	 non
+achieving
+: 	 non
+acid
+: 	 yes
+acids
+: 	 non
+acknowledge
+: 	 non
+acknowledged
+: 	 non
+acm
+: 	 yes
+acne
+: 	 yes
+acoustic
+: 	 non
+acquire
+: 	 non
+acquired
+: 	 non
+acquisition
+: 	 non
+acquisitions
+: 	 non
+acre
+: 	 yes
+acres
+: 	 non
+acrobat
+: 	 non
+across
+: 	 non
+acrylic
+: 	 non
+act
+: 	 yes
+acting
+: 	 non
+action
+: 	 non
+actions
+: 	 non
+activated
+: 	 non
+activation
+: 	 non
+active
+: 	 non
+actively
+: 	 non
+activists
+: 	 non
+activities
+: 	 non
+activity
+: 	 non
+actor
+: 	 non
+actors
+: 	 non
+actress
+: 	 non
+acts
+: 	 yes
+actual
+: 	 non
+actually
+: 	 non
+acute
+: 	 non
+ad
+: 	 non
+ada
+: 	 yes
+adam
+: 	 yes
+adams
+: 	 non
+adaptation
+: 	 non
+adapted
+: 	 non
+adapter
+: 	 non
+adapters
+: 	 non
+adaptive
+: 	 non
+adaptor
+: 	 non
+add
+: 	 yes
+added
+: 	 non
+addiction
+: 	 non
+adding
+: 	 non
+addition
+: 	 non
+additional
+: 	 non
+additionally
+: 	 non
+additions
+: 	 non
+address
+: 	 non
+addressed
+: 	 non
+addresses
+: 	 non
+addressing
+: 	 non
+adds
+: 	 yes
+adelaide
+: 	 non
+adequate
+: 	 non
+adidas
+: 	 non
+adipex
+: 	 non
+adjacent
+: 	 non
+adjust
+: 	 non
+adjustable
+: 	 non
+adjusted
+: 	 non
+adjustment
+: 	 non
+adjustments
+: 	 non
+admin
+: 	 non
+administered
+: 	 non
+administration
+: 	 non
+administrative
+: 	 non
+administrator
+: 	 non
+administrators
+: 	 non
+admission
+: 	 non
+admissions
+: 	 non
+admit
+: 	 non
+admitted
+: 	 non
+adobe
+: 	 non
+adolescent
+: 	 non
+adopt
+: 	 non
+adopted
+: 	 non
+adoption
+: 	 non
+adrian
+: 	 non
+ads
+: 	 yes
+adsl
+: 	 yes
+adult
+: 	 non
+adults
+: 	 non
+advance
+: 	 non
+advanced
+: 	 non
+advancement
+: 	 non
+advances
+: 	 non
+advantage
+: 	 non
+advantages
+: 	 non
+adventure
+: 	 non
+adventures
+: 	 non
+adverse
+: 	 non
+advert
+: 	 non
+advertise
+: 	 non
+advertisement
+: 	 non
+advertisements
+: 	 non
+advertiser
+: 	 non
+advertisers
+: 	 non
+advertising
+: 	 non
+advice
+: 	 non
+advise
+: 	 non
+advised
+: 	 non
+advisor
+: 	 non
+advisors
+: 	 non
+advisory
+: 	 non
+advocacy
+: 	 non
+advocate
+: 	 non
+adware
+: 	 non
+ae
+: 	 non
+aerial
+: 	 non
+aerospace
+: 	 non
+af
+: 	 non
+affair
+: 	 non
+affairs
+: 	 non
+affect
+: 	 non
+affected
+: 	 non
+affecting
+: 	 non
+affects
+: 	 non
+affiliate
+: 	 non
+affiliated
+: 	 non
+affiliates
+: 	 non
+affiliation
+: 	 non
+afford
+: 	 non
+affordable
+: 	 non
+afghanistan
+: 	 non
+afraid
+: 	 non
+africa
+: 	 non
+african
+: 	 non
+after
+: 	 non
+afternoon
+: 	 non
+afterwards
+: 	 non
+ag
+: 	 non
+again
+: 	 non
+against
+: 	 non
+age
+: 	 yes
+aged
+: 	 yes
+agencies
+: 	 non
+agency
+: 	 non
+agenda
+: 	 non
+agent
+: 	 non
+agents
+: 	 non
+ages
+: 	 yes
+aggregate
+: 	 non
+aggressive
+: 	 non
+aging
+: 	 non
+ago
+: 	 yes
+agree
+: 	 non
+agreed
+: 	 non
+agreement
+: 	 non
+agreements
+: 	 non
+agrees
+: 	 non
+agricultural
+: 	 non
+agriculture
+: 	 non
+ah
+: 	 non
+ahead
+: 	 non
+ai
+: 	 non
+aid
+: 	 yes
+aids
+: 	 yes
+aim
+: 	 yes
+aimed
+: 	 non
+aims
+: 	 yes
+air
+: 	 yes
+aircraft
+: 	 non
+airfare
+: 	 non
+airline
+: 	 non
+airlines
+: 	 non
+airplane
+: 	 non
+airport
+: 	 non
+airports
+: 	 non
+aj
+: 	 non
+ak
+: 	 non
+aka
+: 	 yes
+al
+: 	 non
+ala
+: 	 yes
+alabama
+: 	 non
+alan
+: 	 yes
+alarm
+: 	 non
+alaska
+: 	 non
+albania
+: 	 non
+albany
+: 	 non
+albert
+: 	 non
+alberta
+: 	 non
+album
+: 	 non
+albums
+: 	 non
+albuquerque
+: 	 non
+alcohol
+: 	 non
+alert
+: 	 non
+alerts
+: 	 non
+alex
+: 	 yes
+alexander
+: 	 non
+alexandria
+: 	 non
+alfred
+: 	 non
+algebra
+: 	 non
+algeria
+: 	 non
+algorithm
+: 	 non
+algorithms
+: 	 non
+ali
+: 	 yes
+alias
+: 	 non
+alice
+: 	 non
+alien
+: 	 non
+align
+: 	 non
+alignment
+: 	 non
+alike
+: 	 non
+alive
+: 	 non
+all
+: 	 yes
+allah
+: 	 non
+allan
+: 	 non
+alleged
+: 	 non
+allen
+: 	 non
+allergy
+: 	 non
+alliance
+: 	 non
+allied
+: 	 non
+allocated
+: 	 non
+allocation
+: 	 non
+allow
+: 	 non
+allowance
+: 	 non
+allowed
+: 	 non
+allowing
+: 	 non
+allows
+: 	 non
+alloy
+: 	 non
+almost
+: 	 non
+alone
+: 	 non
+along
+: 	 non
+alot
+: 	 yes
+alpha
+: 	 non
+alphabetical
+: 	 non
+alpine
+: 	 non
+already
+: 	 non
+also
+: 	 yes
+alt
+: 	 yes
+alter
+: 	 non
+altered
+: 	 non
+alternate
+: 	 non
+alternative
+: 	 non
+alternatively
+: 	 non
+alternatives
+: 	 non
+although
+: 	 non
+alto
+: 	 yes
+aluminium
+: 	 non
+aluminum
+: 	 non
+alumni
+: 	 non
+always
+: 	 non
+am
+: 	 non
+amanda
+: 	 non
+amateur
+: 	 non
+amazing
+: 	 non
+amazon
+: 	 non
+amazoncom
+: 	 non
+amazoncouk
+: 	 non
+ambassador
+: 	 non
+amber
+: 	 non
+ambien
+: 	 non
+ambient
+: 	 non
+amd
+: 	 yes
+amend
+: 	 non
+amended
+: 	 non
+amendment
+: 	 non
+amendments
+: 	 non
+amenities
+: 	 non
+america
+: 	 non
+american
+: 	 non
+americans
+: 	 non
+americas
+: 	 non
+amino
+: 	 non
+among
+: 	 non
+amongst
+: 	 non
+amount
+: 	 non
+amounts
+: 	 non
+amp
+: 	 yes
+ampland
+: 	 non
+amplifier
+: 	 non
+amsterdam
+: 	 non
+amy
+: 	 yes
+an
+: 	 non
+ana
+: 	 yes
+anaheim
+: 	 non
+anal
+: 	 yes
+analog
+: 	 non
+analyses
+: 	 non
+analysis
+: 	 non
+analyst
+: 	 non
+analysts
+: 	 non
+analytical
+: 	 non
+analyze
+: 	 non
+analyzed
+: 	 non
+anatomy
+: 	 non
+anchor
+: 	 non
+ancient
+: 	 non
+and
+: 	 yes
+andale
+: 	 non
+anderson
+: 	 non
+andorra
+: 	 non
+andrea
+: 	 non
+andreas
+: 	 non
+andrew
+: 	 non
+andrews
+: 	 non
+andy
+: 	 yes
+angel
+: 	 non
+angela
+: 	 non
+angeles
+: 	 non
+angels
+: 	 non
+anger
+: 	 non
+angle
+: 	 non
+angola
+: 	 non
+angry
+: 	 non
+animal
+: 	 non
+animals
+: 	 non
+animated
+: 	 non
+animation
+: 	 non
+anime
+: 	 non
+ann
+: 	 yes
+anna
+: 	 yes
+anne
+: 	 yes
+annex
+: 	 non
+annie
+: 	 non
+anniversary
+: 	 non
+annotated
+: 	 non
+annotation
+: 	 non
+announce
+: 	 non
+announced
+: 	 non
+announcement
+: 	 non
+announcements
+: 	 non
+announces
+: 	 non
+annoying
+: 	 non
+annual
+: 	 non
+annually
+: 	 non
+anonymous
+: 	 non
+another
+: 	 non
+answer
+: 	 non
+answered
+: 	 non
+answering
+: 	 non
+answers
+: 	 non
+ant
+: 	 yes
+antarctica
+: 	 non
+antenna
+: 	 non
+anthony
+: 	 non
+anthropology
+: 	 non
+anti
+: 	 yes
+antibodies
+: 	 non
+antibody
+: 	 non
+anticipated
+: 	 non
+antigua
+: 	 non
+antique
+: 	 non
+antiques
+: 	 non
+antivirus
+: 	 non
+antonio
+: 	 non
+anxiety
+: 	 non
+any
+: 	 yes
+anybody
+: 	 non
+anymore
+: 	 non
+anyone
+: 	 non
+anything
+: 	 non
+anytime
+: 	 non
+anyway
+: 	 non
+anywhere
+: 	 non
+aol
+: 	 yes
+ap
+: 	 non
+apache
+: 	 non
+apart
+: 	 non
+apartment
+: 	 non
+apartments
+: 	 non
+api
+: 	 yes
+apnic
+: 	 non
+apollo
+: 	 non
+app
+: 	 yes
+apparatus
+: 	 non
+apparel
+: 	 non
+apparent
+: 	 non
+apparently
+: 	 non
+appeal
+: 	 non
+appeals
+: 	 non
+appear
+: 	 non
+appearance
+: 	 non
+appeared
+: 	 non
+appearing
+: 	 non
+appears
+: 	 non
+appendix
+: 	 non
+apple
+: 	 non
+appliance
+: 	 non
+appliances
+: 	 non
+applicable
+: 	 non
+applicant
+: 	 non
+applicants
+: 	 non
+application
+: 	 non
+applications
+: 	 non
+applied
+: 	 non
+applies
+: 	 non
+apply
+: 	 non
+applying
+: 	 non
+appointed
+: 	 non
+appointment
+: 	 non
+appointments
+: 	 non
+appraisal
+: 	 non
+appreciate
+: 	 non
+appreciated
+: 	 non
+appreciation
+: 	 non
+approach
+: 	 non
+approaches
+: 	 non
+appropriate
+: 	 non
+appropriations
+: 	 non
+approval
+: 	 non
+approve
+: 	 non
+approved
+: 	 non
+approx
+: 	 non
+approximate
+: 	 non
+approximately
+: 	 non
+apps
+: 	 yes
+apr
+: 	 yes
+april
+: 	 non
+apt
+: 	 yes
+aqua
+: 	 yes
+aquarium
+: 	 non
+aquatic
+: 	 non
+ar
+: 	 non
+arab
+: 	 yes
+arabia
+: 	 non
+arabic
+: 	 non
+arbitrary
+: 	 non
+arbitration
+: 	 non
+arc
+: 	 yes
+arcade
+: 	 non
+arch
+: 	 yes
+architect
+: 	 non
+architects
+: 	 non
+architectural
+: 	 non
+architecture
+: 	 non
+archive
+: 	 non
+archived
+: 	 non
+archives
+: 	 non
+arctic
+: 	 non
+are
+: 	 yes
+area
+: 	 yes
+areas
+: 	 non
+arena
+: 	 non
+arg
+: 	 yes
+argentina
+: 	 non
+argue
+: 	 non
+argued
+: 	 non
+argument
+: 	 non
+arguments
+: 	 non
+arise
+: 	 non
+arising
+: 	 non
+arizona
+: 	 non
+arkansas
+: 	 non
+arlington
+: 	 non
+arm
+: 	 yes
+armed
+: 	 non
+armenia
+: 	 non
+armor
+: 	 non
+arms
+: 	 yes
+armstrong
+: 	 non
+army
+: 	 yes
+arnold
+: 	 non
+around
+: 	 non
+arrange
+: 	 non
+arranged
+: 	 non
+arrangement
+: 	 non
+arrangements
+: 	 non
+array
+: 	 non
+arrest
+: 	 non
+arrested
+: 	 non
+arrival
+: 	 non
+arrivals
+: 	 non
+arrive
+: 	 non
+arrived
+: 	 non
+arrives
+: 	 non
+arrow
+: 	 non
+art
+: 	 yes
+arthritis
+: 	 non
+arthur
+: 	 non
+article
+: 	 non
+articles
+: 	 non
+artificial
+: 	 non
+artist
+: 	 non
+artistic
+: 	 non
+artists
+: 	 non
+arts
+: 	 yes
+artwork
+: 	 non
+aruba
+: 	 non
+as
+: 	 non
+asbestos
+: 	 non
+ascii
+: 	 non
+ash
+: 	 yes
+ashley
+: 	 non
+asia
+: 	 yes
+asian
+: 	 non
+aside
+: 	 non
+asin
+: 	 yes
+ask
+: 	 yes
+asked
+: 	 non
+asking
+: 	 non
+asks
+: 	 yes
+asn
+: 	 yes
+asp
+: 	 yes
+aspect
+: 	 non
+aspects
+: 	 non
+aspnet
+: 	 non
+ass
+: 	 yes
+assault
+: 	 non
+assembled
+: 	 non
+assembly
+: 	 non
+assess
+: 	 non
+assessed
+: 	 non
+assessing
+: 	 non
+assessment
+: 	 non
+assessments
+: 	 non
+asset
+: 	 non
+assets
+: 	 non
+assign
+: 	 non
+assigned
+: 	 non
+assignment
+: 	 non
+assignments
+: 	 non
+assist
+: 	 non
+assistance
+: 	 non
+assistant
+: 	 non
+assisted
+: 	 non
+assists
+: 	 non
+associate
+: 	 non
+associated
+: 	 non
+associates
+: 	 non
+association
+: 	 non
+associations
+: 	 non
+assume
+: 	 non
+assumed
+: 	 non
+assumes
+: 	 non
+assuming
+: 	 non
+assumption
+: 	 non
+assumptions
+: 	 non
+assurance
+: 	 non
+assure
+: 	 non
+assured
+: 	 non
+asthma
+: 	 non
+astrology
+: 	 non
+astronomy
+: 	 non
+asus
+: 	 yes
+at
+: 	 non
+ata
+: 	 yes
+ate
+: 	 yes
+athens
+: 	 non
+athletes
+: 	 non
+athletic
+: 	 non
+athletics
+: 	 non
+ati
+: 	 yes
+atlanta
+: 	 non
+atlantic
+: 	 non
+atlas
+: 	 non
+atm
+: 	 yes
+atmosphere
+: 	 non
+atmospheric
+: 	 non
+atom
+: 	 yes
+atomic
+: 	 non
+attach
+: 	 non
+attached
+: 	 non
+attachment
+: 	 non
+attachments
+: 	 non
+attack
+: 	 non
+attacked
+: 	 non
+attacks
+: 	 non
+attempt
+: 	 non
+attempted
+: 	 non
+attempting
+: 	 non
+attempts
+: 	 non
+attend
+: 	 non
+attendance
+: 	 non
+attended
+: 	 non
+attending
+: 	 non
+attention
+: 	 non
+attitude
+: 	 non
+attitudes
+: 	 non
+attorney
+: 	 non
+attorneys
+: 	 non
+attract
+: 	 non
+attraction
+: 	 non
+attractions
+: 	 non
+attractive
+: 	 non
+attribute
+: 	 non
+attributes
+: 	 non
+au
+: 	 non
+auburn
+: 	 non
+auckland
+: 	 non
+auction
+: 	 non
+auctions
+: 	 non
+aud
+: 	 yes
+audi
+: 	 yes
+audience
+: 	 non
+audio
+: 	 non
+audit
+: 	 non
+auditor
+: 	 non
+aug
+: 	 yes
+august
+: 	 non
+aurora
+: 	 non
+aus
+: 	 yes
+austin
+: 	 non
+australia
+: 	 non
+australian
+: 	 non
+austria
+: 	 non
+authentic
+: 	 non
+authentication
+: 	 non
+author
+: 	 non
+authorities
+: 	 non
+authority
+: 	 non
+authorization
+: 	 non
+authorized
+: 	 non
+authors
+: 	 non
+auto
+: 	 yes
+automated
+: 	 non
+automatic
+: 	 non
+automatically
+: 	 non
+automation
+: 	 non
+automobile
+: 	 non
+automobiles
+: 	 non
+automotive
+: 	 non
+autos
+: 	 non
+autumn
+: 	 non
+av
+: 	 non
+availability
+: 	 non
+available
+: 	 non
+avatar
+: 	 non
+ave
+: 	 yes
+avenue
+: 	 non
+average
+: 	 non
+avg
+: 	 yes
+avi
+: 	 yes
+aviation
+: 	 non
+avoid
+: 	 non
+avoiding
+: 	 non
+avon
+: 	 yes
+aw
+: 	 non
+award
+: 	 non
+awarded
+: 	 non
+awards
+: 	 non
+aware
+: 	 non
+awareness
+: 	 non
+away
+: 	 yes
+awesome
+: 	 non
+awful
+: 	 non
+axis
+: 	 yes
+aye
+: 	 yes
+az
+: 	 non
+azerbaijan
+: 	 non
+b
+: 	 non
+ba
+: 	 non
+babe
+: 	 yes
+babes
+: 	 non
+babies
+: 	 non
+baby
+: 	 yes
+bachelor
+: 	 non
+back
+: 	 yes
+backed
+: 	 non
+background
+: 	 non
+backgrounds
+: 	 non
+backing
+: 	 non
+backup
+: 	 non
+bacon
+: 	 non
+bacteria
+: 	 non
+bacterial
+: 	 non
+bad
+: 	 yes
+badge
+: 	 non
+badly
+: 	 non
+bag
+: 	 yes
+baghdad
+: 	 non
+bags
+: 	 yes
+bahamas
+: 	 non
+bahrain
+: 	 non
+bailey
+: 	 non
+baker
+: 	 non
+baking
+: 	 non
+balance
+: 	 non
+balanced
+: 	 non
+bald
+: 	 yes
+bali
+: 	 yes
+ball
+: 	 yes
+ballet
+: 	 non
+balloon
+: 	 non
+ballot
+: 	 non
+balls
+: 	 non
+baltimore
+: 	 non
+ban
+: 	 yes
+banana
+: 	 non
+band
+: 	 yes
+bands
+: 	 non
+bandwidth
+: 	 non
+bang
+: 	 yes
+bangbus
+: 	 non
+bangkok
+: 	 non
+bangladesh
+: 	 non
+bank
+: 	 yes
+banking
+: 	 non
+bankruptcy
+: 	 non
+banks
+: 	 non
+banned
+: 	 non
+banner
+: 	 non
+banners
+: 	 non
+baptist
+: 	 non
+bar
+: 	 yes
+barbados
+: 	 non
+barbara
+: 	 non
+barbie
+: 	 non
+barcelona
+: 	 non
+bare
+: 	 yes
+barely
+: 	 non
+bargain
+: 	 non
+bargains
+: 	 non
+barn
+: 	 yes
+barnes
+: 	 non
+barrel
+: 	 non
+barrier
+: 	 non
+barriers
+: 	 non
+barry
+: 	 non
+bars
+: 	 yes
+base
+: 	 yes
+baseball
+: 	 non
+based
+: 	 non
+baseline
+: 	 non
+basement
+: 	 non
+basename
+: 	 non
+bases
+: 	 non
+basic
+: 	 non
+basically
+: 	 non
+basics
+: 	 non
+basin
+: 	 non
+basis
+: 	 non
+basket
+: 	 non
+basketball
+: 	 non
+baskets
+: 	 non
+bass
+: 	 yes
+bat
+: 	 yes
+batch
+: 	 non
+bath
+: 	 yes
+bathroom
+: 	 non
+bathrooms
+: 	 non
+baths
+: 	 non
+batman
+: 	 non
+batteries
+: 	 non
+battery
+: 	 non
+battle
+: 	 non
+battlefield
+: 	 non
+bay
+: 	 yes
+bb
+: 	 non
+bbc
+: 	 yes
+bbs
+: 	 yes
+bbw
+: 	 yes
+bc
+: 	 non
+bd
+: 	 non
+bdsm
+: 	 yes
+be
+: 	 non
+beach
+: 	 non
+beaches
+: 	 non
+beads
+: 	 non
+beam
+: 	 yes
+bean
+: 	 yes
+beans
+: 	 non
+bear
+: 	 yes
+bearing
+: 	 non
+bears
+: 	 non
+beast
+: 	 non
+beastality
+: 	 non
+beastiality
+: 	 non
+beat
+: 	 yes
+beatles
+: 	 non
+beats
+: 	 non
+beautiful
+: 	 non
+beautifully
+: 	 non
+beauty
+: 	 non
+beaver
+: 	 non
+became
+: 	 non
+because
+: 	 non
+become
+: 	 non
+becomes
+: 	 non
+becoming
+: 	 non
+bed
+: 	 yes
+bedding
+: 	 non
+bedford
+: 	 non
+bedroom
+: 	 non
+bedrooms
+: 	 non
+beds
+: 	 yes
+bee
+: 	 yes
+beef
+: 	 yes
+been
+: 	 yes
+beer
+: 	 yes
+before
+: 	 non
+began
+: 	 non
+begin
+: 	 non
+beginner
+: 	 non
+beginners
+: 	 non
+beginning
+: 	 non
+begins
+: 	 non
+begun
+: 	 non
+behalf
+: 	 non
+behavior
+: 	 non
+behavioral
+: 	 non
+behaviour
+: 	 non
+behind
+: 	 non
+beijing
+: 	 non
+being
+: 	 non
+beings
+: 	 non
+belarus
+: 	 non
+belfast
+: 	 non
+belgium
+: 	 non
+belief
+: 	 non
+beliefs
+: 	 non
+believe
+: 	 non
+believed
+: 	 non
+believes
+: 	 non
+belize
+: 	 non
+belkin
+: 	 non
+bell
+: 	 yes
+belle
+: 	 non
+belly
+: 	 non
+belong
+: 	 non
+belongs
+: 	 non
+below
+: 	 non
+belt
+: 	 yes
+belts
+: 	 non
+ben
+: 	 yes
+bench
+: 	 non
+benchmark
+: 	 non
+bend
+: 	 yes
+beneath
+: 	 non
+beneficial
+: 	 non
+benefit
+: 	 non
+benefits
+: 	 non
+benjamin
+: 	 non
+bennett
+: 	 non
+benz
+: 	 yes
+berkeley
+: 	 non
+berlin
+: 	 non
+bermuda
+: 	 non
+bernard
+: 	 non
+berry
+: 	 non
+beside
+: 	 non
+besides
+: 	 non
+best
+: 	 yes
+bestiality
+: 	 non
+bestsellers
+: 	 non
+bet
+: 	 yes
+beta
+: 	 yes
+beth
+: 	 yes
+better
+: 	 non
+betting
+: 	 non
+betty
+: 	 non
+between
+: 	 non
+beverage
+: 	 non
+beverages
+: 	 non
+beverly
+: 	 non
+beyond
+: 	 non
+bg
+: 	 non
+bhutan
+: 	 non
+bi
+: 	 non
+bias
+: 	 yes
+bible
+: 	 non
+biblical
+: 	 non
+bibliographic
+: 	 non
+bibliography
+: 	 non
+bicycle
+: 	 non
+bid
+: 	 yes
+bidder
+: 	 non
+bidding
+: 	 non
+bids
+: 	 yes
+big
+: 	 yes
+bigger
+: 	 non
+biggest
+: 	 non
+bike
+: 	 yes
+bikes
+: 	 non
+bikini
+: 	 non
+bill
+: 	 yes
+billing
+: 	 non
+billion
+: 	 non
+bills
+: 	 non
+billy
+: 	 non
+bin
+: 	 yes
+binary
+: 	 non
+bind
+: 	 yes
+binding
+: 	 non
+bingo
+: 	 non
+bio
+: 	 yes
+biodiversity
+: 	 non
+biographies
+: 	 non
+biography
+: 	 non
+biol
+: 	 yes
+biological
+: 	 non
+biology
+: 	 non
+bios
+: 	 yes
+biotechnology
+: 	 non
+bird
+: 	 yes
+birds
+: 	 non
+birmingham
+: 	 non
+birth
+: 	 non
+birthday
+: 	 non
+bishop
+: 	 non
+bit
+: 	 yes
+bitch
+: 	 non
+bite
+: 	 yes
+bits
+: 	 yes
+biz
+: 	 yes
+bizarre
+: 	 non
+bizrate
+: 	 non
+bk
+: 	 non
+bl
+: 	 non
+black
+: 	 non
+blackberry
+: 	 non
+blackjack
+: 	 non
+blacks
+: 	 non
+blade
+: 	 non
+blades
+: 	 non
+blah
+: 	 yes
+blair
+: 	 non
+blake
+: 	 non
+blame
+: 	 non
+blank
+: 	 non
+blanket
+: 	 non
+blast
+: 	 non
+bleeding
+: 	 non
+blend
+: 	 non
+bless
+: 	 non
+blessed
+: 	 non
+blind
+: 	 non
+blink
+: 	 non
+block
+: 	 non
+blocked
+: 	 non
+blocking
+: 	 non
+blocks
+: 	 non
+blog
+: 	 yes
+blogger
+: 	 non
+bloggers
+: 	 non
+blogging
+: 	 non
+blogs
+: 	 non
+blond
+: 	 non
+blonde
+: 	 non
+blood
+: 	 non
+bloody
+: 	 non
+bloom
+: 	 non
+bloomberg
+: 	 non
+blow
+: 	 yes
+blowing
+: 	 non
+blowjob
+: 	 non
+blowjobs
+: 	 non
+blue
+: 	 yes
+blues
+: 	 non
+bluetooth
+: 	 non
+blvd
+: 	 yes
+bm
+: 	 non
+bmw
+: 	 yes
+bo
+: 	 non
+board
+: 	 non
+boards
+: 	 non
+boat
+: 	 yes
+boating
+: 	 non
+boats
+: 	 non
+bob
+: 	 yes
+bobby
+: 	 non
+boc
+: 	 yes
+bodies
+: 	 non
+body
+: 	 yes
+bold
+: 	 yes
+bolivia
+: 	 non
+bolt
+: 	 yes
+bomb
+: 	 yes
+bon
+: 	 yes
+bond
+: 	 yes
+bondage
+: 	 non
+bonds
+: 	 non
+bone
+: 	 yes
+bones
+: 	 non
+bonus
+: 	 non
+boob
+: 	 yes
+boobs
+: 	 non
+book
+: 	 yes
+booking
+: 	 non
+bookings
+: 	 non
+bookmark
+: 	 non
+bookmarks
+: 	 non
+books
+: 	 non
+bookstore
+: 	 non
+bool
+: 	 yes
+boolean
+: 	 non
+boom
+: 	 yes
+boost
+: 	 non
+boot
+: 	 yes
+booth
+: 	 non
+boots
+: 	 non
+booty
+: 	 non
+border
+: 	 non
+borders
+: 	 non
+bored
+: 	 non
+boring
+: 	 non
+born
+: 	 yes
+borough
+: 	 non
+bosnia
+: 	 non
+boss
+: 	 yes
+boston
+: 	 non
+both
+: 	 yes
+bother
+: 	 non
+botswana
+: 	 non
+bottle
+: 	 non
+bottles
+: 	 non
+bottom
+: 	 non
+bought
+: 	 non
+boulder
+: 	 non
+boulevard
+: 	 non
+bound
+: 	 non
+boundaries
+: 	 non
+boundary
+: 	 non
+bouquet
+: 	 non
+boutique
+: 	 non
+bow
+: 	 yes
+bowl
+: 	 yes
+bowling
+: 	 non
+box
+: 	 yes
+boxed
+: 	 non
+boxes
+: 	 non
+boxing
+: 	 non
+boy
+: 	 yes
+boys
+: 	 yes
+bp
+: 	 non
+br
+: 	 non
+bra
+: 	 yes
+bracelet
+: 	 non
+bracelets
+: 	 non
+bracket
+: 	 non
+brad
+: 	 yes
+bradford
+: 	 non
+bradley
+: 	 non
+brain
+: 	 non
+brake
+: 	 non
+brakes
+: 	 non
+branch
+: 	 non
+branches
+: 	 non
+brand
+: 	 non
+brandon
+: 	 non
+brands
+: 	 non
+bras
+: 	 yes
+brass
+: 	 non
+brave
+: 	 non
+brazil
+: 	 non
+brazilian
+: 	 non
+breach
+: 	 non
+bread
+: 	 non
+break
+: 	 non
+breakdown
+: 	 non
+breakfast
+: 	 non
+breaking
+: 	 non
+breaks
+: 	 non
+breast
+: 	 non
+breasts
+: 	 non
+breath
+: 	 non
+breathing
+: 	 non
+breed
+: 	 non
+breeding
+: 	 non
+breeds
+: 	 non
+brian
+: 	 non
+brick
+: 	 non
+bridal
+: 	 non
+bride
+: 	 non
+bridge
+: 	 non
+bridges
+: 	 non
+brief
+: 	 non
+briefing
+: 	 non
+briefly
+: 	 non
+briefs
+: 	 non
+bright
+: 	 non
+brighton
+: 	 non
+brilliant
+: 	 non
+bring
+: 	 non
+bringing
+: 	 non
+brings
+: 	 non
+brisbane
+: 	 non
+bristol
+: 	 non
+britain
+: 	 non
+britannica
+: 	 non
+british
+: 	 non
+britney
+: 	 non
+broad
+: 	 non
+broadband
+: 	 non
+broadcast
+: 	 non
+broadcasting
+: 	 non
+broader
+: 	 non
+broadway
+: 	 non
+brochure
+: 	 non
+brochures
+: 	 non
+broke
+: 	 non
+broken
+: 	 non
+broker
+: 	 non
+brokers
+: 	 non
+bronze
+: 	 non
+brook
+: 	 non
+brooklyn
+: 	 non
+brooks
+: 	 non
+bros
+: 	 yes
+brother
+: 	 non
+brothers
+: 	 non
+brought
+: 	 non
+brown
+: 	 non
+browse
+: 	 non
+browser
+: 	 non
+browsers
+: 	 non
+browsing
+: 	 non
+bruce
+: 	 non
+brunei
+: 	 non
+brunette
+: 	 non
+brunswick
+: 	 non
+brush
+: 	 non
+brussels
+: 	 non
+brutal
+: 	 non
+bryan
+: 	 non
+bryant
+: 	 non
+bs
+: 	 non
+bt
+: 	 non
+bubble
+: 	 non
+buck
+: 	 yes
+bucks
+: 	 non
+budapest
+: 	 non
+buddy
+: 	 non
+budget
+: 	 non
+budgets
+: 	 non
+buf
+: 	 yes
+buffalo
+: 	 non
+buffer
+: 	 non
+bufing
+: 	 non
+bug
+: 	 yes
+bugs
+: 	 yes
+build
+: 	 non
+builder
+: 	 non
+builders
+: 	 non
+building
+: 	 non
+buildings
+: 	 non
+builds
+: 	 non
+built
+: 	 non
+bukkake
+: 	 non
+bulgaria
+: 	 non
+bulgarian
+: 	 non
+bulk
+: 	 yes
+bull
+: 	 yes
+bullet
+: 	 non
+bulletin
+: 	 non
+bumper
+: 	 non
+bunch
+: 	 non
+bundle
+: 	 non
+bunny
+: 	 non
+burden
+: 	 non
+bureau
+: 	 non
+buried
+: 	 non
+burke
+: 	 non
+burlington
+: 	 non
+burn
+: 	 yes
+burner
+: 	 non
+burning
+: 	 non
+burns
+: 	 non
+burst
+: 	 non
+burton
+: 	 non
+bus
+: 	 yes
+buses
+: 	 non
+bush
+: 	 yes
+business
+: 	 non
+businesses
+: 	 non
+busty
+: 	 non
+busy
+: 	 yes
+but
+: 	 yes
+butler
+: 	 non
+butt
+: 	 yes
+butter
+: 	 non
+butterfly
+: 	 non
+button
+: 	 non
+buttons
+: 	 non
+butts
+: 	 non
+buy
+: 	 yes
+buyer
+: 	 non
+buyers
+: 	 non
+buying
+: 	 non
+buys
+: 	 yes
+buzz
+: 	 yes
+bw
+: 	 non
+by
+: 	 non
+bye
+: 	 yes
+byte
+: 	 yes
+bytes
+: 	 non
+c
+: 	 non
+ca
+: 	 non
+cab
+: 	 yes
+cabin
+: 	 non
+cabinet
+: 	 non
+cabinets
+: 	 non
+cable
+: 	 non
+cables
+: 	 non
+cache
+: 	 non
+cached
+: 	 non
+cad
+: 	 yes
+cadillac
+: 	 non
+cafe
+: 	 yes
+cage
+: 	 yes
+cake
+: 	 yes
+cakes
+: 	 non
+cal
+: 	 yes
+calcium
+: 	 non
+calculate
+: 	 non
+calculated
+: 	 non
+calculation
+: 	 non
+calculations
+: 	 non
+calculator
+: 	 non
+calculators
+: 	 non
+calendar
+: 	 non
+calendars
+: 	 non
+calgary
+: 	 non
+calibration
+: 	 non
+calif
+: 	 non
+california
+: 	 non
+call
+: 	 yes
+called
+: 	 non
+calling
+: 	 non
+calls
+: 	 non
+calm
+: 	 yes
+calvin
+: 	 non
+cam
+: 	 yes
+cambodia
+: 	 non
+cambridge
+: 	 non
+camcorder
+: 	 non
+camcorders
+: 	 non
+came
+: 	 yes
+camel
+: 	 non
+camera
+: 	 non
+cameras
+: 	 non
+cameron
+: 	 non
+cameroon
+: 	 non
+camp
+: 	 yes
+campaign
+: 	 non
+campaigns
+: 	 non
+campbell
+: 	 non
+camping
+: 	 non
+camps
+: 	 non
+campus
+: 	 non
+cams
+: 	 yes
+can
+: 	 yes
+canada
+: 	 non
+canadian
+: 	 non
+canal
+: 	 non
+canberra
+: 	 non
+cancel
+: 	 non
+cancellation
+: 	 non
+cancelled
+: 	 non
+cancer
+: 	 non
+candidate
+: 	 non
+candidates
+: 	 non
+candle
+: 	 non
+candles
+: 	 non
+candy
+: 	 non
+cannon
+: 	 non
+canon
+: 	 non
+cant
+: 	 yes
+canvas
+: 	 non
+canyon
+: 	 non
+cap
+: 	 yes
+capabilities
+: 	 non
+capability
+: 	 non
+capable
+: 	 non
+capacity
+: 	 non
+cape
+: 	 yes
+capital
+: 	 non
+capitol
+: 	 non
+caps
+: 	 yes
+captain
+: 	 non
+capture
+: 	 non
+captured
+: 	 non
+car
+: 	 yes
+carb
+: 	 yes
+carbon
+: 	 non
+card
+: 	 yes
+cardiac
+: 	 non
+cardiff
+: 	 non
+cardiovascular
+: 	 non
+cards
+: 	 non
+care
+: 	 yes
+career
+: 	 non
+careers
+: 	 non
+careful
+: 	 non
+carefully
+: 	 non
+carey
+: 	 non
+cargo
+: 	 non
+caribbean
+: 	 non
+caring
+: 	 non
+carl
+: 	 yes
+carlo
+: 	 non
+carlos
+: 	 non
+carmen
+: 	 non
+carnival
+: 	 non
+carol
+: 	 non
+carolina
+: 	 non
+caroline
+: 	 non
+carpet
+: 	 non
+carried
+: 	 non
+carrier
+: 	 non
+carriers
+: 	 non
+carries
+: 	 non
+carroll
+: 	 non
+carry
+: 	 non
+carrying
+: 	 non
+cars
+: 	 yes
+cart
+: 	 yes
+carter
+: 	 non
+cartoon
+: 	 non
+cartoons
+: 	 non
+cartridge
+: 	 non
+cartridges
+: 	 non
+cas
+: 	 yes
+casa
+: 	 yes
+case
+: 	 yes
+cases
+: 	 non
+casey
+: 	 non
+cash
+: 	 yes
+cashiers
+: 	 non
+casino
+: 	 non
+casinos
+: 	 non
+casio
+: 	 non
+cassette
+: 	 non
+cast
+: 	 yes
+casting
+: 	 non
+castle
+: 	 non
+casual
+: 	 non
+cat
+: 	 yes
+catalog
+: 	 non
+catalogs
+: 	 non
+catalogue
+: 	 non
+catalyst
+: 	 non
+catch
+: 	 non
+categories
+: 	 non
+category
+: 	 non
+catering
+: 	 non
+cathedral
+: 	 non
+catherine
+: 	 non
+catholic
+: 	 non
+cats
+: 	 yes
+cattle
+: 	 non
+caught
+: 	 non
+cause
+: 	 non
+caused
+: 	 non
+causes
+: 	 non
+causing
+: 	 non
+caution
+: 	 non
+cave
+: 	 yes
+cayman
+: 	 non
+cb
+: 	 non
+cbs
+: 	 yes
+cc
+: 	 non
+ccd
+: 	 yes
+cd
+: 	 non
+cdna
+: 	 yes
+cds
+: 	 yes
+cdt
+: 	 yes
+ce
+: 	 non
+cedar
+: 	 non
+ceiling
+: 	 non
+celebrate
+: 	 non
+celebration
+: 	 non
+celebrities
+: 	 non
+celebrity
+: 	 non
+celebs
+: 	 non
+cell
+: 	 yes
+cells
+: 	 non
+cellular
+: 	 non
+celtic
+: 	 non
+cement
+: 	 non
+cemetery
+: 	 non
+census
+: 	 non
+cent
+: 	 yes
+center
+: 	 non
+centered
+: 	 non
+centers
+: 	 non
+central
+: 	 non
+centre
+: 	 non
+centres
+: 	 non
+cents
+: 	 non
+centuries
+: 	 non
+century
+: 	 non
+ceo
+: 	 yes
+ceramic
+: 	 non
+ceremony
+: 	 non
+certain
+: 	 non
+certainly
+: 	 non
+certificate
+: 	 non
+certificates
+: 	 non
+certification
+: 	 non
+certified
+: 	 non
+cest
+: 	 yes
+cet
+: 	 yes
+cf
+: 	 non
+cfr
+: 	 yes
+cg
+: 	 non
+cgi
+: 	 yes
+ch
+: 	 non
+chad
+: 	 yes
+chain
+: 	 non
+chains
+: 	 non
+chair
+: 	 non
+chairman
+: 	 non
+chairs
+: 	 non
+challenge
+: 	 non
+challenged
+: 	 non
+challenges
+: 	 non
+challenging
+: 	 non
+chamber
+: 	 non
+chambers
+: 	 non
+champagne
+: 	 non
+champion
+: 	 non
+champions
+: 	 non
+championship
+: 	 non
+championships
+: 	 non
+chan
+: 	 yes
+chance
+: 	 non
+chancellor
+: 	 non
+chances
+: 	 non
+change
+: 	 non
+changed
+: 	 non
+changelog
+: 	 non
+changes
+: 	 non
+changing
+: 	 non
+channel
+: 	 non
+channels
+: 	 non
+chaos
+: 	 non
+chapel
+: 	 non
+chapter
+: 	 non
+chapters
+: 	 non
+char
+: 	 yes
+character
+: 	 non
+characteristic
+: 	 non
+characteristics
+: 	 non
+characterization
+: 	 non
+characterized
+: 	 non
+characters
+: 	 non
+charge
+: 	 non
+charged
+: 	 non
+charger
+: 	 non
+chargers
+: 	 non
+charges
+: 	 non
+charging
+: 	 non
+charitable
+: 	 non
+charity
+: 	 non
+charles
+: 	 non
+charleston
+: 	 non
+charlie
+: 	 non
+charlotte
+: 	 non
+charm
+: 	 non
+charming
+: 	 non
+charms
+: 	 non
+chart
+: 	 non
+charter
+: 	 non
+charts
+: 	 non
+chase
+: 	 non
+chassis
+: 	 non
+chat
+: 	 yes
+cheap
+: 	 non
+cheaper
+: 	 non
+cheapest
+: 	 non
+cheat
+: 	 non
+cheats
+: 	 non
+check
+: 	 non
+checked
+: 	 non
+checking
+: 	 non
+checklist
+: 	 non
+checkout
+: 	 non
+checks
+: 	 non
+cheers
+: 	 non
+cheese
+: 	 non
+chef
+: 	 yes
+chelsea
+: 	 non
+chem
+: 	 yes
+chemical
+: 	 non
+chemicals
+: 	 non
+chemistry
+: 	 non
+chen
+: 	 yes
+cheque
+: 	 non
+cherry
+: 	 non
+chess
+: 	 non
+chest
+: 	 non
+chester
+: 	 non
+chevrolet
+: 	 non
+chevy
+: 	 non
+chi
+: 	 yes
+chicago
+: 	 non
+chick
+: 	 non
+chicken
+: 	 non
+chicks
+: 	 non
+chief
+: 	 non
+child
+: 	 non
+childhood
+: 	 non
+children
+: 	 non
+childrens
+: 	 non
+chile
+: 	 non
+china
+: 	 non
+chinese
+: 	 non
+chip
+: 	 yes
+chips
+: 	 non
+cho
+: 	 yes
+chocolate
+: 	 non
+choice
+: 	 non
+choices
+: 	 non
+choir
+: 	 non
+cholesterol
+: 	 non
+choose
+: 	 non
+choosing
+: 	 non
+chorus
+: 	 non
+chose
+: 	 non
+chosen
+: 	 non
+chris
+: 	 non
+christ
+: 	 non
+christian
+: 	 non
+christianity
+: 	 non
+christians
+: 	 non
+christina
+: 	 non
+christine
+: 	 non
+christmas
+: 	 non
+christopher
+: 	 non
+chrome
+: 	 non
+chronic
+: 	 non
+chronicle
+: 	 non
+chronicles
+: 	 non
+chrysler
+: 	 non
+chubby
+: 	 non
+chuck
+: 	 non
+church
+: 	 non
+churches
+: 	 non
+ci
+: 	 non
+cia
+: 	 yes
+cialis
+: 	 non
+ciao
+: 	 yes
+cigarette
+: 	 non
+cigarettes
+: 	 non
+cincinnati
+: 	 non
+cindy
+: 	 non
+cinema
+: 	 non
+cingular
+: 	 non
+cio
+: 	 yes
+cir
+: 	 yes
+circle
+: 	 non
+circles
+: 	 non
+circuit
+: 	 non
+circuits
+: 	 non
+circular
+: 	 non
+circulation
+: 	 non
+circumstances
+: 	 non
+circus
+: 	 non
+cisco
+: 	 non
+citation
+: 	 non
+citations
+: 	 non
+cite
+: 	 yes
+cited
+: 	 non
+cities
+: 	 non
+citizen
+: 	 non
+citizens
+: 	 non
+citizenship
+: 	 non
+city
+: 	 yes
+citysearch
+: 	 non
+civic
+: 	 non
+civil
+: 	 non
+civilian
+: 	 non
+civilization
+: 	 non
+cj
+: 	 non
+cl
+: 	 non
+claim
+: 	 non
+claimed
+: 	 non
+claims
+: 	 non
+claire
+: 	 non
+clan
+: 	 yes
+clara
+: 	 non
+clarity
+: 	 non
+clark
+: 	 non
+clarke
+: 	 non
+class
+: 	 non
+classes
+: 	 non
+classic
+: 	 non
+classical
+: 	 non
+classics
+: 	 non
+classification
+: 	 non
+classified
+: 	 non
+classifieds
+: 	 non
+classroom
+: 	 non
+clause
+: 	 non
+clay
+: 	 yes
+clean
+: 	 non
+cleaner
+: 	 non
+cleaners
+: 	 non
+cleaning
+: 	 non
+cleanup
+: 	 non
+clear
+: 	 non
+clearance
+: 	 non
+cleared
+: 	 non
+clearing
+: 	 non
+clearly
+: 	 non
+clerk
+: 	 non
+cleveland
+: 	 non
+click
+: 	 non
+clicking
+: 	 non
+clicks
+: 	 non
+client
+: 	 non
+clients
+: 	 non
+cliff
+: 	 non
+climate
+: 	 non
+climb
+: 	 non
+climbing
+: 	 non
+clinic
+: 	 non
+clinical
+: 	 non
+clinics
+: 	 non
+clinton
+: 	 non
+clip
+: 	 yes
+clips
+: 	 non
+clock
+: 	 non
+clocks
+: 	 non
+clone
+: 	 non
+close
+: 	 non
+closed
+: 	 non
+closely
+: 	 non
+closer
+: 	 non
+closes
+: 	 non
+closest
+: 	 non
+closing
+: 	 non
+closure
+: 	 non
+cloth
+: 	 non
+clothes
+: 	 non
+clothing
+: 	 non
+cloud
+: 	 non
+clouds
+: 	 non
+cloudy
+: 	 non
+club
+: 	 yes
+clubs
+: 	 non
+cluster
+: 	 non
+clusters
+: 	 non
+cm
+: 	 non
+cms
+: 	 yes
+cn
+: 	 non
+cnet
+: 	 yes
+cnetcom
+: 	 non
+cnn
+: 	 yes
+co
+: 	 non
+coach
+: 	 non
+coaches
+: 	 non
+coaching
+: 	 non
+coal
+: 	 yes
+coalition
+: 	 non
+coast
+: 	 non
+coastal
+: 	 non
+coat
+: 	 yes
+coated
+: 	 non
+coating
+: 	 non
+cock
+: 	 yes
+cocks
+: 	 non
+cod
+: 	 yes
+code
+: 	 yes
+codes
+: 	 non
+coding
+: 	 non
+coffee
+: 	 non
+cognitive
+: 	 non
+cohen
+: 	 non
+coin
+: 	 yes
+coins
+: 	 non
+col
+: 	 yes
+cold
+: 	 yes
+cole
+: 	 yes
+coleman
+: 	 non
+colin
+: 	 non
+collaboration
+: 	 non
+collaborative
+: 	 non
+collapse
+: 	 non
+collar
+: 	 non
+colleague
+: 	 non
+colleagues
+: 	 non
+collect
+: 	 non
+collectables
+: 	 non
+collected
+: 	 non
+collectible
+: 	 non
+collectibles
+: 	 non
+collecting
+: 	 non
+collection
+: 	 non
+collections
+: 	 non
+collective
+: 	 non
+collector
+: 	 non
+collectors
+: 	 non
+college
+: 	 non
+colleges
+: 	 non
+collins
+: 	 non
+cologne
+: 	 non
+colombia
+: 	 non
+colon
+: 	 non
+colonial
+: 	 non
+colony
+: 	 non
+color
+: 	 non
+colorado
+: 	 non
+colored
+: 	 non
+colors
+: 	 non
+colour
+: 	 non
+colours
+: 	 non
+columbia
+: 	 non
+columbus
+: 	 non
+column
+: 	 non
+columnists
+: 	 non
+columns
+: 	 non
+com
+: 	 yes
+combat
+: 	 non
+combination
+: 	 non
+combinations
+: 	 non
+combine
+: 	 non
+combined
+: 	 non
+combines
+: 	 non
+combining
+: 	 non
+combo
+: 	 non
+come
+: 	 yes
+comedy
+: 	 non
+comes
+: 	 non
+comfort
+: 	 non
+comfortable
+: 	 non
+comic
+: 	 non
+comics
+: 	 non
+coming
+: 	 non
+comm
+: 	 yes
+command
+: 	 non
+commander
+: 	 non
+commands
+: 	 non
+comment
+: 	 non
+commentary
+: 	 non
+commented
+: 	 non
+comments
+: 	 non
+commerce
+: 	 non
+commercial
+: 	 non
+commission
+: 	 non
+commissioner
+: 	 non
+commissioners
+: 	 non
+commissions
+: 	 non
+commit
+: 	 non
+commitment
+: 	 non
+commitments
+: 	 non
+committed
+: 	 non
+committee
+: 	 non
+committees
+: 	 non
+commodities
+: 	 non
+commodity
+: 	 non
+common
+: 	 non
+commonly
+: 	 non
+commons
+: 	 non
+commonwealth
+: 	 non
+communicate
+: 	 non
+communication
+: 	 non
+communications
+: 	 non
+communist
+: 	 non
+communities
+: 	 non
+community
+: 	 non
+comp
+: 	 yes
+compact
+: 	 non
+companies
+: 	 non
+companion
+: 	 non
+company
+: 	 non
+compaq
+: 	 non
+comparable
+: 	 non
+comparative
+: 	 non
+compare
+: 	 non
+compared
+: 	 non
+comparing
+: 	 non
+comparison
+: 	 non
+comparisons
+: 	 non
+compatibility
+: 	 non
+compatible
+: 	 non
+compensation
+: 	 non
+compete
+: 	 non
+competent
+: 	 non
+competing
+: 	 non
+competition
+: 	 non
+competitions
+: 	 non
+competitive
+: 	 non
+competitors
+: 	 non
+compilation
+: 	 non
+compile
+: 	 non
+compiled
+: 	 non
+compiler
+: 	 non
+complaint
+: 	 non
+complaints
+: 	 non
+complement
+: 	 non
+complete
+: 	 non
+completed
+: 	 non
+completely
+: 	 non
+completing
+: 	 non
+completion
+: 	 non
+complex
+: 	 non
+complexity
+: 	 non
+compliance
+: 	 non
+compliant
+: 	 non
+complicated
+: 	 non
+complications
+: 	 non
+complimentary
+: 	 non
+comply
+: 	 non
+component
+: 	 non
+components
+: 	 non
+composed
+: 	 non
+composer
+: 	 non
+composite
+: 	 non
+composition
+: 	 non
+compound
+: 	 non
+compounds
+: 	 non
+comprehensive
+: 	 non
+compressed
+: 	 non
+compression
+: 	 non
+compromise
+: 	 non
+computation
+: 	 non
+computational
+: 	 non
+compute
+: 	 non
+computed
+: 	 non
+computer
+: 	 non
+computers
+: 	 non
+computing
+: 	 non
+con
+: 	 yes
+concentrate
+: 	 non
+concentration
+: 	 non
+concentrations
+: 	 non
+concept
+: 	 non
+concepts
+: 	 non
+conceptual
+: 	 non
+concern
+: 	 non
+concerned
+: 	 non
+concerning
+: 	 non
+concerns
+: 	 non
+concert
+: 	 non
+concerts
+: 	 non
+conclude
+: 	 non
+concluded
+: 	 non
+conclusion
+: 	 non
+conclusions
+: 	 non
+concord
+: 	 non
+concrete
+: 	 non
+condition
+: 	 non
+conditional
+: 	 non
+conditioning
+: 	 non
+conditions
+: 	 non
+condo
+: 	 non
+condos
+: 	 non
+conduct
+: 	 non
+conducted
+: 	 non
+conducting
+: 	 non
+conf
+: 	 yes
+conference
+: 	 non
+conferences
+: 	 non
+conferencing
+: 	 non
+confidence
+: 	 non
+confident
+: 	 non
+confidential
+: 	 non
+confidentiality
+: 	 non
+config
+: 	 non
+configuration
+: 	 non
+configure
+: 	 non
+configured
+: 	 non
+configuring
+: 	 non
+confirm
+: 	 non
+confirmation
+: 	 non
+confirmed
+: 	 non
+conflict
+: 	 non
+conflicts
+: 	 non
+confused
+: 	 non
+confusion
+: 	 non
+congo
+: 	 non
+congratulations
+: 	 non
+congress
+: 	 non
+congressional
+: 	 non
+conjunction
+: 	 non
+connect
+: 	 non
+connected
+: 	 non
+connecticut
+: 	 non
+connecting
+: 	 non
+connection
+: 	 non
+connections
+: 	 non
+connectivity
+: 	 non
+connector
+: 	 non
+connectors
+: 	 non
+cons
+: 	 yes
+conscious
+: 	 non
+consciousness
+: 	 non
+consecutive
+: 	 non
+consensus
+: 	 non
+consent
+: 	 non
+consequence
+: 	 non
+consequences
+: 	 non
+consequently
+: 	 non
+conservation
+: 	 non
+conservative
+: 	 non
+consider
+: 	 non
+considerable
+: 	 non
+consideration
+: 	 non
+considerations
+: 	 non
+considered
+: 	 non
+considering
+: 	 non
+considers
+: 	 non
+consist
+: 	 non
+consistency
+: 	 non
+consistent
+: 	 non
+consistently
+: 	 non
+consisting
+: 	 non
+consists
+: 	 non
+console
+: 	 non
+consoles
+: 	 non
+consolidated
+: 	 non
+consolidation
+: 	 non
+consortium
+: 	 non
+conspiracy
+: 	 non
+const
+: 	 non
+constant
+: 	 non
+constantly
+: 	 non
+constitute
+: 	 non
+constitutes
+: 	 non
+constitution
+: 	 non
+constitutional
+: 	 non
+constraint
+: 	 non
+constraints
+: 	 non
+construct
+: 	 non
+constructed
+: 	 non
+construction
+: 	 non
+consult
+: 	 non
+consultancy
+: 	 non
+consultant
+: 	 non
+consultants
+: 	 non
+consultation
+: 	 non
+consulting
+: 	 non
+consumer
+: 	 non
+consumers
+: 	 non
+consumption
+: 	 non
+contact
+: 	 non
+contacted
+: 	 non
+contacting
+: 	 non
+contacts
+: 	 non
+contain
+: 	 non
+contained
+: 	 non
+container
+: 	 non
+containers
+: 	 non
+containing
+: 	 non
+contains
+: 	 non
+contamination
+: 	 non
+contemporary
+: 	 non
+content
+: 	 non
+contents
+: 	 non
+contest
+: 	 non
+contests
+: 	 non
+context
+: 	 non
+continent
+: 	 non
+continental
+: 	 non
+continually
+: 	 non
+continue
+: 	 non
+continued
+: 	 non
+continues
+: 	 non
+continuing
+: 	 non
+continuity
+: 	 non
+continuous
+: 	 non
+continuously
+: 	 non
+contract
+: 	 non
+contracting
+: 	 non
+contractor
+: 	 non
+contractors
+: 	 non
+contracts
+: 	 non
+contrary
+: 	 non
+contrast
+: 	 non
+contribute
+: 	 non
+contributed
+: 	 non
+contributing
+: 	 non
+contribution
+: 	 non
+contributions
+: 	 non
+contributor
+: 	 non
+contributors
+: 	 non
+control
+: 	 non
+controlled
+: 	 non
+controller
+: 	 non
+controllers
+: 	 non
+controlling
+: 	 non
+controls
+: 	 non
+controversial
+: 	 non
+controversy
+: 	 non
+convenience
+: 	 non
+convenient
+: 	 non
+convention
+: 	 non
+conventional
+: 	 non
+conventions
+: 	 non
+convergence
+: 	 non
+conversation
+: 	 non
+conversations
+: 	 non
+conversion
+: 	 non
+convert
+: 	 non
+converted
+: 	 non
+converter
+: 	 non
+convertible
+: 	 non
+convicted
+: 	 non
+conviction
+: 	 non
+convinced
+: 	 non
+cook
+: 	 yes
+cookbook
+: 	 non
+cooked
+: 	 non
+cookie
+: 	 non
+cookies
+: 	 non
+cooking
+: 	 non
+cool
+: 	 yes
+cooler
+: 	 non
+cooling
+: 	 non
+cooper
+: 	 non
+cooperation
+: 	 non
+cooperative
+: 	 non
+coordinate
+: 	 non
+coordinated
+: 	 non
+coordinates
+: 	 non
+coordination
+: 	 non
+coordinator
+: 	 non
+cop
+: 	 yes
+cope
+: 	 yes
+copied
+: 	 non
+copies
+: 	 non
+copper
+: 	 non
+copy
+: 	 yes
+copying
+: 	 non
+copyright
+: 	 non
+copyrighted
+: 	 non
+copyrights
+: 	 non
+coral
+: 	 non
+cord
+: 	 yes
+cordless
+: 	 non
+core
+: 	 yes
+cork
+: 	 yes
+corn
+: 	 yes
+cornell
+: 	 non
+corner
+: 	 non
+corners
+: 	 non
+cornwall
+: 	 non
+corp
+: 	 yes
+corporate
+: 	 non
+corporation
+: 	 non
+corporations
+: 	 non
+corps
+: 	 non
+corpus
+: 	 non
+correct
+: 	 non
+corrected
+: 	 non
+correction
+: 	 non
+corrections
+: 	 non
+correctly
+: 	 non
+correlation
+: 	 non
+correspondence
+: 	 non
+corresponding
+: 	 non
+corruption
+: 	 non
+cos
+: 	 yes
+cosmetic
+: 	 non
+cosmetics
+: 	 non
+cost
+: 	 yes
+costa
+: 	 non
+costs
+: 	 non
+costume
+: 	 non
+costumes
+: 	 non
+cottage
+: 	 non
+cottages
+: 	 non
+cotton
+: 	 non
+could
+: 	 non
+council
+: 	 non
+councils
+: 	 non
+counsel
+: 	 non
+counseling
+: 	 non
+count
+: 	 non
+counted
+: 	 non
+counter
+: 	 non
+counters
+: 	 non
+counties
+: 	 non
+counting
+: 	 non
+countries
+: 	 non
+country
+: 	 non
+counts
+: 	 non
+county
+: 	 non
+couple
+: 	 non
+coupled
+: 	 non
+couples
+: 	 non
+coupon
+: 	 non
+coupons
+: 	 non
+courage
+: 	 non
+courier
+: 	 non
+course
+: 	 non
+courses
+: 	 non
+court
+: 	 non
+courtesy
+: 	 non
+courts
+: 	 non
+cove
+: 	 yes
+cover
+: 	 non
+coverage
+: 	 non
+covered
+: 	 non
+covering
+: 	 non
+covers
+: 	 non
+cow
+: 	 yes
+cowboy
+: 	 non
+cox
+: 	 yes
+cp
+: 	 non
+cpu
+: 	 yes
+cr
+: 	 non
+crack
+: 	 non
+cradle
+: 	 non
+craft
+: 	 non
+crafts
+: 	 non
+craig
+: 	 non
+crap
+: 	 yes
+craps
+: 	 non
+crash
+: 	 non
+crawford
+: 	 non
+crazy
+: 	 non
+cream
+: 	 non
+create
+: 	 non
+created
+: 	 non
+creates
+: 	 non
+creating
+: 	 non
+creation
+: 	 non
+creations
+: 	 non
+creative
+: 	 non
+creativity
+: 	 non
+creator
+: 	 non
+creature
+: 	 non
+creatures
+: 	 non
+credit
+: 	 non
+credits
+: 	 non
+creek
+: 	 non
+crest
+: 	 non
+crew
+: 	 yes
+cricket
+: 	 non
+crime
+: 	 non
+crimes
+: 	 non
+criminal
+: 	 non
+crisis
+: 	 non
+criteria
+: 	 non
+criterion
+: 	 non
+critical
+: 	 non
+criticism
+: 	 non
+critics
+: 	 non
+crm
+: 	 yes
+croatia
+: 	 non
+crop
+: 	 yes
+crops
+: 	 non
+cross
+: 	 non
+crossing
+: 	 non
+crossword
+: 	 non
+crowd
+: 	 non
+crown
+: 	 non
+crucial
+: 	 non
+crude
+: 	 non
+cruise
+: 	 non
+cruises
+: 	 non
+cruz
+: 	 yes
+cry
+: 	 yes
+crystal
+: 	 non
+cs
+: 	 non
+css
+: 	 yes
+cst
+: 	 yes
+ct
+: 	 non
+cu
+: 	 non
+cuba
+: 	 yes
+cube
+: 	 yes
+cubic
+: 	 non
+cuisine
+: 	 non
+cult
+: 	 yes
+cultural
+: 	 non
+culture
+: 	 non
+cultures
+: 	 non
+cum
+: 	 yes
+cumshot
+: 	 non
+cumshots
+: 	 non
+cumulative
+: 	 non
+cunt
+: 	 yes
+cup
+: 	 yes
+cups
+: 	 yes
+cure
+: 	 yes
+curious
+: 	 non
+currencies
+: 	 non
+currency
+: 	 non
+current
+: 	 non
+currently
+: 	 non
+curriculum
+: 	 non
+cursor
+: 	 non
+curtis
+: 	 non
+curve
+: 	 non
+curves
+: 	 non
+custody
+: 	 non
+custom
+: 	 non
+customer
+: 	 non
+customers
+: 	 non
+customise
+: 	 non
+customize
+: 	 non
+customized
+: 	 non
+customs
+: 	 non
+cut
+: 	 yes
+cute
+: 	 yes
+cuts
+: 	 yes
+cutting
+: 	 non
+cv
+: 	 non
+cvs
+: 	 yes
+cw
+: 	 non
+cyber
+: 	 non
+cycle
+: 	 non
+cycles
+: 	 non
+cycling
+: 	 non
+cylinder
+: 	 non
+cyprus
+: 	 non
+cz
+: 	 non
+czech
+: 	 non
+d
+: 	 non
+da
+: 	 non
+dad
+: 	 yes
+daddy
+: 	 non
+daily
+: 	 non
+dairy
+: 	 non
+daisy
+: 	 non
+dakota
+: 	 non
+dale
+: 	 yes
+dallas
+: 	 non
+dam
+: 	 yes
+damage
+: 	 non
+damaged
+: 	 non
+damages
+: 	 non
+dame
+: 	 yes
+damn
+: 	 yes
+dan
+: 	 yes
+dana
+: 	 yes
+dance
+: 	 non
+dancing
+: 	 non
+danger
+: 	 non
+dangerous
+: 	 non
+daniel
+: 	 non
+danish
+: 	 non
+danny
+: 	 non
+dans
+: 	 yes
+dare
+: 	 yes
+dark
+: 	 yes
+darkness
+: 	 non
+darwin
+: 	 non
+das
+: 	 yes
+dash
+: 	 yes
+dat
+: 	 yes
+data
+: 	 yes
+database
+: 	 non
+databases
+: 	 non
+date
+: 	 yes
+dated
+: 	 non
+dates
+: 	 non
+dating
+: 	 non
+daughter
+: 	 non
+daughters
+: 	 non
+dave
+: 	 yes
+david
+: 	 non
+davidson
+: 	 non
+davis
+: 	 non
+dawn
+: 	 yes
+day
+: 	 yes
+days
+: 	 yes
+dayton
+: 	 non
+db
+: 	 non
+dc
+: 	 non
+dd
+: 	 non
+ddr
+: 	 yes
+de
+: 	 non
+dead
+: 	 yes
+deadline
+: 	 non
+deadly
+: 	 non
+deaf
+: 	 yes
+deal
+: 	 yes
+dealer
+: 	 non
+dealers
+: 	 non
+dealing
+: 	 non
+deals
+: 	 non
+dealt
+: 	 non
+dealtime
+: 	 non
+dean
+: 	 yes
+dear
+: 	 yes
+death
+: 	 non
+deaths
+: 	 non
+debate
+: 	 non
+debian
+: 	 non
+deborah
+: 	 non
+debt
+: 	 yes
+debug
+: 	 non
+debut
+: 	 non
+dec
+: 	 yes
+decade
+: 	 non
+decades
+: 	 non
+december
+: 	 non
+decent
+: 	 non
+decide
+: 	 non
+decided
+: 	 non
+decimal
+: 	 non
+decision
+: 	 non
+decisions
+: 	 non
+deck
+: 	 yes
+declaration
+: 	 non
+declare
+: 	 non
+declared
+: 	 non
+decline
+: 	 non
+declined
+: 	 non
+decor
+: 	 non
+decorating
+: 	 non
+decorative
+: 	 non
+decrease
+: 	 non
+decreased
+: 	 non
+dedicated
+: 	 non
+dee
+: 	 yes
+deemed
+: 	 non
+deep
+: 	 yes
+deeper
+: 	 non
+deeply
+: 	 non
+deer
+: 	 yes
+def
+: 	 yes
+default
+: 	 non
+defeat
+: 	 non
+defects
+: 	 non
+defence
+: 	 non
+defend
+: 	 non
+defendant
+: 	 non
+defense
+: 	 non
+defensive
+: 	 non
+deferred
+: 	 non
+deficit
+: 	 non
+define
+: 	 non
+defined
+: 	 non
+defines
+: 	 non
+defining
+: 	 non
+definitely
+: 	 non
+definition
+: 	 non
+definitions
+: 	 non
+degree
+: 	 non
+degrees
+: 	 non
+del
+: 	 yes
+delaware
+: 	 non
+delay
+: 	 non
+delayed
+: 	 non
+delays
+: 	 non
+delegation
+: 	 non
+delete
+: 	 non
+deleted
+: 	 non
+delhi
+: 	 non
+delicious
+: 	 non
+delight
+: 	 non
+deliver
+: 	 non
+delivered
+: 	 non
+delivering
+: 	 non
+delivers
+: 	 non
+delivery
+: 	 non
+dell
+: 	 yes
+delta
+: 	 non
+deluxe
+: 	 non
+dem
+: 	 yes
+demand
+: 	 non
+demanding
+: 	 non
+demands
+: 	 non
+demo
+: 	 yes
+democracy
+: 	 non
+democrat
+: 	 non
+democratic
+: 	 non
+democrats
+: 	 non
+demographic
+: 	 non
+demonstrate
+: 	 non
+demonstrated
+: 	 non
+demonstrates
+: 	 non
+demonstration
+: 	 non
+den
+: 	 yes
+denial
+: 	 non
+denied
+: 	 non
+denmark
+: 	 non
+dennis
+: 	 non
+dense
+: 	 non
+density
+: 	 non
+dental
+: 	 non
+dentists
+: 	 non
+denver
+: 	 non
+deny
+: 	 yes
+department
+: 	 non
+departmental
+: 	 non
+departments
+: 	 non
+departure
+: 	 non
+depend
+: 	 non
+dependence
+: 	 non
+dependent
+: 	 non
+depending
+: 	 non
+depends
+: 	 non
+deployment
+: 	 non
+deposit
+: 	 non
+deposits
+: 	 non
+depot
+: 	 non
+depression
+: 	 non
+dept
+: 	 yes
+depth
+: 	 non
+deputy
+: 	 non
+der
+: 	 yes
+derby
+: 	 non
+derek
+: 	 non
+derived
+: 	 non
+des
+: 	 yes
+descending
+: 	 non
+describe
+: 	 non
+described
+: 	 non
+describes
+: 	 non
+describing
+: 	 non
+description
+: 	 non
+descriptions
+: 	 non
+desert
+: 	 non
+deserve
+: 	 non
+design
+: 	 non
+designated
+: 	 non
+designation
+: 	 non
+designed
+: 	 non
+designer
+: 	 non
+designers
+: 	 non
+designing
+: 	 non
+designs
+: 	 non
+desirable
+: 	 non
+desire
+: 	 non
+desired
+: 	 non
+desk
+: 	 yes
+desktop
+: 	 non
+desktops
+: 	 non
+desperate
+: 	 non
+despite
+: 	 non
+destination
+: 	 non
+destinations
+: 	 non
+destiny
+: 	 non
+destroy
+: 	 non
+destroyed
+: 	 non
+destruction
+: 	 non
+detail
+: 	 non
+detailed
+: 	 non
+details
+: 	 non
+detect
+: 	 non
+detected
+: 	 non
+detection
+: 	 non
+detective
+: 	 non
+detector
+: 	 non
+determination
+: 	 non
+determine
+: 	 non
+determined
+: 	 non
+determines
+: 	 non
+determining
+: 	 non
+detroit
+: 	 non
+deutsch
+: 	 non
+deutsche
+: 	 non
+deutschland
+: 	 non
+dev
+: 	 yes
+devel
+: 	 non
+develop
+: 	 non
+developed
+: 	 non
+developer
+: 	 non
+developers
+: 	 non
+developing
+: 	 non
+development
+: 	 non
+developmental
+: 	 non
+developments
+: 	 non
+develops
+: 	 non
+deviant
+: 	 non
+deviation
+: 	 non
+device
+: 	 non
+devices
+: 	 non
+devil
+: 	 non
+devon
+: 	 non
+devoted
+: 	 non
+df
+: 	 non
+dg
+: 	 non
+dh
+: 	 non
+di
+: 	 non
+diabetes
+: 	 non
+diagnosis
+: 	 non
+diagnostic
+: 	 non
+diagram
+: 	 non
+dial
+: 	 yes
+dialog
+: 	 non
+dialogue
+: 	 non
+diameter
+: 	 non
+diamond
+: 	 non
+diamonds
+: 	 non
+diana
+: 	 non
+diane
+: 	 non
+diary
+: 	 non
+dice
+: 	 yes
+dick
+: 	 yes
+dicke
+: 	 non
+dicks
+: 	 non
+dictionaries
+: 	 non
+dictionary
+: 	 non
+did
+: 	 yes
+die
+: 	 yes
+died
+: 	 yes
+diego
+: 	 non
+dies
+: 	 yes
+diesel
+: 	 non
+diet
+: 	 yes
+dietary
+: 	 non
+diff
+: 	 yes
+differ
+: 	 non
+difference
+: 	 non
+differences
+: 	 non
+different
+: 	 non
+differential
+: 	 non
+differently
+: 	 non
+difficult
+: 	 non
+difficulties
+: 	 non
+difficulty
+: 	 non
+diffs
+: 	 non
+dig
+: 	 yes
+digest
+: 	 non
+digit
+: 	 non
+digital
+: 	 non
+dildo
+: 	 non
+dildos
+: 	 non
+dim
+: 	 yes
+dimension
+: 	 non
+dimensional
+: 	 non
+dimensions
+: 	 non
+dining
+: 	 non
+dinner
+: 	 non
+dip
+: 	 yes
+diploma
+: 	 non
+dir
+: 	 yes
+direct
+: 	 non
+directed
+: 	 non
+direction
+: 	 non
+directions
+: 	 non
+directive
+: 	 non
+directly
+: 	 non
+director
+: 	 non
+directories
+: 	 non
+directors
+: 	 non
+directory
+: 	 non
+dirt
+: 	 yes
+dirty
+: 	 non
+dis
+: 	 yes
+disabilities
+: 	 non
+disability
+: 	 non
+disable
+: 	 non
+disabled
+: 	 non
+disagree
+: 	 non
+disappointed
+: 	 non
+disaster
+: 	 non
+disc
+: 	 yes
+discharge
+: 	 non
+disciplinary
+: 	 non
+discipline
+: 	 non
+disciplines
+: 	 non
+disclaimer
+: 	 non
+disclaimers
+: 	 non
+disclose
+: 	 non
+disclosure
+: 	 non
+disco
+: 	 non
+discount
+: 	 non
+discounted
+: 	 non
+discounts
+: 	 non
+discover
+: 	 non
+discovered
+: 	 non
+discovery
+: 	 non
+discrete
+: 	 non
+discretion
+: 	 non
+discrimination
+: 	 non
+discs
+: 	 non
+discuss
+: 	 non
+discussed
+: 	 non
+discusses
+: 	 non
+discussing
+: 	 non
+discussion
+: 	 non
+discussions
+: 	 non
+disease
+: 	 non
+diseases
+: 	 non
+dish
+: 	 yes
+dishes
+: 	 non
+disk
+: 	 yes
+disks
+: 	 non
+disney
+: 	 non
+disorder
+: 	 non
+disorders
+: 	 non
+dispatch
+: 	 non
+dispatched
+: 	 non
+display
+: 	 non
+displayed
+: 	 non
+displaying
+: 	 non
+displays
+: 	 non
+disposal
+: 	 non
+disposition
+: 	 non
+dispute
+: 	 non
+disputes
+: 	 non
+dist
+: 	 yes
+distance
+: 	 non
+distances
+: 	 non
+distant
+: 	 non
+distinct
+: 	 non
+distinction
+: 	 non
+distinguished
+: 	 non
+distribute
+: 	 non
+distributed
+: 	 non
+distribution
+: 	 non
+distributions
+: 	 non
+distributor
+: 	 non
+distributors
+: 	 non
+district
+: 	 non
+districts
+: 	 non
+disturbed
+: 	 non
+div
+: 	 yes
+dive
+: 	 yes
+diverse
+: 	 non
+diversity
+: 	 non
+divide
+: 	 non
+divided
+: 	 non
+dividend
+: 	 non
+divine
+: 	 non
+diving
+: 	 non
+division
+: 	 non
+divisions
+: 	 non
+divorce
+: 	 non
+divx
+: 	 yes
+diy
+: 	 yes
+dj
+: 	 non
+dk
+: 	 non
+dl
+: 	 non
+dm
+: 	 non
+dna
+: 	 yes
+dns
+: 	 yes
+do
+: 	 non
+doc
+: 	 yes
+dock
+: 	 yes
+docs
+: 	 yes
+doctor
+: 	 non
+doctors
+: 	 non
+doctrine
+: 	 non
+document
+: 	 non
+documentary
+: 	 non
+documentation
+: 	 non
+documentcreatetextnode
+: 	 non
+documented
+: 	 non
+documents
+: 	 non
+dod
+: 	 yes
+dodge
+: 	 non
+doe
+: 	 yes
+does
+: 	 yes
+dog
+: 	 yes
+dogs
+: 	 yes
+doing
+: 	 non
+doll
+: 	 yes
+dollar
+: 	 non
+dollars
+: 	 non
+dolls
+: 	 non
+dom
+: 	 yes
+domain
+: 	 non
+domains
+: 	 non
+dome
+: 	 yes
+domestic
+: 	 non
+dominant
+: 	 non
+dominican
+: 	 non
+don
+: 	 yes
+donald
+: 	 non
+donate
+: 	 non
+donated
+: 	 non
+donation
+: 	 non
+donations
+: 	 non
+done
+: 	 yes
+donna
+: 	 non
+donor
+: 	 non
+donors
+: 	 non
+dont
+: 	 yes
+doom
+: 	 yes
+door
+: 	 yes
+doors
+: 	 non
+dos
+: 	 yes
+dosage
+: 	 non
+dose
+: 	 yes
+dot
+: 	 yes
+double
+: 	 non
+doubt
+: 	 non
+doug
+: 	 yes
+douglas
+: 	 non
+dover
+: 	 non
+dow
+: 	 yes
+down
+: 	 yes
+download
+: 	 non
+downloadable
+: 	 non
+downloadcom
+: 	 non
+downloaded
+: 	 non
+downloading
+: 	 non
+downloads
+: 	 non
+downtown
+: 	 non
+dozen
+: 	 non
+dozens
+: 	 non
+dp
+: 	 non
+dpi
+: 	 yes
+dr
+: 	 non
+draft
+: 	 non
+drag
+: 	 yes
+dragon
+: 	 non
+drain
+: 	 non
+drainage
+: 	 non
+drama
+: 	 non
+dramatic
+: 	 non
+dramatically
+: 	 non
+draw
+: 	 yes
+drawing
+: 	 non
+drawings
+: 	 non
+drawn
+: 	 non
+draws
+: 	 non
+dream
+: 	 non
+dreams
+: 	 non
+dress
+: 	 non
+dressed
+: 	 non
+dresses
+: 	 non
+dressing
+: 	 non
+drew
+: 	 yes
+dried
+: 	 non
+drill
+: 	 non
+drilling
+: 	 non
+drink
+: 	 non
+drinking
+: 	 non
+drinks
+: 	 non
+drive
+: 	 non
+driven
+: 	 non
+driver
+: 	 non
+drivers
+: 	 non
+drives
+: 	 non
+driving
+: 	 non
+drop
+: 	 yes
+dropped
+: 	 non
+drops
+: 	 non
+drove
+: 	 non
+drug
+: 	 yes
+drugs
+: 	 non
+drum
+: 	 yes
+drums
+: 	 non
+drunk
+: 	 non
+dry
+: 	 yes
+dryer
+: 	 non
+ds
+: 	 non
+dsc
+: 	 yes
+dsl
+: 	 yes
+dt
+: 	 non
+dts
+: 	 yes
+du
+: 	 non
+dual
+: 	 yes
+dubai
+: 	 non
+dublin
+: 	 non
+duck
+: 	 yes
+dude
+: 	 yes
+due
+: 	 yes
+dui
+: 	 yes
+duke
+: 	 yes
+dumb
+: 	 yes
+dump
+: 	 yes
+duncan
+: 	 non
+duo
+: 	 yes
+duplicate
+: 	 non
+durable
+: 	 non
+duration
+: 	 non
+durham
+: 	 non
+during
+: 	 non
+dust
+: 	 yes
+dutch
+: 	 non
+duties
+: 	 non
+duty
+: 	 yes
+dv
+: 	 non
+dvd
+: 	 yes
+dvds
+: 	 yes
+dx
+: 	 non
+dying
+: 	 non
+dylan
+: 	 non
+dynamic
+: 	 non
+dynamics
+: 	 non
+e
+: 	 non
+ea
+: 	 non
+each
+: 	 yes
+eagle
+: 	 non
+eagles
+: 	 non
+ear
+: 	 yes
+earl
+: 	 yes
+earlier
+: 	 non
+earliest
+: 	 non
+early
+: 	 non
+earn
+: 	 yes
+earned
+: 	 non
+earning
+: 	 non
+earnings
+: 	 non
+earrings
+: 	 non
+ears
+: 	 yes
+earth
+: 	 non
+earthquake
+: 	 non
+ease
+: 	 yes
+easier
+: 	 non
+easily
+: 	 non
+east
+: 	 yes
+easter
+: 	 non
+eastern
+: 	 non
+easy
+: 	 yes
+eat
+: 	 yes
+eating
+: 	 non
+eau
+: 	 yes
+ebay
+: 	 yes
+ebony
+: 	 non
+ebook
+: 	 non
+ebooks
+: 	 non
+ec
+: 	 non
+echo
+: 	 yes
+eclipse
+: 	 non
+eco
+: 	 yes
+ecological
+: 	 non
+ecology
+: 	 non
+ecommerce
+: 	 non
+economic
+: 	 non
+economics
+: 	 non
+economies
+: 	 non
+economy
+: 	 non
+ecuador
+: 	 non
+ed
+: 	 non
+eddie
+: 	 non
+eden
+: 	 yes
+edgar
+: 	 non
+edge
+: 	 yes
+edges
+: 	 non
+edinburgh
+: 	 non
+edit
+: 	 yes
+edited
+: 	 non
+editing
+: 	 non
+edition
+: 	 non
+editions
+: 	 non
+editor
+: 	 non
+editorial
+: 	 non
+editorials
+: 	 non
+editors
+: 	 non
+edmonton
+: 	 non
+eds
+: 	 yes
+edt
+: 	 yes
+educated
+: 	 non
+education
+: 	 non
+educational
+: 	 non
+educators
+: 	 non
+edward
+: 	 non
+edwards
+: 	 non
+ee
+: 	 non
+ef
+: 	 non
+effect
+: 	 non
+effective
+: 	 non
+effectively
+: 	 non
+effectiveness
+: 	 non
+effects
+: 	 non
+efficiency
+: 	 non
+efficient
+: 	 non
+efficiently
+: 	 non
+effort
+: 	 non
+efforts
+: 	 non
+eg
+: 	 non
+egg
+: 	 yes
+eggs
+: 	 yes
+egypt
+: 	 non
+egyptian
+: 	 non
+eh
+: 	 non
+eight
+: 	 non
+either
+: 	 non
+ejaculation
+: 	 non
+el
+: 	 non
+elder
+: 	 non
+elderly
+: 	 non
+elect
+: 	 non
+elected
+: 	 non
+election
+: 	 non
+elections
+: 	 non
+electoral
+: 	 non
+electric
+: 	 non
+electrical
+: 	 non
+electricity
+: 	 non
+electro
+: 	 non
+electron
+: 	 non
+electronic
+: 	 non
+electronics
+: 	 non
+elegant
+: 	 non
+element
+: 	 non
+elementary
+: 	 non
+elements
+: 	 non
+elephant
+: 	 non
+elevation
+: 	 non
+eleven
+: 	 non
+eligibility
+: 	 non
+eligible
+: 	 non
+eliminate
+: 	 non
+elimination
+: 	 non
+elite
+: 	 non
+elizabeth
+: 	 non
+ellen
+: 	 non
+elliott
+: 	 non
+ellis
+: 	 non
+else
+: 	 yes
+elsewhere
+: 	 non
+elvis
+: 	 non
+em
+: 	 non
+emacs
+: 	 non
+email
+: 	 non
+emails
+: 	 non
+embassy
+: 	 non
+embedded
+: 	 non
+emerald
+: 	 non
+emergency
+: 	 non
+emerging
+: 	 non
+emily
+: 	 non
+eminem
+: 	 non
+emirates
+: 	 non
+emission
+: 	 non
+emissions
+: 	 non
+emma
+: 	 yes
+emotional
+: 	 non
+emotions
+: 	 non
+emperor
+: 	 non
+emphasis
+: 	 non
+empire
+: 	 non
+empirical
+: 	 non
+employ
+: 	 non
+employed
+: 	 non
+employee
+: 	 non
+employees
+: 	 non
+employer
+: 	 non
+employers
+: 	 non
+employment
+: 	 non
+empty
+: 	 non
+en
+: 	 non
+enable
+: 	 non
+enabled
+: 	 non
+enables
+: 	 non
+enabling
+: 	 non
+enb
+: 	 yes
+enclosed
+: 	 non
+enclosure
+: 	 non
+encoding
+: 	 non
+encounter
+: 	 non
+encountered
+: 	 non
+encourage
+: 	 non
+encouraged
+: 	 non
+encourages
+: 	 non
+encouraging
+: 	 non
+encryption
+: 	 non
+encyclopedia
+: 	 non
+end
+: 	 yes
+endangered
+: 	 non
+ended
+: 	 non
+endif
+: 	 non
+ending
+: 	 non
+endless
+: 	 non
+endorsed
+: 	 non
+endorsement
+: 	 non
+ends
+: 	 yes
+enemies
+: 	 non
+enemy
+: 	 non
+energy
+: 	 non
+enforcement
+: 	 non
+eng
+: 	 yes
+engage
+: 	 non
+engaged
+: 	 non
+engagement
+: 	 non
+engaging
+: 	 non
+engine
+: 	 non
+engineer
+: 	 non
+engineering
+: 	 non
+engineers
+: 	 non
+engines
+: 	 non
+england
+: 	 non
+english
+: 	 non
+enhance
+: 	 non
+enhanced
+: 	 non
+enhancement
+: 	 non
+enhancements
+: 	 non
+enhancing
+: 	 non
+enjoy
+: 	 non
+enjoyed
+: 	 non
+enjoying
+: 	 non
+enlarge
+: 	 non
+enlargement
+: 	 non
+enormous
+: 	 non
+enough
+: 	 non
+enquiries
+: 	 non
+enquiry
+: 	 non
+enrolled
+: 	 non
+enrollment
+: 	 non
+ensemble
+: 	 non
+ensure
+: 	 non
+ensures
+: 	 non
+ensuring
+: 	 non
+ent
+: 	 yes
+enter
+: 	 non
+entered
+: 	 non
+entering
+: 	 non
+enterprise
+: 	 non
+enterprises
+: 	 non
+enters
+: 	 non
+entertaining
+: 	 non
+entertainment
+: 	 non
+entire
+: 	 non
+entirely
+: 	 non
+entities
+: 	 non
+entitled
+: 	 non
+entity
+: 	 non
+entrance
+: 	 non
+entrepreneur
+: 	 non
+entrepreneurs
+: 	 non
+entries
+: 	 non
+entry
+: 	 non
+envelope
+: 	 non
+environment
+: 	 non
+environmental
+: 	 non
+environments
+: 	 non
+enzyme
+: 	 non
+eos
+: 	 yes
+ep
+: 	 non
+epa
+: 	 yes
+epic
+: 	 yes
+epinions
+: 	 non
+epinionscom
+: 	 non
+episode
+: 	 non
+episodes
+: 	 non
+epson
+: 	 non
+eq
+: 	 non
+equal
+: 	 non
+equality
+: 	 non
+equally
+: 	 non
+equation
+: 	 non
+equations
+: 	 non
+equilibrium
+: 	 non
+equipment
+: 	 non
+equipped
+: 	 non
+equity
+: 	 non
+equivalent
+: 	 non
+er
+: 	 non
+era
+: 	 yes
+eric
+: 	 yes
+ericsson
+: 	 non
+erik
+: 	 yes
+erotic
+: 	 non
+erotica
+: 	 non
+erp
+: 	 yes
+error
+: 	 non
+errors
+: 	 non
+es
+: 	 non
+escape
+: 	 non
+escort
+: 	 non
+escorts
+: 	 non
+especially
+: 	 non
+espn
+: 	 yes
+essay
+: 	 non
+essays
+: 	 non
+essence
+: 	 non
+essential
+: 	 non
+essentially
+: 	 non
+essentials
+: 	 non
+essex
+: 	 non
+est
+: 	 yes
+establish
+: 	 non
+established
+: 	 non
+establishing
+: 	 non
+establishment
+: 	 non
+estate
+: 	 non
+estates
+: 	 non
+estimate
+: 	 non
+estimated
+: 	 non
+estimates
+: 	 non
+estimation
+: 	 non
+estonia
+: 	 non
+et
+: 	 non
+etc
+: 	 yes
+eternal
+: 	 non
+ethernet
+: 	 non
+ethical
+: 	 non
+ethics
+: 	 non
+ethiopia
+: 	 non
+ethnic
+: 	 non
+eu
+: 	 non
+eugene
+: 	 non
+eur
+: 	 yes
+euro
+: 	 yes
+europe
+: 	 non
+european
+: 	 non
+euros
+: 	 non
+ev
+: 	 non
+eva
+: 	 yes
+eval
+: 	 yes
+evaluate
+: 	 non
+evaluated
+: 	 non
+evaluating
+: 	 non
+evaluation
+: 	 non
+evaluations
+: 	 non
+evanescence
+: 	 non
+evans
+: 	 non
+eve
+: 	 yes
+even
+: 	 yes
+evening
+: 	 non
+event
+: 	 non
+events
+: 	 non
+eventually
+: 	 non
+ever
+: 	 yes
+every
+: 	 non
+everybody
+: 	 non
+everyday
+: 	 non
+everyone
+: 	 non
+everything
+: 	 non
+everywhere
+: 	 non
+evidence
+: 	 non
+evident
+: 	 non
+evil
+: 	 yes
+evolution
+: 	 non
+ex
+: 	 non
+exact
+: 	 non
+exactly
+: 	 non
+exam
+: 	 yes
+examination
+: 	 non
+examinations
+: 	 non
+examine
+: 	 non
+examined
+: 	 non
+examines
+: 	 non
+examining
+: 	 non
+example
+: 	 non
+examples
+: 	 non
+exams
+: 	 non
+exceed
+: 	 non
+excel
+: 	 non
+excellence
+: 	 non
+excellent
+: 	 non
+except
+: 	 non
+exception
+: 	 non
+exceptional
+: 	 non
+exceptions
+: 	 non
+excerpt
+: 	 non
+excess
+: 	 non
+excessive
+: 	 non
+exchange
+: 	 non
+exchanges
+: 	 non
+excited
+: 	 non
+excitement
+: 	 non
+exciting
+: 	 non
+exclude
+: 	 non
+excluded
+: 	 non
+excluding
+: 	 non
+exclusion
+: 	 non
+exclusive
+: 	 non
+exclusively
+: 	 non
+excuse
+: 	 non
+exec
+: 	 yes
+execute
+: 	 non
+executed
+: 	 non
+execution
+: 	 non
+executive
+: 	 non
+executives
+: 	 non
+exempt
+: 	 non
+exemption
+: 	 non
+exercise
+: 	 non
+exercises
+: 	 non
+exhaust
+: 	 non
+exhibit
+: 	 non
+exhibition
+: 	 non
+exhibitions
+: 	 non
+exhibits
+: 	 non
+exist
+: 	 non
+existed
+: 	 non
+existence
+: 	 non
+existing
+: 	 non
+exists
+: 	 non
+exit
+: 	 yes
+exotic
+: 	 non
+exp
+: 	 yes
+expand
+: 	 non
+expanded
+: 	 non
+expanding
+: 	 non
+expansion
+: 	 non
+expansys
+: 	 non
+expect
+: 	 non
+expectations
+: 	 non
+expected
+: 	 non
+expects
+: 	 non
+expedia
+: 	 non
+expenditure
+: 	 non
+expenditures
+: 	 non
+expense
+: 	 non
+expenses
+: 	 non
+expensive
+: 	 non
+experience
+: 	 non
+experienced
+: 	 non
+experiences
+: 	 non
+experiencing
+: 	 non
+experiment
+: 	 non
+experimental
+: 	 non
+experiments
+: 	 non
+expert
+: 	 non
+expertise
+: 	 non
+experts
+: 	 non
+expiration
+: 	 non
+expired
+: 	 non
+expires
+: 	 non
+explain
+: 	 non
+explained
+: 	 non
+explaining
+: 	 non
+explains
+: 	 non
+explanation
+: 	 non
+explicit
+: 	 non
+explicitly
+: 	 non
+exploration
+: 	 non
+explore
+: 	 non
+explorer
+: 	 non
+exploring
+: 	 non
+explosion
+: 	 non
+expo
+: 	 yes
+export
+: 	 non
+exports
+: 	 non
+exposed
+: 	 non
+exposure
+: 	 non
+express
+: 	 non
+expressed
+: 	 non
+expression
+: 	 non
+expressions
+: 	 non
+ext
+: 	 yes
+extend
+: 	 non
+extended
+: 	 non
+extending
+: 	 non
+extends
+: 	 non
+extension
+: 	 non
+extensions
+: 	 non
+extensive
+: 	 non
+extent
+: 	 non
+exterior
+: 	 non
+external
+: 	 non
+extra
+: 	 non
+extract
+: 	 non
+extraction
+: 	 non
+extraordinary
+: 	 non
+extras
+: 	 non
+extreme
+: 	 non
+extremely
+: 	 non
+eye
+: 	 yes
+eyed
+: 	 yes
+eyes
+: 	 yes
+ez
+: 	 non
+f
+: 	 non
+fa
+: 	 non
+fabric
+: 	 non
+fabrics
+: 	 non
+fabulous
+: 	 non
+face
+: 	 yes
+faced
+: 	 non
+faces
+: 	 non
+facial
+: 	 non
+facilitate
+: 	 non
+facilities
+: 	 non
+facility
+: 	 non
+facing
+: 	 non
+fact
+: 	 yes
+factor
+: 	 non
+factors
+: 	 non
+factory
+: 	 non
+facts
+: 	 non
+faculty
+: 	 non
+fail
+: 	 yes
+failed
+: 	 non
+failing
+: 	 non
+fails
+: 	 non
+failure
+: 	 non
+failures
+: 	 non
+fair
+: 	 yes
+fairfield
+: 	 non
+fairly
+: 	 non
+fairy
+: 	 non
+faith
+: 	 non
+fake
+: 	 yes
+fall
+: 	 yes
+fallen
+: 	 non
+falling
+: 	 non
+falls
+: 	 non
+false
+: 	 non
+fame
+: 	 yes
+familiar
+: 	 non
+families
+: 	 non
+family
+: 	 non
+famous
+: 	 non
+fan
+: 	 yes
+fancy
+: 	 non
+fans
+: 	 yes
+fantastic
+: 	 non
+fantasy
+: 	 non
+faq
+: 	 yes
+faqs
+: 	 yes
+far
+: 	 yes
+fare
+: 	 yes
+fares
+: 	 non
+farm
+: 	 yes
+farmer
+: 	 non
+farmers
+: 	 non
+farming
+: 	 non
+farms
+: 	 non
+fascinating
+: 	 non
+fashion
+: 	 non
+fast
+: 	 yes
+faster
+: 	 non
+fastest
+: 	 non
+fat
+: 	 yes
+fatal
+: 	 non
+fate
+: 	 yes
+father
+: 	 non
+fathers
+: 	 non
+fatty
+: 	 non
+fault
+: 	 non
+favor
+: 	 non
+favorite
+: 	 non
+favorites
+: 	 non
+favors
+: 	 non
+favour
+: 	 non
+favourite
+: 	 non
+favourites
+: 	 non
+fax
+: 	 yes
+fbi
+: 	 yes
+fc
+: 	 non
+fcc
+: 	 yes
+fd
+: 	 non
+fda
+: 	 yes
+fe
+: 	 non
+fear
+: 	 yes
+fears
+: 	 non
+feat
+: 	 yes
+feature
+: 	 non
+featured
+: 	 non
+features
+: 	 non
+featuring
+: 	 non
+feb
+: 	 yes
+february
+: 	 non
+fed
+: 	 yes
+federal
+: 	 non
+federation
+: 	 non
+fee
+: 	 yes
+feed
+: 	 yes
+feedback
+: 	 non
+feeding
+: 	 non
+feeds
+: 	 non
+feel
+: 	 yes
+feeling
+: 	 non
+feelings
+: 	 non
+feels
+: 	 non
+fees
+: 	 yes
+feet
+: 	 yes
+fell
+: 	 yes
+fellow
+: 	 non
+fellowship
+: 	 non
+felt
+: 	 yes
+female
+: 	 non
+females
+: 	 non
+fence
+: 	 non
+feof
+: 	 yes
+ferrari
+: 	 non
+ferry
+: 	 non
+festival
+: 	 non
+festivals
+: 	 non
+fetish
+: 	 non
+fever
+: 	 non
+few
+: 	 yes
+fewer
+: 	 non
+ff
+: 	 non
+fg
+: 	 non
+fi
+: 	 non
+fiber
+: 	 non
+fibre
+: 	 non
+fiction
+: 	 non
+field
+: 	 non
+fields
+: 	 non
+fifteen
+: 	 non
+fifth
+: 	 non
+fifty
+: 	 non
+fig
+: 	 yes
+fight
+: 	 non
+fighter
+: 	 non
+fighters
+: 	 non
+fighting
+: 	 non
+figure
+: 	 non
+figured
+: 	 non
+figures
+: 	 non
+fiji
+: 	 yes
+file
+: 	 yes
+filed
+: 	 non
+filename
+: 	 non
+files
+: 	 non
+filing
+: 	 non
+fill
+: 	 yes
+filled
+: 	 non
+filling
+: 	 non
+film
+: 	 yes
+filme
+: 	 non
+films
+: 	 non
+filter
+: 	 non
+filtering
+: 	 non
+filters
+: 	 non
+fin
+: 	 yes
+final
+: 	 non
+finally
+: 	 non
+finals
+: 	 non
+finance
+: 	 non
+finances
+: 	 non
+financial
+: 	 non
+financing
+: 	 non
+find
+: 	 yes
+findarticles
+: 	 non
+finder
+: 	 non
+finding
+: 	 non
+findings
+: 	 non
+findlaw
+: 	 non
+finds
+: 	 non
+fine
+: 	 yes
+finest
+: 	 non
+finger
+: 	 non
+fingering
+: 	 non
+fingers
+: 	 non
+finish
+: 	 non
+finished
+: 	 non
+finishing
+: 	 non
+finite
+: 	 non
+finland
+: 	 non
+finnish
+: 	 non
+fioricet
+: 	 non
+fire
+: 	 yes
+fired
+: 	 non
+firefox
+: 	 non
+fireplace
+: 	 non
+fires
+: 	 non
+firewall
+: 	 non
+firewire
+: 	 non
+firm
+: 	 yes
+firms
+: 	 non
+firmware
+: 	 non
+first
+: 	 non
+fiscal
+: 	 non
+fish
+: 	 yes
+fisher
+: 	 non
+fisheries
+: 	 non
+fishing
+: 	 non
+fist
+: 	 yes
+fisting
+: 	 non
+fit
+: 	 yes
+fitness
+: 	 non
+fits
+: 	 yes
+fitted
+: 	 non
+fitting
+: 	 non
+five
+: 	 yes
+fix
+: 	 yes
+fixed
+: 	 non
+fixes
+: 	 non
+fixtures
+: 	 non
+fl
+: 	 non
+fla
+: 	 yes
+flag
+: 	 yes
+flags
+: 	 non
+flame
+: 	 non
+flash
+: 	 non
+flashers
+: 	 non
+flashing
+: 	 non
+flat
+: 	 yes
+flavor
+: 	 non
+fleece
+: 	 non
+fleet
+: 	 non
+flesh
+: 	 non
+flex
+: 	 yes
+flexibility
+: 	 non
+flexible
+: 	 non
+flickr
+: 	 non
+flight
+: 	 non
+flights
+: 	 non
+flip
+: 	 yes
+float
+: 	 non
+floating
+: 	 non
+flood
+: 	 non
+floor
+: 	 non
+flooring
+: 	 non
+floors
+: 	 non
+floppy
+: 	 non
+floral
+: 	 non
+florence
+: 	 non
+florida
+: 	 non
+florist
+: 	 non
+florists
+: 	 non
+flour
+: 	 non
+flow
+: 	 yes
+flower
+: 	 non
+flowers
+: 	 non
+flows
+: 	 non
+floyd
+: 	 non
+flu
+: 	 yes
+fluid
+: 	 non
+flush
+: 	 non
+flux
+: 	 yes
+fly
+: 	 yes
+flyer
+: 	 non
+flying
+: 	 non
+fm
+: 	 non
+fo
+: 	 non
+foam
+: 	 yes
+focal
+: 	 non
+focus
+: 	 non
+focused
+: 	 non
+focuses
+: 	 non
+focusing
+: 	 non
+fog
+: 	 yes
+fold
+: 	 yes
+folder
+: 	 non
+folders
+: 	 non
+folding
+: 	 non
+folk
+: 	 yes
+folks
+: 	 non
+follow
+: 	 non
+followed
+: 	 non
+following
+: 	 non
+follows
+: 	 non
+font
+: 	 yes
+fonts
+: 	 non
+foo
+: 	 yes
+food
+: 	 yes
+foods
+: 	 non
+fool
+: 	 yes
+foot
+: 	 yes
+footage
+: 	 non
+football
+: 	 non
+footwear
+: 	 non
+for
+: 	 yes
+forbes
+: 	 non
+forbidden
+: 	 non
+force
+: 	 non
+forced
+: 	 non
+forces
+: 	 non
+ford
+: 	 yes
+forecast
+: 	 non
+forecasts
+: 	 non
+foreign
+: 	 non
+forest
+: 	 non
+forestry
+: 	 non
+forests
+: 	 non
+forever
+: 	 non
+forge
+: 	 non
+forget
+: 	 non
+forgot
+: 	 non
+forgotten
+: 	 non
+fork
+: 	 yes
+form
+: 	 yes
+formal
+: 	 non
+format
+: 	 non
+formation
+: 	 non
+formats
+: 	 non
+formatting
+: 	 non
+formed
+: 	 non
+former
+: 	 non
+formerly
+: 	 non
+forming
+: 	 non
+forms
+: 	 non
+formula
+: 	 non
+fort
+: 	 yes
+forth
+: 	 non
+fortune
+: 	 non
+forty
+: 	 non
+forum
+: 	 non
+forums
+: 	 non
+forward
+: 	 non
+forwarding
+: 	 non
+fossil
+: 	 non
+foster
+: 	 non
+foto
+: 	 yes
+fotos
+: 	 non
+fought
+: 	 non
+foul
+: 	 yes
+found
+: 	 non
+foundation
+: 	 non
+foundations
+: 	 non
+founded
+: 	 non
+founder
+: 	 non
+fountain
+: 	 non
+four
+: 	 yes
+fourth
+: 	 non
+fox
+: 	 yes
+fp
+: 	 non
+fr
+: 	 non
+fraction
+: 	 non
+fragrance
+: 	 non
+fragrances
+: 	 non
+frame
+: 	 non
+framed
+: 	 non
+frames
+: 	 non
+framework
+: 	 non
+framing
+: 	 non
+france
+: 	 non
+franchise
+: 	 non
+francis
+: 	 non
+francisco
+: 	 non
+frank
+: 	 non
+frankfurt
+: 	 non
+franklin
+: 	 non
+fraser
+: 	 non
+fraud
+: 	 non
+fred
+: 	 yes
+frederick
+: 	 non
+free
+: 	 yes
+freebsd
+: 	 non
+freedom
+: 	 non
+freelance
+: 	 non
+freely
+: 	 non
+freeware
+: 	 non
+freeze
+: 	 non
+freight
+: 	 non
+french
+: 	 non
+frequencies
+: 	 non
+frequency
+: 	 non
+frequent
+: 	 non
+frequently
+: 	 non
+fresh
+: 	 non
+fri
+: 	 yes
+friday
+: 	 non
+fridge
+: 	 non
+friend
+: 	 non
+friendly
+: 	 non
+friends
+: 	 non
+friendship
+: 	 non
+frog
+: 	 yes
+from
+: 	 yes
+front
+: 	 non
+frontier
+: 	 non
+frontpage
+: 	 non
+frost
+: 	 non
+frozen
+: 	 non
+fruit
+: 	 non
+fruits
+: 	 non
+fs
+: 	 non
+ft
+: 	 non
+ftp
+: 	 yes
+fu
+: 	 non
+fuck
+: 	 yes
+fucked
+: 	 non
+fucking
+: 	 non
+fuel
+: 	 yes
+fuji
+: 	 yes
+fujitsu
+: 	 non
+full
+: 	 yes
+fully
+: 	 non
+fun
+: 	 yes
+function
+: 	 non
+functional
+: 	 non
+functionality
+: 	 non
+functioning
+: 	 non
+functions
+: 	 non
+fund
+: 	 yes
+fundamental
+: 	 non
+fundamentals
+: 	 non
+funded
+: 	 non
+funding
+: 	 non
+fundraising
+: 	 non
+funds
+: 	 non
+funeral
+: 	 non
+funk
+: 	 yes
+funky
+: 	 non
+funny
+: 	 non
+fur
+: 	 yes
+furnished
+: 	 non
+furnishings
+: 	 non
+furniture
+: 	 non
+further
+: 	 non
+furthermore
+: 	 non
+fusion
+: 	 non
+future
+: 	 non
+futures
+: 	 non
+fuzzy
+: 	 non
+fw
+: 	 non
+fwd
+: 	 yes
+fx
+: 	 non
+fy
+: 	 non
+g
+: 	 non
+ga
+: 	 non
+gabriel
+: 	 non
+gadgets
+: 	 non
+gage
+: 	 yes
+gain
+: 	 yes
+gained
+: 	 non
+gains
+: 	 non
+galaxy
+: 	 non
+gale
+: 	 yes
+galleries
+: 	 non
+gallery
+: 	 non
+gambling
+: 	 non
+game
+: 	 yes
+gamecube
+: 	 non
+games
+: 	 non
+gamespot
+: 	 non
+gaming
+: 	 non
+gamma
+: 	 non
+gang
+: 	 yes
+gangbang
+: 	 non
+gap
+: 	 yes
+gaps
+: 	 yes
+garage
+: 	 non
+garbage
+: 	 non
+garcia
+: 	 non
+garden
+: 	 non
+gardening
+: 	 non
+gardens
+: 	 non
+garlic
+: 	 non
+garmin
+: 	 non
+gary
+: 	 yes
+gas
+: 	 yes
+gasoline
+: 	 non
+gate
+: 	 yes
+gates
+: 	 non
+gateway
+: 	 non
+gather
+: 	 non
+gathered
+: 	 non
+gathering
+: 	 non
+gauge
+: 	 non
+gave
+: 	 yes
+gay
+: 	 yes
+gays
+: 	 yes
+gazette
+: 	 non
+gb
+: 	 non
+gba
+: 	 yes
+gbp
+: 	 yes
+gc
+: 	 non
+gcc
+: 	 yes
+gd
+: 	 non
+gdp
+: 	 yes
+ge
+: 	 non
+gear
+: 	 yes
+geek
+: 	 yes
+gel
+: 	 yes
+gem
+: 	 yes
+gen
+: 	 yes
+gender
+: 	 non
+gene
+: 	 yes
+genealogy
+: 	 non
+general
+: 	 non
+generally
+: 	 non
+generate
+: 	 non
+generated
+: 	 non
+generates
+: 	 non
+generating
+: 	 non
+generation
+: 	 non
+generations
+: 	 non
+generator
+: 	 non
+generators
+: 	 non
+generic
+: 	 non
+generous
+: 	 non
+genes
+: 	 non
+genesis
+: 	 non
+genetic
+: 	 non
+genetics
+: 	 non
+geneva
+: 	 non
+genius
+: 	 non
+genome
+: 	 non
+genre
+: 	 non
+genres
+: 	 non
+gentle
+: 	 non
+gentleman
+: 	 non
+gently
+: 	 non
+genuine
+: 	 non
+geo
+: 	 yes
+geographic
+: 	 non
+geographical
+: 	 non
+geography
+: 	 non
+geological
+: 	 non
+geology
+: 	 non
+geometry
+: 	 non
+george
+: 	 non
+georgia
+: 	 non
+gerald
+: 	 non
+german
+: 	 non
+germany
+: 	 non
+get
+: 	 yes
+gets
+: 	 yes
+getting
+: 	 non
+gg
+: 	 non
+ghana
+: 	 non
+ghost
+: 	 non
+ghz
+: 	 yes
+gi
+: 	 non
+giant
+: 	 non
+giants
+: 	 non
+gibraltar
+: 	 non
+gibson
+: 	 non
+gif
+: 	 yes
+gift
+: 	 yes
+gifts
+: 	 non
+gig
+: 	 yes
+gilbert
+: 	 non
+girl
+: 	 yes
+girlfriend
+: 	 non
+girls
+: 	 non
+gis
+: 	 yes
+give
+: 	 yes
+given
+: 	 non
+gives
+: 	 non
+giving
+: 	 non
+gl
+: 	 non
+glad
+: 	 yes
+glance
+: 	 non
+glasgow
+: 	 non
+glass
+: 	 non
+glasses
+: 	 non
+glen
+: 	 yes
+glenn
+: 	 non
+global
+: 	 non
+globe
+: 	 non
+glory
+: 	 non
+glossary
+: 	 non
+gloves
+: 	 non
+glow
+: 	 yes
+glucose
+: 	 non
+gm
+: 	 non
+gmbh
+: 	 yes
+gmc
+: 	 yes
+gmt
+: 	 yes
+gnome
+: 	 non
+gnu
+: 	 yes
+go
+: 	 non
+goal
+: 	 yes
+goals
+: 	 non
+goat
+: 	 yes
+god
+: 	 yes
+gods
+: 	 yes
+goes
+: 	 yes
+going
+: 	 non
+gold
+: 	 yes
+golden
+: 	 non
+golf
+: 	 yes
+gone
+: 	 yes
+gonna
+: 	 non
+good
+: 	 yes
+goods
+: 	 non
+google
+: 	 non
+gordon
+: 	 non
+gore
+: 	 yes
+gorgeous
+: 	 non
+gospel
+: 	 non
+gossip
+: 	 non
+got
+: 	 yes
+gothic
+: 	 non
+goto
+: 	 yes
+gotta
+: 	 non
+gotten
+: 	 non
+gourmet
+: 	 non
+gov
+: 	 yes
+governance
+: 	 non
+governing
+: 	 non
+government
+: 	 non
+governmental
+: 	 non
+governments
+: 	 non
+governor
+: 	 non
+govt
+: 	 yes
+gp
+: 	 non
+gpl
+: 	 yes
+gps
+: 	 yes
+gr
+: 	 non
+grab
+: 	 yes
+grace
+: 	 non
+grad
+: 	 yes
+grade
+: 	 non
+grades
+: 	 non
+gradually
+: 	 non
+graduate
+: 	 non
+graduated
+: 	 non
+graduates
+: 	 non
+graduation
+: 	 non
+graham
+: 	 non
+grain
+: 	 non
+grammar
+: 	 non
+grams
+: 	 non
+grand
+: 	 non
+grande
+: 	 non
+granny
+: 	 non
+grant
+: 	 non
+granted
+: 	 non
+grants
+: 	 non
+graph
+: 	 non
+graphic
+: 	 non
+graphical
+: 	 non
+graphics
+: 	 non
+graphs
+: 	 non
+gras
+: 	 yes
+grass
+: 	 non
+grateful
+: 	 non
+gratis
+: 	 non
+gratuit
+: 	 non
+grave
+: 	 non
+gravity
+: 	 non
+gray
+: 	 yes
+great
+: 	 non
+greater
+: 	 non
+greatest
+: 	 non
+greatly
+: 	 non
+greece
+: 	 non
+greek
+: 	 non
+green
+: 	 non
+greene
+: 	 non
+greenhouse
+: 	 non
+greensboro
+: 	 non
+greeting
+: 	 non
+greetings
+: 	 non
+greg
+: 	 yes
+gregory
+: 	 non
+grenada
+: 	 non
+grew
+: 	 yes
+grey
+: 	 yes
+grid
+: 	 yes
+griffin
+: 	 non
+grill
+: 	 non
+grip
+: 	 yes
+grocery
+: 	 non
+groove
+: 	 non
+gross
+: 	 non
+ground
+: 	 non
+grounds
+: 	 non
+groundwater
+: 	 non
+group
+: 	 non
+groups
+: 	 non
+grove
+: 	 non
+grow
+: 	 yes
+growing
+: 	 non
+grown
+: 	 non
+grows
+: 	 non
+growth
+: 	 non
+gs
+: 	 non
+gsm
+: 	 yes
+gst
+: 	 yes
+gt
+: 	 non
+gtk
+: 	 yes
+guam
+: 	 yes
+guarantee
+: 	 non
+guaranteed
+: 	 non
+guarantees
+: 	 non
+guard
+: 	 non
+guardian
+: 	 non
+guards
+: 	 non
+guatemala
+: 	 non
+guess
+: 	 non
+guest
+: 	 non
+guestbook
+: 	 non
+guests
+: 	 non
+gui
+: 	 yes
+guidance
+: 	 non
+guide
+: 	 non
+guided
+: 	 non
+guidelines
+: 	 non
+guides
+: 	 non
+guild
+: 	 non
+guilty
+: 	 non
+guinea
+: 	 non
+guitar
+: 	 non
+guitars
+: 	 non
+gulf
+: 	 yes
+gun
+: 	 yes
+guns
+: 	 yes
+guru
+: 	 yes
+guy
+: 	 yes
+guyana
+: 	 non
+guys
+: 	 yes
+gym
+: 	 yes
+gzip
+: 	 yes
+h
+: 	 non
+ha
+: 	 non
+habitat
+: 	 non
+habits
+: 	 non
+hack
+: 	 yes
+hacker
+: 	 non
+had
+: 	 yes
+hair
+: 	 yes
+hairy
+: 	 non
+haiti
+: 	 non
+half
+: 	 yes
+halfcom
+: 	 non
+halifax
+: 	 non
+hall
+: 	 yes
+halloween
+: 	 non
+halo
+: 	 yes
+ham
+: 	 yes
+hamburg
+: 	 non
+hamilton
+: 	 non
+hammer
+: 	 non
+hampshire
+: 	 non
+hampton
+: 	 non
+hand
+: 	 yes
+handbags
+: 	 non
+handbook
+: 	 non
+handed
+: 	 non
+handheld
+: 	 non
+handhelds
+: 	 non
+handjob
+: 	 non
+handjobs
+: 	 non
+handle
+: 	 non
+handled
+: 	 non
+handles
+: 	 non
+handling
+: 	 non
+handmade
+: 	 non
+hands
+: 	 non
+handy
+: 	 non
+hang
+: 	 yes
+hanging
+: 	 non
+hans
+: 	 yes
+hansen
+: 	 non
+happen
+: 	 non
+happened
+: 	 non
+happening
+: 	 non
+happens
+: 	 non
+happiness
+: 	 non
+happy
+: 	 non
+harassment
+: 	 non
+harbor
+: 	 non
+harbour
+: 	 non
+hard
+: 	 yes
+hardcore
+: 	 non
+hardcover
+: 	 non
+harder
+: 	 non
+hardly
+: 	 non
+hardware
+: 	 non
+hardwood
+: 	 non
+harley
+: 	 non
+harm
+: 	 yes
+harmful
+: 	 non
+harmony
+: 	 non
+harold
+: 	 non
+harper
+: 	 non
+harris
+: 	 non
+harrison
+: 	 non
+harry
+: 	 non
+hart
+: 	 yes
+hartford
+: 	 non
+harvard
+: 	 non
+harvest
+: 	 non
+harvey
+: 	 non
+has
+: 	 yes
+hash
+: 	 yes
+hat
+: 	 yes
+hate
+: 	 yes
+hats
+: 	 yes
+have
+: 	 yes
+haven
+: 	 non
+having
+: 	 non
+hawaii
+: 	 non
+hawaiian
+: 	 non
+hawk
+: 	 yes
+hay
+: 	 yes
+hayes
+: 	 non
+hazard
+: 	 non
+hazardous
+: 	 non
+hazards
+: 	 non
+hb
+: 	 non
+hc
+: 	 non
+hd
+: 	 non
+hdtv
+: 	 yes
+he
+: 	 non
+head
+: 	 yes
+headed
+: 	 non
+header
+: 	 non
+headers
+: 	 non
+heading
+: 	 non
+headline
+: 	 non
+headlines
+: 	 non
+headphones
+: 	 non
+headquarters
+: 	 non
+heads
+: 	 non
+headset
+: 	 non
+healing
+: 	 non
+health
+: 	 non
+healthcare
+: 	 non
+healthy
+: 	 non
+hear
+: 	 yes
+heard
+: 	 non
+hearing
+: 	 non
+hearings
+: 	 non
+heart
+: 	 non
+hearts
+: 	 non
+heat
+: 	 yes
+heated
+: 	 non
+heater
+: 	 non
+heath
+: 	 non
+heather
+: 	 non
+heating
+: 	 non
+heaven
+: 	 non
+heavily
+: 	 non
+heavy
+: 	 non
+hebrew
+: 	 non
+heel
+: 	 yes
+height
+: 	 non
+heights
+: 	 non
+held
+: 	 yes
+helen
+: 	 non
+helena
+: 	 non
+helicopter
+: 	 non
+hell
+: 	 yes
+hello
+: 	 non
+helmet
+: 	 non
+help
+: 	 yes
+helped
+: 	 non
+helpful
+: 	 non
+helping
+: 	 non
+helps
+: 	 non
+hence
+: 	 non
+henderson
+: 	 non
+henry
+: 	 non
+hentai
+: 	 non
+hepatitis
+: 	 non
+her
+: 	 yes
+herald
+: 	 non
+herb
+: 	 yes
+herbal
+: 	 non
+herbs
+: 	 non
+here
+: 	 yes
+hereby
+: 	 non
+herein
+: 	 non
+heritage
+: 	 non
+hero
+: 	 yes
+heroes
+: 	 non
+herself
+: 	 non
+hewlett
+: 	 non
+hey
+: 	 yes
+hh
+: 	 non
+hi
+: 	 non
+hidden
+: 	 non
+hide
+: 	 yes
+hierarchy
+: 	 non
+high
+: 	 yes
+higher
+: 	 non
+highest
+: 	 non
+highland
+: 	 non
+highlight
+: 	 non
+highlighted
+: 	 non
+highlights
+: 	 non
+highly
+: 	 non
+highs
+: 	 non
+highway
+: 	 non
+highways
+: 	 non
+hiking
+: 	 non
+hill
+: 	 yes
+hills
+: 	 non
+hilton
+: 	 non
+him
+: 	 yes
+himself
+: 	 non
+hindu
+: 	 non
+hint
+: 	 yes
+hints
+: 	 non
+hip
+: 	 yes
+hire
+: 	 yes
+hired
+: 	 non
+hiring
+: 	 non
+his
+: 	 yes
+hispanic
+: 	 non
+hist
+: 	 yes
+historic
+: 	 non
+historical
+: 	 non
+history
+: 	 non
+hit
+: 	 yes
+hitachi
+: 	 non
+hits
+: 	 yes
+hitting
+: 	 non
+hiv
+: 	 yes
+hk
+: 	 non
+hl
+: 	 non
+ho
+: 	 non
+hobbies
+: 	 non
+hobby
+: 	 non
+hockey
+: 	 non
+hold
+: 	 yes
+holdem
+: 	 non
+holder
+: 	 non
+holders
+: 	 non
+holding
+: 	 non
+holdings
+: 	 non
+holds
+: 	 non
+hole
+: 	 yes
+holes
+: 	 non
+holiday
+: 	 non
+holidays
+: 	 non
+holland
+: 	 non
+hollow
+: 	 non
+holly
+: 	 non
+hollywood
+: 	 non
+holmes
+: 	 non
+holocaust
+: 	 non
+holy
+: 	 yes
+home
+: 	 yes
+homeland
+: 	 non
+homeless
+: 	 non
+homepage
+: 	 non
+homes
+: 	 non
+hometown
+: 	 non
+homework
+: 	 non
+hon
+: 	 yes
+honda
+: 	 non
+honduras
+: 	 non
+honest
+: 	 non
+honey
+: 	 non
+hong
+: 	 yes
+honolulu
+: 	 non
+honor
+: 	 non
+honors
+: 	 non
+hood
+: 	 yes
+hook
+: 	 yes
+hop
+: 	 yes
+hope
+: 	 yes
+hoped
+: 	 non
+hopefully
+: 	 non
+hopes
+: 	 non
+hoping
+: 	 non
+hopkins
+: 	 non
+horizon
+: 	 non
+horizontal
+: 	 non
+hormone
+: 	 non
+horn
+: 	 yes
+horny
+: 	 non
+horrible
+: 	 non
+horror
+: 	 non
+horse
+: 	 non
+horses
+: 	 non
+hose
+: 	 yes
+hospital
+: 	 non
+hospitality
+: 	 non
+hospitals
+: 	 non
+host
+: 	 yes
+hosted
+: 	 non
+hostel
+: 	 non
+hostels
+: 	 non
+hosting
+: 	 non
+hosts
+: 	 non
+hot
+: 	 yes
+hotel
+: 	 non
+hotels
+: 	 non
+hotelscom
+: 	 non
+hotmail
+: 	 non
+hottest
+: 	 non
+hour
+: 	 yes
+hourly
+: 	 non
+hours
+: 	 non
+house
+: 	 non
+household
+: 	 non
+households
+: 	 non
+houses
+: 	 non
+housewares
+: 	 non
+housewives
+: 	 non
+housing
+: 	 non
+houston
+: 	 non
+how
+: 	 yes
+howard
+: 	 non
+however
+: 	 non
+howto
+: 	 non
+hp
+: 	 non
+hq
+: 	 non
+hr
+: 	 non
+href
+: 	 yes
+hrs
+: 	 yes
+hs
+: 	 non
+ht
+: 	 non
+html
+: 	 yes
+http
+: 	 yes
+hu
+: 	 non
+hub
+: 	 yes
+hudson
+: 	 non
+huge
+: 	 yes
+hugh
+: 	 yes
+hughes
+: 	 non
+hugo
+: 	 yes
+hull
+: 	 yes
+human
+: 	 non
+humanitarian
+: 	 non
+humanities
+: 	 non
+humanity
+: 	 non
+humans
+: 	 non
+humidity
+: 	 non
+humor
+: 	 non
+hundred
+: 	 non
+hundreds
+: 	 non
+hung
+: 	 yes
+hungarian
+: 	 non
+hungary
+: 	 non
+hunger
+: 	 non
+hungry
+: 	 non
+hunt
+: 	 yes
+hunter
+: 	 non
+hunting
+: 	 non
+huntington
+: 	 non
+hurricane
+: 	 non
+hurt
+: 	 yes
+husband
+: 	 non
+hwy
+: 	 yes
+hybrid
+: 	 non
+hydraulic
+: 	 non
+hydrocodone
+: 	 non
+hydrogen
+: 	 non
+hygiene
+: 	 non
+hypothesis
+: 	 non
+hypothetical
+: 	 non
+hyundai
+: 	 non
+hz
+: 	 non
+i
+: 	 non
+ia
+: 	 non
+ian
+: 	 yes
+ibm
+: 	 yes
+ic
+: 	 non
+ice
+: 	 yes
+iceland
+: 	 non
+icon
+: 	 yes
+icons
+: 	 non
+icq
+: 	 yes
+ict
+: 	 yes
+id
+: 	 non
+idaho
+: 	 non
+ide
+: 	 yes
+idea
+: 	 yes
+ideal
+: 	 non
+ideas
+: 	 non
+identical
+: 	 non
+identification
+: 	 non
+identified
+: 	 non
+identifier
+: 	 non
+identifies
+: 	 non
+identify
+: 	 non
+identifying
+: 	 non
+identity
+: 	 non
+idle
+: 	 yes
+idol
+: 	 yes
+ids
+: 	 yes
+ie
+: 	 non
+ieee
+: 	 yes
+if
+: 	 non
+ignore
+: 	 non
+ignored
+: 	 non
+ii
+: 	 non
+iii
+: 	 yes
+il
+: 	 non
+ill
+: 	 yes
+illegal
+: 	 non
+illinois
+: 	 non
+illness
+: 	 non
+illustrated
+: 	 non
+illustration
+: 	 non
+illustrations
+: 	 non
+im
+: 	 non
+ima
+: 	 yes
+image
+: 	 non
+images
+: 	 non
+imagination
+: 	 non
+imagine
+: 	 non
+imaging
+: 	 non
+img
+: 	 yes
+immediate
+: 	 non
+immediately
+: 	 non
+immigrants
+: 	 non
+immigration
+: 	 non
+immune
+: 	 non
+immunology
+: 	 non
+impact
+: 	 non
+impacts
+: 	 non
+impaired
+: 	 non
+imperial
+: 	 non
+implement
+: 	 non
+implementation
+: 	 non
+implemented
+: 	 non
+implementing
+: 	 non
+implications
+: 	 non
+implied
+: 	 non
+implies
+: 	 non
+import
+: 	 non
+importance
+: 	 non
+important
+: 	 non
+importantly
+: 	 non
+imported
+: 	 non
+imports
+: 	 non
+impose
+: 	 non
+imposed
+: 	 non
+impossible
+: 	 non
+impressed
+: 	 non
+impression
+: 	 non
+impressive
+: 	 non
+improve
+: 	 non
+improved
+: 	 non
+improvement
+: 	 non
+improvements
+: 	 non
+improving
+: 	 non
+in
+: 	 non
+inappropriate
+: 	 non
+inbox
+: 	 non
+inc
+: 	 yes
+incentive
+: 	 non
+incentives
+: 	 non
+incest
+: 	 non
+inch
+: 	 yes
+inches
+: 	 non
+incidence
+: 	 non
+incident
+: 	 non
+incidents
+: 	 non
+incl
+: 	 yes
+include
+: 	 non
+included
+: 	 non
+includes
+: 	 non
+including
+: 	 non
+inclusion
+: 	 non
+inclusive
+: 	 non
+income
+: 	 non
+incoming
+: 	 non
+incomplete
+: 	 non
+incorporate
+: 	 non
+incorporated
+: 	 non
+incorrect
+: 	 non
+increase
+: 	 non
+increased
+: 	 non
+increases
+: 	 non
+increasing
+: 	 non
+increasingly
+: 	 non
+incredible
+: 	 non
+incurred
+: 	 non
+ind
+: 	 yes
+indeed
+: 	 non
+independence
+: 	 non
+independent
+: 	 non
+independently
+: 	 non
+index
+: 	 non
+indexed
+: 	 non
+indexes
+: 	 non
+india
+: 	 non
+indian
+: 	 non
+indiana
+: 	 non
+indianapolis
+: 	 non
+indians
+: 	 non
+indicate
+: 	 non
+indicated
+: 	 non
+indicates
+: 	 non
+indicating
+: 	 non
+indication
+: 	 non
+indicator
+: 	 non
+indicators
+: 	 non
+indices
+: 	 non
+indie
+: 	 non
+indigenous
+: 	 non
+indirect
+: 	 non
+individual
+: 	 non
+individually
+: 	 non
+individuals
+: 	 non
+indonesia
+: 	 non
+indonesian
+: 	 non
+indoor
+: 	 non
+induced
+: 	 non
+induction
+: 	 non
+industrial
+: 	 non
+industries
+: 	 non
+industry
+: 	 non
+inexpensive
+: 	 non
+inf
+: 	 yes
+infant
+: 	 non
+infants
+: 	 non
+infected
+: 	 non
+infection
+: 	 non
+infections
+: 	 non
+infectious
+: 	 non
+infinite
+: 	 non
+inflation
+: 	 non
+influence
+: 	 non
+influenced
+: 	 non
+influences
+: 	 non
+info
+: 	 yes
+inform
+: 	 non
+informal
+: 	 non
+information
+: 	 non
+informational
+: 	 non
+informative
+: 	 non
+informed
+: 	 non
+infrared
+: 	 non
+infrastructure
+: 	 non
+ing
+: 	 yes
+ingredients
+: 	 non
+inherited
+: 	 non
+initial
+: 	 non
+initially
+: 	 non
+initiated
+: 	 non
+initiative
+: 	 non
+initiatives
+: 	 non
+injection
+: 	 non
+injured
+: 	 non
+injuries
+: 	 non
+injury
+: 	 non
+ink
+: 	 yes
+inkjet
+: 	 non
+inline
+: 	 non
+inn
+: 	 yes
+inner
+: 	 non
+innocent
+: 	 non
+innovation
+: 	 non
+innovations
+: 	 non
+innovative
+: 	 non
+inns
+: 	 yes
+input
+: 	 non
+inputs
+: 	 non
+inquire
+: 	 non
+inquiries
+: 	 non
+inquiry
+: 	 non
+ins
+: 	 yes
+insects
+: 	 non
+insert
+: 	 non
+inserted
+: 	 non
+insertion
+: 	 non
+inside
+: 	 non
+insider
+: 	 non
+insight
+: 	 non
+insights
+: 	 non
+inspection
+: 	 non
+inspections
+: 	 non
+inspector
+: 	 non
+inspiration
+: 	 non
+inspired
+: 	 non
+install
+: 	 non
+installation
+: 	 non
+installations
+: 	 non
+installed
+: 	 non
+installing
+: 	 non
+instance
+: 	 non
+instances
+: 	 non
+instant
+: 	 non
+instantly
+: 	 non
+instead
+: 	 non
+institute
+: 	 non
+institutes
+: 	 non
+institution
+: 	 non
+institutional
+: 	 non
+institutions
+: 	 non
+instruction
+: 	 non
+instructional
+: 	 non
+instructions
+: 	 non
+instructor
+: 	 non
+instructors
+: 	 non
+instrument
+: 	 non
+instrumental
+: 	 non
+instrumentation
+: 	 non
+instruments
+: 	 non
+insulin
+: 	 non
+insurance
+: 	 non
+insured
+: 	 non
+int
+: 	 yes
+intake
+: 	 non
+integer
+: 	 non
+integral
+: 	 non
+integrate
+: 	 non
+integrated
+: 	 non
+integrating
+: 	 non
+integration
+: 	 non
+integrity
+: 	 non
+intel
+: 	 non
+intellectual
+: 	 non
+intelligence
+: 	 non
+intelligent
+: 	 non
+intend
+: 	 non
+intended
+: 	 non
+intense
+: 	 non
+intensity
+: 	 non
+intensive
+: 	 non
+intent
+: 	 non
+intention
+: 	 non
+inter
+: 	 non
+interact
+: 	 non
+interaction
+: 	 non
+interactions
+: 	 non
+interactive
+: 	 non
+interest
+: 	 non
+interested
+: 	 non
+interesting
+: 	 non
+interests
+: 	 non
+interface
+: 	 non
+interfaces
+: 	 non
+interference
+: 	 non
+interim
+: 	 non
+interior
+: 	 non
+intermediate
+: 	 non
+internal
+: 	 non
+international
+: 	 non
+internationally
+: 	 non
+internet
+: 	 non
+internship
+: 	 non
+interpretation
+: 	 non
+interpreted
+: 	 non
+interracial
+: 	 non
+intersection
+: 	 non
+interstate
+: 	 non
+interval
+: 	 non
+intervals
+: 	 non
+intervention
+: 	 non
+interventions
+: 	 non
+interview
+: 	 non
+interviews
+: 	 non
+intimate
+: 	 non
+intl
+: 	 yes
+into
+: 	 yes
+intranet
+: 	 non
+intro
+: 	 non
+introduce
+: 	 non
+introduced
+: 	 non
+introduces
+: 	 non
+introducing
+: 	 non
+introduction
+: 	 non
+introductory
+: 	 non
+invalid
+: 	 non
+invasion
+: 	 non
+invention
+: 	 non
+inventory
+: 	 non
+invest
+: 	 non
+investigate
+: 	 non
+investigated
+: 	 non
+investigation
+: 	 non
+investigations
+: 	 non
+investigator
+: 	 non
+investigators
+: 	 non
+investing
+: 	 non
+investment
+: 	 non
+investments
+: 	 non
+investor
+: 	 non
+investors
+: 	 non
+invisible
+: 	 non
+invision
+: 	 non
+invitation
+: 	 non
+invitations
+: 	 non
+invite
+: 	 non
+invited
+: 	 non
+invoice
+: 	 non
+involve
+: 	 non
+involved
+: 	 non
+involvement
+: 	 non
+involves
+: 	 non
+involving
+: 	 non
+io
+: 	 non
+ion
+: 	 yes
+iowa
+: 	 yes
+ip
+: 	 non
+ipaq
+: 	 yes
+ipod
+: 	 yes
+ips
+: 	 yes
+ir
+: 	 non
+ira
+: 	 yes
+iran
+: 	 yes
+iraq
+: 	 yes
+iraqi
+: 	 non
+irc
+: 	 yes
+ireland
+: 	 non
+irish
+: 	 non
+iron
+: 	 yes
+irrigation
+: 	 non
+irs
+: 	 yes
+is
+: 	 non
+isa
+: 	 yes
+isaac
+: 	 non
+isbn
+: 	 yes
+islam
+: 	 non
+islamic
+: 	 non
+island
+: 	 non
+islands
+: 	 non
+isle
+: 	 yes
+iso
+: 	 yes
+isolated
+: 	 non
+isolation
+: 	 non
+isp
+: 	 yes
+israel
+: 	 non
+israeli
+: 	 non
+issn
+: 	 yes
+issue
+: 	 non
+issued
+: 	 non
+issues
+: 	 non
+ist
+: 	 yes
+istanbul
+: 	 non
+it
+: 	 non
+italia
+: 	 non
+italian
+: 	 non
+italiano
+: 	 non
+italic
+: 	 non
+italy
+: 	 non
+item
+: 	 yes
+items
+: 	 non
+its
+: 	 yes
+itsa
+: 	 yes
+itself
+: 	 non
+itunes
+: 	 non
+iv
+: 	 non
+ivory
+: 	 non
+ix
+: 	 non
+j
+: 	 non
+ja
+: 	 non
+jack
+: 	 yes
+jacket
+: 	 non
+jackets
+: 	 non
+jackie
+: 	 non
+jackson
+: 	 non
+jacksonville
+: 	 non
+jacob
+: 	 non
+jade
+: 	 yes
+jaguar
+: 	 non
+jail
+: 	 yes
+jake
+: 	 yes
+jam
+: 	 yes
+jamaica
+: 	 non
+james
+: 	 non
+jamie
+: 	 non
+jan
+: 	 yes
+jane
+: 	 yes
+janet
+: 	 non
+january
+: 	 non
+japan
+: 	 non
+japanese
+: 	 non
+jar
+: 	 yes
+jason
+: 	 non
+java
+: 	 yes
+javascript
+: 	 non
+jay
+: 	 yes
+jazz
+: 	 yes
+jc
+: 	 non
+jd
+: 	 non
+je
+: 	 non
+jean
+: 	 yes
+jeans
+: 	 non
+jeep
+: 	 yes
+jeff
+: 	 yes
+jefferson
+: 	 non
+jeffrey
+: 	 non
+jelsoft
+: 	 non
+jennifer
+: 	 non
+jenny
+: 	 non
+jeremy
+: 	 non
+jerry
+: 	 non
+jersey
+: 	 non
+jerusalem
+: 	 non
+jesse
+: 	 non
+jessica
+: 	 non
+jesus
+: 	 non
+jet
+: 	 yes
+jets
+: 	 yes
+jewel
+: 	 non
+jewellery
+: 	 non
+jewelry
+: 	 non
+jewish
+: 	 non
+jews
+: 	 yes
+jill
+: 	 yes
+jim
+: 	 yes
+jimmy
+: 	 non
+jj
+: 	 non
+jm
+: 	 non
+jo
+: 	 non
+joan
+: 	 yes
+job
+: 	 yes
+jobs
+: 	 yes
+joe
+: 	 yes
+joel
+: 	 yes
+john
+: 	 yes
+johnny
+: 	 non
+johns
+: 	 non
+johnson
+: 	 non
+johnston
+: 	 non
+join
+: 	 yes
+joined
+: 	 non
+joining
+: 	 non
+joins
+: 	 non
+joint
+: 	 non
+joke
+: 	 yes
+jokes
+: 	 non
+jon
+: 	 yes
+jonathan
+: 	 non
+jones
+: 	 non
+jordan
+: 	 non
+jose
+: 	 yes
+joseph
+: 	 non
+josh
+: 	 yes
+joshua
+: 	 non
+journal
+: 	 non
+journalism
+: 	 non
+journalist
+: 	 non
+journalists
+: 	 non
+journals
+: 	 non
+journey
+: 	 non
+joy
+: 	 yes
+joyce
+: 	 non
+jp
+: 	 non
+jpeg
+: 	 yes
+jpg
+: 	 yes
+jr
+: 	 non
+js
+: 	 non
+juan
+: 	 yes
+judge
+: 	 non
+judges
+: 	 non
+judgment
+: 	 non
+judicial
+: 	 non
+judy
+: 	 yes
+juice
+: 	 non
+jul
+: 	 yes
+julia
+: 	 non
+julian
+: 	 non
+julie
+: 	 non
+july
+: 	 yes
+jump
+: 	 yes
+jumping
+: 	 non
+jun
+: 	 yes
+junction
+: 	 non
+june
+: 	 yes
+jungle
+: 	 non
+junior
+: 	 non
+junk
+: 	 yes
+jurisdiction
+: 	 non
+jury
+: 	 yes
+just
+: 	 yes
+justice
+: 	 non
+justify
+: 	 non
+justin
+: 	 non
+juvenile
+: 	 non
+jvc
+: 	 yes
+k
+: 	 non
+ka
+: 	 non
+kai
+: 	 yes
+kansas
+: 	 non
+karaoke
+: 	 non
+karen
+: 	 non
+karl
+: 	 yes
+karma
+: 	 non
+kate
+: 	 yes
+kathy
+: 	 non
+katie
+: 	 non
+katrina
+: 	 non
+kay
+: 	 yes
+kazakhstan
+: 	 non
+kb
+: 	 non
+kde
+: 	 yes
+keen
+: 	 yes
+keep
+: 	 yes
+keeping
+: 	 non
+keeps
+: 	 non
+keith
+: 	 non
+kelkoo
+: 	 non
+kelly
+: 	 non
+ken
+: 	 yes
+kennedy
+: 	 non
+kenneth
+: 	 non
+kenny
+: 	 non
+keno
+: 	 yes
+kent
+: 	 yes
+kentucky
+: 	 non
+kenya
+: 	 non
+kept
+: 	 yes
+kernel
+: 	 non
+kerry
+: 	 non
+kevin
+: 	 non
+key
+: 	 yes
+keyboard
+: 	 non
+keyboards
+: 	 non
+keys
+: 	 yes
+keyword
+: 	 non
+keywords
+: 	 non
+kg
+: 	 non
+kick
+: 	 yes
+kid
+: 	 yes
+kidney
+: 	 non
+kids
+: 	 yes
+kijiji
+: 	 non
+kill
+: 	 yes
+killed
+: 	 non
+killer
+: 	 non
+killing
+: 	 non
+kills
+: 	 non
+kilometers
+: 	 non
+kim
+: 	 yes
+kinase
+: 	 non
+kind
+: 	 yes
+kinda
+: 	 non
+kinds
+: 	 non
+king
+: 	 yes
+kingdom
+: 	 non
+kings
+: 	 non
+kingston
+: 	 non
+kirk
+: 	 yes
+kiss
+: 	 yes
+kissing
+: 	 non
+kit
+: 	 yes
+kitchen
+: 	 non
+kits
+: 	 yes
+kitty
+: 	 non
+klein
+: 	 non
+km
+: 	 non
+knee
+: 	 yes
+knew
+: 	 yes
+knife
+: 	 non
+knight
+: 	 non
+knights
+: 	 non
+knit
+: 	 yes
+knitting
+: 	 non
+knives
+: 	 non
+knock
+: 	 non
+know
+: 	 yes
+knowing
+: 	 non
+knowledge
+: 	 non
+knowledgestorm
+: 	 non
+known
+: 	 non
+knows
+: 	 non
+ko
+: 	 non
+kodak
+: 	 non
+kong
+: 	 yes
+korea
+: 	 non
+korean
+: 	 non
+kruger
+: 	 non
+ks
+: 	 non
+kurt
+: 	 yes
+kuwait
+: 	 non
+kw
+: 	 non
+ky
+: 	 non
+kyle
+: 	 yes
+l
+: 	 non
+la
+: 	 non
+lab
+: 	 yes
+label
+: 	 non
+labeled
+: 	 non
+labels
+: 	 non
+labor
+: 	 non
+laboratories
+: 	 non
+laboratory
+: 	 non
+labour
+: 	 non
+labs
+: 	 yes
+lace
+: 	 yes
+lack
+: 	 yes
+ladder
+: 	 non
+laden
+: 	 non
+ladies
+: 	 non
+lady
+: 	 yes
+lafayette
+: 	 non
+laid
+: 	 yes
+lake
+: 	 yes
+lakes
+: 	 non
+lamb
+: 	 yes
+lambda
+: 	 non
+lamp
+: 	 yes
+lamps
+: 	 non
+lan
+: 	 yes
+lancaster
+: 	 non
+lance
+: 	 non
+land
+: 	 yes
+landing
+: 	 non
+lands
+: 	 non
+landscape
+: 	 non
+landscapes
+: 	 non
+lane
+: 	 yes
+lanes
+: 	 non
+lang
+: 	 yes
+language
+: 	 non
+languages
+: 	 non
+lanka
+: 	 non
+lap
+: 	 yes
+laptop
+: 	 non
+laptops
+: 	 non
+large
+: 	 non
+largely
+: 	 non
+larger
+: 	 non
+largest
+: 	 non
+larry
+: 	 non
+las
+: 	 yes
+laser
+: 	 non
+last
+: 	 yes
+lasting
+: 	 non
+lat
+: 	 yes
+late
+: 	 yes
+lately
+: 	 non
+later
+: 	 non
+latest
+: 	 non
+latex
+: 	 non
+latin
+: 	 non
+latina
+: 	 non
+latinas
+: 	 non
+latino
+: 	 non
+latitude
+: 	 non
+latter
+: 	 non
+latvia
+: 	 non
+lauderdale
+: 	 non
+laugh
+: 	 non
+laughing
+: 	 non
+launch
+: 	 non
+launched
+: 	 non
+launches
+: 	 non
+laundry
+: 	 non
+laura
+: 	 non
+lauren
+: 	 non
+law
+: 	 yes
+lawn
+: 	 yes
+lawrence
+: 	 non
+laws
+: 	 yes
+lawsuit
+: 	 non
+lawyer
+: 	 non
+lawyers
+: 	 non
+lay
+: 	 yes
+layer
+: 	 non
+layers
+: 	 non
+layout
+: 	 non
+lazy
+: 	 yes
+lb
+: 	 non
+lbs
+: 	 yes
+lc
+: 	 non
+lcd
+: 	 yes
+ld
+: 	 non
+le
+: 	 non
+lead
+: 	 yes
+leader
+: 	 non
+leaders
+: 	 non
+leadership
+: 	 non
+leading
+: 	 non
+leads
+: 	 non
+leaf
+: 	 yes
+league
+: 	 non
+lean
+: 	 yes
+learn
+: 	 non
+learned
+: 	 non
+learners
+: 	 non
+learning
+: 	 non
+lease
+: 	 non
+leasing
+: 	 non
+least
+: 	 non
+leather
+: 	 non
+leave
+: 	 non
+leaves
+: 	 non
+leaving
+: 	 non
+lebanon
+: 	 non
+lecture
+: 	 non
+lectures
+: 	 non
+led
+: 	 yes
+lee
+: 	 yes
+leeds
+: 	 non
+left
+: 	 yes
+leg
+: 	 yes
+legacy
+: 	 non
+legal
+: 	 non
+legally
+: 	 non
+legend
+: 	 non
+legendary
+: 	 non
+legends
+: 	 non
+legislation
+: 	 non
+legislative
+: 	 non
+legislature
+: 	 non
+legitimate
+: 	 non
+legs
+: 	 yes
+leisure
+: 	 non
+lemon
+: 	 non
+len
+: 	 yes
+lender
+: 	 non
+lenders
+: 	 non
+lending
+: 	 non
+length
+: 	 non
+lens
+: 	 yes
+lenses
+: 	 non
+leo
+: 	 yes
+leon
+: 	 yes
+leonard
+: 	 non
+leone
+: 	 non
+les
+: 	 yes
+lesbian
+: 	 non
+lesbians
+: 	 non
+leslie
+: 	 non
+less
+: 	 yes
+lesser
+: 	 non
+lesson
+: 	 non
+lessons
+: 	 non
+let
+: 	 yes
+lets
+: 	 yes
+letter
+: 	 non
+letters
+: 	 non
+letting
+: 	 non
+leu
+: 	 yes
+level
+: 	 non
+levels
+: 	 non
+levitra
+: 	 non
+levy
+: 	 yes
+lewis
+: 	 non
+lexington
+: 	 non
+lexmark
+: 	 non
+lexus
+: 	 non
+lf
+: 	 non
+lg
+: 	 non
+li
+: 	 non
+liabilities
+: 	 non
+liability
+: 	 non
+liable
+: 	 non
+lib
+: 	 yes
+liberal
+: 	 non
+liberia
+: 	 non
+liberty
+: 	 non
+librarian
+: 	 non
+libraries
+: 	 non
+library
+: 	 non
+libs
+: 	 yes
+licence
+: 	 non
+license
+: 	 non
+licensed
+: 	 non
+licenses
+: 	 non
+licensing
+: 	 non
+licking
+: 	 non
+lid
+: 	 yes
+lie
+: 	 yes
+liechtenstein
+: 	 non
+lies
+: 	 yes
+life
+: 	 yes
+lifestyle
+: 	 non
+lifetime
+: 	 non
+lift
+: 	 yes
+light
+: 	 non
+lighter
+: 	 non
+lighting
+: 	 non
+lightning
+: 	 non
+lights
+: 	 non
+lightweight
+: 	 non
+like
+: 	 yes
+liked
+: 	 non
+likelihood
+: 	 non
+likely
+: 	 non
+likes
+: 	 non
+likewise
+: 	 non
+lil
+: 	 yes
+lime
+: 	 yes
+limit
+: 	 non
+limitation
+: 	 non
+limitations
+: 	 non
+limited
+: 	 non
+limiting
+: 	 non
+limits
+: 	 non
+limousines
+: 	 non
+lincoln
+: 	 non
+linda
+: 	 non
+lindsay
+: 	 non
+line
+: 	 yes
+linear
+: 	 non
+lined
+: 	 non
+lines
+: 	 non
+lingerie
+: 	 non
+link
+: 	 yes
+linked
+: 	 non
+linking
+: 	 non
+links
+: 	 non
+linux
+: 	 non
+lion
+: 	 yes
+lions
+: 	 non
+lip
+: 	 yes
+lips
+: 	 yes
+liquid
+: 	 non
+lisa
+: 	 yes
+list
+: 	 yes
+listed
+: 	 non
+listen
+: 	 non
+listening
+: 	 non
+listing
+: 	 non
+listings
+: 	 non
+listprice
+: 	 non
+lists
+: 	 non
+lit
+: 	 yes
+lite
+: 	 yes
+literacy
+: 	 non
+literally
+: 	 non
+literary
+: 	 non
+literature
+: 	 non
+lithuania
+: 	 non
+litigation
+: 	 non
+little
+: 	 non
+live
+: 	 yes
+livecam
+: 	 non
+lived
+: 	 non
+liver
+: 	 non
+liverpool
+: 	 non
+lives
+: 	 non
+livesex
+: 	 non
+livestock
+: 	 non
+living
+: 	 non
+liz
+: 	 yes
+ll
+: 	 non
+llc
+: 	 yes
+lloyd
+: 	 non
+llp
+: 	 yes
+lm
+: 	 non
+ln
+: 	 non
+lo
+: 	 non
+load
+: 	 yes
+loaded
+: 	 non
+loading
+: 	 non
+loads
+: 	 non
+loan
+: 	 yes
+loans
+: 	 non
+lobby
+: 	 non
+loc
+: 	 yes
+local
+: 	 non
+locale
+: 	 non
+locally
+: 	 non
+locate
+: 	 non
+located
+: 	 non
+location
+: 	 non
+locations
+: 	 non
+locator
+: 	 non
+lock
+: 	 yes
+locked
+: 	 non
+locking
+: 	 non
+locks
+: 	 non
+lodge
+: 	 non
+lodging
+: 	 non
+log
+: 	 yes
+logan
+: 	 non
+logged
+: 	 non
+logging
+: 	 non
+logic
+: 	 non
+logical
+: 	 non
+login
+: 	 non
+logistics
+: 	 non
+logitech
+: 	 non
+logo
+: 	 yes
+logos
+: 	 non
+logs
+: 	 yes
+lol
+: 	 yes
+lolita
+: 	 non
+london
+: 	 non
+lone
+: 	 yes
+lonely
+: 	 non
+long
+: 	 yes
+longer
+: 	 non
+longest
+: 	 non
+longitude
+: 	 non
+look
+: 	 yes
+looked
+: 	 non
+looking
+: 	 non
+looks
+: 	 non
+looksmart
+: 	 non
+lookup
+: 	 non
+loop
+: 	 yes
+loops
+: 	 non
+loose
+: 	 non
+lopez
+: 	 non
+lord
+: 	 yes
+los
+: 	 yes
+lose
+: 	 yes
+losing
+: 	 non
+loss
+: 	 yes
+losses
+: 	 non
+lost
+: 	 yes
+lot
+: 	 yes
+lots
+: 	 yes
+lottery
+: 	 non
+lotus
+: 	 non
+lou
+: 	 yes
+loud
+: 	 yes
+louis
+: 	 non
+louise
+: 	 non
+louisiana
+: 	 non
+louisville
+: 	 non
+lounge
+: 	 non
+love
+: 	 yes
+loved
+: 	 non
+lovely
+: 	 non
+lover
+: 	 non
+lovers
+: 	 non
+loves
+: 	 non
+loving
+: 	 non
+low
+: 	 yes
+lower
+: 	 non
+lowest
+: 	 non
+lows
+: 	 yes
+lp
+: 	 non
+ls
+: 	 non
+lt
+: 	 non
+ltd
+: 	 yes
+lu
+: 	 non
+lucas
+: 	 non
+lucia
+: 	 non
+luck
+: 	 yes
+lucky
+: 	 non
+lucy
+: 	 yes
+luggage
+: 	 non
+luis
+: 	 yes
+luke
+: 	 yes
+lunch
+: 	 non
+lung
+: 	 yes
+luther
+: 	 non
+luxembourg
+: 	 non
+luxury
+: 	 non
+lycos
+: 	 non
+lying
+: 	 non
+lynn
+: 	 yes
+lyric
+: 	 non
+lyrics
+: 	 non
+m
+: 	 non
+ma
+: 	 non
+mac
+: 	 yes
+macedonia
+: 	 non
+machine
+: 	 non
+machinery
+: 	 non
+machines
+: 	 non
+macintosh
+: 	 non
+macro
+: 	 non
+macromedia
+: 	 non
+mad
+: 	 yes
+madagascar
+: 	 non
+made
+: 	 yes
+madison
+: 	 non
+madness
+: 	 non
+madonna
+: 	 non
+madrid
+: 	 non
+mae
+: 	 yes
+mag
+: 	 yes
+magazine
+: 	 non
+magazines
+: 	 non
+magic
+: 	 non
+magical
+: 	 non
+magnet
+: 	 non
+magnetic
+: 	 non
+magnificent
+: 	 non
+magnitude
+: 	 non
+mai
+: 	 yes
+maiden
+: 	 non
+mail
+: 	 yes
+mailed
+: 	 non
+mailing
+: 	 non
+mailman
+: 	 non
+mails
+: 	 non
+mailto
+: 	 non
+main
+: 	 yes
+maine
+: 	 non
+mainland
+: 	 non
+mainly
+: 	 non
+mainstream
+: 	 non
+maintain
+: 	 non
+maintained
+: 	 non
+maintaining
+: 	 non
+maintains
+: 	 non
+maintenance
+: 	 non
+major
+: 	 non
+majority
+: 	 non
+make
+: 	 yes
+maker
+: 	 non
+makers
+: 	 non
+makes
+: 	 non
+makeup
+: 	 non
+making
+: 	 non
+malawi
+: 	 non
+malaysia
+: 	 non
+maldives
+: 	 non
+male
+: 	 yes
+males
+: 	 non
+mali
+: 	 yes
+mall
+: 	 yes
+malpractice
+: 	 non
+malta
+: 	 non
+mambo
+: 	 non
+man
+: 	 yes
+manage
+: 	 non
+managed
+: 	 non
+management
+: 	 non
+manager
+: 	 non
+managers
+: 	 non
+managing
+: 	 non
+manchester
+: 	 non
+mandate
+: 	 non
+mandatory
+: 	 non
+manga
+: 	 non
+manhattan
+: 	 non
+manitoba
+: 	 non
+manner
+: 	 non
+manor
+: 	 non
+manual
+: 	 non
+manually
+: 	 non
+manuals
+: 	 non
+manufacture
+: 	 non
+manufactured
+: 	 non
+manufacturer
+: 	 non
+manufacturers
+: 	 non
+manufacturing
+: 	 non
+many
+: 	 yes
+map
+: 	 yes
+maple
+: 	 non
+mapping
+: 	 non
+maps
+: 	 yes
+mar
+: 	 yes
+marathon
+: 	 non
+marble
+: 	 non
+marc
+: 	 yes
+march
+: 	 non
+marco
+: 	 non
+marcus
+: 	 non
+mardi
+: 	 non
+margaret
+: 	 non
+margin
+: 	 non
+maria
+: 	 non
+mariah
+: 	 non
+marie
+: 	 non
+marijuana
+: 	 non
+marilyn
+: 	 non
+marina
+: 	 non
+marine
+: 	 non
+mario
+: 	 non
+marion
+: 	 non
+maritime
+: 	 non
+mark
+: 	 yes
+marked
+: 	 non
+marker
+: 	 non
+markers
+: 	 non
+market
+: 	 non
+marketing
+: 	 non
+marketplace
+: 	 non
+markets
+: 	 non
+marking
+: 	 non
+marks
+: 	 non
+marriage
+: 	 non
+married
+: 	 non
+marriott
+: 	 non
+mars
+: 	 yes
+marshall
+: 	 non
+mart
+: 	 yes
+martha
+: 	 non
+martial
+: 	 non
+martin
+: 	 non
+marvel
+: 	 non
+mary
+: 	 yes
+maryland
+: 	 non
+mas
+: 	 yes
+mask
+: 	 yes
+mason
+: 	 non
+mass
+: 	 yes
+massachusetts
+: 	 non
+massage
+: 	 non
+massive
+: 	 non
+master
+: 	 non
+mastercard
+: 	 non
+masters
+: 	 non
+masturbating
+: 	 non
+masturbation
+: 	 non
+mat
+: 	 yes
+match
+: 	 non
+matched
+: 	 non
+matches
+: 	 non
+matching
+: 	 non
+mate
+: 	 yes
+material
+: 	 non
+materials
+: 	 non
+maternity
+: 	 non
+math
+: 	 yes
+mathematical
+: 	 non
+mathematics
+: 	 non
+mating
+: 	 non
+matrix
+: 	 non
+mats
+: 	 yes
+matt
+: 	 yes
+matter
+: 	 non
+matters
+: 	 non
+matthew
+: 	 non
+mattress
+: 	 non
+mature
+: 	 non
+maui
+: 	 yes
+mauritius
+: 	 non
+max
+: 	 yes
+maximize
+: 	 non
+maximum
+: 	 non
+may
+: 	 yes
+maybe
+: 	 non
+mayor
+: 	 non
+mazda
+: 	 non
+mb
+: 	 non
+mba
+: 	 yes
+mc
+: 	 non
+mcdonald
+: 	 non
+md
+: 	 non
+me
+: 	 non
+meal
+: 	 yes
+meals
+: 	 non
+mean
+: 	 yes
+meaning
+: 	 non
+meaningful
+: 	 non
+means
+: 	 non
+meant
+: 	 non
+meanwhile
+: 	 non
+measure
+: 	 non
+measured
+: 	 non
+measurement
+: 	 non
+measurements
+: 	 non
+measures
+: 	 non
+measuring
+: 	 non
+meat
+: 	 yes
+mechanical
+: 	 non
+mechanics
+: 	 non
+mechanism
+: 	 non
+mechanisms
+: 	 non
+med
+: 	 yes
+medal
+: 	 non
+media
+: 	 non
+median
+: 	 non
+medicaid
+: 	 non
+medical
+: 	 non
+medicare
+: 	 non
+medication
+: 	 non
+medications
+: 	 non
+medicine
+: 	 non
+medicines
+: 	 non
+medieval
+: 	 non
+meditation
+: 	 non
+mediterranean
+: 	 non
+medium
+: 	 non
+medline
+: 	 non
+meet
+: 	 yes
+meeting
+: 	 non
+meetings
+: 	 non
+meets
+: 	 non
+meetup
+: 	 non
+mega
+: 	 yes
+mel
+: 	 yes
+melbourne
+: 	 non
+melissa
+: 	 non
+mem
+: 	 yes
+member
+: 	 non
+members
+: 	 non
+membership
+: 	 non
+membrane
+: 	 non
+memo
+: 	 yes
+memorabilia
+: 	 non
+memorial
+: 	 non
+memories
+: 	 non
+memory
+: 	 non
+memphis
+: 	 non
+men
+: 	 yes
+mens
+: 	 yes
+ment
+: 	 yes
+mental
+: 	 non
+mention
+: 	 non
+mentioned
+: 	 non
+mentor
+: 	 non
+menu
+: 	 yes
+menus
+: 	 non
+mercedes
+: 	 non
+merchandise
+: 	 non
+merchant
+: 	 non
+merchants
+: 	 non
+mercury
+: 	 non
+mercy
+: 	 non
+mere
+: 	 yes
+merely
+: 	 non
+merge
+: 	 non
+merger
+: 	 non
+merit
+: 	 non
+merry
+: 	 non
+mesa
+: 	 yes
+mesh
+: 	 yes
+mess
+: 	 yes
+message
+: 	 non
+messages
+: 	 non
+messaging
+: 	 non
+messenger
+: 	 non
+met
+: 	 yes
+meta
+: 	 yes
+metabolism
+: 	 non
+metadata
+: 	 non
+metal
+: 	 non
+metallic
+: 	 non
+metallica
+: 	 non
+metals
+: 	 non
+meter
+: 	 non
+meters
+: 	 non
+method
+: 	 non
+methodology
+: 	 non
+methods
+: 	 non
+metres
+: 	 non
+metric
+: 	 non
+metro
+: 	 non
+metropolitan
+: 	 non
+mexican
+: 	 non
+mexico
+: 	 non
+meyer
+: 	 non
+mf
+: 	 non
+mfg
+: 	 yes
+mg
+: 	 non
+mh
+: 	 non
+mhz
+: 	 yes
+mi
+: 	 non
+mia
+: 	 yes
+miami
+: 	 non
+mic
+: 	 yes
+mice
+: 	 yes
+michael
+: 	 non
+michel
+: 	 non
+michelle
+: 	 non
+michigan
+: 	 non
+micro
+: 	 non
+microphone
+: 	 non
+microsoft
+: 	 non
+microwave
+: 	 non
+mid
+: 	 yes
+middle
+: 	 non
+midi
+: 	 yes
+midlands
+: 	 non
+midnight
+: 	 non
+midwest
+: 	 non
+might
+: 	 non
+mighty
+: 	 non
+migration
+: 	 non
+mike
+: 	 yes
+mil
+: 	 yes
+milan
+: 	 non
+mild
+: 	 yes
+mile
+: 	 yes
+mileage
+: 	 non
+miles
+: 	 non
+milf
+: 	 yes
+milfhunter
+: 	 non
+milfs
+: 	 non
+military
+: 	 non
+milk
+: 	 yes
+mill
+: 	 yes
+millennium
+: 	 non
+miller
+: 	 non
+million
+: 	 non
+millions
+: 	 non
+mills
+: 	 non
+milton
+: 	 non
+milwaukee
+: 	 non
+mime
+: 	 yes
+min
+: 	 yes
+mind
+: 	 yes
+minds
+: 	 non
+mine
+: 	 yes
+mineral
+: 	 non
+minerals
+: 	 non
+mines
+: 	 non
+mini
+: 	 yes
+miniature
+: 	 non
+minimal
+: 	 non
+minimize
+: 	 non
+minimum
+: 	 non
+mining
+: 	 non
+minister
+: 	 non
+ministers
+: 	 non
+ministries
+: 	 non
+ministry
+: 	 non
+minneapolis
+: 	 non
+minnesota
+: 	 non
+minolta
+: 	 non
+minor
+: 	 non
+minority
+: 	 non
+mins
+: 	 yes
+mint
+: 	 yes
+minus
+: 	 non
+minute
+: 	 non
+minutes
+: 	 non
+miracle
+: 	 non
+mirror
+: 	 non
+mirrors
+: 	 non
+misc
+: 	 yes
+miscellaneous
+: 	 non
+miss
+: 	 yes
+missed
+: 	 non
+missile
+: 	 non
+missing
+: 	 non
+mission
+: 	 non
+missions
+: 	 non
+mississippi
+: 	 non
+missouri
+: 	 non
+mistake
+: 	 non
+mistakes
+: 	 non
+mistress
+: 	 non
+mit
+: 	 yes
+mitchell
+: 	 non
+mitsubishi
+: 	 non
+mix
+: 	 yes
+mixed
+: 	 non
+mixer
+: 	 non
+mixing
+: 	 non
+mixture
+: 	 non
+mj
+: 	 non
+ml
+: 	 non
+mlb
+: 	 yes
+mls
+: 	 yes
+mm
+: 	 non
+mn
+: 	 non
+mo
+: 	 non
+mobile
+: 	 non
+mobiles
+: 	 non
+mobility
+: 	 non
+mod
+: 	 yes
+mode
+: 	 yes
+model
+: 	 non
+modeling
+: 	 non
+modelling
+: 	 non
+models
+: 	 non
+modem
+: 	 non
+modems
+: 	 non
+moderate
+: 	 non
+moderator
+: 	 non
+moderators
+: 	 non
+modern
+: 	 non
+modes
+: 	 non
+modification
+: 	 non
+modifications
+: 	 non
+modified
+: 	 non
+modify
+: 	 non
+mods
+: 	 yes
+modular
+: 	 non
+module
+: 	 non
+modules
+: 	 non
+moisture
+: 	 non
+mold
+: 	 yes
+moldova
+: 	 non
+molecular
+: 	 non
+molecules
+: 	 non
+mom
+: 	 yes
+moment
+: 	 non
+moments
+: 	 non
+momentum
+: 	 non
+moms
+: 	 yes
+mon
+: 	 yes
+monaco
+: 	 non
+monday
+: 	 non
+monetary
+: 	 non
+money
+: 	 non
+mongolia
+: 	 non
+monica
+: 	 non
+monitor
+: 	 non
+monitored
+: 	 non
+monitoring
+: 	 non
+monitors
+: 	 non
+monkey
+: 	 non
+mono
+: 	 yes
+monroe
+: 	 non
+monster
+: 	 non
+montana
+: 	 non
+monte
+: 	 non
+montgomery
+: 	 non
+month
+: 	 non
+monthly
+: 	 non
+months
+: 	 non
+montreal
+: 	 non
+mood
+: 	 yes
+moon
+: 	 yes
+moore
+: 	 non
+moral
+: 	 non
+more
+: 	 yes
+moreover
+: 	 non
+morgan
+: 	 non
+morning
+: 	 non
+morocco
+: 	 non
+morris
+: 	 non
+morrison
+: 	 non
+mortality
+: 	 non
+mortgage
+: 	 non
+mortgages
+: 	 non
+moscow
+: 	 non
+moses
+: 	 non
+moss
+: 	 yes
+most
+: 	 yes
+mostly
+: 	 non
+motel
+: 	 non
+motels
+: 	 non
+mother
+: 	 non
+motherboard
+: 	 non
+mothers
+: 	 non
+motion
+: 	 non
+motivated
+: 	 non
+motivation
+: 	 non
+motor
+: 	 non
+motorcycle
+: 	 non
+motorcycles
+: 	 non
+motorola
+: 	 non
+motors
+: 	 non
+mount
+: 	 non
+mountain
+: 	 non
+mountains
+: 	 non
+mounted
+: 	 non
+mounting
+: 	 non
+mounts
+: 	 non
+mouse
+: 	 non
+mouth
+: 	 non
+move
+: 	 yes
+moved
+: 	 non
+movement
+: 	 non
+movements
+: 	 non
+movers
+: 	 non
+moves
+: 	 non
+movie
+: 	 non
+movies
+: 	 non
+moving
+: 	 non
+mozambique
+: 	 non
+mozilla
+: 	 non
+mp
+: 	 non
+mpeg
+: 	 yes
+mpegs
+: 	 non
+mpg
+: 	 yes
+mph
+: 	 yes
+mr
+: 	 non
+mrna
+: 	 yes
+mrs
+: 	 yes
+ms
+: 	 non
+msg
+: 	 yes
+msgid
+: 	 non
+msgstr
+: 	 non
+msie
+: 	 yes
+msn
+: 	 yes
+mt
+: 	 non
+mtv
+: 	 yes
+mu
+: 	 non
+much
+: 	 yes
+mud
+: 	 yes
+mug
+: 	 yes
+multi
+: 	 non
+multimedia
+: 	 non
+multiple
+: 	 non
+mumbai
+: 	 non
+munich
+: 	 non
+municipal
+: 	 non
+municipality
+: 	 non
+murder
+: 	 non
+murphy
+: 	 non
+murray
+: 	 non
+muscle
+: 	 non
+muscles
+: 	 non
+museum
+: 	 non
+museums
+: 	 non
+music
+: 	 non
+musical
+: 	 non
+musician
+: 	 non
+musicians
+: 	 non
+muslim
+: 	 non
+muslims
+: 	 non
+must
+: 	 yes
+mustang
+: 	 non
+mutual
+: 	 non
+muze
+: 	 yes
+mv
+: 	 non
+mw
+: 	 non
+mx
+: 	 non
+my
+: 	 non
+myanmar
+: 	 non
+myers
+: 	 non
+myrtle
+: 	 non
+myself
+: 	 non
+mysimon
+: 	 non
+myspace
+: 	 non
+mysql
+: 	 non
+mysterious
+: 	 non
+mystery
+: 	 non
+myth
+: 	 yes
+n
+: 	 non
+na
+: 	 non
+nail
+: 	 yes
+nails
+: 	 non
+naked
+: 	 non
+nam
+: 	 yes
+name
+: 	 yes
+named
+: 	 non
+namely
+: 	 non
+names
+: 	 non
+namespace
+: 	 non
+namibia
+: 	 non
+nancy
+: 	 non
+nano
+: 	 yes
+naples
+: 	 non
+narrative
+: 	 non
+narrow
+: 	 non
+nasa
+: 	 yes
+nascar
+: 	 non
+nasdaq
+: 	 non
+nashville
+: 	 non
+nasty
+: 	 non
+nat
+: 	 yes
+nathan
+: 	 non
+nation
+: 	 non
+national
+: 	 non
+nationally
+: 	 non
+nations
+: 	 non
+nationwide
+: 	 non
+native
+: 	 non
+nato
+: 	 yes
+natural
+: 	 non
+naturally
+: 	 non
+naturals
+: 	 non
+nature
+: 	 non
+naughty
+: 	 non
+nav
+: 	 yes
+naval
+: 	 non
+navigate
+: 	 non
+navigation
+: 	 non
+navigator
+: 	 non
+navy
+: 	 yes
+nb
+: 	 non
+nba
+: 	 yes
+nbc
+: 	 yes
+nc
+: 	 non
+ncaa
+: 	 yes
+nd
+: 	 non
+ne
+: 	 non
+near
+: 	 yes
+nearby
+: 	 non
+nearest
+: 	 non
+nearly
+: 	 non
+nebraska
+: 	 non
+nec
+: 	 yes
+necessarily
+: 	 non
+necessary
+: 	 non
+necessity
+: 	 non
+neck
+: 	 yes
+necklace
+: 	 non
+need
+: 	 yes
+needed
+: 	 non
+needle
+: 	 non
+needs
+: 	 non
+negative
+: 	 non
+negotiation
+: 	 non
+negotiations
+: 	 non
+neighbor
+: 	 non
+neighborhood
+: 	 non
+neighbors
+: 	 non
+neil
+: 	 yes
+neither
+: 	 non
+nelson
+: 	 non
+neo
+: 	 yes
+neon
+: 	 yes
+nepal
+: 	 non
+nerve
+: 	 non
+nervous
+: 	 non
+nest
+: 	 yes
+nested
+: 	 non
+net
+: 	 yes
+netherlands
+: 	 non
+netscape
+: 	 non
+network
+: 	 non
+networking
+: 	 non
+networks
+: 	 non
+neural
+: 	 non
+neutral
+: 	 non
+nevada
+: 	 non
+never
+: 	 non
+nevertheless
+: 	 non
+new
+: 	 yes
+newark
+: 	 non
+newbie
+: 	 non
+newcastle
+: 	 non
+newer
+: 	 non
+newest
+: 	 non
+newfoundland
+: 	 non
+newly
+: 	 non
+newport
+: 	 non
+news
+: 	 yes
+newscom
+: 	 non
+newsletter
+: 	 non
+newsletters
+: 	 non
+newspaper
+: 	 non
+newspapers
+: 	 non
+newton
+: 	 non
+next
+: 	 yes
+nextel
+: 	 non
+nfl
+: 	 yes
+ng
+: 	 non
+nh
+: 	 non
+nhl
+: 	 yes
+nhs
+: 	 yes
+ni
+: 	 non
+niagara
+: 	 non
+nicaragua
+: 	 non
+nice
+: 	 yes
+nicholas
+: 	 non
+nick
+: 	 yes
+nickel
+: 	 non
+nickname
+: 	 non
+nicole
+: 	 non
+niger
+: 	 non
+nigeria
+: 	 non
+night
+: 	 non
+nightlife
+: 	 non
+nightmare
+: 	 non
+nights
+: 	 non
+nike
+: 	 yes
+nikon
+: 	 non
+nil
+: 	 yes
+nine
+: 	 yes
+nintendo
+: 	 non
+nipple
+: 	 non
+nipples
+: 	 non
+nirvana
+: 	 non
+nissan
+: 	 non
+nitrogen
+: 	 non
+nj
+: 	 non
+nl
+: 	 non
+nm
+: 	 non
+nn
+: 	 non
+no
+: 	 non
+noble
+: 	 non
+nobody
+: 	 non
+node
+: 	 yes
+nodes
+: 	 non
+noise
+: 	 non
+nokia
+: 	 non
+nominated
+: 	 non
+nomination
+: 	 non
+nominations
+: 	 non
+non
+: 	 yes
+none
+: 	 yes
+nonprofit
+: 	 non
+noon
+: 	 yes
+nor
+: 	 yes
+norfolk
+: 	 non
+norm
+: 	 yes
+normal
+: 	 non
+normally
+: 	 non
+norman
+: 	 non
+north
+: 	 non
+northeast
+: 	 non
+northern
+: 	 non
+northwest
+: 	 non
+norton
+: 	 non
+norway
+: 	 non
+norwegian
+: 	 non
+nos
+: 	 yes
+nose
+: 	 yes
+not
+: 	 yes
+note
+: 	 yes
+notebook
+: 	 non
+notebooks
+: 	 non
+noted
+: 	 non
+notes
+: 	 non
+nothing
+: 	 non
+notice
+: 	 non
+noticed
+: 	 non
+notices
+: 	 non
+notification
+: 	 non
+notifications
+: 	 non
+notified
+: 	 non
+notify
+: 	 non
+notion
+: 	 non
+notre
+: 	 non
+nottingham
+: 	 non
+nov
+: 	 yes
+nova
+: 	 yes
+novel
+: 	 non
+novels
+: 	 non
+novelty
+: 	 non
+november
+: 	 non
+now
+: 	 yes
+nowhere
+: 	 non
+np
+: 	 non
+nr
+: 	 non
+ns
+: 	 non
+nsw
+: 	 yes
+nt
+: 	 non
+ntsc
+: 	 yes
+nu
+: 	 non
+nuclear
+: 	 non
+nude
+: 	 yes
+nudist
+: 	 non
+nudity
+: 	 non
+nuke
+: 	 yes
+null
+: 	 yes
+number
+: 	 non
+numbers
+: 	 non
+numeric
+: 	 non
+numerical
+: 	 non
+numerous
+: 	 non
+nurse
+: 	 non
+nursery
+: 	 non
+nurses
+: 	 non
+nursing
+: 	 non
+nut
+: 	 yes
+nutrition
+: 	 non
+nutritional
+: 	 non
+nuts
+: 	 yes
+nutten
+: 	 non
+nv
+: 	 non
+nvidia
+: 	 non
+nw
+: 	 non
+ny
+: 	 non
+nyc
+: 	 yes
+nylon
+: 	 non
+nz
+: 	 non
+o
+: 	 non
+oak
+: 	 yes
+oakland
+: 	 non
+oaks
+: 	 yes
+oasis
+: 	 non
+ob
+: 	 non
+obesity
+: 	 non
+obituaries
+: 	 non
+obj
+: 	 yes
+object
+: 	 non
+objective
+: 	 non
+objectives
+: 	 non
+objects
+: 	 non
+obligation
+: 	 non
+obligations
+: 	 non
+observation
+: 	 non
+observations
+: 	 non
+observe
+: 	 non
+observed
+: 	 non
+observer
+: 	 non
+obtain
+: 	 non
+obtained
+: 	 non
+obtaining
+: 	 non
+obvious
+: 	 non
+obviously
+: 	 non
+oc
+: 	 non
+occasion
+: 	 non
+occasional
+: 	 non
+occasionally
+: 	 non
+occasions
+: 	 non
+occupation
+: 	 non
+occupational
+: 	 non
+occupations
+: 	 non
+occupied
+: 	 non
+occur
+: 	 non
+occurred
+: 	 non
+occurrence
+: 	 non
+occurring
+: 	 non
+occurs
+: 	 non
+ocean
+: 	 non
+oclc
+: 	 yes
+oct
+: 	 yes
+october
+: 	 non
+odd
+: 	 yes
+odds
+: 	 yes
+oe
+: 	 non
+oecd
+: 	 yes
+oem
+: 	 yes
+of
+: 	 non
+off
+: 	 yes
+offense
+: 	 non
+offensive
+: 	 non
+offer
+: 	 non
+offered
+: 	 non
+offering
+: 	 non
+offerings
+: 	 non
+offers
+: 	 non
+office
+: 	 non
+officer
+: 	 non
+officers
+: 	 non
+offices
+: 	 non
+official
+: 	 non
+officially
+: 	 non
+officials
+: 	 non
+offline
+: 	 non
+offset
+: 	 non
+offshore
+: 	 non
+often
+: 	 non
+og
+: 	 non
+oh
+: 	 non
+ohio
+: 	 yes
+oil
+: 	 yes
+oils
+: 	 yes
+ok
+: 	 non
+okay
+: 	 yes
+oklahoma
+: 	 non
+ol
+: 	 non
+old
+: 	 yes
+older
+: 	 non
+oldest
+: 	 non
+olive
+: 	 non
+oliver
+: 	 non
+olympic
+: 	 non
+olympics
+: 	 non
+olympus
+: 	 non
+om
+: 	 non
+omaha
+: 	 non
+oman
+: 	 yes
+omega
+: 	 non
+omissions
+: 	 non
+on
+: 	 non
+once
+: 	 yes
+one
+: 	 yes
+ones
+: 	 yes
+ongoing
+: 	 non
+onion
+: 	 non
+online
+: 	 non
+only
+: 	 yes
+ons
+: 	 yes
+ontario
+: 	 non
+onto
+: 	 yes
+oo
+: 	 non
+ooo
+: 	 yes
+oops
+: 	 yes
+op
+: 	 non
+open
+: 	 yes
+opened
+: 	 non
+opening
+: 	 non
+openings
+: 	 non
+opens
+: 	 non
+opera
+: 	 non
+operate
+: 	 non
+operated
+: 	 non
+operates
+: 	 non
+operating
+: 	 non
+operation
+: 	 non
+operational
+: 	 non
+operations
+: 	 non
+operator
+: 	 non
+operators
+: 	 non
+opinion
+: 	 non
+opinions
+: 	 non
+opponent
+: 	 non
+opponents
+: 	 non
+opportunities
+: 	 non
+opportunity
+: 	 non
+opposed
+: 	 non
+opposite
+: 	 non
+opposition
+: 	 non
+opt
+: 	 yes
+optical
+: 	 non
+optics
+: 	 non
+optimal
+: 	 non
+optimization
+: 	 non
+optimize
+: 	 non
+optimum
+: 	 non
+option
+: 	 non
+optional
+: 	 non
+options
+: 	 non
+or
+: 	 non
+oracle
+: 	 non
+oral
+: 	 yes
+orange
+: 	 non
+orbit
+: 	 non
+orchestra
+: 	 non
+order
+: 	 non
+ordered
+: 	 non
+ordering
+: 	 non
+orders
+: 	 non
+ordinance
+: 	 non
+ordinary
+: 	 non
+oregon
+: 	 non
+org
+: 	 yes
+organ
+: 	 non
+organic
+: 	 non
+organisation
+: 	 non
+organisations
+: 	 non
+organised
+: 	 non
+organisms
+: 	 non
+organization
+: 	 non
+organizational
+: 	 non
+organizations
+: 	 non
+organize
+: 	 non
+organized
+: 	 non
+organizer
+: 	 non
+organizing
+: 	 non
+orgasm
+: 	 non
+orgy
+: 	 yes
+oriental
+: 	 non
+orientation
+: 	 non
+oriented
+: 	 non
+origin
+: 	 non
+original
+: 	 non
+originally
+: 	 non
+origins
+: 	 non
+orlando
+: 	 non
+orleans
+: 	 non
+os
+: 	 non
+oscar
+: 	 non
+ot
+: 	 non
+other
+: 	 non
+others
+: 	 non
+otherwise
+: 	 non
+ottawa
+: 	 non
+ou
+: 	 non
+ought
+: 	 non
+our
+: 	 yes
+ours
+: 	 yes
+ourselves
+: 	 non
+out
+: 	 yes
+outcome
+: 	 non
+outcomes
+: 	 non
+outdoor
+: 	 non
+outdoors
+: 	 non
+outer
+: 	 non
+outlet
+: 	 non
+outline
+: 	 non
+outlined
+: 	 non
+outlook
+: 	 non
+output
+: 	 non
+outputs
+: 	 non
+outreach
+: 	 non
+outside
+: 	 non
+outsourcing
+: 	 non
+outstanding
+: 	 non
+oval
+: 	 yes
+oven
+: 	 yes
+over
+: 	 yes
+overall
+: 	 non
+overcome
+: 	 non
+overhead
+: 	 non
+overnight
+: 	 non
+overseas
+: 	 non
+overview
+: 	 non
+owen
+: 	 yes
+own
+: 	 yes
+owned
+: 	 non
+owner
+: 	 non
+owners
+: 	 non
+ownership
+: 	 non
+owns
+: 	 yes
+oxford
+: 	 non
+oxide
+: 	 non
+oxygen
+: 	 non
+oz
+: 	 non
+ozone
+: 	 non
+p
+: 	 non
+pa
+: 	 non
+pac
+: 	 yes
+pace
+: 	 yes
+pacific
+: 	 non
+pack
+: 	 yes
+package
+: 	 non
+packages
+: 	 non
+packaging
+: 	 non
+packard
+: 	 non
+packed
+: 	 non
+packet
+: 	 non
+packets
+: 	 non
+packing
+: 	 non
+packs
+: 	 non
+pad
+: 	 yes
+pads
+: 	 yes
+page
+: 	 yes
+pages
+: 	 non
+paid
+: 	 yes
+pain
+: 	 yes
+painful
+: 	 non
+paint
+: 	 non
+paintball
+: 	 non
+painted
+: 	 non
+painting
+: 	 non
+paintings
+: 	 non
+pair
+: 	 yes
+pairs
+: 	 non
+pakistan
+: 	 non
+pal
+: 	 yes
+palace
+: 	 non
+pale
+: 	 yes
+palestine
+: 	 non
+palestinian
+: 	 non
+palm
+: 	 yes
+palmer
+: 	 non
+pam
+: 	 yes
+pamela
+: 	 non
+pan
+: 	 yes
+panama
+: 	 non
+panasonic
+: 	 non
+panel
+: 	 non
+panels
+: 	 non
+panic
+: 	 non
+panties
+: 	 non
+pants
+: 	 non
+pantyhose
+: 	 non
+paper
+: 	 non
+paperback
+: 	 non
+paperbacks
+: 	 non
+papers
+: 	 non
+papua
+: 	 non
+par
+: 	 yes
+para
+: 	 yes
+parade
+: 	 non
+paradise
+: 	 non
+paragraph
+: 	 non
+paragraphs
+: 	 non
+paraguay
+: 	 non
+parallel
+: 	 non
+parameter
+: 	 non
+parameters
+: 	 non
+parcel
+: 	 non
+parent
+: 	 non
+parental
+: 	 non
+parenting
+: 	 non
+parents
+: 	 non
+paris
+: 	 non
+parish
+: 	 non
+park
+: 	 yes
+parker
+: 	 non
+parking
+: 	 non
+parks
+: 	 non
+parliament
+: 	 non
+parliamentary
+: 	 non
+part
+: 	 yes
+partial
+: 	 non
+partially
+: 	 non
+participant
+: 	 non
+participants
+: 	 non
+participate
+: 	 non
+participated
+: 	 non
+participating
+: 	 non
+participation
+: 	 non
+particle
+: 	 non
+particles
+: 	 non
+particular
+: 	 non
+particularly
+: 	 non
+parties
+: 	 non
+partition
+: 	 non
+partly
+: 	 non
+partner
+: 	 non
+partners
+: 	 non
+partnership
+: 	 non
+partnerships
+: 	 non
+parts
+: 	 non
+party
+: 	 non
+pas
+: 	 yes
+paso
+: 	 yes
+pass
+: 	 yes
+passage
+: 	 non
+passed
+: 	 non
+passenger
+: 	 non
+passengers
+: 	 non
+passes
+: 	 non
+passing
+: 	 non
+passion
+: 	 non
+passive
+: 	 non
+passport
+: 	 non
+password
+: 	 non
+passwords
+: 	 non
+past
+: 	 yes
+pasta
+: 	 non
+paste
+: 	 non
+pastor
+: 	 non
+pat
+: 	 yes
+patch
+: 	 non
+patches
+: 	 non
+patent
+: 	 non
+patents
+: 	 non
+path
+: 	 yes
+pathology
+: 	 non
+paths
+: 	 non
+patient
+: 	 non
+patients
+: 	 non
+patio
+: 	 non
+patricia
+: 	 non
+patrick
+: 	 non
+patrol
+: 	 non
+pattern
+: 	 non
+patterns
+: 	 non
+paul
+: 	 yes
+pavilion
+: 	 non
+paxil
+: 	 non
+pay
+: 	 yes
+payable
+: 	 non
+payday
+: 	 non
+paying
+: 	 non
+payment
+: 	 non
+payments
+: 	 non
+paypal
+: 	 non
+payroll
+: 	 non
+pays
+: 	 yes
+pb
+: 	 non
+pc
+: 	 non
+pci
+: 	 yes
+pcs
+: 	 yes
+pct
+: 	 yes
+pd
+: 	 non
+pda
+: 	 yes
+pdas
+: 	 yes
+pdf
+: 	 yes
+pdt
+: 	 yes
+pe
+: 	 non
+peace
+: 	 non
+peaceful
+: 	 non
+peak
+: 	 yes
+pearl
+: 	 non
+peas
+: 	 yes
+pediatric
+: 	 non
+pee
+: 	 yes
+peeing
+: 	 non
+peer
+: 	 yes
+peers
+: 	 non
+pen
+: 	 yes
+penalties
+: 	 non
+penalty
+: 	 non
+pencil
+: 	 non
+pendant
+: 	 non
+pending
+: 	 non
+penetration
+: 	 non
+penguin
+: 	 non
+peninsula
+: 	 non
+penis
+: 	 non
+penn
+: 	 yes
+pennsylvania
+: 	 non
+penny
+: 	 non
+pens
+: 	 yes
+pension
+: 	 non
+pensions
+: 	 non
+pentium
+: 	 non
+people
+: 	 non
+peoples
+: 	 non
+pepper
+: 	 non
+per
+: 	 yes
+perceived
+: 	 non
+percent
+: 	 non
+percentage
+: 	 non
+perception
+: 	 non
+perfect
+: 	 non
+perfectly
+: 	 non
+perform
+: 	 non
+performance
+: 	 non
+performances
+: 	 non
+performed
+: 	 non
+performer
+: 	 non
+performing
+: 	 non
+performs
+: 	 non
+perfume
+: 	 non
+perhaps
+: 	 non
+period
+: 	 non
+periodic
+: 	 non
+periodically
+: 	 non
+periods
+: 	 non
+peripheral
+: 	 non
+peripherals
+: 	 non
+perl
+: 	 yes
+permalink
+: 	 non
+permanent
+: 	 non
+permission
+: 	 non
+permissions
+: 	 non
+permit
+: 	 non
+permits
+: 	 non
+permitted
+: 	 non
+perry
+: 	 non
+persian
+: 	 non
+persistent
+: 	 non
+person
+: 	 non
+personal
+: 	 non
+personality
+: 	 non
+personalized
+: 	 non
+personally
+: 	 non
+personals
+: 	 non
+personnel
+: 	 non
+persons
+: 	 non
+perspective
+: 	 non
+perspectives
+: 	 non
+perth
+: 	 non
+peru
+: 	 yes
+pest
+: 	 yes
+pet
+: 	 yes
+pete
+: 	 yes
+peter
+: 	 non
+petersburg
+: 	 non
+peterson
+: 	 non
+petite
+: 	 non
+petition
+: 	 non
+petroleum
+: 	 non
+pets
+: 	 yes
+pf
+: 	 non
+pg
+: 	 non
+pgp
+: 	 yes
+ph
+: 	 non
+phantom
+: 	 non
+pharmaceutical
+: 	 non
+pharmaceuticals
+: 	 non
+pharmacies
+: 	 non
+pharmacology
+: 	 non
+pharmacy
+: 	 non
+phase
+: 	 non
+phases
+: 	 non
+phd
+: 	 yes
+phenomenon
+: 	 non
+phentermine
+: 	 non
+phi
+: 	 yes
+phil
+: 	 yes
+philadelphia
+: 	 non
+philip
+: 	 non
+philippines
+: 	 non
+philips
+: 	 non
+phillips
+: 	 non
+philosophy
+: 	 non
+phoenix
+: 	 non
+phone
+: 	 non
+phones
+: 	 non
+photo
+: 	 non
+photograph
+: 	 non
+photographer
+: 	 non
+photographers
+: 	 non
+photographic
+: 	 non
+photographs
+: 	 non
+photography
+: 	 non
+photos
+: 	 non
+photoshop
+: 	 non
+php
+: 	 yes
+phpbb
+: 	 non
+phrase
+: 	 non
+phrases
+: 	 non
+phys
+: 	 yes
+physical
+: 	 non
+physically
+: 	 non
+physician
+: 	 non
+physicians
+: 	 non
+physics
+: 	 non
+physiology
+: 	 non
+pi
+: 	 non
+piano
+: 	 non
+pic
+: 	 yes
+pichunter
+: 	 non
+pick
+: 	 yes
+picked
+: 	 non
+picking
+: 	 non
+picks
+: 	 non
+pickup
+: 	 non
+picnic
+: 	 non
+pics
+: 	 yes
+picture
+: 	 non
+pictures
+: 	 non
+pie
+: 	 yes
+piece
+: 	 non
+pieces
+: 	 non
+pierce
+: 	 non
+pierre
+: 	 non
+pig
+: 	 yes
+pike
+: 	 yes
+pill
+: 	 yes
+pillow
+: 	 non
+pills
+: 	 non
+pilot
+: 	 non
+pin
+: 	 yes
+pine
+: 	 yes
+ping
+: 	 yes
+pink
+: 	 yes
+pins
+: 	 yes
+pioneer
+: 	 non
+pipe
+: 	 yes
+pipeline
+: 	 non
+pipes
+: 	 non
+pirates
+: 	 non
+piss
+: 	 yes
+pissing
+: 	 non
+pit
+: 	 yes
+pitch
+: 	 non
+pittsburgh
+: 	 non
+pix
+: 	 yes
+pixel
+: 	 non
+pixels
+: 	 non
+pizza
+: 	 non
+pj
+: 	 non
+pk
+: 	 non
+pl
+: 	 non
+place
+: 	 non
+placed
+: 	 non
+placement
+: 	 non
+places
+: 	 non
+placing
+: 	 non
+plain
+: 	 non
+plains
+: 	 non
+plaintiff
+: 	 non
+plan
+: 	 yes
+plane
+: 	 non
+planes
+: 	 non
+planet
+: 	 non
+planets
+: 	 non
+planned
+: 	 non
+planner
+: 	 non
+planners
+: 	 non
+planning
+: 	 non
+plans
+: 	 non
+plant
+: 	 non
+plants
+: 	 non
+plasma
+: 	 non
+plastic
+: 	 non
+plastics
+: 	 non
+plate
+: 	 non
+plates
+: 	 non
+platform
+: 	 non
+platforms
+: 	 non
+platinum
+: 	 non
+play
+: 	 yes
+playback
+: 	 non
+playboy
+: 	 non
+played
+: 	 non
+player
+: 	 non
+players
+: 	 non
+playing
+: 	 non
+playlist
+: 	 non
+plays
+: 	 non
+playstation
+: 	 non
+plaza
+: 	 non
+plc
+: 	 yes
+pleasant
+: 	 non
+please
+: 	 non
+pleased
+: 	 non
+pleasure
+: 	 non
+pledge
+: 	 non
+plenty
+: 	 non
+plot
+: 	 yes
+plots
+: 	 non
+plug
+: 	 yes
+plugin
+: 	 non
+plugins
+: 	 non
+plumbing
+: 	 non
+plus
+: 	 yes
+plymouth
+: 	 non
+pm
+: 	 non
+pmc
+: 	 yes
+pmid
+: 	 yes
+pn
+: 	 non
+po
+: 	 non
+pocket
+: 	 non
+pockets
+: 	 non
+pod
+: 	 yes
+podcast
+: 	 non
+podcasts
+: 	 non
+poem
+: 	 yes
+poems
+: 	 non
+poet
+: 	 yes
+poetry
+: 	 non
+point
+: 	 non
+pointed
+: 	 non
+pointer
+: 	 non
+pointing
+: 	 non
+points
+: 	 non
+pokemon
+: 	 non
+poker
+: 	 non
+poland
+: 	 non
+polar
+: 	 non
+pole
+: 	 yes
+police
+: 	 non
+policies
+: 	 non
+policy
+: 	 non
+polish
+: 	 non
+polished
+: 	 non
+political
+: 	 non
+politicians
+: 	 non
+politics
+: 	 non
+poll
+: 	 yes
+polls
+: 	 non
+pollution
+: 	 non
+polo
+: 	 yes
+poly
+: 	 yes
+polyester
+: 	 non
+polymer
+: 	 non
+polyphonic
+: 	 non
+pond
+: 	 yes
+pontiac
+: 	 non
+pool
+: 	 yes
+pools
+: 	 non
+poor
+: 	 yes
+pop
+: 	 yes
+pope
+: 	 yes
+popular
+: 	 non
+popularity
+: 	 non
+population
+: 	 non
+populations
+: 	 non
+por
+: 	 yes
+porcelain
+: 	 non
+pork
+: 	 yes
+porn
+: 	 yes
+porno
+: 	 non
+porsche
+: 	 non
+port
+: 	 yes
+portable
+: 	 non
+portal
+: 	 non
+porter
+: 	 non
+portfolio
+: 	 non
+portion
+: 	 non
+portions
+: 	 non
+portland
+: 	 non
+portrait
+: 	 non
+portraits
+: 	 non
+ports
+: 	 non
+portsmouth
+: 	 non
+portugal
+: 	 non
+portuguese
+: 	 non
+pos
+: 	 yes
+pose
+: 	 yes
+posing
+: 	 non
+position
+: 	 non
+positioning
+: 	 non
+positions
+: 	 non
+positive
+: 	 non
+possess
+: 	 non
+possession
+: 	 non
+possibilities
+: 	 non
+possibility
+: 	 non
+possible
+: 	 non
+possibly
+: 	 non
+post
+: 	 yes
+postage
+: 	 non
+postal
+: 	 non
+postcard
+: 	 non
+postcards
+: 	 non
+posted
+: 	 non
+poster
+: 	 non
+posters
+: 	 non
+posting
+: 	 non
+postings
+: 	 non
+postposted
+: 	 non
+posts
+: 	 non
+pot
+: 	 yes
+potato
+: 	 non
+potatoes
+: 	 non
+potential
+: 	 non
+potentially
+: 	 non
+potter
+: 	 non
+pottery
+: 	 non
+poultry
+: 	 non
+pound
+: 	 non
+pounds
+: 	 non
+pour
+: 	 yes
+poverty
+: 	 non
+powder
+: 	 non
+powell
+: 	 non
+power
+: 	 non
+powered
+: 	 non
+powerful
+: 	 non
+powerpoint
+: 	 non
+powers
+: 	 non
+powerseller
+: 	 non
+pp
+: 	 non
+ppc
+: 	 yes
+ppm
+: 	 yes
+pr
+: 	 non
+practical
+: 	 non
+practice
+: 	 non
+practices
+: 	 non
+practitioner
+: 	 non
+practitioners
+: 	 non
+prague
+: 	 non
+prairie
+: 	 non
+praise
+: 	 non
+pray
+: 	 yes
+prayer
+: 	 non
+prayers
+: 	 non
+pre
+: 	 yes
+preceding
+: 	 non
+precious
+: 	 non
+precipitation
+: 	 non
+precise
+: 	 non
+precisely
+: 	 non
+precision
+: 	 non
+predict
+: 	 non
+predicted
+: 	 non
+prediction
+: 	 non
+predictions
+: 	 non
+prefer
+: 	 non
+preference
+: 	 non
+preferences
+: 	 non
+preferred
+: 	 non
+prefers
+: 	 non
+prefix
+: 	 non
+pregnancy
+: 	 non
+pregnant
+: 	 non
+preliminary
+: 	 non
+premier
+: 	 non
+premiere
+: 	 non
+premises
+: 	 non
+premium
+: 	 non
+prep
+: 	 yes
+prepaid
+: 	 non
+preparation
+: 	 non
+prepare
+: 	 non
+prepared
+: 	 non
+preparing
+: 	 non
+prerequisite
+: 	 non
+prescribed
+: 	 non
+prescription
+: 	 non
+presence
+: 	 non
+present
+: 	 non
+presentation
+: 	 non
+presentations
+: 	 non
+presented
+: 	 non
+presenting
+: 	 non
+presently
+: 	 non
+presents
+: 	 non
+preservation
+: 	 non
+preserve
+: 	 non
+president
+: 	 non
+presidential
+: 	 non
+press
+: 	 non
+pressed
+: 	 non
+pressing
+: 	 non
+pressure
+: 	 non
+preston
+: 	 non
+pretty
+: 	 non
+prev
+: 	 yes
+prevent
+: 	 non
+preventing
+: 	 non
+prevention
+: 	 non
+preview
+: 	 non
+previews
+: 	 non
+previous
+: 	 non
+previously
+: 	 non
+price
+: 	 non
+priced
+: 	 non
+prices
+: 	 non
+pricing
+: 	 non
+pride
+: 	 non
+priest
+: 	 non
+primarily
+: 	 non
+primary
+: 	 non
+prime
+: 	 non
+prince
+: 	 non
+princess
+: 	 non
+princeton
+: 	 non
+principal
+: 	 non
+principle
+: 	 non
+principles
+: 	 non
+print
+: 	 non
+printable
+: 	 non
+printed
+: 	 non
+printer
+: 	 non
+printers
+: 	 non
+printing
+: 	 non
+prints
+: 	 non
+prior
+: 	 non
+priorities
+: 	 non
+priority
+: 	 non
+prison
+: 	 non
+prisoner
+: 	 non
+prisoners
+: 	 non
+privacy
+: 	 non
+private
+: 	 non
+privilege
+: 	 non
+privileges
+: 	 non
+prix
+: 	 yes
+prize
+: 	 non
+prizes
+: 	 non
+pro
+: 	 yes
+probability
+: 	 non
+probably
+: 	 non
+probe
+: 	 non
+problem
+: 	 non
+problems
+: 	 non
+proc
+: 	 yes
+procedure
+: 	 non
+procedures
+: 	 non
+proceed
+: 	 non
+proceeding
+: 	 non
+proceedings
+: 	 non
+proceeds
+: 	 non
+process
+: 	 non
+processed
+: 	 non
+processes
+: 	 non
+processing
+: 	 non
+processor
+: 	 non
+processors
+: 	 non
+procurement
+: 	 non
+produce
+: 	 non
+produced
+: 	 non
+producer
+: 	 non
+producers
+: 	 non
+produces
+: 	 non
+producing
+: 	 non
+product
+: 	 non
+production
+: 	 non
+productions
+: 	 non
+productive
+: 	 non
+productivity
+: 	 non
+products
+: 	 non
+prof
+: 	 yes
+profession
+: 	 non
+professional
+: 	 non
+professionals
+: 	 non
+professor
+: 	 non
+profile
+: 	 non
+profiles
+: 	 non
+profit
+: 	 non
+profits
+: 	 non
+program
+: 	 non
+programme
+: 	 non
+programmer
+: 	 non
+programmers
+: 	 non
+programmes
+: 	 non
+programming
+: 	 non
+programs
+: 	 non
+progress
+: 	 non
+progressive
+: 	 non
+prohibited
+: 	 non
+project
+: 	 non
+projected
+: 	 non
+projection
+: 	 non
+projector
+: 	 non
+projectors
+: 	 non
+projects
+: 	 non
+prominent
+: 	 non
+promise
+: 	 non
+promised
+: 	 non
+promises
+: 	 non
+promising
+: 	 non
+promo
+: 	 non
+promote
+: 	 non
+promoted
+: 	 non
+promotes
+: 	 non
+promoting
+: 	 non
+promotion
+: 	 non
+promotional
+: 	 non
+promotions
+: 	 non
+prompt
+: 	 non
+promptly
+: 	 non
+proof
+: 	 non
+propecia
+: 	 non
+proper
+: 	 non
+properly
+: 	 non
+properties
+: 	 non
+property
+: 	 non
+prophet
+: 	 non
+proportion
+: 	 non
+proposal
+: 	 non
+proposals
+: 	 non
+propose
+: 	 non
+proposed
+: 	 non
+proposition
+: 	 non
+proprietary
+: 	 non
+pros
+: 	 yes
+prospect
+: 	 non
+prospective
+: 	 non
+prospects
+: 	 non
+prostate
+: 	 non
+prostores
+: 	 non
+prot
+: 	 yes
+protect
+: 	 non
+protected
+: 	 non
+protecting
+: 	 non
+protection
+: 	 non
+protective
+: 	 non
+protein
+: 	 non
+proteins
+: 	 non
+protest
+: 	 non
+protocol
+: 	 non
+protocols
+: 	 non
+prototype
+: 	 non
+proud
+: 	 non
+proudly
+: 	 non
+prove
+: 	 non
+proved
+: 	 non
+proven
+: 	 non
+provide
+: 	 non
+provided
+: 	 non
+providence
+: 	 non
+provider
+: 	 non
+providers
+: 	 non
+provides
+: 	 non
+providing
+: 	 non
+province
+: 	 non
+provinces
+: 	 non
+provincial
+: 	 non
+provision
+: 	 non
+provisions
+: 	 non
+proxy
+: 	 non
+prozac
+: 	 non
+ps
+: 	 non
+psi
+: 	 yes
+psp
+: 	 yes
+pst
+: 	 yes
+psychiatry
+: 	 non
+psychological
+: 	 non
+psychology
+: 	 non
+pt
+: 	 non
+pts
+: 	 yes
+pty
+: 	 yes
+pub
+: 	 yes
+public
+: 	 non
+publication
+: 	 non
+publications
+: 	 non
+publicity
+: 	 non
+publicly
+: 	 non
+publish
+: 	 non
+published
+: 	 non
+publisher
+: 	 non
+publishers
+: 	 non
+publishing
+: 	 non
+pubmed
+: 	 non
+pubs
+: 	 yes
+puerto
+: 	 non
+pull
+: 	 yes
+pulled
+: 	 non
+pulling
+: 	 non
+pulse
+: 	 non
+pump
+: 	 yes
+pumps
+: 	 non
+punch
+: 	 non
+punishment
+: 	 non
+punk
+: 	 yes
+pupils
+: 	 non
+puppy
+: 	 non
+purchase
+: 	 non
+purchased
+: 	 non
+purchases
+: 	 non
+purchasing
+: 	 non
+pure
+: 	 yes
+purple
+: 	 non
+purpose
+: 	 non
+purposes
+: 	 non
+purse
+: 	 non
+pursuant
+: 	 non
+pursue
+: 	 non
+pursuit
+: 	 non
+push
+: 	 yes
+pushed
+: 	 non
+pushing
+: 	 non
+pussy
+: 	 non
+put
+: 	 yes
+puts
+: 	 yes
+putting
+: 	 non
+puzzle
+: 	 non
+puzzles
+: 	 non
+pvc
+: 	 yes
+python
+: 	 non
+q
+: 	 non
+qatar
+: 	 non
+qc
+: 	 non
+qld
+: 	 yes
+qt
+: 	 non
+qty
+: 	 yes
+quad
+: 	 yes
+qualification
+: 	 non
+qualifications
+: 	 non
+qualified
+: 	 non
+qualify
+: 	 non
+qualifying
+: 	 non
+qualities
+: 	 non
+quality
+: 	 non
+quantitative
+: 	 non
+quantities
+: 	 non
+quantity
+: 	 non
+quantum
+: 	 non
+quarter
+: 	 non
+quarterly
+: 	 non
+quarters
+: 	 non
+que
+: 	 yes
+quebec
+: 	 non
+queen
+: 	 non
+queens
+: 	 non
+queensland
+: 	 non
+queries
+: 	 non
+query
+: 	 non
+quest
+: 	 non
+question
+: 	 non
+questionnaire
+: 	 non
+questions
+: 	 non
+queue
+: 	 non
+qui
+: 	 yes
+quick
+: 	 non
+quickly
+: 	 non
+quiet
+: 	 non
+quilt
+: 	 non
+quit
+: 	 yes
+quite
+: 	 non
+quiz
+: 	 yes
+quizzes
+: 	 non
+quotations
+: 	 non
+quote
+: 	 non
+quoted
+: 	 non
+quotes
+: 	 non
+r
+: 	 non
+ra
+: 	 non
+rabbit
+: 	 non
+race
+: 	 yes
+races
+: 	 non
+rachel
+: 	 non
+racial
+: 	 non
+racing
+: 	 non
+rack
+: 	 yes
+racks
+: 	 non
+radar
+: 	 non
+radiation
+: 	 non
+radical
+: 	 non
+radio
+: 	 non
+radios
+: 	 non
+radius
+: 	 non
+rage
+: 	 yes
+raid
+: 	 yes
+rail
+: 	 yes
+railroad
+: 	 non
+railway
+: 	 non
+rain
+: 	 yes
+rainbow
+: 	 non
+raise
+: 	 non
+raised
+: 	 non
+raises
+: 	 non
+raising
+: 	 non
+raleigh
+: 	 non
+rally
+: 	 non
+ralph
+: 	 non
+ram
+: 	 yes
+ran
+: 	 yes
+ranch
+: 	 non
+rand
+: 	 yes
+random
+: 	 non
+randy
+: 	 non
+range
+: 	 non
+rangers
+: 	 non
+ranges
+: 	 non
+ranging
+: 	 non
+rank
+: 	 yes
+ranked
+: 	 non
+ranking
+: 	 non
+rankings
+: 	 non
+ranks
+: 	 non
+rap
+: 	 yes
+rape
+: 	 yes
+rapid
+: 	 non
+rapidly
+: 	 non
+rapids
+: 	 non
+rare
+: 	 yes
+rarely
+: 	 non
+rat
+: 	 yes
+rate
+: 	 yes
+rated
+: 	 non
+rates
+: 	 non
+rather
+: 	 non
+rating
+: 	 non
+ratings
+: 	 non
+ratio
+: 	 non
+rational
+: 	 non
+ratios
+: 	 non
+rats
+: 	 yes
+raw
+: 	 yes
+ray
+: 	 yes
+raymond
+: 	 non
+rays
+: 	 yes
+rb
+: 	 non
+rc
+: 	 non
+rca
+: 	 yes
+rd
+: 	 non
+re
+: 	 non
+reach
+: 	 non
+reached
+: 	 non
+reaches
+: 	 non
+reaching
+: 	 non
+reaction
+: 	 non
+reactions
+: 	 non
+read
+: 	 yes
+reader
+: 	 non
+readers
+: 	 non
+readily
+: 	 non
+reading
+: 	 non
+readings
+: 	 non
+reads
+: 	 non
+ready
+: 	 non
+real
+: 	 yes
+realistic
+: 	 non
+reality
+: 	 non
+realize
+: 	 non
+realized
+: 	 non
+really
+: 	 non
+realm
+: 	 non
+realtor
+: 	 non
+realtors
+: 	 non
+realty
+: 	 non
+rear
+: 	 yes
+reason
+: 	 non
+reasonable
+: 	 non
+reasonably
+: 	 non
+reasoning
+: 	 non
+reasons
+: 	 non
+rebate
+: 	 non
+rebates
+: 	 non
+rebecca
+: 	 non
+rebel
+: 	 non
+rebound
+: 	 non
+rec
+: 	 yes
+recall
+: 	 non
+receipt
+: 	 non
+receive
+: 	 non
+received
+: 	 non
+receiver
+: 	 non
+receivers
+: 	 non
+receives
+: 	 non
+receiving
+: 	 non
+recent
+: 	 non
+recently
+: 	 non
+reception
+: 	 non
+receptor
+: 	 non
+receptors
+: 	 non
+recipe
+: 	 non
+recipes
+: 	 non
+recipient
+: 	 non
+recipients
+: 	 non
+recognised
+: 	 non
+recognition
+: 	 non
+recognize
+: 	 non
+recognized
+: 	 non
+recommend
+: 	 non
+recommendation
+: 	 non
+recommendations
+: 	 non
+recommended
+: 	 non
+recommends
+: 	 non
+reconstruction
+: 	 non
+record
+: 	 non
+recorded
+: 	 non
+recorder
+: 	 non
+recorders
+: 	 non
+recording
+: 	 non
+recordings
+: 	 non
+records
+: 	 non
+recover
+: 	 non
+recovered
+: 	 non
+recovery
+: 	 non
+recreation
+: 	 non
+recreational
+: 	 non
+recruiting
+: 	 non
+recruitment
+: 	 non
+recycling
+: 	 non
+red
+: 	 yes
+redeem
+: 	 non
+redhead
+: 	 non
+reduce
+: 	 non
+reduced
+: 	 non
+reduces
+: 	 non
+reducing
+: 	 non
+reduction
+: 	 non
+reductions
+: 	 non
+reed
+: 	 yes
+reef
+: 	 yes
+reel
+: 	 yes
+ref
+: 	 yes
+refer
+: 	 non
+reference
+: 	 non
+referenced
+: 	 non
+references
+: 	 non
+referral
+: 	 non
+referrals
+: 	 non
+referred
+: 	 non
+referring
+: 	 non
+refers
+: 	 non
+refinance
+: 	 non
+refine
+: 	 non
+refined
+: 	 non
+reflect
+: 	 non
+reflected
+: 	 non
+reflection
+: 	 non
+reflections
+: 	 non
+reflects
+: 	 non
+reform
+: 	 non
+reforms
+: 	 non
+refresh
+: 	 non
+refrigerator
+: 	 non
+refugees
+: 	 non
+refund
+: 	 non
+refurbished
+: 	 non
+refuse
+: 	 non
+refused
+: 	 non
+reg
+: 	 yes
+regard
+: 	 non
+regarded
+: 	 non
+regarding
+: 	 non
+regardless
+: 	 non
+regards
+: 	 non
+reggae
+: 	 non
+regime
+: 	 non
+region
+: 	 non
+regional
+: 	 non
+regions
+: 	 non
+register
+: 	 non
+registered
+: 	 non
+registrar
+: 	 non
+registration
+: 	 non
+registry
+: 	 non
+regression
+: 	 non
+regular
+: 	 non
+regularly
+: 	 non
+regulated
+: 	 non
+regulation
+: 	 non
+regulations
+: 	 non
+regulatory
+: 	 non
+rehab
+: 	 non
+rehabilitation
+: 	 non
+reid
+: 	 yes
+reject
+: 	 non
+rejected
+: 	 non
+rel
+: 	 yes
+relate
+: 	 non
+related
+: 	 non
+relates
+: 	 non
+relating
+: 	 non
+relation
+: 	 non
+relations
+: 	 non
+relationship
+: 	 non
+relationships
+: 	 non
+relative
+: 	 non
+relatively
+: 	 non
+relatives
+: 	 non
+relax
+: 	 non
+relaxation
+: 	 non
+relay
+: 	 non
+release
+: 	 non
+released
+: 	 non
+releases
+: 	 non
+relevance
+: 	 non
+relevant
+: 	 non
+reliability
+: 	 non
+reliable
+: 	 non
+reliance
+: 	 non
+relief
+: 	 non
+religion
+: 	 non
+religions
+: 	 non
+religious
+: 	 non
+reload
+: 	 non
+relocation
+: 	 non
+rely
+: 	 yes
+relying
+: 	 non
+remain
+: 	 non
+remainder
+: 	 non
+remained
+: 	 non
+remaining
+: 	 non
+remains
+: 	 non
+remark
+: 	 non
+remarkable
+: 	 non
+remarks
+: 	 non
+remedies
+: 	 non
+remedy
+: 	 non
+remember
+: 	 non
+remembered
+: 	 non
+remind
+: 	 non
+reminder
+: 	 non
+remix
+: 	 non
+remote
+: 	 non
+removable
+: 	 non
+removal
+: 	 non
+remove
+: 	 non
+removed
+: 	 non
+removing
+: 	 non
+renaissance
+: 	 non
+render
+: 	 non
+rendered
+: 	 non
+rendering
+: 	 non
+renew
+: 	 non
+renewable
+: 	 non
+renewal
+: 	 non
+reno
+: 	 yes
+rent
+: 	 yes
+rental
+: 	 non
+rentals
+: 	 non
+rentcom
+: 	 non
+rep
+: 	 yes
+repair
+: 	 non
+repairs
+: 	 non
+repeat
+: 	 non
+repeated
+: 	 non
+replace
+: 	 non
+replaced
+: 	 non
+replacement
+: 	 non
+replacing
+: 	 non
+replica
+: 	 non
+replication
+: 	 non
+replied
+: 	 non
+replies
+: 	 non
+reply
+: 	 non
+report
+: 	 non
+reported
+: 	 non
+reporter
+: 	 non
+reporters
+: 	 non
+reporting
+: 	 non
+reports
+: 	 non
+repository
+: 	 non
+represent
+: 	 non
+representation
+: 	 non
+representations
+: 	 non
+representative
+: 	 non
+representatives
+: 	 non
+represented
+: 	 non
+representing
+: 	 non
+represents
+: 	 non
+reprint
+: 	 non
+reprints
+: 	 non
+reproduce
+: 	 non
+reproduced
+: 	 non
+reproduction
+: 	 non
+reproductive
+: 	 non
+republic
+: 	 non
+republican
+: 	 non
+republicans
+: 	 non
+reputation
+: 	 non
+request
+: 	 non
+requested
+: 	 non
+requesting
+: 	 non
+requests
+: 	 non
+require
+: 	 non
+required
+: 	 non
+requirement
+: 	 non
+requirements
+: 	 non
+requires
+: 	 non
+requiring
+: 	 non
+res
+: 	 yes
+rescue
+: 	 non
+research
+: 	 non
+researcher
+: 	 non
+researchers
+: 	 non
+reseller
+: 	 non
+reservation
+: 	 non
+reservations
+: 	 non
+reserve
+: 	 non
+reserved
+: 	 non
+reserves
+: 	 non
+reservoir
+: 	 non
+reset
+: 	 non
+residence
+: 	 non
+resident
+: 	 non
+residential
+: 	 non
+residents
+: 	 non
+resist
+: 	 non
+resistance
+: 	 non
+resistant
+: 	 non
+resolution
+: 	 non
+resolutions
+: 	 non
+resolve
+: 	 non
+resolved
+: 	 non
+resort
+: 	 non
+resorts
+: 	 non
+resource
+: 	 non
+resources
+: 	 non
+respect
+: 	 non
+respected
+: 	 non
+respective
+: 	 non
+respectively
+: 	 non
+respiratory
+: 	 non
+respond
+: 	 non
+responded
+: 	 non
+respondent
+: 	 non
+respondents
+: 	 non
+responding
+: 	 non
+response
+: 	 non
+responses
+: 	 non
+responsibilities
+: 	 non
+responsibility
+: 	 non
+responsible
+: 	 non
+rest
+: 	 yes
+restaurant
+: 	 non
+restaurants
+: 	 non
+restoration
+: 	 non
+restore
+: 	 non
+restored
+: 	 non
+restrict
+: 	 non
+restricted
+: 	 non
+restriction
+: 	 non
+restrictions
+: 	 non
+restructuring
+: 	 non
+result
+: 	 non
+resulted
+: 	 non
+resulting
+: 	 non
+results
+: 	 non
+resume
+: 	 non
+resumes
+: 	 non
+retail
+: 	 non
+retailer
+: 	 non
+retailers
+: 	 non
+retain
+: 	 non
+retained
+: 	 non
+retention
+: 	 non
+retired
+: 	 non
+retirement
+: 	 non
+retreat
+: 	 non
+retrieval
+: 	 non
+retrieve
+: 	 non
+retrieved
+: 	 non
+retro
+: 	 non
+return
+: 	 non
+returned
+: 	 non
+returning
+: 	 non
+returns
+: 	 non
+reunion
+: 	 non
+reuters
+: 	 non
+rev
+: 	 yes
+reveal
+: 	 non
+revealed
+: 	 non
+reveals
+: 	 non
+revelation
+: 	 non
+revenge
+: 	 non
+revenue
+: 	 non
+revenues
+: 	 non
+reverse
+: 	 non
+review
+: 	 non
+reviewed
+: 	 non
+reviewer
+: 	 non
+reviewing
+: 	 non
+reviews
+: 	 non
+revised
+: 	 non
+revision
+: 	 non
+revisions
+: 	 non
+revolution
+: 	 non
+revolutionary
+: 	 non
+reward
+: 	 non
+rewards
+: 	 non
+reynolds
+: 	 non
+rf
+: 	 non
+rfc
+: 	 yes
+rg
+: 	 non
+rh
+: 	 non
+rhode
+: 	 non
+rhythm
+: 	 non
+ri
+: 	 non
+ribbon
+: 	 non
+rica
+: 	 yes
+rice
+: 	 yes
+rich
+: 	 yes
+richard
+: 	 non
+richards
+: 	 non
+richardson
+: 	 non
+richmond
+: 	 non
+rick
+: 	 yes
+rico
+: 	 yes
+rid
+: 	 yes
+ride
+: 	 yes
+rider
+: 	 non
+riders
+: 	 non
+rides
+: 	 non
+ridge
+: 	 non
+riding
+: 	 non
+right
+: 	 non
+rights
+: 	 non
+rim
+: 	 yes
+ring
+: 	 yes
+rings
+: 	 non
+ringtone
+: 	 non
+ringtones
+: 	 non
+rio
+: 	 yes
+rip
+: 	 yes
+ripe
+: 	 yes
+rise
+: 	 yes
+rising
+: 	 non
+risk
+: 	 yes
+risks
+: 	 non
+river
+: 	 non
+rivers
+: 	 non
+riverside
+: 	 non
+rj
+: 	 non
+rl
+: 	 non
+rm
+: 	 non
+rn
+: 	 non
+rna
+: 	 yes
+ro
+: 	 non
+road
+: 	 yes
+roads
+: 	 non
+rob
+: 	 yes
+robert
+: 	 non
+roberts
+: 	 non
+robertson
+: 	 non
+robin
+: 	 non
+robinson
+: 	 non
+robot
+: 	 non
+robots
+: 	 non
+robust
+: 	 non
+rochester
+: 	 non
+rock
+: 	 yes
+rocket
+: 	 non
+rocks
+: 	 non
+rocky
+: 	 non
+rod
+: 	 yes
+roger
+: 	 non
+rogers
+: 	 non
+roland
+: 	 non
+role
+: 	 yes
+roles
+: 	 non
+roll
+: 	 yes
+rolled
+: 	 non
+roller
+: 	 non
+rolling
+: 	 non
+rolls
+: 	 non
+rom
+: 	 yes
+roman
+: 	 non
+romance
+: 	 non
+romania
+: 	 non
+romantic
+: 	 non
+rome
+: 	 yes
+ron
+: 	 yes
+ronald
+: 	 non
+roof
+: 	 yes
+room
+: 	 yes
+roommate
+: 	 non
+roommates
+: 	 non
+rooms
+: 	 non
+root
+: 	 yes
+roots
+: 	 non
+rope
+: 	 yes
+rosa
+: 	 yes
+rose
+: 	 yes
+roses
+: 	 non
+ross
+: 	 yes
+roster
+: 	 non
+rotary
+: 	 non
+rotation
+: 	 non
+rouge
+: 	 non
+rough
+: 	 non
+roughly
+: 	 non
+roulette
+: 	 non
+round
+: 	 non
+rounds
+: 	 non
+route
+: 	 non
+router
+: 	 non
+routers
+: 	 non
+routes
+: 	 non
+routine
+: 	 non
+routines
+: 	 non
+routing
+: 	 non
+rover
+: 	 non
+row
+: 	 yes
+rows
+: 	 yes
+roy
+: 	 yes
+royal
+: 	 non
+royalty
+: 	 non
+rp
+: 	 non
+rpg
+: 	 yes
+rpm
+: 	 yes
+rr
+: 	 non
+rrp
+: 	 yes
+rs
+: 	 non
+rss
+: 	 yes
+rt
+: 	 non
+ru
+: 	 non
+rubber
+: 	 non
+ruby
+: 	 yes
+rug
+: 	 yes
+rugby
+: 	 non
+rugs
+: 	 yes
+rule
+: 	 yes
+ruled
+: 	 non
+rules
+: 	 non
+ruling
+: 	 non
+run
+: 	 yes
+runner
+: 	 non
+running
+: 	 non
+runs
+: 	 yes
+runtime
+: 	 non
+rural
+: 	 non
+rush
+: 	 yes
+russell
+: 	 non
+russia
+: 	 non
+russian
+: 	 non
+ruth
+: 	 yes
+rv
+: 	 non
+rw
+: 	 non
+rwanda
+: 	 non
+rx
+: 	 non
+ryan
+: 	 yes
+s
+: 	 non
+sa
+: 	 non
+sacramento
+: 	 non
+sacred
+: 	 non
+sacrifice
+: 	 non
+sad
+: 	 yes
+saddam
+: 	 non
+safari
+: 	 non
+safe
+: 	 yes
+safely
+: 	 non
+safer
+: 	 non
+safety
+: 	 non
+sage
+: 	 yes
+sagem
+: 	 non
+said
+: 	 yes
+sail
+: 	 yes
+sailing
+: 	 non
+saint
+: 	 non
+saints
+: 	 non
+sake
+: 	 yes
+salad
+: 	 non
+salaries
+: 	 non
+salary
+: 	 non
+sale
+: 	 yes
+salem
+: 	 non
+sales
+: 	 non
+sally
+: 	 non
+salmon
+: 	 non
+salon
+: 	 non
+salt
+: 	 yes
+salvador
+: 	 non
+salvation
+: 	 non
+sam
+: 	 yes
+samba
+: 	 non
+same
+: 	 yes
+samoa
+: 	 non
+sample
+: 	 non
+samples
+: 	 non
+sampling
+: 	 non
+samsung
+: 	 non
+samuel
+: 	 non
+san
+: 	 yes
+sand
+: 	 yes
+sandra
+: 	 non
+sandwich
+: 	 non
+sandy
+: 	 non
+sans
+: 	 yes
+santa
+: 	 non
+sanyo
+: 	 non
+sao
+: 	 yes
+sap
+: 	 yes
+sapphire
+: 	 non
+sara
+: 	 yes
+sarah
+: 	 non
+sas
+: 	 yes
+saskatchewan
+: 	 non
+sat
+: 	 yes
+satellite
+: 	 non
+satin
+: 	 non
+satisfaction
+: 	 non
+satisfactory
+: 	 non
+satisfied
+: 	 non
+satisfy
+: 	 non
+saturday
+: 	 non
+saturn
+: 	 non
+sauce
+: 	 non
+saudi
+: 	 non
+savage
+: 	 non
+savannah
+: 	 non
+save
+: 	 yes
+saved
+: 	 non
+saver
+: 	 non
+saves
+: 	 non
+saving
+: 	 non
+savings
+: 	 non
+saw
+: 	 yes
+say
+: 	 yes
+saying
+: 	 non
+says
+: 	 yes
+sb
+: 	 non
+sbjct
+: 	 non
+sc
+: 	 non
+scale
+: 	 non
+scales
+: 	 non
+scan
+: 	 yes
+scanned
+: 	 non
+scanner
+: 	 non
+scanners
+: 	 non
+scanning
+: 	 non
+scary
+: 	 non
+scenario
+: 	 non
+scenarios
+: 	 non
+scene
+: 	 non
+scenes
+: 	 non
+scenic
+: 	 non
+schedule
+: 	 non
+scheduled
+: 	 non
+schedules
+: 	 non
+scheduling
+: 	 non
+schema
+: 	 non
+scheme
+: 	 non
+schemes
+: 	 non
+scholar
+: 	 non
+scholars
+: 	 non
+scholarship
+: 	 non
+scholarships
+: 	 non
+school
+: 	 non
+schools
+: 	 non
+sci
+: 	 yes
+science
+: 	 non
+sciences
+: 	 non
+scientific
+: 	 non
+scientist
+: 	 non
+scientists
+: 	 non
+scoop
+: 	 non
+scope
+: 	 non
+score
+: 	 non
+scored
+: 	 non
+scores
+: 	 non
+scoring
+: 	 non
+scotia
+: 	 non
+scotland
+: 	 non
+scott
+: 	 non
+scottish
+: 	 non
+scout
+: 	 non
+scratch
+: 	 non
+screen
+: 	 non
+screening
+: 	 non
+screens
+: 	 non
+screensaver
+: 	 non
+screensavers
+: 	 non
+screenshot
+: 	 non
+screenshots
+: 	 non
+screw
+: 	 non
+script
+: 	 non
+scripting
+: 	 non
+scripts
+: 	 non
+scroll
+: 	 non
+scsi
+: 	 yes
+scuba
+: 	 non
+sculpture
+: 	 non
+sd
+: 	 non
+se
+: 	 non
+sea
+: 	 yes
+seafood
+: 	 non
+seal
+: 	 yes
+sealed
+: 	 non
+sean
+: 	 yes
+search
+: 	 non
+searchcom
+: 	 non
+searched
+: 	 non
+searches
+: 	 non
+searching
+: 	 non
+seas
+: 	 yes
+season
+: 	 non
+seasonal
+: 	 non
+seasons
+: 	 non
+seat
+: 	 yes
+seating
+: 	 non
+seats
+: 	 non
+seattle
+: 	 non
+sec
+: 	 yes
+second
+: 	 non
+secondary
+: 	 non
+seconds
+: 	 non
+secret
+: 	 non
+secretariat
+: 	 non
+secretary
+: 	 non
+secrets
+: 	 non
+section
+: 	 non
+sections
+: 	 non
+sector
+: 	 non
+sectors
+: 	 non
+secure
+: 	 non
+secured
+: 	 non
+securely
+: 	 non
+securities
+: 	 non
+security
+: 	 non
+see
+: 	 yes
+seed
+: 	 yes
+seeds
+: 	 non
+seeing
+: 	 non
+seek
+: 	 yes
+seeker
+: 	 non
+seekers
+: 	 non
+seeking
+: 	 non
+seeks
+: 	 non
+seem
+: 	 yes
+seemed
+: 	 non
+seems
+: 	 non
+seen
+: 	 yes
+sees
+: 	 yes
+sega
+: 	 yes
+segment
+: 	 non
+segments
+: 	 non
+select
+: 	 non
+selected
+: 	 non
+selecting
+: 	 non
+selection
+: 	 non
+selections
+: 	 non
+selective
+: 	 non
+self
+: 	 yes
+sell
+: 	 yes
+seller
+: 	 non
+sellers
+: 	 non
+selling
+: 	 non
+sells
+: 	 non
+semester
+: 	 non
+semi
+: 	 yes
+semiconductor
+: 	 non
+seminar
+: 	 non
+seminars
+: 	 non
+sen
+: 	 yes
+senate
+: 	 non
+senator
+: 	 non
+senators
+: 	 non
+send
+: 	 yes
+sender
+: 	 non
+sending
+: 	 non
+sends
+: 	 non
+senegal
+: 	 non
+senior
+: 	 non
+seniors
+: 	 non
+sense
+: 	 non
+sensitive
+: 	 non
+sensitivity
+: 	 non
+sensor
+: 	 non
+sensors
+: 	 non
+sent
+: 	 yes
+sentence
+: 	 non
+sentences
+: 	 non
+seo
+: 	 yes
+sep
+: 	 yes
+separate
+: 	 non
+separated
+: 	 non
+separately
+: 	 non
+separation
+: 	 non
+sept
+: 	 yes
+september
+: 	 non
+seq
+: 	 yes
+sequence
+: 	 non
+sequences
+: 	 non
+ser
+: 	 yes
+serbia
+: 	 non
+serial
+: 	 non
+series
+: 	 non
+serious
+: 	 non
+seriously
+: 	 non
+serum
+: 	 non
+serve
+: 	 non
+served
+: 	 non
+server
+: 	 non
+servers
+: 	 non
+serves
+: 	 non
+service
+: 	 non
+services
+: 	 non
+serving
+: 	 non
+session
+: 	 non
+sessions
+: 	 non
+set
+: 	 yes
+sets
+: 	 yes
+setting
+: 	 non
+settings
+: 	 non
+settle
+: 	 non
+settled
+: 	 non
+settlement
+: 	 non
+setup
+: 	 non
+seven
+: 	 non
+seventh
+: 	 non
+several
+: 	 non
+severe
+: 	 non
+sewing
+: 	 non
+sex
+: 	 yes
+sexcam
+: 	 non
+sexo
+: 	 yes
+sexual
+: 	 non
+sexuality
+: 	 non
+sexually
+: 	 non
+sexy
+: 	 yes
+sf
+: 	 non
+sg
+: 	 non
+sh
+: 	 non
+shade
+: 	 non
+shades
+: 	 non
+shadow
+: 	 non
+shadows
+: 	 non
+shaft
+: 	 non
+shake
+: 	 non
+shakespeare
+: 	 non
+shakira
+: 	 non
+shall
+: 	 non
+shame
+: 	 non
+shanghai
+: 	 non
+shannon
+: 	 non
+shape
+: 	 non
+shaped
+: 	 non
+shapes
+: 	 non
+share
+: 	 non
+shared
+: 	 non
+shareholders
+: 	 non
+shares
+: 	 non
+shareware
+: 	 non
+sharing
+: 	 non
+shark
+: 	 non
+sharon
+: 	 non
+sharp
+: 	 non
+shaved
+: 	 non
+shaw
+: 	 yes
+she
+: 	 yes
+shed
+: 	 yes
+sheep
+: 	 non
+sheer
+: 	 non
+sheet
+: 	 non
+sheets
+: 	 non
+sheffield
+: 	 non
+shelf
+: 	 non
+shell
+: 	 non
+shelter
+: 	 non
+shemale
+: 	 non
+shemales
+: 	 non
+shepherd
+: 	 non
+sheriff
+: 	 non
+sherman
+: 	 non
+shield
+: 	 non
+shift
+: 	 non
+shine
+: 	 non
+ship
+: 	 yes
+shipment
+: 	 non
+shipments
+: 	 non
+shipped
+: 	 non
+shipping
+: 	 non
+ships
+: 	 non
+shirt
+: 	 non
+shirts
+: 	 non
+shit
+: 	 yes
+shock
+: 	 non
+shoe
+: 	 yes
+shoes
+: 	 non
+shoot
+: 	 non
+shooting
+: 	 non
+shop
+: 	 yes
+shopper
+: 	 non
+shoppercom
+: 	 non
+shoppers
+: 	 non
+shopping
+: 	 non
+shoppingcom
+: 	 non
+shops
+: 	 non
+shopzilla
+: 	 non
+shore
+: 	 non
+short
+: 	 non
+shortcuts
+: 	 non
+shorter
+: 	 non
+shortly
+: 	 non
+shorts
+: 	 non
+shot
+: 	 yes
+shots
+: 	 non
+should
+: 	 non
+shoulder
+: 	 non
+show
+: 	 yes
+showcase
+: 	 non
+showed
+: 	 non
+shower
+: 	 non
+showers
+: 	 non
+showing
+: 	 non
+shown
+: 	 non
+shows
+: 	 non
+showtimes
+: 	 non
+shut
+: 	 yes
+shuttle
+: 	 non
+si
+: 	 non
+sic
+: 	 yes
+sick
+: 	 yes
+side
+: 	 yes
+sides
+: 	 non
+sie
+: 	 yes
+siemens
+: 	 non
+sierra
+: 	 non
+sig
+: 	 yes
+sight
+: 	 non
+sigma
+: 	 non
+sign
+: 	 yes
+signal
+: 	 non
+signals
+: 	 non
+signature
+: 	 non
+signatures
+: 	 non
+signed
+: 	 non
+significance
+: 	 non
+significant
+: 	 non
+significantly
+: 	 non
+signing
+: 	 non
+signs
+: 	 non
+signup
+: 	 non
+silence
+: 	 non
+silent
+: 	 non
+silicon
+: 	 non
+silk
+: 	 yes
+silly
+: 	 non
+silver
+: 	 non
+sim
+: 	 yes
+similar
+: 	 non
+similarly
+: 	 non
+simon
+: 	 non
+simple
+: 	 non
+simplified
+: 	 non
+simply
+: 	 non
+simpson
+: 	 non
+simpsons
+: 	 non
+sims
+: 	 yes
+simulation
+: 	 non
+simulations
+: 	 non
+simultaneously
+: 	 non
+sin
+: 	 yes
+since
+: 	 non
+sing
+: 	 yes
+singapore
+: 	 non
+singer
+: 	 non
+singh
+: 	 non
+singing
+: 	 non
+single
+: 	 non
+singles
+: 	 non
+sink
+: 	 yes
+sip
+: 	 yes
+sir
+: 	 yes
+sister
+: 	 non
+sisters
+: 	 non
+sit
+: 	 yes
+site
+: 	 yes
+sitemap
+: 	 non
+sites
+: 	 non
+sitting
+: 	 non
+situated
+: 	 non
+situation
+: 	 non
+situations
+: 	 non
+six
+: 	 yes
+sixth
+: 	 non
+size
+: 	 yes
+sized
+: 	 non
+sizes
+: 	 non
+sk
+: 	 non
+skating
+: 	 non
+ski
+: 	 yes
+skiing
+: 	 non
+skill
+: 	 non
+skilled
+: 	 non
+skills
+: 	 non
+skin
+: 	 yes
+skins
+: 	 non
+skip
+: 	 yes
+skirt
+: 	 non
+skirts
+: 	 non
+sku
+: 	 yes
+sky
+: 	 yes
+skype
+: 	 non
+sl
+: 	 non
+slave
+: 	 non
+sleep
+: 	 non
+sleeping
+: 	 non
+sleeps
+: 	 non
+sleeve
+: 	 non
+slide
+: 	 non
+slides
+: 	 non
+slideshow
+: 	 non
+slight
+: 	 non
+slightly
+: 	 non
+slim
+: 	 yes
+slip
+: 	 yes
+slope
+: 	 non
+slot
+: 	 yes
+slots
+: 	 non
+slovak
+: 	 non
+slovakia
+: 	 non
+slovenia
+: 	 non
+slow
+: 	 yes
+slowly
+: 	 non
+slut
+: 	 yes
+sluts
+: 	 non
+sm
+: 	 non
+small
+: 	 non
+smaller
+: 	 non
+smart
+: 	 non
+smell
+: 	 non
+smile
+: 	 non
+smilies
+: 	 non
+smith
+: 	 non
+smithsonian
+: 	 non
+smoke
+: 	 non
+smoking
+: 	 non
+smooth
+: 	 non
+sms
+: 	 yes
+smtp
+: 	 yes
+sn
+: 	 non
+snake
+: 	 non
+snap
+: 	 yes
+snapshot
+: 	 non
+snow
+: 	 yes
+snowboard
+: 	 non
+so
+: 	 non
+soa
+: 	 yes
+soap
+: 	 yes
+soc
+: 	 yes
+soccer
+: 	 non
+social
+: 	 non
+societies
+: 	 non
+society
+: 	 non
+sociology
+: 	 non
+socket
+: 	 non
+socks
+: 	 non
+sodium
+: 	 non
+sofa
+: 	 yes
+soft
+: 	 yes
+softball
+: 	 non
+software
+: 	 non
+soil
+: 	 yes
+sol
+: 	 yes
+solar
+: 	 non
+solaris
+: 	 non
+sold
+: 	 yes
+soldier
+: 	 non
+soldiers
+: 	 non
+sole
+: 	 yes
+solely
+: 	 non
+solid
+: 	 non
+solo
+: 	 yes
+solomon
+: 	 non
+solution
+: 	 non
+solutions
+: 	 non
+solve
+: 	 non
+solved
+: 	 non
+solving
+: 	 non
+soma
+: 	 yes
+somalia
+: 	 non
+some
+: 	 yes
+somebody
+: 	 non
+somehow
+: 	 non
+someone
+: 	 non
+somerset
+: 	 non
+something
+: 	 non
+sometimes
+: 	 non
+somewhat
+: 	 non
+somewhere
+: 	 non
+son
+: 	 yes
+song
+: 	 yes
+songs
+: 	 non
+sonic
+: 	 non
+sons
+: 	 yes
+sony
+: 	 yes
+soon
+: 	 yes
+soonest
+: 	 non
+sophisticated
+: 	 non
+sorry
+: 	 non
+sort
+: 	 yes
+sorted
+: 	 non
+sorts
+: 	 non
+sought
+: 	 non
+soul
+: 	 yes
+souls
+: 	 non
+sound
+: 	 non
+sounds
+: 	 non
+soundtrack
+: 	 non
+soup
+: 	 yes
+source
+: 	 non
+sources
+: 	 non
+south
+: 	 non
+southampton
+: 	 non
+southeast
+: 	 non
+southern
+: 	 non
+southwest
+: 	 non
+soviet
+: 	 non
+sox
+: 	 yes
+sp
+: 	 non
+spa
+: 	 yes
+space
+: 	 non
+spaces
+: 	 non
+spain
+: 	 non
+spam
+: 	 yes
+span
+: 	 yes
+spanish
+: 	 non
+spank
+: 	 non
+spanking
+: 	 non
+sparc
+: 	 non
+spare
+: 	 non
+spas
+: 	 yes
+spatial
+: 	 non
+speak
+: 	 non
+speaker
+: 	 non
+speakers
+: 	 non
+speaking
+: 	 non
+speaks
+: 	 non
+spears
+: 	 non
+spec
+: 	 yes
+special
+: 	 non
+specialist
+: 	 non
+specialists
+: 	 non
+specialized
+: 	 non
+specializing
+: 	 non
+specially
+: 	 non
+specials
+: 	 non
+specialties
+: 	 non
+specialty
+: 	 non
+species
+: 	 non
+specific
+: 	 non
+specifically
+: 	 non
+specification
+: 	 non
+specifications
+: 	 non
+specifics
+: 	 non
+specified
+: 	 non
+specifies
+: 	 non
+specify
+: 	 non
+specs
+: 	 non
+spectacular
+: 	 non
+spectrum
+: 	 non
+speech
+: 	 non
+speeches
+: 	 non
+speed
+: 	 non
+speeds
+: 	 non
+spell
+: 	 non
+spelling
+: 	 non
+spencer
+: 	 non
+spend
+: 	 non
+spending
+: 	 non
+spent
+: 	 non
+sperm
+: 	 non
+sphere
+: 	 non
+spice
+: 	 non
+spider
+: 	 non
+spies
+: 	 non
+spin
+: 	 yes
+spine
+: 	 non
+spirit
+: 	 non
+spirits
+: 	 non
+spiritual
+: 	 non
+spirituality
+: 	 non
+split
+: 	 non
+spoke
+: 	 non
+spoken
+: 	 non
+spokesman
+: 	 non
+sponsor
+: 	 non
+sponsored
+: 	 non
+sponsors
+: 	 non
+sponsorship
+: 	 non
+sport
+: 	 non
+sporting
+: 	 non
+sports
+: 	 non
+spot
+: 	 yes
+spotlight
+: 	 non
+spots
+: 	 non
+spouse
+: 	 non
+spray
+: 	 non
+spread
+: 	 non
+spreading
+: 	 non
+spring
+: 	 non
+springer
+: 	 non
+springfield
+: 	 non
+springs
+: 	 non
+sprint
+: 	 non
+spy
+: 	 yes
+spyware
+: 	 non
+sq
+: 	 non
+sql
+: 	 yes
+squad
+: 	 non
+square
+: 	 non
+squirt
+: 	 non
+squirting
+: 	 non
+sr
+: 	 non
+src
+: 	 yes
+sri
+: 	 yes
+ss
+: 	 non
+ssl
+: 	 yes
+st
+: 	 non
+stability
+: 	 non
+stable
+: 	 non
+stack
+: 	 non
+stadium
+: 	 non
+staff
+: 	 non
+staffing
+: 	 non
+stage
+: 	 non
+stages
+: 	 non
+stainless
+: 	 non
+stakeholders
+: 	 non
+stamp
+: 	 non
+stamps
+: 	 non
+stan
+: 	 yes
+stand
+: 	 non
+standard
+: 	 non
+standards
+: 	 non
+standing
+: 	 non
+standings
+: 	 non
+stands
+: 	 non
+stanford
+: 	 non
+stanley
+: 	 non
+star
+: 	 yes
+starring
+: 	 non
+stars
+: 	 non
+starsmerchant
+: 	 non
+start
+: 	 non
+started
+: 	 non
+starter
+: 	 non
+starting
+: 	 non
+starts
+: 	 non
+startup
+: 	 non
+stat
+: 	 yes
+state
+: 	 non
+stated
+: 	 non
+statement
+: 	 non
+statements
+: 	 non
+states
+: 	 non
+statewide
+: 	 non
+static
+: 	 non
+stating
+: 	 non
+station
+: 	 non
+stationery
+: 	 non
+stations
+: 	 non
+statistical
+: 	 non
+statistics
+: 	 non
+stats
+: 	 non
+status
+: 	 non
+statute
+: 	 non
+statutes
+: 	 non
+statutory
+: 	 non
+stay
+: 	 yes
+stayed
+: 	 non
+staying
+: 	 non
+stays
+: 	 non
+std
+: 	 yes
+ste
+: 	 yes
+steady
+: 	 non
+steal
+: 	 non
+steam
+: 	 non
+steel
+: 	 non
+steering
+: 	 non
+stem
+: 	 yes
+step
+: 	 yes
+stephanie
+: 	 non
+stephen
+: 	 non
+steps
+: 	 non
+stereo
+: 	 non
+sterling
+: 	 non
+steve
+: 	 non
+steven
+: 	 non
+stevens
+: 	 non
+stewart
+: 	 non
+stick
+: 	 non
+sticker
+: 	 non
+stickers
+: 	 non
+sticks
+: 	 non
+sticky
+: 	 non
+still
+: 	 non
+stock
+: 	 non
+stockholm
+: 	 non
+stockings
+: 	 non
+stocks
+: 	 non
+stolen
+: 	 non
+stomach
+: 	 non
+stone
+: 	 non
+stones
+: 	 non
+stood
+: 	 non
+stop
+: 	 yes
+stopped
+: 	 non
+stopping
+: 	 non
+stops
+: 	 non
+storage
+: 	 non
+store
+: 	 non
+stored
+: 	 non
+stores
+: 	 non
+stories
+: 	 non
+storm
+: 	 non
+story
+: 	 non
+str
+: 	 yes
+straight
+: 	 non
+strain
+: 	 non
+strand
+: 	 non
+strange
+: 	 non
+stranger
+: 	 non
+strap
+: 	 non
+strategic
+: 	 non
+strategies
+: 	 non
+strategy
+: 	 non
+stream
+: 	 non
+streaming
+: 	 non
+streams
+: 	 non
+street
+: 	 non
+streets
+: 	 non
+strength
+: 	 non
+strengthen
+: 	 non
+strengthening
+: 	 non
+strengths
+: 	 non
+stress
+: 	 non
+stretch
+: 	 non
+strict
+: 	 non
+strictly
+: 	 non
+strike
+: 	 non
+strikes
+: 	 non
+striking
+: 	 non
+string
+: 	 non
+strings
+: 	 non
+strip
+: 	 non
+stripes
+: 	 non
+strips
+: 	 non
+stroke
+: 	 non
+strong
+: 	 non
+stronger
+: 	 non
+strongly
+: 	 non
+struck
+: 	 non
+struct
+: 	 non
+structural
+: 	 non
+structure
+: 	 non
+structured
+: 	 non
+structures
+: 	 non
+struggle
+: 	 non
+stuart
+: 	 non
+stuck
+: 	 non
+stud
+: 	 yes
+student
+: 	 non
+students
+: 	 non
+studied
+: 	 non
+studies
+: 	 non
+studio
+: 	 non
+studios
+: 	 non
+study
+: 	 non
+studying
+: 	 non
+stuff
+: 	 non
+stuffed
+: 	 non
+stunning
+: 	 non
+stupid
+: 	 non
+style
+: 	 non
+styles
+: 	 non
+stylish
+: 	 non
+stylus
+: 	 non
+su
+: 	 non
+sub
+: 	 yes
+subaru
+: 	 non
+subcommittee
+: 	 non
+subdivision
+: 	 non
+subject
+: 	 non
+subjects
+: 	 non
+sublime
+: 	 non
+sublimedirectory
+: 	 non
+submission
+: 	 non
+submissions
+: 	 non
+submit
+: 	 non
+submitted
+: 	 non
+submitting
+: 	 non
+subscribe
+: 	 non
+subscriber
+: 	 non
+subscribers
+: 	 non
+subscription
+: 	 non
+subscriptions
+: 	 non
+subsection
+: 	 non
+subsequent
+: 	 non
+subsequently
+: 	 non
+subsidiaries
+: 	 non
+subsidiary
+: 	 non
+substance
+: 	 non
+substances
+: 	 non
+substantial
+: 	 non
+substantially
+: 	 non
+substitute
+: 	 non
+subtle
+: 	 non
+suburban
+: 	 non
+succeed
+: 	 non
+success
+: 	 non
+successful
+: 	 non
+successfully
+: 	 non
+such
+: 	 yes
+suck
+: 	 yes
+sucking
+: 	 non
+sucks
+: 	 non
+sudan
+: 	 non
+sudden
+: 	 non
+suddenly
+: 	 non
+sue
+: 	 yes
+suffer
+: 	 non
+suffered
+: 	 non
+suffering
+: 	 non
+sufficient
+: 	 non
+sufficiently
+: 	 non
+sugar
+: 	 non
+suggest
+: 	 non
+suggested
+: 	 non
+suggesting
+: 	 non
+suggestion
+: 	 non
+suggestions
+: 	 non
+suggests
+: 	 non
+suicide
+: 	 non
+suit
+: 	 yes
+suitable
+: 	 non
+suite
+: 	 non
+suited
+: 	 non
+suites
+: 	 non
+suits
+: 	 non
+sullivan
+: 	 non
+sum
+: 	 yes
+summaries
+: 	 non
+summary
+: 	 non
+summer
+: 	 non
+summit
+: 	 non
+sun
+: 	 yes
+sunday
+: 	 non
+sunglasses
+: 	 non
+sunny
+: 	 non
+sunrise
+: 	 non
+sunset
+: 	 non
+sunshine
+: 	 non
+super
+: 	 non
+superb
+: 	 non
+superintendent
+: 	 non
+superior
+: 	 non
+supervision
+: 	 non
+supervisor
+: 	 non
+supervisors
+: 	 non
+supplement
+: 	 non
+supplemental
+: 	 non
+supplements
+: 	 non
+supplied
+: 	 non
+supplier
+: 	 non
+suppliers
+: 	 non
+supplies
+: 	 non
+supply
+: 	 non
+support
+: 	 non
+supported
+: 	 non
+supporters
+: 	 non
+supporting
+: 	 non
+supports
+: 	 non
+suppose
+: 	 non
+supposed
+: 	 non
+supreme
+: 	 non
+sur
+: 	 yes
+sure
+: 	 yes
+surely
+: 	 non
+surf
+: 	 yes
+surface
+: 	 non
+surfaces
+: 	 non
+surfing
+: 	 non
+surge
+: 	 non
+surgeon
+: 	 non
+surgeons
+: 	 non
+surgery
+: 	 non
+surgical
+: 	 non
+surname
+: 	 non
+surplus
+: 	 non
+surprise
+: 	 non
+surprised
+: 	 non
+surprising
+: 	 non
+surrey
+: 	 non
+surround
+: 	 non
+surrounded
+: 	 non
+surrounding
+: 	 non
+surveillance
+: 	 non
+survey
+: 	 non
+surveys
+: 	 non
+survival
+: 	 non
+survive
+: 	 non
+survivor
+: 	 non
+survivors
+: 	 non
+susan
+: 	 non
+suse
+: 	 yes
+suspect
+: 	 non
+suspected
+: 	 non
+suspended
+: 	 non
+suspension
+: 	 non
+sussex
+: 	 non
+sustainability
+: 	 non
+sustainable
+: 	 non
+sustained
+: 	 non
+suzuki
+: 	 non
+sv
+: 	 non
+sw
+: 	 non
+swap
+: 	 yes
+sweden
+: 	 non
+swedish
+: 	 non
+sweet
+: 	 non
+swift
+: 	 non
+swim
+: 	 yes
+swimming
+: 	 non
+swing
+: 	 non
+swingers
+: 	 non
+swiss
+: 	 non
+switch
+: 	 non
+switched
+: 	 non
+switches
+: 	 non
+switching
+: 	 non
+switzerland
+: 	 non
+sword
+: 	 non
+sydney
+: 	 non
+symantec
+: 	 non
+symbol
+: 	 non
+symbols
+: 	 non
+sympathy
+: 	 non
+symphony
+: 	 non
+symposium
+: 	 non
+symptoms
+: 	 non
+sync
+: 	 yes
+syndicate
+: 	 non
+syndication
+: 	 non
+syndrome
+: 	 non
+synopsis
+: 	 non
+syntax
+: 	 non
+synthesis
+: 	 non
+synthetic
+: 	 non
+syracuse
+: 	 non
+syria
+: 	 non
+sys
+: 	 yes
+system
+: 	 non
+systematic
+: 	 non
+systems
+: 	 non
+t
+: 	 non
+ta
+: 	 non
+tab
+: 	 yes
+table
+: 	 non
+tables
+: 	 non
+tablet
+: 	 non
+tablets
+: 	 non
+tabs
+: 	 yes
+tackle
+: 	 non
+tactics
+: 	 non
+tag
+: 	 yes
+tagged
+: 	 non
+tags
+: 	 yes
+tahoe
+: 	 non
+tail
+: 	 yes
+taiwan
+: 	 non
+take
+: 	 yes
+taken
+: 	 non
+takes
+: 	 non
+taking
+: 	 non
+tale
+: 	 yes
+talent
+: 	 non
+talented
+: 	 non
+tales
+: 	 non
+talk
+: 	 yes
+talked
+: 	 non
+talking
+: 	 non
+talks
+: 	 non
+tall
+: 	 yes
+tamil
+: 	 non
+tampa
+: 	 non
+tan
+: 	 yes
+tank
+: 	 yes
+tanks
+: 	 non
+tanzania
+: 	 non
+tap
+: 	 yes
+tape
+: 	 yes
+tapes
+: 	 non
+tar
+: 	 yes
+target
+: 	 non
+targeted
+: 	 non
+targets
+: 	 non
+tariff
+: 	 non
+task
+: 	 yes
+tasks
+: 	 non
+taste
+: 	 non
+tattoo
+: 	 non
+taught
+: 	 non
+tax
+: 	 yes
+taxation
+: 	 non
+taxes
+: 	 non
+taxi
+: 	 yes
+taylor
+: 	 non
+tb
+: 	 non
+tba
+: 	 yes
+tc
+: 	 non
+tcp
+: 	 yes
+td
+: 	 non
+te
+: 	 non
+tea
+: 	 yes
+teach
+: 	 non
+teacher
+: 	 non
+teachers
+: 	 non
+teaches
+: 	 non
+teaching
+: 	 non
+team
+: 	 yes
+teams
+: 	 non
+tear
+: 	 yes
+tears
+: 	 non
+tech
+: 	 yes
+technical
+: 	 non
+technician
+: 	 non
+technique
+: 	 non
+techniques
+: 	 non
+techno
+: 	 non
+technological
+: 	 non
+technologies
+: 	 non
+technology
+: 	 non
+techrepublic
+: 	 non
+ted
+: 	 yes
+teddy
+: 	 non
+tee
+: 	 yes
+teen
+: 	 yes
+teenage
+: 	 non
+teens
+: 	 non
+teeth
+: 	 non
+tel
+: 	 yes
+telecharger
+: 	 non
+telecom
+: 	 non
+telecommunications
+: 	 non
+telephone
+: 	 non
+telephony
+: 	 non
+telescope
+: 	 non
+television
+: 	 non
+televisions
+: 	 non
+tell
+: 	 yes
+telling
+: 	 non
+tells
+: 	 non
+temp
+: 	 yes
+temperature
+: 	 non
+temperatures
+: 	 non
+template
+: 	 non
+templates
+: 	 non
+temple
+: 	 non
+temporal
+: 	 non
+temporarily
+: 	 non
+temporary
+: 	 non
+ten
+: 	 yes
+tenant
+: 	 non
+tend
+: 	 yes
+tender
+: 	 non
+tennessee
+: 	 non
+tennis
+: 	 non
+tension
+: 	 non
+tent
+: 	 yes
+term
+: 	 yes
+terminal
+: 	 non
+terminals
+: 	 non
+termination
+: 	 non
+terminology
+: 	 non
+terms
+: 	 non
+terrace
+: 	 non
+terrain
+: 	 non
+terrible
+: 	 non
+territories
+: 	 non
+territory
+: 	 non
+terror
+: 	 non
+terrorism
+: 	 non
+terrorist
+: 	 non
+terrorists
+: 	 non
+terry
+: 	 non
+test
+: 	 yes
+testament
+: 	 non
+tested
+: 	 non
+testimonials
+: 	 non
+testimony
+: 	 non
+testing
+: 	 non
+tests
+: 	 non
+tex
+: 	 yes
+texas
+: 	 non
+text
+: 	 yes
+textbook
+: 	 non
+textbooks
+: 	 non
+textile
+: 	 non
+textiles
+: 	 non
+texts
+: 	 non
+texture
+: 	 non
+tf
+: 	 non
+tft
+: 	 yes
+tgp
+: 	 yes
+th
+: 	 non
+thai
+: 	 yes
+thailand
+: 	 non
+than
+: 	 yes
+thank
+: 	 non
+thanks
+: 	 non
+thanksgiving
+: 	 non
+that
+: 	 yes
+thats
+: 	 non
+the
+: 	 yes
+theater
+: 	 non
+theaters
+: 	 non
+theatre
+: 	 non
+thee
+: 	 yes
+theft
+: 	 non
+thehun
+: 	 non
+their
+: 	 non
+them
+: 	 yes
+theme
+: 	 non
+themes
+: 	 non
+themselves
+: 	 non
+then
+: 	 yes
+theology
+: 	 non
+theorem
+: 	 non
+theoretical
+: 	 non
+theories
+: 	 non
+theory
+: 	 non
+therapeutic
+: 	 non
+therapist
+: 	 non
+therapy
+: 	 non
+there
+: 	 non
+thereafter
+: 	 non
+thereby
+: 	 non
+therefore
+: 	 non
+thereof
+: 	 non
+thermal
+: 	 non
+thesaurus
+: 	 non
+these
+: 	 non
+thesis
+: 	 non
+they
+: 	 yes
+thick
+: 	 non
+thickness
+: 	 non
+thin
+: 	 yes
+thing
+: 	 non
+things
+: 	 non
+think
+: 	 non
+thinking
+: 	 non
+thinkpad
+: 	 non
+thinks
+: 	 non
+third
+: 	 non
+thirty
+: 	 non
+this
+: 	 yes
+thomas
+: 	 non
+thompson
+: 	 non
+thomson
+: 	 non
+thong
+: 	 non
+thongs
+: 	 non
+thorough
+: 	 non
+thoroughly
+: 	 non
+those
+: 	 non
+thou
+: 	 yes
+though
+: 	 non
+thought
+: 	 non
+thoughts
+: 	 non
+thousand
+: 	 non
+thousands
+: 	 non
+thread
+: 	 non
+threaded
+: 	 non
+threads
+: 	 non
+threat
+: 	 non
+threatened
+: 	 non
+threatening
+: 	 non
+threats
+: 	 non
+three
+: 	 non
+threesome
+: 	 non
+threshold
+: 	 non
+thriller
+: 	 non
+throat
+: 	 non
+through
+: 	 non
+throughout
+: 	 non
+throw
+: 	 non
+throwing
+: 	 non
+thrown
+: 	 non
+throws
+: 	 non
+thru
+: 	 yes
+thu
+: 	 yes
+thumb
+: 	 non
+thumbnail
+: 	 non
+thumbnails
+: 	 non
+thumbs
+: 	 non
+thumbzilla
+: 	 non
+thunder
+: 	 non
+thursday
+: 	 non
+thus
+: 	 yes
+thy
+: 	 yes
+ti
+: 	 non
+ticket
+: 	 non
+tickets
+: 	 non
+tide
+: 	 yes
+tie
+: 	 yes
+tied
+: 	 yes
+tier
+: 	 yes
+ties
+: 	 yes
+tiffany
+: 	 non
+tiger
+: 	 non
+tigers
+: 	 non
+tight
+: 	 non
+til
+: 	 yes
+tile
+: 	 yes
+tiles
+: 	 non
+till
+: 	 yes
+tim
+: 	 yes
+timber
+: 	 non
+time
+: 	 yes
+timeline
+: 	 non
+timely
+: 	 non
+timer
+: 	 non
+times
+: 	 non
+timing
+: 	 non
+timothy
+: 	 non
+tin
+: 	 yes
+tiny
+: 	 yes
+tion
+: 	 yes
+tions
+: 	 non
+tip
+: 	 yes
+tips
+: 	 yes
+tire
+: 	 yes
+tired
+: 	 non
+tires
+: 	 non
+tissue
+: 	 non
+tit
+: 	 yes
+titanium
+: 	 non
+titans
+: 	 non
+title
+: 	 non
+titled
+: 	 non
+titles
+: 	 non
+tits
+: 	 yes
+titten
+: 	 non
+tm
+: 	 non
+tmp
+: 	 yes
+tn
+: 	 non
+to
+: 	 non
+tobacco
+: 	 non
+tobago
+: 	 non
+today
+: 	 non
+todd
+: 	 yes
+toddler
+: 	 non
+toe
+: 	 yes
+together
+: 	 non
+toilet
+: 	 non
+token
+: 	 non
+tokyo
+: 	 non
+told
+: 	 yes
+tolerance
+: 	 non
+toll
+: 	 yes
+tom
+: 	 yes
+tomato
+: 	 non
+tomatoes
+: 	 non
+tommy
+: 	 non
+tomorrow
+: 	 non
+ton
+: 	 yes
+tone
+: 	 yes
+toner
+: 	 non
+tones
+: 	 non
+tongue
+: 	 non
+tonight
+: 	 non
+tons
+: 	 yes
+tony
+: 	 yes
+too
+: 	 yes
+took
+: 	 yes
+tool
+: 	 yes
+toolbar
+: 	 non
+toolbox
+: 	 non
+toolkit
+: 	 non
+tools
+: 	 non
+tooth
+: 	 non
+top
+: 	 yes
+topic
+: 	 non
+topics
+: 	 non
+topless
+: 	 non
+tops
+: 	 yes
+toronto
+: 	 non
+torture
+: 	 non
+toshiba
+: 	 non
+total
+: 	 non
+totally
+: 	 non
+totals
+: 	 non
+touch
+: 	 non
+touched
+: 	 non
+tough
+: 	 non
+tour
+: 	 yes
+touring
+: 	 non
+tourism
+: 	 non
+tourist
+: 	 non
+tournament
+: 	 non
+tournaments
+: 	 non
+tours
+: 	 non
+toward
+: 	 non
+towards
+: 	 non
+tower
+: 	 non
+towers
+: 	 non
+town
+: 	 yes
+towns
+: 	 non
+township
+: 	 non
+toxic
+: 	 non
+toy
+: 	 yes
+toyota
+: 	 non
+toys
+: 	 yes
+tp
+: 	 non
+tr
+: 	 non
+trace
+: 	 non
+track
+: 	 non
+trackback
+: 	 non
+trackbacks
+: 	 non
+tracked
+: 	 non
+tracker
+: 	 non
+tracking
+: 	 non
+tracks
+: 	 non
+tract
+: 	 non
+tractor
+: 	 non
+tracy
+: 	 non
+trade
+: 	 non
+trademark
+: 	 non
+trademarks
+: 	 non
+trader
+: 	 non
+trades
+: 	 non
+trading
+: 	 non
+tradition
+: 	 non
+traditional
+: 	 non
+traditions
+: 	 non
+traffic
+: 	 non
+tragedy
+: 	 non
+trail
+: 	 non
+trailer
+: 	 non
+trailers
+: 	 non
+trails
+: 	 non
+train
+: 	 non
+trained
+: 	 non
+trainer
+: 	 non
+trainers
+: 	 non
+training
+: 	 non
+trains
+: 	 non
+tramadol
+: 	 non
+trance
+: 	 non
+tranny
+: 	 non
+trans
+: 	 non
+transaction
+: 	 non
+transactions
+: 	 non
+transcript
+: 	 non
+transcription
+: 	 non
+transcripts
+: 	 non
+transexual
+: 	 non
+transexuales
+: 	 non
+transfer
+: 	 non
+transferred
+: 	 non
+transfers
+: 	 non
+transform
+: 	 non
+transformation
+: 	 non
+transit
+: 	 non
+transition
+: 	 non
+translate
+: 	 non
+translated
+: 	 non
+translation
+: 	 non
+translations
+: 	 non
+translator
+: 	 non
+transmission
+: 	 non
+transmit
+: 	 non
+transmitted
+: 	 non
+transparency
+: 	 non
+transparent
+: 	 non
+transport
+: 	 non
+transportation
+: 	 non
+transsexual
+: 	 non
+trap
+: 	 yes
+trash
+: 	 non
+trauma
+: 	 non
+travel
+: 	 non
+traveler
+: 	 non
+travelers
+: 	 non
+traveling
+: 	 non
+traveller
+: 	 non
+travelling
+: 	 non
+travels
+: 	 non
+travesti
+: 	 non
+travis
+: 	 non
+tray
+: 	 yes
+treasure
+: 	 non
+treasurer
+: 	 non
+treasures
+: 	 non
+treasury
+: 	 non
+treat
+: 	 non
+treated
+: 	 non
+treating
+: 	 non
+treatment
+: 	 non
+treatments
+: 	 non
+treaty
+: 	 non
+tree
+: 	 yes
+trees
+: 	 non
+trek
+: 	 yes
+trembl
+: 	 non
+tremendous
+: 	 non
+trend
+: 	 non
+trends
+: 	 non
+treo
+: 	 yes
+tri
+: 	 yes
+trial
+: 	 non
+trials
+: 	 non
+triangle
+: 	 non
+tribal
+: 	 non
+tribe
+: 	 non
+tribes
+: 	 non
+tribunal
+: 	 non
+tribune
+: 	 non
+tribute
+: 	 non
+trick
+: 	 non
+tricks
+: 	 non
+tried
+: 	 non
+tries
+: 	 non
+trigger
+: 	 non
+trim
+: 	 yes
+trinidad
+: 	 non
+trinity
+: 	 non
+trio
+: 	 yes
+trip
+: 	 yes
+tripadvisor
+: 	 non
+triple
+: 	 non
+trips
+: 	 non
+triumph
+: 	 non
+trivia
+: 	 non
+troops
+: 	 non
+tropical
+: 	 non
+trouble
+: 	 non
+troubleshooting
+: 	 non
+trout
+: 	 non
+troy
+: 	 yes
+truck
+: 	 non
+trucks
+: 	 non
+true
+: 	 yes
+truly
+: 	 non
+trunk
+: 	 non
+trust
+: 	 non
+trusted
+: 	 non
+trustee
+: 	 non
+trustees
+: 	 non
+trusts
+: 	 non
+truth
+: 	 non
+try
+: 	 yes
+trying
+: 	 non
+ts
+: 	 non
+tsunami
+: 	 non
+tt
+: 	 non
+tu
+: 	 non
+tub
+: 	 yes
+tube
+: 	 yes
+tubes
+: 	 non
+tucson
+: 	 non
+tue
+: 	 yes
+tuesday
+: 	 non
+tuition
+: 	 non
+tulsa
+: 	 non
+tumor
+: 	 non
+tune
+: 	 yes
+tuner
+: 	 non
+tunes
+: 	 non
+tuning
+: 	 non
+tunisia
+: 	 non
+tunnel
+: 	 non
+turbo
+: 	 non
+turkey
+: 	 non
+turkish
+: 	 non
+turn
+: 	 yes
+turned
+: 	 non
+turner
+: 	 non
+turning
+: 	 non
+turns
+: 	 non
+turtle
+: 	 non
+tutorial
+: 	 non
+tutorials
+: 	 non
+tv
+: 	 non
+tvcom
+: 	 non
+tvs
+: 	 yes
+twelve
+: 	 non
+twenty
+: 	 non
+twice
+: 	 non
+twiki
+: 	 non
+twin
+: 	 yes
+twinks
+: 	 non
+twins
+: 	 non
+twist
+: 	 non
+twisted
+: 	 non
+two
+: 	 yes
+tx
+: 	 non
+ty
+: 	 non
+tyler
+: 	 non
+type
+: 	 yes
+types
+: 	 non
+typical
+: 	 non
+typically
+: 	 non
+typing
+: 	 non
+u
+: 	 non
+uc
+: 	 non
+uganda
+: 	 non
+ugly
+: 	 yes
+uh
+: 	 non
+ui
+: 	 non
+uk
+: 	 non
+ukraine
+: 	 non
+ul
+: 	 non
+ultimate
+: 	 non
+ultimately
+: 	 non
+ultra
+: 	 non
+ultram
+: 	 non
+um
+: 	 non
+un
+: 	 non
+una
+: 	 yes
+unable
+: 	 non
+unauthorized
+: 	 non
+unavailable
+: 	 non
+uncertainty
+: 	 non
+uncle
+: 	 non
+und
+: 	 yes
+undefined
+: 	 non
+under
+: 	 non
+undergraduate
+: 	 non
+underground
+: 	 non
+underlying
+: 	 non
+understand
+: 	 non
+understanding
+: 	 non
+understood
+: 	 non
+undertake
+: 	 non
+undertaken
+: 	 non
+underwear
+: 	 non
+undo
+: 	 yes
+une
+: 	 yes
+unemployment
+: 	 non
+unexpected
+: 	 non
+unfortunately
+: 	 non
+uni
+: 	 yes
+unified
+: 	 non
+uniform
+: 	 non
+union
+: 	 non
+unions
+: 	 non
+uniprotkb
+: 	 non
+unique
+: 	 non
+unit
+: 	 yes
+united
+: 	 non
+units
+: 	 non
+unity
+: 	 non
+univ
+: 	 yes
+universal
+: 	 non
+universe
+: 	 non
+universities
+: 	 non
+university
+: 	 non
+unix
+: 	 yes
+unknown
+: 	 non
+unless
+: 	 non
+unlike
+: 	 non
+unlikely
+: 	 non
+unlimited
+: 	 non
+unlock
+: 	 non
+unnecessary
+: 	 non
+unsigned
+: 	 non
+unsubscribe
+: 	 non
+until
+: 	 non
+untitled
+: 	 non
+unto
+: 	 yes
+unusual
+: 	 non
+unwrap
+: 	 non
+up
+: 	 non
+upc
+: 	 yes
+upcoming
+: 	 non
+update
+: 	 non
+updated
+: 	 non
+updates
+: 	 non
+updating
+: 	 non
+upgrade
+: 	 non
+upgrades
+: 	 non
+upgrading
+: 	 non
+upload
+: 	 non
+uploaded
+: 	 non
+upon
+: 	 yes
+upper
+: 	 non
+ups
+: 	 yes
+upset
+: 	 non
+upskirt
+: 	 non
+upskirts
+: 	 non
+ur
+: 	 non
+urban
+: 	 non
+urge
+: 	 yes
+urgent
+: 	 non
+uri
+: 	 yes
+url
+: 	 yes
+urls
+: 	 yes
+uruguay
+: 	 non
+urw
+: 	 yes
+us
+: 	 non
+usa
+: 	 yes
+usage
+: 	 non
+usb
+: 	 yes
+usc
+: 	 yes
+usd
+: 	 yes
+usda
+: 	 yes
+use
+: 	 yes
+used
+: 	 yes
+useful
+: 	 non
+user
+: 	 yes
+username
+: 	 non
+users
+: 	 non
+uses
+: 	 yes
+usgs
+: 	 yes
+using
+: 	 non
+usps
+: 	 yes
+usr
+: 	 yes
+usual
+: 	 non
+usually
+: 	 non
+ut
+: 	 non
+utah
+: 	 yes
+utc
+: 	 yes
+utilities
+: 	 non
+utility
+: 	 non
+utilization
+: 	 non
+utilize
+: 	 non
+utils
+: 	 non
+uv
+: 	 non
+uw
+: 	 non
+uzbekistan
+: 	 non
+v
+: 	 non
+va
+: 	 non
+vacancies
+: 	 non
+vacation
+: 	 non
+vacations
+: 	 non
+vaccine
+: 	 non
+vacuum
+: 	 non
+vagina
+: 	 non
+val
+: 	 yes
+valentine
+: 	 non
+valid
+: 	 non
+validation
+: 	 non
+validity
+: 	 non
+valium
+: 	 non
+valley
+: 	 non
+valuable
+: 	 non
+valuation
+: 	 non
+value
+: 	 non
+valued
+: 	 non
+values
+: 	 non
+valve
+: 	 non
+valves
+: 	 non
+vampire
+: 	 non
+van
+: 	 yes
+vancouver
+: 	 non
+vanilla
+: 	 non
+var
+: 	 yes
+variable
+: 	 non
+variables
+: 	 non
+variance
+: 	 non
+variation
+: 	 non
+variations
+: 	 non
+varied
+: 	 non
+varies
+: 	 non
+variety
+: 	 non
+various
+: 	 non
+vary
+: 	 yes
+varying
+: 	 non
+vast
+: 	 yes
+vat
+: 	 yes
+vatican
+: 	 non
+vault
+: 	 non
+vb
+: 	 non
+vbulletin
+: 	 non
+vc
+: 	 non
+vcr
+: 	 yes
+ve
+: 	 non
+vector
+: 	 non
+vegas
+: 	 non
+vegetable
+: 	 non
+vegetables
+: 	 non
+vegetarian
+: 	 non
+vegetation
+: 	 non
+vehicle
+: 	 non
+vehicles
+: 	 non
+velocity
+: 	 non
+velvet
+: 	 non
+vendor
+: 	 non
+vendors
+: 	 non
+venezuela
+: 	 non
+venice
+: 	 non
+venture
+: 	 non
+ventures
+: 	 non
+venue
+: 	 non
+venues
+: 	 non
+ver
+: 	 yes
+verbal
+: 	 non
+verde
+: 	 non
+verification
+: 	 non
+verified
+: 	 non
+verify
+: 	 non
+verizon
+: 	 non
+vermont
+: 	 non
+vernon
+: 	 non
+verse
+: 	 non
+version
+: 	 non
+versions
+: 	 non
+versus
+: 	 non
+vertex
+: 	 non
+vertical
+: 	 non
+very
+: 	 yes
+verzeichnis
+: 	 non
+vessel
+: 	 non
+vessels
+: 	 non
+veteran
+: 	 non
+veterans
+: 	 non
+veterinary
+: 	 non
+vg
+: 	 non
+vhs
+: 	 yes
+vi
+: 	 non
+via
+: 	 yes
+viagra
+: 	 non
+vibrator
+: 	 non
+vibrators
+: 	 non
+vic
+: 	 yes
+vice
+: 	 yes
+victim
+: 	 non
+victims
+: 	 non
+victor
+: 	 non
+victoria
+: 	 non
+victorian
+: 	 non
+victory
+: 	 non
+vid
+: 	 yes
+video
+: 	 non
+videos
+: 	 non
+vids
+: 	 yes
+vienna
+: 	 non
+vietnam
+: 	 non
+vietnamese
+: 	 non
+view
+: 	 yes
+viewed
+: 	 non
+viewer
+: 	 non
+viewers
+: 	 non
+viewing
+: 	 non
+viewpicture
+: 	 non
+views
+: 	 non
+vii
+: 	 yes
+viii
+: 	 yes
+viking
+: 	 non
+villa
+: 	 non
+village
+: 	 non
+villages
+: 	 non
+villas
+: 	 non
+vincent
+: 	 non
+vintage
+: 	 non
+vinyl
+: 	 non
+violation
+: 	 non
+violations
+: 	 non
+violence
+: 	 non
+violent
+: 	 non
+violin
+: 	 non
+vip
+: 	 yes
+viral
+: 	 non
+virgin
+: 	 non
+virginia
+: 	 non
+virtual
+: 	 non
+virtually
+: 	 non
+virtue
+: 	 non
+virus
+: 	 non
+viruses
+: 	 non
+visa
+: 	 yes
+visibility
+: 	 non
+visible
+: 	 non
+vision
+: 	 non
+visit
+: 	 non
+visited
+: 	 non
+visiting
+: 	 non
+visitor
+: 	 non
+visitors
+: 	 non
+visits
+: 	 non
+vista
+: 	 non
+visual
+: 	 non
+vital
+: 	 non
+vitamin
+: 	 non
+vitamins
+: 	 non
+vocabulary
+: 	 non
+vocal
+: 	 non
+vocals
+: 	 non
+vocational
+: 	 non
+voice
+: 	 non
+voices
+: 	 non
+void
+: 	 yes
+voip
+: 	 yes
+vol
+: 	 yes
+volkswagen
+: 	 non
+volleyball
+: 	 non
+volt
+: 	 yes
+voltage
+: 	 non
+volume
+: 	 non
+volumes
+: 	 non
+voluntary
+: 	 non
+volunteer
+: 	 non
+volunteers
+: 	 non
+volvo
+: 	 non
+von
+: 	 yes
+vote
+: 	 yes
+voted
+: 	 non
+voters
+: 	 non
+votes
+: 	 non
+voting
+: 	 non
+voyeur
+: 	 non
+voyeurweb
+: 	 non
+voyuer
+: 	 non
+vp
+: 	 non
+vpn
+: 	 yes
+vs
+: 	 non
+vsnet
+: 	 non
+vt
+: 	 non
+vulnerability
+: 	 non
+vulnerable
+: 	 non
+w
+: 	 non
+wa
+: 	 non
+wage
+: 	 yes
+wages
+: 	 non
+wagner
+: 	 non
+wagon
+: 	 non
+wait
+: 	 yes
+waiting
+: 	 non
+waiver
+: 	 non
+wake
+: 	 yes
+wal
+: 	 yes
+wales
+: 	 non
+walk
+: 	 yes
+walked
+: 	 non
+walker
+: 	 non
+walking
+: 	 non
+walks
+: 	 non
+wall
+: 	 yes
+wallace
+: 	 non
+wallet
+: 	 non
+wallpaper
+: 	 non
+wallpapers
+: 	 non
+walls
+: 	 non
+walnut
+: 	 non
+walt
+: 	 yes
+walter
+: 	 non
+wan
+: 	 yes
+wang
+: 	 yes
+wanna
+: 	 non
+want
+: 	 yes
+wanted
+: 	 non
+wanting
+: 	 non
+wants
+: 	 non
+war
+: 	 yes
+warcraft
+: 	 non
+ward
+: 	 yes
+ware
+: 	 yes
+warehouse
+: 	 non
+warm
+: 	 yes
+warming
+: 	 non
+warned
+: 	 non
+warner
+: 	 non
+warning
+: 	 non
+warnings
+: 	 non
+warrant
+: 	 non
+warranties
+: 	 non
+warranty
+: 	 non
+warren
+: 	 non
+warrior
+: 	 non
+warriors
+: 	 non
+wars
+: 	 yes
+was
+: 	 yes
+wash
+: 	 yes
+washer
+: 	 non
+washing
+: 	 non
+washington
+: 	 non
+waste
+: 	 non
+watch
+: 	 non
+watched
+: 	 non
+watches
+: 	 non
+watching
+: 	 non
+water
+: 	 non
+waterproof
+: 	 non
+waters
+: 	 non
+watershed
+: 	 non
+watson
+: 	 non
+watt
+: 	 yes
+watts
+: 	 non
+wav
+: 	 yes
+wave
+: 	 yes
+waves
+: 	 non
+wax
+: 	 yes
+way
+: 	 yes
+wayne
+: 	 non
+ways
+: 	 yes
+wb
+: 	 non
+wc
+: 	 non
+we
+: 	 non
+weak
+: 	 yes
+wealth
+: 	 non
+weapon
+: 	 non
+weapons
+: 	 non
+wear
+: 	 yes
+wearing
+: 	 non
+weather
+: 	 non
+web
+: 	 yes
+webcam
+: 	 non
+webcams
+: 	 non
+webcast
+: 	 non
+weblog
+: 	 non
+weblogs
+: 	 non
+webmaster
+: 	 non
+webmasters
+: 	 non
+webpage
+: 	 non
+webshots
+: 	 non
+website
+: 	 non
+websites
+: 	 non
+webster
+: 	 non
+wed
+: 	 yes
+wedding
+: 	 non
+weddings
+: 	 non
+wednesday
+: 	 non
+weed
+: 	 yes
+week
+: 	 yes
+weekend
+: 	 non
+weekends
+: 	 non
+weekly
+: 	 non
+weeks
+: 	 non
+weight
+: 	 non
+weighted
+: 	 non
+weights
+: 	 non
+weird
+: 	 non
+welcome
+: 	 non
+welding
+: 	 non
+welfare
+: 	 non
+well
+: 	 yes
+wellington
+: 	 non
+wellness
+: 	 non
+wells
+: 	 non
+welsh
+: 	 non
+wendy
+: 	 non
+went
+: 	 yes
+were
+: 	 yes
+wesley
+: 	 non
+west
+: 	 yes
+western
+: 	 non
+westminster
+: 	 non
+wet
+: 	 yes
+whale
+: 	 non
+what
+: 	 yes
+whatever
+: 	 non
+whats
+: 	 non
+wheat
+: 	 non
+wheel
+: 	 non
+wheels
+: 	 non
+when
+: 	 yes
+whenever
+: 	 non
+where
+: 	 non
+whereas
+: 	 non
+wherever
+: 	 non
+whether
+: 	 non
+which
+: 	 non
+while
+: 	 non
+whilst
+: 	 non
+white
+: 	 non
+who
+: 	 yes
+whole
+: 	 non
+wholesale
+: 	 non
+whom
+: 	 yes
+whore
+: 	 non
+whose
+: 	 non
+why
+: 	 yes
+wi
+: 	 non
+wichita
+: 	 non
+wicked
+: 	 non
+wide
+: 	 yes
+widely
+: 	 non
+wider
+: 	 non
+widescreen
+: 	 non
+widespread
+: 	 non
+width
+: 	 non
+wife
+: 	 yes
+wifi
+: 	 yes
+wiki
+: 	 yes
+wikipedia
+: 	 non
+wild
+: 	 yes
+wilderness
+: 	 non
+wildlife
+: 	 non
+wiley
+: 	 non
+will
+: 	 yes
+william
+: 	 non
+williams
+: 	 non
+willing
+: 	 non
+willow
+: 	 non
+wilson
+: 	 non
+win
+: 	 yes
+wind
+: 	 yes
+window
+: 	 non
+windows
+: 	 non
+winds
+: 	 non
+windsor
+: 	 non
+wine
+: 	 yes
+wines
+: 	 non
+wing
+: 	 yes
+wings
+: 	 non
+winner
+: 	 non
+winners
+: 	 non
+winning
+: 	 non
+wins
+: 	 yes
+winston
+: 	 non
+winter
+: 	 non
+wire
+: 	 yes
+wired
+: 	 non
+wireless
+: 	 non
+wires
+: 	 non
+wiring
+: 	 non
+wisconsin
+: 	 non
+wisdom
+: 	 non
+wise
+: 	 yes
+wish
+: 	 yes
+wishes
+: 	 non
+wishlist
+: 	 non
+wit
+: 	 yes
+witch
+: 	 non
+with
+: 	 yes
+withdrawal
+: 	 non
+within
+: 	 non
+without
+: 	 non
+witness
+: 	 non
+witnesses
+: 	 non
+wives
+: 	 non
+wizard
+: 	 non
+wm
+: 	 non
+wma
+: 	 yes
+wn
+: 	 non
+wolf
+: 	 yes
+woman
+: 	 non
+women
+: 	 non
+womens
+: 	 non
+won
+: 	 yes
+wonder
+: 	 non
+wonderful
+: 	 non
+wondering
+: 	 non
+wood
+: 	 yes
+wooden
+: 	 non
+woods
+: 	 non
+wool
+: 	 yes
+worcester
+: 	 non
+word
+: 	 yes
+wordpress
+: 	 non
+words
+: 	 non
+work
+: 	 yes
+worked
+: 	 non
+worker
+: 	 non
+workers
+: 	 non
+workflow
+: 	 non
+workforce
+: 	 non
+working
+: 	 non
+workout
+: 	 non
+workplace
+: 	 non
+works
+: 	 non
+workshop
+: 	 non
+workshops
+: 	 non
+workstation
+: 	 non
+world
+: 	 non
+worldcat
+: 	 non
+worlds
+: 	 non
+worldsex
+: 	 non
+worldwide
+: 	 non
+worm
+: 	 yes
+worn
+: 	 yes
+worried
+: 	 non
+worry
+: 	 non
+worse
+: 	 non
+worship
+: 	 non
+worst
+: 	 non
+worth
+: 	 non
+worthy
+: 	 non
+would
+: 	 non
+wound
+: 	 non
+wow
+: 	 yes
+wp
+: 	 non
+wr
+: 	 non
+wrap
+: 	 yes
+wrapped
+: 	 non
+wrapping
+: 	 non
+wrestling
+: 	 non
+wright
+: 	 non
+wrist
+: 	 non
+write
+: 	 non
+writer
+: 	 non
+writers
+: 	 non
+writes
+: 	 non
+writing
+: 	 non
+writings
+: 	 non
+written
+: 	 non
+wrong
+: 	 non
+wrote
+: 	 non
+ws
+: 	 non
+wt
+: 	 non
+wto
+: 	 yes
+wu
+: 	 non
+wv
+: 	 non
+ww
+: 	 non
+www
+: 	 yes
+wx
+: 	 non
+wy
+: 	 non
+wyoming
+: 	 non
+x
+: 	 non
+xanax
+: 	 non
+xbox
+: 	 yes
+xerox
+: 	 non
+xhtml
+: 	 non
+xi
+: 	 non
+xl
+: 	 non
+xml
+: 	 yes
+xnxx
+: 	 yes
+xp
+: 	 non
+xx
+: 	 non
+xxx
+: 	 yes
+y
+: 	 non
+ya
+: 	 non
+yacht
+: 	 non
+yahoo
+: 	 non
+yale
+: 	 yes
+yamaha
+: 	 non
+yang
+: 	 yes
+yard
+: 	 yes
+yards
+: 	 non
+yarn
+: 	 yes
+ye
+: 	 non
+yea
+: 	 yes
+yeah
+: 	 yes
+year
+: 	 yes
+yearly
+: 	 non
+years
+: 	 non
+yeast
+: 	 non
+yellow
+: 	 non
+yemen
+: 	 non
+yen
+: 	 yes
+yes
+: 	 yes
+yesterday
+: 	 non
+yet
+: 	 yes
+yield
+: 	 non
+yields
+: 	 non
+yn
+: 	 non
+yo
+: 	 non
+yoga
+: 	 yes
+york
+: 	 yes
+yorkshire
+: 	 non
+you
+: 	 yes
+young
+: 	 non
+younger
+: 	 non
+your
+: 	 yes
+yours
+: 	 non
+yourself
+: 	 non
+youth
+: 	 non
+yr
+: 	 non
+yrs
+: 	 yes
+yu
+: 	 non
+yugoslavia
+: 	 non
+yukon
+: 	 non
+z
+: 	 non
+za
+: 	 non
+zambia
+: 	 non
+zdnet
+: 	 non
+zealand
+: 	 non
+zen
+: 	 yes
+zero
+: 	 yes
+zimbabwe
+: 	 non
+zinc
+: 	 yes
+zip
+: 	 yes
+zoloft
+: 	 non
+zone
+: 	 yes
+zones
+: 	 non
+zoning
+: 	 non
+zoo
+: 	 yes
+zoom
+: 	 yes
+zoophilia
+: 	 non
+zope
+: 	 yes
+zshops
+: 	 non
+zu
+: 	 non
+zum
+: 	 yes
+zus: 	 non
+There is 1804 yes and 8196 no
