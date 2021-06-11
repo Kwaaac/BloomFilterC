@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#include "read.h"
 
 int equal(char *s1, char *s2) {
     return strcmp(s1, s2) == 0;
@@ -198,10 +197,10 @@ node *remove_bst(node *t, char *word) {
     return t;
 }
 
-void display_between(node*t, char* word1, char* word2){
+void display_between(node *t, char *word1, char *word2) {
     if (t != NULL) {
         display_between(t->left, word1, word2);
-        if(less(word1, t->word) && less(t->word, word2)){
+        if (less(word1, t->word) && less(t->word, word2)) {
             printf("%s ", t->word);
         }
 
