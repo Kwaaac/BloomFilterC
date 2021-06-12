@@ -16,6 +16,9 @@ main_test_hash: main_test_hash.o hashtable.o hashtable.h
 main_test_bst: main_test_bst.o tree_word.o tree_word.h
 	gcc -o $@ $^ $(LDFLAGS)
 
+main_false_positive: test_false_positive.o hashtable.o hashtable.h $(OBJ)
+	gcc -o $@ $^ $(LDFLAGS)
+
 test: test.o $(OBJ)
 	gcc -o $@ $^ $(LDFLAGS)
 
