@@ -24,4 +24,4 @@ test: test.o $(OBJ)
 
 .PHONY: clean
 clean:
-	rm -f $(OBJ) test main test.o main.o
+	rm -f $(OBJ) test main main.o main_test_hash main_test_hash.o hashtable.o main_test_bst main_test_bst.o tree_word.o main_false_positive test_false_positive.o test test.o
