@@ -5,9 +5,9 @@ ability
 able
 : 	 yes
 about
-: 	 non
+: 	 yes
 above
-: 	 non
+: 	 yes
 accept
 : 	 non
 according
@@ -17,7 +17,7 @@ account
 across
 : 	 non
 act
-: 	 yes
+: 	 non
 action
 : 	 non
 activity
@@ -25,49 +25,49 @@ activity
 actually
 : 	 non
 add
-: 	 yes
+: 	 non
 address
 : 	 non
 administration
 : 	 non
 admit
-: 	 non
+: 	 yes
 adult
-: 	 non
+: 	 yes
 affect
 : 	 non
 after
-: 	 non
+: 	 yes
 again
-: 	 non
+: 	 yes
 against
 : 	 non
 age
-: 	 yes
+: 	 non
 agency
 : 	 non
 agent
-: 	 non
-ago
 : 	 yes
-agree
+ago
 : 	 non
+agree
+: 	 yes
 agreement
 : 	 non
 ahead
-: 	 non
+: 	 yes
 air
-: 	 yes
-all
-: 	 yes
-allow
 : 	 non
+all
+: 	 non
+allow
+: 	 yes
 almost
 : 	 non
 alone
-: 	 non
+: 	 yes
 along
-: 	 non
+: 	 yes
 already
 : 	 non
 also
@@ -79,13 +79,13 @@ always
 American
 : 	 non
 among
-: 	 non
+: 	 yes
 amount
 : 	 non
 analysis
 : 	 non
 and
-: 	 yes
+: 	 non
 animal
 : 	 non
 another
@@ -93,7 +93,7 @@ another
 answer
 : 	 non
 any
-: 	 yes
+: 	 non
 anyone
 : 	 non
 anything
@@ -101,21 +101,21 @@ anything
 appear
 : 	 non
 apply
-: 	 non
+: 	 yes
 approach
 : 	 non
 area
 : 	 yes
 argue
-: 	 non
-arm
 : 	 yes
+arm
+: 	 non
 around
 : 	 non
 arrive
 : 	 non
 art
-: 	 yes
+: 	 non
 article
 : 	 non
 artist
@@ -123,7 +123,7 @@ artist
 as
 : 	 non
 ask
-: 	 yes
+: 	 non
 assume
 : 	 non
 at
@@ -143,7 +143,7 @@ authority
 available
 : 	 non
 avoid
-: 	 non
+: 	 yes
 away
 : 	 yes
 baby
@@ -151,15 +151,15 @@ baby
 back
 : 	 yes
 bad
-: 	 yes
+: 	 non
 bag
-: 	 yes
+: 	 non
 ball
 : 	 yes
 bank
 : 	 yes
 bar
-: 	 yes
+: 	 non
 base
 : 	 yes
 be
@@ -173,11 +173,11 @@ because
 become
 : 	 non
 bed
-: 	 yes
+: 	 non
 before
 : 	 non
 begin
-: 	 non
+: 	 yes
 behavior
 : 	 non
 behind
@@ -195,21 +195,21 @@ between
 beyond
 : 	 non
 big
-: 	 yes
+: 	 non
 bill
 : 	 yes
 billion
 : 	 non
 bit
-: 	 yes
+: 	 non
 black
-: 	 non
+: 	 yes
 blood
-: 	 non
+: 	 yes
 blue
 : 	 yes
 board
-: 	 non
+: 	 yes
 body
 : 	 yes
 book
@@ -219,27 +219,27 @@ born
 both
 : 	 yes
 box
-: 	 yes
+: 	 non
 boy
-: 	 yes
+: 	 non
 break
-: 	 non
+: 	 yes
 bring
-: 	 non
+: 	 yes
 brother
 : 	 non
 budget
 : 	 non
 build
-: 	 non
+: 	 yes
 building
 : 	 non
 business
 : 	 non
 but
-: 	 yes
+: 	 non
 buy
-: 	 yes
+: 	 non
 by
 : 	 non
 call
@@ -249,7 +249,7 @@ camera
 campaign
 : 	 non
 can
-: 	 yes
+: 	 non
 cancer
 : 	 non
 candidate
@@ -257,7 +257,7 @@ candidate
 capital
 : 	 non
 car
-: 	 yes
+: 	 non
 card
 : 	 yes
 care
@@ -265,13 +265,13 @@ care
 career
 : 	 non
 carry
-: 	 non
+: 	 yes
 case
 : 	 yes
 catch
-: 	 non
+: 	 yes
 cause
-: 	 non
+: 	 yes
 cell
 : 	 yes
 center
@@ -285,7 +285,7 @@ certain
 certainly
 : 	 non
 chair
-: 	 non
+: 	 yes
 challenge
 : 	 non
 chance
@@ -297,9 +297,9 @@ character
 charge
 : 	 non
 check
-: 	 non
+: 	 yes
 child
-: 	 non
+: 	 yes
 choice
 : 	 non
 choose
@@ -311,19 +311,19 @@ citizen
 city
 : 	 yes
 civil
-: 	 non
+: 	 yes
 claim
-: 	 non
+: 	 yes
 class
-: 	 non
+: 	 yes
 clear
-: 	 non
+: 	 yes
 clearly
 : 	 non
 close
-: 	 non
+: 	 yes
 coach
-: 	 non
+: 	 yes
 cold
 : 	 yes
 collection
@@ -331,7 +331,7 @@ collection
 college
 : 	 non
 color
-: 	 non
+: 	 yes
 come
 : 	 yes
 commercial
@@ -367,7 +367,7 @@ control
 cost
 : 	 yes
 could
-: 	 non
+: 	 yes
 country
 : 	 non
 couple
@@ -375,25 +375,25 @@ couple
 course
 : 	 non
 court
-: 	 non
+: 	 yes
 cover
-: 	 non
+: 	 yes
 create
 : 	 non
 crime
-: 	 non
+: 	 yes
 cultural
 : 	 non
 culture
 : 	 non
 cup
-: 	 yes
+: 	 non
 current
 : 	 non
 customer
 : 	 non
 cut
-: 	 yes
+: 	 non
 dark
 : 	 yes
 data
@@ -401,13 +401,13 @@ data
 daughter
 : 	 non
 day
-: 	 yes
+: 	 non
 dead
 : 	 yes
 deal
 : 	 yes
 death
-: 	 non
+: 	 yes
 debate
 : 	 non
 decade
@@ -441,7 +441,7 @@ develop
 development
 : 	 non
 die
-: 	 yes
+: 	 non
 difference
 : 	 non
 different
@@ -467,7 +467,7 @@ do
 doctor
 : 	 non
 dog
-: 	 yes
+: 	 non
 door
 : 	 yes
 down
@@ -475,9 +475,9 @@ down
 draw
 : 	 yes
 dream
-: 	 non
+: 	 yes
 drive
-: 	 non
+: 	 yes
 drop
 : 	 yes
 drug
@@ -487,13 +487,13 @@ during
 each
 : 	 yes
 early
-: 	 non
+: 	 yes
 east
 : 	 yes
 easy
 : 	 yes
 eat
-: 	 yes
+: 	 non
 economic
 : 	 non
 economy
@@ -507,7 +507,7 @@ effect
 effort
 : 	 non
 eight
-: 	 non
+: 	 yes
 either
 : 	 non
 election
@@ -517,15 +517,15 @@ else
 employee
 : 	 non
 end
-: 	 yes
+: 	 non
 energy
 : 	 non
 enjoy
-: 	 non
+: 	 yes
 enough
 : 	 non
 enter
-: 	 non
+: 	 yes
 entire
 : 	 non
 environment
@@ -541,11 +541,11 @@ even
 evening
 : 	 non
 event
-: 	 non
+: 	 yes
 ever
 : 	 yes
 every
-: 	 non
+: 	 yes
 everybody
 : 	 non
 everyone
@@ -561,7 +561,7 @@ example
 executive
 : 	 non
 exist
-: 	 non
+: 	 yes
 expect
 : 	 non
 experience
@@ -571,7 +571,7 @@ expert
 explain
 : 	 non
 eye
-: 	 yes
+: 	 non
 face
 : 	 yes
 fact
@@ -585,7 +585,7 @@ fall
 family
 : 	 non
 far
-: 	 yes
+: 	 non
 fast
 : 	 yes
 father
@@ -599,11 +599,11 @@ feel
 feeling
 : 	 non
 few
-: 	 yes
+: 	 non
 field
-: 	 non
+: 	 yes
 fight
-: 	 non
+: 	 yes
 figure
 : 	 non
 fill
@@ -611,7 +611,7 @@ fill
 film
 : 	 yes
 final
-: 	 non
+: 	 yes
 finally
 : 	 non
 financial
@@ -629,17 +629,17 @@ fire
 firm
 : 	 yes
 first
-: 	 non
+: 	 yes
 fish
 : 	 yes
 five
 : 	 yes
 floor
-: 	 non
-fly
 : 	 yes
-focus
+fly
 : 	 non
+focus
+: 	 yes
 follow
 : 	 non
 food
@@ -647,9 +647,9 @@ food
 foot
 : 	 yes
 for
-: 	 yes
-force
 : 	 non
+force
+: 	 yes
 foreign
 : 	 non
 forget
@@ -669,7 +669,7 @@ friend
 from
 : 	 yes
 front
-: 	 non
+: 	 yes
 full
 : 	 yes
 fund
@@ -681,19 +681,19 @@ game
 garden
 : 	 non
 gas
-: 	 yes
+: 	 non
 general
 : 	 non
 generation
 : 	 non
 get
-: 	 yes
+: 	 non
 girl
 : 	 yes
 give
 : 	 yes
 glass
-: 	 non
+: 	 yes
 go
 : 	 non
 goal
@@ -703,23 +703,23 @@ good
 government
 : 	 non
 great
-: 	 non
+: 	 yes
 green
-: 	 non
+: 	 yes
 ground
 : 	 non
 group
-: 	 non
+: 	 yes
 grow
 : 	 yes
 growth
 : 	 non
 guess
-: 	 non
+: 	 yes
 gun
-: 	 yes
+: 	 non
 guy
-: 	 yes
+: 	 non
 hair
 : 	 yes
 half
@@ -731,7 +731,7 @@ hang
 happen
 : 	 non
 happy
-: 	 non
+: 	 yes
 hard
 : 	 yes
 have
@@ -745,15 +745,15 @@ health
 hear
 : 	 yes
 heart
-: 	 non
+: 	 yes
 heat
 : 	 yes
 heavy
-: 	 non
+: 	 yes
 help
 : 	 yes
 her
-: 	 yes
+: 	 non
 here
 : 	 yes
 herself
@@ -761,15 +761,15 @@ herself
 high
 : 	 yes
 him
-: 	 yes
+: 	 non
 himself
 : 	 non
 his
-: 	 yes
+: 	 non
 history
 : 	 non
 hit
-: 	 yes
+: 	 non
 hold
 : 	 yes
 home
@@ -779,21 +779,21 @@ hope
 hospital
 : 	 non
 hot
-: 	 yes
-hotel
 : 	 non
+hotel
+: 	 yes
 hour
 : 	 yes
 house
-: 	 non
-how
 : 	 yes
+how
+: 	 non
 however
 : 	 non
 huge
 : 	 yes
 human
-: 	 non
+: 	 yes
 hundred
 : 	 non
 husband
@@ -807,7 +807,7 @@ identify
 if
 : 	 non
 image
-: 	 non
+: 	 yes
 imagine
 : 	 non
 impact
@@ -855,17 +855,17 @@ investment
 involve
 : 	 non
 issue
-: 	 non
+: 	 yes
 it
 : 	 non
 item
 : 	 yes
 its
-: 	 yes
+: 	 non
 itself
 : 	 non
 job
-: 	 yes
+: 	 non
 join
 : 	 yes
 just
@@ -873,9 +873,9 @@ just
 keep
 : 	 yes
 key
-: 	 yes
+: 	 non
 kid
-: 	 yes
+: 	 non
 kill
 : 	 yes
 kind
@@ -891,51 +891,51 @@ land
 language
 : 	 non
 large
-: 	 non
+: 	 yes
 last
 : 	 yes
 late
 : 	 yes
 later
-: 	 non
-laugh
-: 	 non
-law
 : 	 yes
+laugh
+: 	 yes
+law
+: 	 non
 lawyer
 : 	 non
 lay
-: 	 yes
+: 	 non
 lead
 : 	 yes
 leader
 : 	 non
 learn
-: 	 non
+: 	 yes
 least
-: 	 non
+: 	 yes
 leave
-: 	 non
+: 	 yes
 left
 : 	 yes
 leg
-: 	 yes
-legal
 : 	 non
+legal
+: 	 yes
 less
 : 	 yes
 let
-: 	 yes
+: 	 non
 letter
 : 	 non
 level
-: 	 non
-lie
 : 	 yes
+lie
+: 	 non
 life
 : 	 yes
 light
-: 	 non
+: 	 yes
 like
 : 	 yes
 likely
@@ -951,7 +951,7 @@ little
 live
 : 	 yes
 local
-: 	 non
+: 	 yes
 long
 : 	 yes
 look
@@ -961,11 +961,11 @@ lose
 loss
 : 	 yes
 lot
-: 	 yes
+: 	 non
 love
 : 	 yes
 low
-: 	 yes
+: 	 non
 machine
 : 	 non
 magazine
@@ -975,13 +975,13 @@ main
 maintain
 : 	 non
 major
-: 	 non
+: 	 yes
 majority
 : 	 non
 make
 : 	 yes
 man
-: 	 yes
+: 	 non
 manage
 : 	 non
 management
@@ -999,9 +999,9 @@ material
 matter
 : 	 non
 may
-: 	 yes
-maybe
 : 	 non
+maybe
+: 	 yes
 me
 : 	 non
 mean
@@ -1009,7 +1009,7 @@ mean
 measure
 : 	 non
 media
-: 	 non
+: 	 yes
 medical
 : 	 non
 meet
@@ -1029,7 +1029,7 @@ method
 middle
 : 	 non
 might
-: 	 non
+: 	 yes
 military
 : 	 non
 million
@@ -1043,15 +1043,15 @@ miss
 mission
 : 	 non
 model
-: 	 non
+: 	 yes
 modern
 : 	 non
 moment
 : 	 non
 money
-: 	 non
+: 	 yes
 month
-: 	 non
+: 	 yes
 more
 : 	 yes
 morning
@@ -1061,21 +1061,21 @@ most
 mother
 : 	 non
 mouth
-: 	 non
+: 	 yes
 move
 : 	 yes
 movement
 : 	 non
 movie
-: 	 non
+: 	 yes
 Mr
 : 	 non
 Mrs
-: 	 yes
+: 	 non
 much
 : 	 yes
 music
-: 	 non
+: 	 yes
 must
 : 	 yes
 my
@@ -1103,9 +1103,9 @@ need
 network
 : 	 non
 never
-: 	 non
-new
 : 	 yes
+new
+: 	 non
 news
 : 	 yes
 newspaper
@@ -1115,17 +1115,17 @@ next
 nice
 : 	 yes
 night
-: 	 non
+: 	 yes
 no
 : 	 non
 none
 : 	 yes
 nor
-: 	 yes
-north
 : 	 non
-not
+north
 : 	 yes
+not
+: 	 non
 note
 : 	 yes
 nothing
@@ -1133,19 +1133,19 @@ nothing
 notice
 : 	 non
 now
-: 	 yes
+: 	 non
 n't
-: 	 yes
+: 	 non
 number
 : 	 non
 occur
-: 	 non
+: 	 yes
 of
 : 	 non
 off
-: 	 yes
-offer
 : 	 non
+offer
+: 	 yes
 office
 : 	 non
 officer
@@ -1153,21 +1153,21 @@ officer
 official
 : 	 non
 often
-: 	 non
+: 	 yes
 oh
 : 	 non
 oil
-: 	 yes
+: 	 non
 ok
 : 	 non
 old
-: 	 yes
+: 	 non
 on
 : 	 non
 once
 : 	 yes
 one
-: 	 yes
+: 	 non
 only
 : 	 yes
 onto
@@ -1183,25 +1183,25 @@ option
 or
 : 	 non
 order
-: 	 non
+: 	 yes
 organization
 : 	 non
 other
-: 	 non
+: 	 yes
 others
 : 	 non
 our
-: 	 yes
+: 	 non
 out
-: 	 yes
+: 	 non
 outside
 : 	 non
 over
 : 	 yes
 own
-: 	 yes
-owner
 : 	 non
+owner
+: 	 yes
 page
 : 	 yes
 pain
@@ -1209,7 +1209,7 @@ pain
 painting
 : 	 non
 paper
-: 	 non
+: 	 yes
 parent
 : 	 non
 part
@@ -1223,7 +1223,7 @@ particularly
 partner
 : 	 non
 party
-: 	 non
+: 	 yes
 pass
 : 	 yes
 past
@@ -1233,13 +1233,13 @@ patient
 pattern
 : 	 non
 pay
-: 	 yes
-peace
 : 	 non
+peace
+: 	 yes
 people
 : 	 non
 per
-: 	 yes
+: 	 non
 perform
 : 	 non
 performance
@@ -1253,7 +1253,7 @@ person
 personal
 : 	 non
 phone
-: 	 non
+: 	 yes
 physical
 : 	 non
 pick
@@ -1261,13 +1261,13 @@ pick
 picture
 : 	 non
 piece
-: 	 non
+: 	 yes
 place
-: 	 non
+: 	 yes
 plan
 : 	 yes
 plant
-: 	 non
+: 	 yes
 play
 : 	 yes
 player
@@ -1275,7 +1275,7 @@ player
 PM
 : 	 non
 point
-: 	 non
+: 	 yes
 police
 : 	 non
 policy
@@ -1297,7 +1297,7 @@ positive
 possible
 : 	 non
 power
-: 	 non
+: 	 yes
 practice
 : 	 non
 prepare
@@ -1313,7 +1313,7 @@ pretty
 prevent
 : 	 non
 price
-: 	 non
+: 	 yes
 private
 : 	 non
 probably
@@ -1341,7 +1341,7 @@ property
 protect
 : 	 non
 prove
-: 	 non
+: 	 yes
 provide
 : 	 non
 public
@@ -1353,7 +1353,7 @@ purpose
 push
 : 	 yes
 put
-: 	 yes
+: 	 non
 quality
 : 	 non
 question
@@ -1361,25 +1361,25 @@ question
 quickly
 : 	 non
 quite
-: 	 non
+: 	 yes
 race
 : 	 yes
 radio
-: 	 non
+: 	 yes
 raise
-: 	 non
+: 	 yes
 range
-: 	 non
+: 	 yes
 rate
 : 	 yes
 rather
 : 	 non
 reach
-: 	 non
+: 	 yes
 read
 : 	 yes
 ready
-: 	 non
+: 	 yes
 real
 : 	 yes
 reality
@@ -1401,7 +1401,7 @@ recognize
 record
 : 	 non
 red
-: 	 yes
+: 	 non
 reduce
 : 	 non
 reflect
@@ -1449,7 +1449,7 @@ reveal
 rich
 : 	 yes
 right
-: 	 non
+: 	 yes
 rise
 : 	 yes
 risk
@@ -1465,7 +1465,7 @@ room
 rule
 : 	 yes
 run
-: 	 yes
+: 	 non
 safe
 : 	 yes
 same
@@ -1473,9 +1473,9 @@ same
 save
 : 	 yes
 say
-: 	 yes
-scene
 : 	 non
+scene
+: 	 yes
 school
 : 	 non
 science
@@ -1483,9 +1483,9 @@ science
 scientist
 : 	 non
 score
-: 	 non
-sea
 : 	 yes
+sea
+: 	 non
 season
 : 	 non
 seat
@@ -1497,7 +1497,7 @@ section
 security
 : 	 non
 see
-: 	 yes
+: 	 non
 seek
 : 	 yes
 seem
@@ -1509,35 +1509,35 @@ send
 senior
 : 	 non
 sense
-: 	 non
+: 	 yes
 series
 : 	 non
 serious
 : 	 non
 serve
-: 	 non
+: 	 yes
 service
 : 	 non
 set
-: 	 yes
-seven
 : 	 non
+seven
+: 	 yes
 several
 : 	 non
 sex
-: 	 yes
+: 	 non
 sexual
 : 	 non
 shake
-: 	 non
-share
-: 	 non
-she
 : 	 yes
+share
+: 	 yes
+she
+: 	 non
 shoot
-: 	 non
+: 	 yes
 short
-: 	 non
+: 	 yes
 shot
 : 	 yes
 should
@@ -1559,7 +1559,7 @@ simple
 simply
 : 	 non
 since
-: 	 non
+: 	 yes
 sing
 : 	 yes
 single
@@ -1567,23 +1567,23 @@ single
 sister
 : 	 non
 sit
-: 	 yes
+: 	 non
 site
 : 	 yes
 situation
 : 	 non
 six
-: 	 yes
+: 	 non
 size
 : 	 yes
 skill
-: 	 non
+: 	 yes
 skin
 : 	 yes
 small
-: 	 non
+: 	 yes
 smile
-: 	 non
+: 	 yes
 so
 : 	 non
 social
@@ -1603,7 +1603,7 @@ something
 sometimes
 : 	 non
 son
-: 	 yes
+: 	 non
 song
 : 	 yes
 soon
@@ -1611,17 +1611,17 @@ soon
 sort
 : 	 yes
 sound
-: 	 non
+: 	 yes
 source
 : 	 non
 south
-: 	 non
+: 	 yes
 southern
 : 	 non
 space
-: 	 non
+: 	 yes
 speak
-: 	 non
+: 	 yes
 special
 : 	 non
 specific
@@ -1629,25 +1629,25 @@ specific
 speech
 : 	 non
 spend
-: 	 non
+: 	 yes
 sport
-: 	 non
+: 	 yes
 spring
 : 	 non
 staff
-: 	 non
+: 	 yes
 stage
-: 	 non
+: 	 yes
 stand
-: 	 non
+: 	 yes
 standard
 : 	 non
 star
 : 	 yes
 start
-: 	 non
+: 	 yes
 state
-: 	 non
+: 	 yes
 statement
 : 	 non
 station
@@ -1657,15 +1657,15 @@ stay
 step
 : 	 yes
 still
-: 	 non
+: 	 yes
 stock
-: 	 non
+: 	 yes
 stop
 : 	 yes
 store
-: 	 non
+: 	 yes
 story
-: 	 non
+: 	 yes
 strategy
 : 	 non
 street
@@ -1677,11 +1677,11 @@ structure
 student
 : 	 non
 study
-: 	 non
+: 	 yes
 stuff
-: 	 non
+: 	 yes
 style
-: 	 non
+: 	 yes
 subject
 : 	 non
 success
@@ -1707,7 +1707,7 @@ surface
 system
 : 	 non
 table
-: 	 non
+: 	 yes
 take
 : 	 yes
 talk
@@ -1715,9 +1715,9 @@ talk
 task
 : 	 yes
 tax
-: 	 yes
-teach
 : 	 non
+teach
+: 	 yes
 teacher
 : 	 non
 team
@@ -1729,7 +1729,7 @@ television
 tell
 : 	 yes
 ten
-: 	 yes
+: 	 non
 tend
 : 	 yes
 term
@@ -1739,13 +1739,13 @@ test
 than
 : 	 yes
 thank
-: 	 non
+: 	 yes
 that
 : 	 yes
 the
-: 	 yes
-their
 : 	 non
+their
+: 	 yes
 them
 : 	 yes
 themselves
@@ -1755,21 +1755,21 @@ then
 theory
 : 	 non
 there
-: 	 non
+: 	 yes
 these
-: 	 non
+: 	 yes
 they
 : 	 yes
 thing
-: 	 non
+: 	 yes
 think
-: 	 non
+: 	 yes
 third
-: 	 non
+: 	 yes
 this
 : 	 yes
 those
-: 	 non
+: 	 yes
 though
 : 	 non
 thought
@@ -1779,13 +1779,13 @@ thousand
 threat
 : 	 non
 three
-: 	 non
+: 	 yes
 through
 : 	 non
 throughout
 : 	 non
 throw
-: 	 non
+: 	 yes
 thus
 : 	 yes
 time
@@ -1793,25 +1793,25 @@ time
 to
 : 	 non
 today
-: 	 non
+: 	 yes
 together
 : 	 non
 tonight
 : 	 non
 too
-: 	 yes
+: 	 non
 top
-: 	 yes
+: 	 non
 total
-: 	 non
+: 	 yes
 tough
-: 	 non
+: 	 yes
 toward
 : 	 non
 town
 : 	 yes
 trade
-: 	 non
+: 	 yes
 traditional
 : 	 non
 training
@@ -1819,13 +1819,13 @@ training
 travel
 : 	 non
 treat
-: 	 non
+: 	 yes
 treatment
 : 	 non
 tree
 : 	 yes
 trial
-: 	 non
+: 	 yes
 trip
 : 	 yes
 trouble
@@ -1833,25 +1833,25 @@ trouble
 true
 : 	 yes
 truth
-: 	 non
-try
 : 	 yes
+try
+: 	 non
 turn
 : 	 yes
 TV
 : 	 non
 two
-: 	 yes
+: 	 non
 type
 : 	 yes
 under
-: 	 non
+: 	 yes
 understand
 : 	 non
 unit
 : 	 yes
 until
-: 	 non
+: 	 yes
 up
 : 	 non
 upon
@@ -1859,11 +1859,11 @@ upon
 us
 : 	 non
 use
-: 	 yes
+: 	 non
 usually
 : 	 non
 value
-: 	 non
+: 	 yes
 various
 : 	 non
 very
@@ -1875,9 +1875,9 @@ view
 violence
 : 	 non
 visit
-: 	 non
+: 	 yes
 voice
-: 	 non
+: 	 yes
 vote
 : 	 yes
 wait
@@ -1889,13 +1889,13 @@ wall
 want
 : 	 yes
 war
-: 	 yes
+: 	 non
 watch
-: 	 non
-water
-: 	 non
-way
 : 	 yes
+water
+: 	 yes
+way
+: 	 non
 we
 : 	 non
 weapon
@@ -1919,25 +1919,25 @@ whatever
 when
 : 	 yes
 where
-: 	 non
+: 	 yes
 whether
 : 	 non
 which
-: 	 non
-while
-: 	 non
-white
-: 	 non
-who
 : 	 yes
-whole
+while
+: 	 yes
+white
+: 	 yes
+who
 : 	 non
+whole
+: 	 yes
 whom
 : 	 yes
 whose
-: 	 non
-why
 : 	 yes
+why
+: 	 non
 wide
 : 	 yes
 wife
@@ -1945,7 +1945,7 @@ wife
 will
 : 	 yes
 win
-: 	 yes
+: 	 non
 wind
 : 	 yes
 window
@@ -1959,7 +1959,7 @@ within
 without
 : 	 non
 woman
-: 	 non
+: 	 yes
 wonder
 : 	 non
 word
@@ -1969,17 +1969,17 @@ work
 worker
 : 	 non
 world
-: 	 non
+: 	 yes
 worry
-: 	 non
+: 	 yes
 would
-: 	 non
+: 	 yes
 write
-: 	 non
+: 	 yes
 writer
 : 	 non
 wrong
-: 	 non
+: 	 yes
 yard
 : 	 yes
 yeah
@@ -1987,15 +1987,15 @@ yeah
 year
 : 	 yes
 yes
-: 	 yes
-yet
-: 	 yes
-you
-: 	 yes
-young
 : 	 non
+yet
+: 	 non
+you
+: 	 non
+young
+: 	 yes
 your
 : 	 yes
 yourself
 : 	 non
-There is 340 yes and 660 no
+There is 427 yes and 573 no

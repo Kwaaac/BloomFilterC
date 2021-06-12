@@ -1,0 +1,2279 @@
+desc: (none)
+cmd: ./main_test_bst -fin passwords/10kpassword.txt -fout passwords/result10kbst.txt
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=6063171
+mem_heap_B=14222
+mem_heap_extra_B=10458
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=11522431
+mem_heap_B=18018
+mem_heap_extra_B=14598
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=16628691
+mem_heap_B=20763
+mem_heap_extra_B=17613
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=19737704
+mem_heap_B=22230
+mem_heap_extra_B=19218
+mem_stacks_B=0
+heap_tree=detailed
+n4: 22230 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 13800 0x108D6A: create_node (tree_word.c:15)
+  n2: 13800 0x109189: insert_bst (tree_word.c:130)
+   n2: 13776 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 13752 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 13728 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 13704 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 13680 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 13656 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 13632 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 13608 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 13584 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 13560 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 13536 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 13512 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 13488 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 13464 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 13440 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 13416 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 13392 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 13368 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 13344 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 13320 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 13296 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 13272 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 13248 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 13224 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 13200 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 13176 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 13152 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 13128 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n1: 3782 0x108D9E: create_node (tree_word.c:18)
+  n2: 3782 0x109189: insert_bst (tree_word.c:130)
+   n2: 3775 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 3769 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 3762 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 3755 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 3748 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 3742 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 3736 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 3729 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 3723 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 3717 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 3710 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 3703 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 3697 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 3690 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 3684 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 3677 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 3670 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 3664 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 3657 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 3650 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 3643 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 3636 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 3630 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 3623 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 3616 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 3609 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 3603 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 3596 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 552 0x4EB1EB8: fopen@@GLIBC_2.2.5 (iofopen.c:65)
+  n0: 552 0x108B2E: main (main_test_bst.c:24)
+#-----------
+snapshot=5
+#-----------
+time=24246740
+mem_heap_B=24182
+mem_heap_extra_B=21362
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=29278328
+mem_heap_B=26139
+mem_heap_extra_B=23501
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=7
+#-----------
+time=34463435
+mem_heap_B=28002
+mem_heap_extra_B=25542
+mem_stacks_B=0
+heap_tree=detailed
+n4: 28002 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 18336 0x108D6A: create_node (tree_word.c:15)
+  n2: 18336 0x109189: insert_bst (tree_word.c:130)
+   n2: 18312 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 18288 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 18264 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 18240 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 18216 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 18192 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 18168 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 18144 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 18120 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 18096 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 18072 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 18048 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 18024 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 18000 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 17976 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 17952 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 17928 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 17904 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 17880 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 17856 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 17832 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 17808 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 17784 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 17760 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 17736 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 17712 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 17688 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 17664 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 5018 0x108D9E: create_node (tree_word.c:18)
+  n2: 5018 0x109189: insert_bst (tree_word.c:130)
+   n2: 5011 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 5005 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 4998 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 4991 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 4984 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 4978 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 4972 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 4965 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 4959 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 4953 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 4946 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 4939 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 4933 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 4926 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 4920 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 4913 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 4906 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 4900 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 4893 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 4886 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 4879 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 4872 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 4866 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 4859 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 4852 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 4845 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 4839 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 4832 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n1: 552 0x4EB1EB8: fopen@@GLIBC_2.2.5 (iofopen.c:65)
+  n0: 552 0x108B2E: main (main_test_bst.c:24)
+#-----------
+snapshot=8
+#-----------
+time=38844291
+mem_heap_B=29469
+mem_heap_extra_B=27147
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=9
+#-----------
+time=43499675
+mem_heap_B=30932
+mem_heap_extra_B=28756
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=10
+#-----------
+time=48836023
+mem_heap_B=32518
+mem_heap_extra_B=30498
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=11
+#-----------
+time=53151735
+mem_heap_B=33738
+mem_heap_extra_B=31838
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=12
+#-----------
+time=57653747
+mem_heap_B=34955
+mem_heap_extra_B=33181
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=13
+#-----------
+time=61147714
+mem_heap_B=35871
+mem_heap_extra_B=34185
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=14
+#-----------
+time=66131418
+mem_heap_B=37120
+mem_heap_extra_B=35560
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=15
+#-----------
+time=70135748
+mem_heap_B=38094
+mem_heap_extra_B=36634
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=16
+#-----------
+time=74242774
+mem_heap_B=39070
+mem_heap_extra_B=37706
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=17
+#-----------
+time=78467228
+mem_heap_B=40045
+mem_heap_extra_B=38779
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=18
+#-----------
+time=82808652
+mem_heap_B=41019
+mem_heap_extra_B=39853
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=19
+#-----------
+time=88120861
+mem_heap_B=42181
+mem_heap_extra_B=41123
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=20
+#-----------
+time=92147435
+mem_heap_B=43034
+mem_heap_extra_B=42062
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=21
+#-----------
+time=96257915
+mem_heap_B=43892
+mem_heap_extra_B=42996
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=22
+#-----------
+time=100455727
+mem_heap_B=44745
+mem_heap_extra_B=43935
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=23
+#-----------
+time=104751468
+mem_heap_B=45601
+mem_heap_extra_B=44871
+mem_stacks_B=0
+heap_tree=detailed
+n4: 45601 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 32184 0x108D6A: create_node (tree_word.c:15)
+  n2: 32184 0x109189: insert_bst (tree_word.c:130)
+   n2: 32160 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 32136 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 32112 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 32088 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 32064 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 32040 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 32016 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 31992 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 31968 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 31944 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 31920 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 31896 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 31872 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 31848 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 31824 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 31800 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 31776 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 31752 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 31728 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 31704 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 31680 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 31656 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 31632 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 31608 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 31584 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 31560 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 31536 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 31512 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 8769 0x108D9E: create_node (tree_word.c:18)
+  n2: 8769 0x109189: insert_bst (tree_word.c:130)
+   n2: 8762 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 8756 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 8749 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 8742 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 8735 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 8729 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 8723 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 8716 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 8710 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 8704 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 8697 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 8690 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 8684 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 8677 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 8671 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 8664 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 8657 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 8651 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 8644 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 8637 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 8630 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 8623 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 8617 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 8610 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 8603 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 8596 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 8590 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 8583 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=24
+#-----------
+time=109136206
+mem_heap_B=46455
+mem_heap_extra_B=45809
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=25
+#-----------
+time=113613926
+mem_heap_B=47310
+mem_heap_extra_B=46746
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=26
+#-----------
+time=120166500
+mem_heap_B=48528
+mem_heap_extra_B=48088
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=27
+#-----------
+time=124185952
+mem_heap_B=49263
+mem_heap_extra_B=48889
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=28
+#-----------
+time=128272266
+mem_heap_B=49993
+mem_heap_extra_B=49695
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=29
+#-----------
+time=132424010
+mem_heap_B=50725
+mem_heap_extra_B=50499
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=30
+#-----------
+time=136651316
+mem_heap_B=51457
+mem_heap_extra_B=51303
+mem_stacks_B=0
+heap_tree=detailed
+n4: 51457 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 36792 0x108D6A: create_node (tree_word.c:15)
+  n2: 36792 0x109189: insert_bst (tree_word.c:130)
+   n2: 36768 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 36744 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 36720 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 36696 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 36672 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 36648 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 36624 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 36600 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 36576 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 36552 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 36528 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 36504 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 36480 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 36456 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 36432 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 36408 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 36384 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 36360 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 36336 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 36312 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 36288 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 36264 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 36240 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 36216 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 36192 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 36168 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 36144 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 36120 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 10017 0x108D9E: create_node (tree_word.c:18)
+  n2: 10017 0x109189: insert_bst (tree_word.c:130)
+   n2: 10010 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 10004 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 9997 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 9990 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 9983 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 9977 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 9971 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 9964 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 9958 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 9952 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 9945 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 9938 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 9932 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 9925 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 9919 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 9912 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 9905 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 9899 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 9892 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 9885 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 9878 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 9871 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 9865 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 9858 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 9851 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 9844 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 9838 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 9831 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=31
+#-----------
+time=140940446
+mem_heap_B=52189
+mem_heap_extra_B=52107
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=32
+#-----------
+time=147121401
+mem_heap_B=53226
+mem_heap_extra_B=53246
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=33
+#-----------
+time=151196130
+mem_heap_B=53897
+mem_heap_extra_B=53983
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=34
+#-----------
+time=155331545
+mem_heap_B=54568
+mem_heap_extra_B=54720
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=35
+#-----------
+time=159510184
+mem_heap_B=55241
+mem_heap_extra_B=55455
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=36
+#-----------
+time=163746371
+mem_heap_B=55910
+mem_heap_extra_B=56194
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=37
+#-----------
+time=168058670
+mem_heap_B=56581
+mem_heap_extra_B=56931
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=38
+#-----------
+time=172425923
+mem_heap_B=57253
+mem_heap_extra_B=57667
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=39
+#-----------
+time=176427129
+mem_heap_B=57866
+mem_heap_extra_B=58334
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=40
+#-----------
+time=180470169
+mem_heap_B=58477
+mem_heap_extra_B=59003
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=41
+#-----------
+time=186681187
+mem_heap_B=59394
+mem_heap_extra_B=60006
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=42
+#-----------
+time=190839611
+mem_heap_B=60003
+mem_heap_extra_B=60677
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=43
+#-----------
+time=195042311
+mem_heap_B=60613
+mem_heap_extra_B=61347
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=44
+#-----------
+time=199296563
+mem_heap_B=61223
+mem_heap_extra_B=62017
+mem_stacks_B=0
+heap_tree=detailed
+n4: 61223 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 44472 0x108D6A: create_node (tree_word.c:15)
+  n2: 44472 0x109189: insert_bst (tree_word.c:130)
+   n2: 44448 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 44424 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 44400 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 44376 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 44352 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 44328 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 44304 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 44280 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 44256 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 44232 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 44208 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 44184 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 44160 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 44136 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 44112 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 44088 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 44064 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 44040 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 44016 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 43992 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 43968 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 43944 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 43920 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 43896 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 43872 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 43848 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 43824 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 43800 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 12103 0x108D9E: create_node (tree_word.c:18)
+  n2: 12103 0x109189: insert_bst (tree_word.c:130)
+   n2: 12096 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 12090 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 12083 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 12076 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 12069 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 12063 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 12057 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 12050 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 12044 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 12038 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 12031 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 12024 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 12018 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 12011 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 12005 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 11998 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 11991 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 11985 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 11978 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 11971 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 11964 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 11957 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 11951 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 11944 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 11937 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 11930 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 11924 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 11917 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=45
+#-----------
+time=203591085
+mem_heap_B=61834
+mem_heap_extra_B=62686
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=46
+#-----------
+time=207938793
+mem_heap_B=62450
+mem_heap_extra_B=63350
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=47
+#-----------
+time=212333467
+mem_heap_B=63058
+mem_heap_extra_B=64022
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=48
+#-----------
+time=216331285
+mem_heap_B=63608
+mem_heap_extra_B=64624
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=49
+#-----------
+time=220357754
+mem_heap_B=64163
+mem_heap_extra_B=65221
+mem_stacks_B=0
+heap_tree=detailed
+n4: 64163 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 46776 0x108D6A: create_node (tree_word.c:15)
+  n2: 46776 0x109189: insert_bst (tree_word.c:130)
+   n2: 46752 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 46728 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 46704 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 46680 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 46656 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 46632 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 46608 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 46584 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 46560 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 46536 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 46512 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 46488 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 46464 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 46440 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 46416 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 46392 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 46368 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 46344 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 46320 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 46296 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 46272 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 46248 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 46224 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 46200 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 46176 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 46152 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 46128 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 46104 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 12739 0x108D9E: create_node (tree_word.c:18)
+  n2: 12739 0x109189: insert_bst (tree_word.c:130)
+   n2: 12732 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 12726 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 12719 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 12712 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 12705 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 12699 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 12693 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 12686 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 12680 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 12674 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 12667 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 12660 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 12654 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 12647 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 12641 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 12634 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 12627 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 12621 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 12614 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 12607 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 12600 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 12593 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 12587 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 12580 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 12573 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 12566 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 12560 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 12553 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=50
+#-----------
+time=223514973
+mem_heap_B=64592
+mem_heap_extra_B=65688
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=51
+#-----------
+time=226697808
+mem_heap_B=65019
+mem_heap_extra_B=66157
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=52
+#-----------
+time=229901077
+mem_heap_B=65448
+mem_heap_extra_B=66624
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=53
+#-----------
+time=233124772
+mem_heap_B=65877
+mem_heap_extra_B=67091
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=54
+#-----------
+time=236373131
+mem_heap_B=66303
+mem_heap_extra_B=67561
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=55
+#-----------
+time=239643066
+mem_heap_B=66728
+mem_heap_extra_B=68032
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=56
+#-----------
+time=242935159
+mem_heap_B=67157
+mem_heap_extra_B=68499
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=57
+#-----------
+time=246254718
+mem_heap_B=67589
+mem_heap_extra_B=68963
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=58
+#-----------
+time=249597431
+mem_heap_B=68020
+mem_heap_extra_B=69428
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=59
+#-----------
+time=252719678
+mem_heap_B=68419
+mem_heap_extra_B=69861
+mem_stacks_B=0
+heap_tree=detailed
+n4: 68419 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 50112 0x108D6A: create_node (tree_word.c:15)
+  n2: 50112 0x109189: insert_bst (tree_word.c:130)
+   n2: 50088 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 50064 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 50040 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 50016 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 49992 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 49968 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 49944 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 49920 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 49896 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 49872 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 49848 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 49824 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 49800 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 49776 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 49752 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 49728 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 49704 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 49680 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 49656 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 49632 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 49608 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 49584 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 49560 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 49536 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 49512 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 49488 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 49464 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 49440 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 13659 0x108D9E: create_node (tree_word.c:18)
+  n2: 13659 0x109189: insert_bst (tree_word.c:130)
+   n2: 13652 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 13646 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 13639 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 13632 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 13625 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 13619 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 13613 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 13606 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 13600 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 13594 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 13587 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 13580 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 13574 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 13567 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 13561 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 13554 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 13547 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 13541 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 13534 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 13527 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 13520 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 13513 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 13507 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 13500 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 13493 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 13486 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 13480 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 13473 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=60
+#-----------
+time=255866537
+mem_heap_B=68820
+mem_heap_extra_B=70292
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=61
+#-----------
+time=259039632
+mem_heap_B=69220
+mem_heap_extra_B=70724
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=62
+#-----------
+time=262225322
+mem_heap_B=69617
+mem_heap_extra_B=71159
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=63
+#-----------
+time=265422857
+mem_heap_B=70014
+mem_heap_extra_B=71594
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=64
+#-----------
+time=268640589
+mem_heap_B=70412
+mem_heap_extra_B=72028
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=65
+#-----------
+time=271880032
+mem_heap_B=70808
+mem_heap_extra_B=72464
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=66
+#-----------
+time=275137928
+mem_heap_B=71204
+mem_heap_extra_B=72900
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=67
+#-----------
+time=278413957
+mem_heap_B=71602
+mem_heap_extra_B=73334
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=68
+#-----------
+time=281713017
+mem_heap_B=71999
+mem_heap_extra_B=73769
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=69
+#-----------
+time=285025458
+mem_heap_B=72395
+mem_heap_extra_B=74205
+mem_stacks_B=0
+heap_tree=detailed
+n4: 72395 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 53232 0x108D6A: create_node (tree_word.c:15)
+  n2: 53232 0x109189: insert_bst (tree_word.c:130)
+   n2: 53208 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 53184 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 53160 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 53136 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 53112 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 53088 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 53064 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 53040 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 53016 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 52992 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 52968 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 52944 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 52920 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 52896 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 52872 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 52848 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 52824 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 52800 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 52776 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 52752 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 52728 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 52704 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 52680 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 52656 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 52632 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 52608 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 52584 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 52560 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 14515 0x108D9E: create_node (tree_word.c:18)
+  n2: 14515 0x109189: insert_bst (tree_word.c:130)
+   n2: 14508 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 14502 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 14495 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 14488 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 14481 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 14475 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 14469 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 14462 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 14456 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 14450 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 14443 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 14436 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 14430 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 14423 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 14417 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 14410 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 14403 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 14397 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 14390 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 14383 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 14376 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 14369 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 14363 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 14356 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 14349 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 14342 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 14336 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 14329 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=70
+#-----------
+time=288359600
+mem_heap_B=72792
+mem_heap_extra_B=74640
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=71
+#-----------
+time=291711882
+mem_heap_B=73189
+mem_heap_extra_B=75075
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=72
+#-----------
+time=294824492
+mem_heap_B=73558
+mem_heap_extra_B=75474
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=73
+#-----------
+time=297963192
+mem_heap_B=73926
+mem_heap_extra_B=75874
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=74
+#-----------
+time=301108932
+mem_heap_B=74293
+mem_heap_extra_B=76275
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=75
+#-----------
+time=304270476
+mem_heap_B=74662
+mem_heap_extra_B=76674
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=76
+#-----------
+time=307449358
+mem_heap_B=75031
+mem_heap_extra_B=77073
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=77
+#-----------
+time=310651624
+mem_heap_B=75398
+mem_heap_extra_B=77474
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=78
+#-----------
+time=313865894
+mem_heap_B=75763
+mem_heap_extra_B=77877
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=79
+#-----------
+time=317099204
+mem_heap_B=76130
+mem_heap_extra_B=78278
+mem_stacks_B=0
+heap_tree=detailed
+n4: 76130 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 56160 0x108D6A: create_node (tree_word.c:15)
+  n2: 56160 0x109189: insert_bst (tree_word.c:130)
+   n2: 56136 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 56112 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 56088 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 56064 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 56040 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 56016 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 55992 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 55968 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 55944 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 55920 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 55896 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 55872 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 55848 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 55824 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 55800 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 55776 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 55752 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 55728 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 55704 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 55680 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 55656 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 55632 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 55608 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 55584 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 55560 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 55536 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 55512 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 55488 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 15322 0x108D9E: create_node (tree_word.c:18)
+  n2: 15322 0x109189: insert_bst (tree_word.c:130)
+   n2: 15315 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 15309 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 15302 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 15295 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 15288 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 15282 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 15276 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 15269 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 15263 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 15257 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 15250 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 15243 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 15237 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 15230 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 15224 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 15217 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 15210 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 15204 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 15197 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 15190 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 15183 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 15176 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 15170 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 15163 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 15156 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 15149 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 15143 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 15136 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=80
+#-----------
+time=320353228
+mem_heap_B=76497
+mem_heap_extra_B=78679
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=81
+#-----------
+time=323617368
+mem_heap_B=76866
+mem_heap_extra_B=79078
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=82
+#-----------
+time=326896944
+mem_heap_B=77232
+mem_heap_extra_B=79480
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=83
+#-----------
+time=330191000
+mem_heap_B=77597
+mem_heap_extra_B=79883
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=84
+#-----------
+time=333503874
+mem_heap_B=77963
+mem_heap_extra_B=80285
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=85
+#-----------
+time=336834418
+mem_heap_B=78328
+mem_heap_extra_B=80688
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=86
+#-----------
+time=340177360
+mem_heap_B=78697
+mem_heap_extra_B=81087
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=87
+#-----------
+time=343537628
+mem_heap_B=79062
+mem_heap_extra_B=81490
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=88
+#-----------
+time=346914252
+mem_heap_B=79427
+mem_heap_extra_B=81893
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=89
+#-----------
+time=350024673
+mem_heap_B=79763
+mem_heap_extra_B=82261
+mem_stacks_B=0
+heap_tree=detailed
+n4: 79763 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 59016 0x108D6A: create_node (tree_word.c:15)
+  n2: 59016 0x109189: insert_bst (tree_word.c:130)
+   n2: 58992 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 58968 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 58944 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 58920 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 58896 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 58872 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 58848 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 58824 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 58800 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 58776 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 58752 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 58728 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 58704 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 58680 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 58656 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 58632 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 58608 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 58584 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 58560 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 58536 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 58512 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 58488 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 58464 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 58440 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 58416 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 58392 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 58368 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 58344 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 16099 0x108D9E: create_node (tree_word.c:18)
+  n2: 16099 0x109189: insert_bst (tree_word.c:130)
+   n2: 16092 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 16086 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 16079 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 16072 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 16065 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 16059 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 16053 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 16046 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 16040 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 16034 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 16027 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 16020 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 16014 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 16007 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 16001 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 15994 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 15987 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 15981 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 15974 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 15967 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 15960 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 15953 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 15947 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 15940 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 15933 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 15926 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 15920 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 15913 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=90
+#-----------
+time=353149773
+mem_heap_B=80101
+mem_heap_extra_B=82627
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=91
+#-----------
+time=356290330
+mem_heap_B=80439
+mem_heap_extra_B=82993
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=92
+#-----------
+time=359440990
+mem_heap_B=80774
+mem_heap_extra_B=83362
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=93
+#-----------
+time=362607441
+mem_heap_B=81110
+mem_heap_extra_B=83730
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=94
+#-----------
+time=363492091
+mem_heap_B=81207
+mem_heap_extra_B=83849
+mem_stacks_B=0
+heap_tree=detailed
+n4: 81207 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 60144 0x108D6A: create_node (tree_word.c:15)
+  n2: 60144 0x109189: insert_bst (tree_word.c:130)
+   n2: 60120 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 60096 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 60072 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 60048 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 60024 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 60000 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 59976 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 59952 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 59928 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 59904 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 59880 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 59856 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 59832 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 59808 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 59784 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 59760 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 59736 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 59712 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 59688 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 59664 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 59640 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 59616 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 59592 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 59568 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 59544 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 59520 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 59496 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 59472 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 16415 0x108D9E: create_node (tree_word.c:18)
+  n2: 16415 0x109189: insert_bst (tree_word.c:130)
+   n2: 16408 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 16402 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 16395 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 16388 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 16381 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 16375 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 16369 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 16362 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 16356 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 16350 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 16343 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 16336 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 16330 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 16323 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 16317 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 16310 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 16303 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 16297 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 16290 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 16283 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 16276 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 16269 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 16263 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 16256 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 16249 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 16242 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 16236 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 16229 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 4096 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n1: 4096 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n1: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108BB5: main (main_test_bst.c:30)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=95
+#-----------
+time=1704534368
+mem_heap_B=85303
+mem_heap_extra_B=83857
+mem_stacks_B=0
+heap_tree=peak
+n4: 85303 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 60144 0x108D6A: create_node (tree_word.c:15)
+  n2: 60144 0x109189: insert_bst (tree_word.c:130)
+   n2: 60120 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 60096 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 60072 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 60048 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 60024 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 60000 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 59976 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 59952 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 59928 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 59904 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 59880 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 59856 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 59832 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 59808 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 59784 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 59760 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 59736 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 59712 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 59688 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 59664 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 59640 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 59616 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 59592 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 59568 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 59544 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 59520 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 59496 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 59472 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 24 in 1 place, below massif's threshold (1.00%)
+                             n0: 24 in 1 place, below massif's threshold (1.00%)
+                            n0: 24 in 1 place, below massif's threshold (1.00%)
+                           n0: 24 in 1 place, below massif's threshold (1.00%)
+                          n0: 24 in 1 place, below massif's threshold (1.00%)
+                         n0: 24 in 1 place, below massif's threshold (1.00%)
+                        n0: 24 in 1 place, below massif's threshold (1.00%)
+                       n0: 24 in 1 place, below massif's threshold (1.00%)
+                      n0: 24 in 1 place, below massif's threshold (1.00%)
+                     n0: 24 in 1 place, below massif's threshold (1.00%)
+                    n0: 24 in 1 place, below massif's threshold (1.00%)
+                   n0: 24 in 1 place, below massif's threshold (1.00%)
+                  n0: 24 in 1 place, below massif's threshold (1.00%)
+                 n0: 24 in 1 place, below massif's threshold (1.00%)
+                n0: 24 in 1 place, below massif's threshold (1.00%)
+               n0: 24 in 1 place, below massif's threshold (1.00%)
+              n0: 24 in 1 place, below massif's threshold (1.00%)
+             n0: 24 in 1 place, below massif's threshold (1.00%)
+            n0: 24 in 1 place, below massif's threshold (1.00%)
+           n0: 24 in 1 place, below massif's threshold (1.00%)
+          n0: 24 in 1 place, below massif's threshold (1.00%)
+         n0: 24 in 1 place, below massif's threshold (1.00%)
+        n0: 24 in 1 place, below massif's threshold (1.00%)
+       n0: 24 in 1 place, below massif's threshold (1.00%)
+      n0: 24 in 1 place, below massif's threshold (1.00%)
+     n0: 24 in 1 place, below massif's threshold (1.00%)
+    n0: 24 in 1 place, below massif's threshold (1.00%)
+   n0: 24 in 1 place, below massif's threshold (1.00%)
+ n1: 16415 0x108D9E: create_node (tree_word.c:18)
+  n2: 16415 0x109189: insert_bst (tree_word.c:130)
+   n2: 16408 0x1091DE: insert_bst (tree_word.c:136)
+    n2: 16402 0x1091DE: insert_bst (tree_word.c:136)
+     n2: 16395 0x1091DE: insert_bst (tree_word.c:136)
+      n2: 16388 0x1091DE: insert_bst (tree_word.c:136)
+       n2: 16381 0x1091DE: insert_bst (tree_word.c:136)
+        n2: 16375 0x1091DE: insert_bst (tree_word.c:136)
+         n2: 16369 0x1091DE: insert_bst (tree_word.c:136)
+          n2: 16362 0x1091DE: insert_bst (tree_word.c:136)
+           n2: 16356 0x1091DE: insert_bst (tree_word.c:136)
+            n2: 16350 0x1091DE: insert_bst (tree_word.c:136)
+             n2: 16343 0x1091DE: insert_bst (tree_word.c:136)
+              n2: 16336 0x1091DE: insert_bst (tree_word.c:136)
+               n2: 16330 0x1091DE: insert_bst (tree_word.c:136)
+                n2: 16323 0x1091DE: insert_bst (tree_word.c:136)
+                 n2: 16317 0x1091DE: insert_bst (tree_word.c:136)
+                  n2: 16310 0x1091DE: insert_bst (tree_word.c:136)
+                   n2: 16303 0x1091DE: insert_bst (tree_word.c:136)
+                    n2: 16297 0x1091DE: insert_bst (tree_word.c:136)
+                     n2: 16290 0x1091DE: insert_bst (tree_word.c:136)
+                      n2: 16283 0x1091DE: insert_bst (tree_word.c:136)
+                       n2: 16276 0x1091DE: insert_bst (tree_word.c:136)
+                        n2: 16269 0x1091DE: insert_bst (tree_word.c:136)
+                         n2: 16263 0x1091DE: insert_bst (tree_word.c:136)
+                          n2: 16256 0x1091DE: insert_bst (tree_word.c:136)
+                           n2: 16249 0x1091DE: insert_bst (tree_word.c:136)
+                            n2: 16242 0x1091DE: insert_bst (tree_word.c:136)
+                             n2: 16236 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 16229 0x1091DE: insert_bst (tree_word.c:136)
+                              n0: 7 in 1 place, below massif's threshold (1.00%)
+                             n0: 6 in 1 place, below massif's threshold (1.00%)
+                            n0: 7 in 1 place, below massif's threshold (1.00%)
+                           n0: 7 in 1 place, below massif's threshold (1.00%)
+                          n0: 7 in 1 place, below massif's threshold (1.00%)
+                         n0: 6 in 1 place, below massif's threshold (1.00%)
+                        n0: 7 in 1 place, below massif's threshold (1.00%)
+                       n0: 7 in 1 place, below massif's threshold (1.00%)
+                      n0: 7 in 1 place, below massif's threshold (1.00%)
+                     n0: 7 in 1 place, below massif's threshold (1.00%)
+                    n0: 6 in 1 place, below massif's threshold (1.00%)
+                   n0: 7 in 1 place, below massif's threshold (1.00%)
+                  n0: 7 in 1 place, below massif's threshold (1.00%)
+                 n0: 6 in 1 place, below massif's threshold (1.00%)
+                n0: 7 in 1 place, below massif's threshold (1.00%)
+               n0: 6 in 1 place, below massif's threshold (1.00%)
+              n0: 7 in 1 place, below massif's threshold (1.00%)
+             n0: 7 in 1 place, below massif's threshold (1.00%)
+            n0: 6 in 1 place, below massif's threshold (1.00%)
+           n0: 6 in 1 place, below massif's threshold (1.00%)
+          n0: 7 in 1 place, below massif's threshold (1.00%)
+         n0: 6 in 1 place, below massif's threshold (1.00%)
+        n0: 6 in 1 place, below massif's threshold (1.00%)
+       n0: 7 in 1 place, below massif's threshold (1.00%)
+      n0: 7 in 1 place, below massif's threshold (1.00%)
+     n0: 7 in 1 place, below massif's threshold (1.00%)
+    n0: 6 in 1 place, below massif's threshold (1.00%)
+   n0: 7 in 1 place, below massif's threshold (1.00%)
+ n1: 8192 0x4EB11FA: _IO_file_doallocate (filedoalloc.c:101)
+  n2: 8192 0x4EC13E7: _IO_doallocbuf (genops.c:365)
+   n1: 4096 0x4EC02C2: _IO_file_underflow@@GLIBC_2.2.5 (fileops.c:495)
+    n1: 4096 0x4EC1460: _IO_default_uflow (genops.c:380)
+     n1: 4096 0x4EB2ED0: _IO_getline (iogetline.c:60)
+      n2: 4096 0x4EB1C3B: fgets (iofgets.c:53)
+       n0: 4096 0x108CA2: main (main_test_bst.c:47)
+       n0: 0 in 1 place, below massif's threshold (1.00%)
+   n1: 4096 0x4EC0506: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:759)
+    n1: 4096 0x4EBEA5B: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1266)
+     n1: 4096 0x4E90079: vfprintf (vfprintf.c:1643)
+      n1: 4096 0x4E97FA4: printf (printf.c:33)
+       n0: 4096 0x108C86: main (main_test_bst.c:52)
+ n0: 552 in 1 place, below massif's threshold (1.00%)
